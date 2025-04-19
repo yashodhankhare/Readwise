@@ -1,3 +1,3 @@
-# Readwise Explorer
+# Readwise Explorer (Flat)
 
-Minimal Next.js app using `/pages/index.tsx`. Ready for Vercel.
+Deploy-ready for Vercel. Place contents directly in your repo root.
