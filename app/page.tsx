@@ -3,10 +3,12 @@
 import { highlights } from "../data/highlights";
 
 
+
+
 // 👋 Trigger redeploy for latest homepage
 
 
-
+const highlights = [
   {
     quote: "You don't have to be sure to make a good decision. You just need a good process.",
     author: "Annie Duke",
