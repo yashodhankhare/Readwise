@@ -1,5 +1,8 @@
 
 
+import { highlights } from "../data/highlights";
+
+
 // 👋 Trigger redeploy for latest homepage
 
 
