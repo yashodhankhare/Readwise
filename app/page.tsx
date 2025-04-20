@@ -9,7 +9,7 @@ export default function Home() {
       <h1>📚 Readwise Explorer</h1>
       {highlights.slice(0, 50).map((highlight, index) => (
   <div key={index} className="mb-6 p-4 border rounded-lg shadow-sm">
-    <p className="text-lg font-medium">"{highlight.quote}"</p>
+    <p className="text-lg font-medium">&quot;{highlight.quote}&quot;</p>
     <p className="text-sm text-gray-500 mt-2">— {highlight.author}, <em>{highlight.book}</em></p>
     <div className="mt-2 flex flex-wrap gap-2">
       {highlight.tags.map((tag, i) => (
