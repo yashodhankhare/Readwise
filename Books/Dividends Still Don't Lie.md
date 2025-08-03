@@ -1,0 +1,710 @@
+---
+tags:
+  - readwise
+---
+
+# Dividends Still Don't Lie
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/5137%2BNrYIVL._SL200_.jpg)
+
+## Metadata
+- Author: [[Kelley Wright]]
+- Full Title: Dividends Still Don't Lie
+- Category: #books
+
+## Highlights
+- It is with a great deal of pleasure that I introduce Kelley Wright’s new book about the dividend-yield approach to lifelong growth of capital and income ([Location 174](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=174))
+    - Tags: [[pink]] 
+- in the stock market. This investment concept first was published in 1966 in what then was a new investment advisory service, Investment Quality Trends. Forty-three years and three books later, the service is still helping investors master the stock market by investing in high quality, dividend paying, blue chip stocks. It helps them know when stocks are undervalued, when they can be bought, and overvalued, when they should be sold. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=175))
+    - Tags: [[pink]] 
+- The importance of dividends in determining value in the stock market cannot be overstated. The main reason investors are willing to risk their capital in anything is to get a return on their investment. In the real estate market, that return is rent. In the money market, it is interest. And in the stock market, it is a cash dividend. Folks who ignore the… ([Location 179](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=179))
+    - Tags: [[pink]] 
+- Speculators hope that the price of a stock will go up and reward them with profits. Investors know that stocks that pay dividends go up too. Meanwhile, they are getting a return on their capital. They believe the old adage: A bird in the hand is worth two in the bush. The legendary Charles Dow has written, “To know values is to know the meaning of the… ([Location 182](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=182))
+    - Tags: [[pink]] 
+- It is undeniable that many stock market investors are attracted to companies that pay dividends. Unconsciously, investors have established profiles of value for each dividend-paying stock based on historic extremes of high and low dividend yield. Those extremes of yield provide profitable buying and selling areas. A stock is undervalued when the… ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=186))
+    - Tags: [[pink]] 
+- historically low. Let us examine how and why dividends create value in the stock market. When the price of a stock declines far enough to produce a high dividend yield, value-minded investors who seek income begin to buy. The further the price falls, the higher the yield becomes and the more investors are drawn to the stock. Eventually the stock becomes irresistibly… ([Location 189](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=189))
+    - Tags: [[pink]] 
+- The higher the price rises, the lower the dividend yield becomes and fewer investors are attracted to the stock. Meanwhile, investors who purchased the stock at lower levels are inclined to sell and take their profits. Eventually the price becomes so high and the dividend yield is so low, sellers outnumber buyers and the price of the stock begins to decline. A declining… ([Location 193](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=193))
+    - Tags: [[pink]] 
+- who step in and reverse the trend. At undervalue, the price/yield cycle reestablishes itself and the journey from undervalue to overvalue starts all over again. It should be noted that each dividend-paying stock etches its own individual profile of value. These profiles of high and low dividend yield are established over long periods of time. There is… ([Location 197](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=197))
+    - Tags: [[pink]] 
+- Some, when the yield is 5.0 percent. Some will decline to yield as much as 6.0 percent or even 7.0 percent before they are historically undervalued. Some growth stocks are undervalued when the dividend yield is as low as 2.0 percent or 3.0 percent. The yields at overvalue are similarly distinctive and individual. Therefore each stock must be studied and evaluated according to its… ([Location 200](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=200))
+    - Tags: [[pink]] 
+- Now, here is the best part. Every time a dividend is increased, the prices at undervalue and overvalue move higher to reflect the historically established high and low dividend yields. Therefore, a company that has a long history of consistent dividend increases is most desirable. It promises steady growth of capital as well as continuous growth of dividend… ([Location 204](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=204))
+    - Tags: [[pink]] 
+- targets at undervalue and overvalue. Dividends are the most reliable measures of value in the stock market. Earnings are figures on a balance sheet that can be manipulated for income tax purposes. Earnings can be the product of a clever account’s imagination. Who knows what secrets lie in the footnotes of an earnings report? Dividends, however, are real… ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=207))
+    - Tags: [[pink]] 
+- about a cash dividend. It is either paid or it is not paid. When a dividend is declared, you know that the company is in the black. And when a company increases its dividend, you don’t have to read a balance sheet to know that the company has made profitable progress. In short, dividends don’t lie. But nothing is perfect in the stock market. There is… ([Location 210](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=210))
+    - Tags: [[pink]] 
+- signal that the dividend is in danger of being reduced. When a dividend is lowered, the prices at undervalue and overvalue also are lowered and a price that previously was undervalued no longer represents good value. Therefore, it is critical to make sure that the indicated dividend is adequately covered by earnings. One way to provide a measure of safety… ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=214))
+    - Tags: [[pink]] 
+- histories of unbroken dividend payouts and attractive records of earnings and dividend growth. The companies should have reasonably low levels of debt. The stocks should have relatively low price/ earnings ratios. Such stocks have been carefully researched and are listed in this book. The dividend-yield approach to value in the stock market can be… ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=217))
+    - Tags: [[pink]] 
+- high quality, blue chip stocks. The companies reviewed in this book and listed in the Investment Quality Trends advisory service have long dividend histories and well-etched profiles of undervalue and overvalue. Most of them carry a Standard & Poor’s Quality Rank of A+, A, or A-. They are, in fact, true blue chips. On a personal note, I am very proud… ([Location 221](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=221))
+    - Tags: [[pink]] 
+- 1966, it has helped many investors achieve financial security. It has given investors a sensible method to grow their capital and income and provide for their retirement years. From 1966 to 2002, I was the editor and publisher of Investment Quality Trends. Now I am retired and enjoying the fruits of my labor and investments. Kelley Wright is continuing to guide… ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=224))
+    - Tags: [[pink]] 
+- that dividends still don’t lie. Best wishes for your investment success… ([Location 228](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=228))
+    - Tags: [[pink]] 
+- “Life is the best teacher, boy.” This was my grandfather’s way of saying that the best education is experiential. I am confident he arrived at ([Location 253](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=253))
+    - Tags: [[pink]] 
+- this knowledge honestly; I know that I did. ([Location 254](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=254))
+    - Tags: [[pink]] 
+- In fact, the two greatest assets an investor can have are a system to identify quality and the ability to recognize value. ([Location 267](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=267))
+    - Tags: [[pink]] 
+- it is still fashionable in some circles to simply dismiss the dividend-value strategy as an offshoot of the buy-and-hold philosophy. In the simplest of terms, buy-and-hold is making an investment with no ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=270))
+    - Tags: [[pink]] 
+- intention of ever selling and expecting financial gains into perpetuity. If detractors of the dividend-value strategy had actually taken the time to objectively study its concepts, they would find a clearly defined selling discipline based on repetitive dividend yield patterns; just one of several critical dimensions that are clearly absent in the buy-and-hold philosophy. Putting this and other fallacies to rest is one of the primary purposes of writing Dividends Still Don’t Lie. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=272))
+    - Tags: [[pink]] 
+- We believe the twin pillars of quality and value provide an investment foundation that takes much of the risk and anxiety out of investing in the stock market. We further believe that protecting principal while realizing a tangible return on investment from dividends makes perfect common sense, yet both are routinely dismissed as archaic. ([Location 276](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=276))
+    - Tags: [[pink]] 
+- Although advances in technology provide investors access to more data and information than at any point in history, human nature has remained relatively unchanged ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=285))
+    - Tags: [[pink]] 
+- since the Garden of Eden. This is to say that having more data and information has not cured the human propensity for being easily seduced by myths and misinformation, which results in missed opportunities and valuable compounding time. Investing is a business and should be treated as such. ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=286))
+    - Tags: [[pink]] 
+- This book is a short read by design. The game plan outlined here is based on the fact that a stock’s underlying value is in its dividends, not in its earnings or in its prospects for capital gains. More than four decades of research have shown that blue-chip companies, those with long records of consistent, competent performance, are far ([Location 290](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=290))
+    - Tags: [[pink]] 
+- more predictable than are upstarts or less-established companies with erratic records of earnings and dividend payments. In short, the dividend-value strategy is a proven, commonsense approach that has ultimately led to long-term results. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=293))
+    - Tags: [[pink]] 
+- Most investors don’t lose money in ([Location 299](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=299))
+    - Tags: [[pink]] 
+- the markets because they’re stupid; they lose money because they haven’t put in the time and do not understand risk. If you can learn to think through your actions before you take them, you are well on your way to reaching your financial goals. Lastly, investing is as much about perception and perspective as it is methods and technique. If your gut reaction to an event or situation is that something isn’t right, for gosh sakes pay attention to it! “Opportunity,” ([Location 300](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=300))
+    - Tags: [[pink]] 
+- Your long-term challenge then will be to balance your cash flow between your current cash needs and your need to accumulate cash for the future. Your level of success in this endeavor can be positively impacted by a modicum of financial planning. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=326))
+    - Tags: [[pink]] 
+- Regardless of the myriad factors to consider, don’t just stick your head in the sand and hope for the best; hope is not a strategy for success. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=345))
+    - Tags: [[pink]] 
+- At the end of the day, successful investing is realized by three activities: know the end goal(s) of why you are investing; use an investment approach that makes sense to you and can generate returns sufficient to meet your goals; and, keep an eye on taxes and expenses. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=365))
+    - Tags: [[pink]] 
+- It is ironic that, in the Information Age, the average investor suffers from information deprivation. On a certain level this seems absurd, considering the number of investment newsletters, magazines, and periodicals in ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=375))
+    - Tags: [[pink]] 
+- publication; the financial shows with which the radio waves are congested;, and the content of cable television, offering more content around the clock than anyone can possibly assimilate. Well, yes, all of these sources are readily available. But so what? The answer lies not in how much information is available but in how much is important. The investing public doesn’t suffer from a lack of information; they suffer from a lack of relevant information. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=376))
+    - Tags: [[pink]] 
+- As the editor of an investment newsletter I don’t wish to come off as self-serving or hypocritical, but there are two critical elements to understand about this point: content and purpose. At Investment Quality ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=382))
+    - Tags: [[pink]] 
+- Trends we produce all of our content internally for the purpose of helping the subscriber to make well-informed investment decisions. At inception we decided that to remain independent and completely objective we would accept no outside advertising. Therefore, our revenues are based solely on subscriptions. That fact necessitates that our content must fulfill subscribers’ needs for information that results in good investment decisions and profits, which results in continued subscriptions. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=384))
+    - Tags: [[pink]] 
+- By comparison, much of the mainstream financial media is big business beholden to shareholders who expect its company to generate big revenues. Like all publicly traded companies, the sole function is to generate a profit, just like any other business in America. The means by which big media produces its profits is by advertising revenues. Advertising revenues are based on the number of people—the audience—that medium reaches. To encourage people to read, listen to, or view their medium, they have to create ([Location 388](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=388))
+    - Tags: [[pink]] 
+- interest and grab the audience’s attention. Unfortunately, the means by which the audience’s interest is grabbed isn’t necessarily useful information. And, when questionable information is distributed by sources that are thought to be highly knowledgeable and dependable, it only compounds the problem. On the other hand the information that will work for the audience isn’t always commercially attractive or appealing. So, in wanting to be entertained, much of the ([Location 391](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=391))
+    - Tags: [[pink]] 
+- investing public gravitates toward information that is the equivalent of nutritionally empty fast food, and then they wonder why they are suffering from malnutrition. The tragedy is that with vast exposure comes the mantle of credibility, which, unfortunately, often fails to result in any meaningful, long-term success. It is unconscionable that important investing information can be displaced by ridiculous though entertaining discussions that are simply useless and can distract you from the basic purpose of investing: ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=395))
+    - Tags: [[pink]] 
+- generating sufficient cash to meet your or someone else’s current and future cash needs while limiting risk. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=399))
+    - Tags: [[pink]] 
+- This is not an indictment of any individual but of the culture, which is sales and transaction oriented, not performance oriented. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=409))
+    - Tags: [[pink]] 
+- The strategy behind our approach, the dividend-value strategy, is based on the Dividend-Yield Theory, ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=422))
+    - Tags: [[pink]] 
+- Obviously price is important, but price on its own, without some substantive context, is meaningless. Beyond price then, an investor must have a proven method to establish whether the price of a company under investment consideration offers sufficient return potential to justify taking a risk with his investment capital. According to the Dividend-Yield Theory, the price of a stock is driven by its yield. We delve into this concept deeper in following chapters, but in the simplest of terms, a stock is most attractive when it offers a ([Location 426](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=426))
+    - Tags: [[pink]] 
+- high dividend yield. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=430))
+    - Tags: [[pink]] 
+- So rather than emphasize price alone or a company’s sector, products, or other analytical factors, the dividend-value strategy uses dividend-yield patterns to make buying and selling decisions. By understanding the historical dividend yield pattern of a company, the investor is better informed about whether the stock offers much value, little value, or somewhere in between. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=435))
+    - Tags: [[pink]] 
+- The biggest mistake investors make is committing hard-earned money to investments, with absolutely no idea of why they are making those investments. Some of you are no doubt saying to yourself, “This guy must be thick. People invest to make ([Location 450](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=450))
+    - Tags: [[pink]] 
+- money!” Let’s agree among ourselves that that is a given. Now let’s drill down to the heart of the issue: Money for what; money for whom; and, money for when? ([Location 451](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=451))
+    - Tags: [[pink]] 
+- These questions are important; the answers are critical to your success. Simply plunging half-cocked into the markets with only a nebulous concept of making as much money as possible is an invitation to ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=454))
+    - Tags: [[pink]] 
+- disaster. Minimally, you need to know two things: how much and when. Knowing how much you will need and when you will need it will allow you to devise a strategy, not just any strategy but a personal strategy to meet your specific individual needs. Trust me, without this base level of understanding you will do one of two things: shoot for the moon by assuming more risk than necessary to reach your goals and objectives; or play it too close to the vest and fall short of your goals and objectives. When it comes to needs, ([Location 455](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=455))
+    - Tags: [[pink]] 
+- there is no one-size-fits-all. Every investor is an individual with unique needs and objectives. You may have more than one objective; you may even have to prioritize among competing objectives such as education, retirement, big-ticket purchases, or even possible elder or special needs care. These objectives could be near term, long term, or a combination of the two. Your objectives may also need to be approached separately because there may be different factors to consider. If you can clearly answer these questions you ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=459))
+    - Tags: [[pink]] 
+- will be in a much stronger position to meet your needs. Once you have the end in mind there is only one thing you need to understand about investing: The sole purpose of investing is to grow your capital and income base to meet a current or future cash need. If you believe you might not meet your cash goals and objectives you will panic and take unnecessary risks, which generally result in loss and disappointment. So in simple terms, investing is about meeting needs, not hitting the lottery. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=463))
+    - Tags: [[pink]] 
+- For most investors the majority of their investments will be made in the three primary asset classes: stocks, fixed-income (bonds), and cash or cash equivalents. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=469))
+    - Tags: [[pink]] 
+- When distilled down to the most basic level, however, there are two primary choices for investment capital: to loan or to own. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=481))
+    - Tags: [[pink]] 
+- The asset allocation decision (the percentage of capital allocated to stocks, bonds, and cash in a portfolio) is one of the basic yet most often confusing decisions an investor must make. Generally, the role of stocks is to provide long-term total returns (a combination of price appreciation and dividends). The role of bonds is to provide an income stream. ([Location 488](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=488))
+    - Tags: [[pink]] 
+- Dividend Truth Stocks are the best investment for the investor who: • Desires growth of capital and income • Ignores the “noise” of the markets • Recognizes and ([Location 539](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=539))
+    - Tags: [[pink]] 
+- appreciates good value • Has the courage to buy at undervalue • Has the patience to hold until the value is fully recognized • Has the wisdom to sell at overvalue ([Location 542](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=542))
+    - Tags: [[pink]] 
+- The IQ Trends dividend-value strategy adds another component to the concept of total return, namely, dividend growth. Capital gains + dividend yield + dividend growth = real total return ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=545))
+    - Tags: [[pink]] 
+- Although fixed-income investments offer a fixed return, it is only in a declining interest rate environment that fixed-income investments offer the potential for capital gains. Growth of dividends, however, is only achievable in the stock market. In later chapters we delve deeper into the importance of dividends and dividend growth to stock prices, but for ([Location 549](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=549))
+    - Tags: [[pink]] 
+- now, know that only in the stock market can you achieve real total return. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=552))
+    - Tags: [[pink]] 
+- When considering rates of returns, it is important to understand the difference between nominal returns and real returns. What you make is the nominal return; what you keep is the “real” or after-inflation return. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=562))
+    - Tags: [[pink]] 
+- The common trap when ([Location 576](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=576))
+    - Tags: [[pink]] 
+- looking at the past, however, is to cherry-pick the data that supports the thesis. Indeed, there is an entire body of investment theory that is based on torturing the data until it confesses; I won’t be a party to that and you deserve better. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=576))
+    - Tags: [[pink]] 
+- That is a pretty high batting average, which almost begs the question of what happened in the two periods when stocks underperformed bonds. For the period beginning in 1929 the answer is fairly simple—the ([Location 583](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=583))
+    - Tags: [[pink]] 
+- Great Crash of 1929. By the time it ended in 1932, stocks had declined by almost 90 percent. It takes a while to dig out of a hole that deep. For the 20-year period beginning in 1989 the story is a little different. Instead of stock prices declining at the beginning of the period, as in 1929-1932, the declines came at the end of the period: 2000-2002 and October 2007 through the end of 2008. Per the norm, analysts and economists disagree about the reasons for the declines in ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=584))
+    - Tags: [[pink]] 
+- these two periods. In the final analysis, the only opinion that matters is that of the investors who did the buying and selling. In both periods, however, there is a strong argument that valuations were excessive. From 1926 through 1928 stocks increased by 120.40 percent on a nominal basis, a simple average annual return of 40 percent per year. From 1989-1999 stocks increased by 221.40 percent on a nominal basis, a… ([Location 589](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=589))
+    - Tags: [[pink]] 
+- ordinary—to average that for 11 consecutive years, however, is extraordinary. We deal with values and valuations thoroughly in later chapters, but there was some commonality in the two periods. The dividend-yield for the Dow Jones Industrial Average was at historically repetitive areas of overvalue. Understanding the connection between dividend-yield and values will… ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=592))
+    - Tags: [[pink]] 
+- That bonds outperformed in these two periods is also easy to understand; both were periods of declining interest rates, when bonds tend to enjoy price premiums. With current bond yields at or near historic lows and stocks having corrected significantly, you have to consider which asset class offers the greater potential moving forward. If 20 years strikes you as too long a period, Figure 2.2 shows that… ([Location 598](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=598))
+    - Tags: [[pink]] 
+- (20-year government bonds) in 64 periods or 86 percent of the time. What is immediately apparent is that, when the holding period decreases (20 years to 10 years) the percentage of time that stocks outperformed bonds also decreases, which lends support to the argument that the longer the holding period the greater probability stocks will outperform bonds. Once again, 86 percent is a pretty high batting… ([Location 603](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=603))
+    - Tags: [[pink]] 
+- stocks underperformed bonds? The first four 10-year rolling periods were the ones that ended in 1937, 1938, 1939 and 1940. Obviously these periods were impacted by the Great Crash. The next three 10-year rolling periods are also interrelated: 1974, 1977 and 1978. These three rolling periods encompassed much of the bear market that ran from 1966 through year-end 1974. In 2000 one of the longest bull… ([Location 607](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=607))
+    - Tags: [[pink]] 
+- between 2000 and year-end 2002 were so severe that the 10-year rolling period ending in 2002 became the eighth 10-year rolling period of 10 where stocks underperformed bonds. The last two rolling 10-year periods should come as no surprise: 2007 and 2008. As the bear sank his teeth into the markets much of… ([Location 611](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=611))
+    - Tags: [[pink]] 
+- What should be obvious at this point is that any period when a bear market is in force necessarily results in a period of under-performance for stocks. As noted previously, much of this can be avoided through an understanding of values and valuations. The final segments of returns we will review are shown in Figure 2.3 and review the 79 rolling 5-year periods from 1926- 2008. Stocks (the S&P 500)… ([Location 617](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=617))
+    - Tags: [[pink]] 
+- again we see that when the holding period decreases (10 years to 5 years) the percentage of time that stocks outperformed bonds also decreases. Although the percentage of periods when stocks outperformed bonds decreases when the number of years in the holding period decreases, 73 percent is still a relatively high number. As we found with the returns for the rolling holding periods for 10 and 20 years, the returns for the 5-… ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=621))
+    - Tags: [[pink]] 
+- bear market. Knowing investor psychology the way I do, some of you are undoubtedly thinking “73.41 percent is darn near three out of four; those are odds I can live with. Maybe five years is a sufficient holding period for stocks.” Ultimately you will have to make that call. Before you do, though, consider this: On a real return basis, stocks have had four calendar year losses… ([Location 625](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=625))
+    - Tags: [[pink]] 
+- the calendar year preceding each also recorded losses. In these two instances the consecutive calendar year losses totaled over 50 percent. There’s simply no way to put lipstick on that pig. If two of the five years in your investment time horizon is that one out of four when stocks go south, you aren’t going to think three out of four is so great. As I suggested previously, where the rubber really meets the road for… ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=629))
+    - Tags: [[pink]] 
+- rolling holding periods after adjusting… ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=633))
+    - Tags: [[pink]] 
+- The difference between success and failure in the stock market ultimately comes down to three things: knowledge, strategy, and tactics. When you understand the ([Location 675](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=675))
+    - Tags: [[pink]] 
+- differences between stocks and bonds, the advantages and disadvantages, the risks and rewards, that is knowledge. With knowledge you can devise a plan of attack, which is a strategy. Confident in your knowledge and with a proven strategy at the ready, you are prepared to initiate the procedures to implement your strategy. Those are tactics. ([Location 677](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=677))
+    - Tags: [[pink]] 
+- If you don’t know where you are going, any road will get you there. —Lewis Carroll ([Location 683](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=683))
+    - Tags: [[pink]] 
+- No matter your level of intelligence, success in the stock market can be elusive and transitory. Over the course of my career I have met many people who were flat out brilliant in their field of endeavor, yet who were completely hapless when it came to investing in the stock market. In many cases, these brilliant people, who in the rest of their life have experienced nothing but success, have chosen to throw in the towel and just give up, which was unfortunate and entirely unnecessary. ([Location 693](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=693))
+    - Tags: [[pink]] 
+- What few investors understand is that the stock market is the grandest of competitions, the game of all games, played out on a global scale. As anyone who has ever competed on any level knows, every game has its rules! In the stock market, as in any other competitive situation, the best players—the winners—are those who have knowledge and a strategy. Winning, not surprisingly, is much easier with the right strategy. ([Location 697](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=697))
+    - Tags: [[pink]] 
+- A dividend is the portion of a company’s earnings that is distributed to its owners, the shareholders. The dividend is most often quoted in terms of the dollar amount each share receives (dividends per share). It can also be quoted in terms of a ([Location 731](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=731))
+    - Tags: [[pink]] 
+- percent of the current market price, referred to as dividend yield. Dividends are most often paid in cash or additional shares of stock, though they could be paid in scrip, company products, or property. The board of directors decides on the form and amount; ordinarily, dividends are paid quarterly. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=732))
+    - Tags: [[pink]] 
+- Traditionally there are three fundamental measurements of value: price-to-earnings ratio (P/E), price-to-book ratio (PB), and dividend yield. What is immediately apparent with the two ratios is that they are centered on price. Price, without substantive context, is meaningless. Of the three ([Location 747](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=747))
+    - Tags: [[pink]] 
+- measures, the dividend yield is the only one related to an actual return on investment—the dividend payment. So beyond the value of the income to the investor, dividends provide tangible evidence that the company is actually making money, which is something that an earnings statement or book values cannot prove. ([Location 749](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=749))
+    - Tags: [[pink]] 
+- Dividend Truth The three fundamental measures of value are: 1. Dividend yield 2. Price/earnings ratio… ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=753))
+    - Tags: [[pink]] 
+- Quality of Earnings Earnings are the lifeblood of every… ([Location 756](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=756))
+    - Tags: [[pink]] 
+- reason the company exists—to generate a profit. With earnings, however, what is real and what is reported can be two entirely different things. That is, a corporate earnings statement can be a labyrinth to navigate through, with its seemingly endless collection of footnotes, exceptions, and variables. In simple terms, earnings can be sliced and diced to the point where they are often unintelligible. Why is this? To… ([Location 757](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=757))
+    - Tags: [[pink]] 
+- change in company leadership, for example, can lead to asset sales or a string of acquisitions. All these things must be duly noted; however, a recurring pattern of revisions and restatements might be indicative of less than forthright reporting. That earnings can be manipulated is not in question; it happens frequently to varying degrees for varying reasons. To some this may appear cynical,… ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=761))
+    - Tags: [[pink]] 
+- Rising Dividends Boost Share Price With the preceding text as a frame of reference, we see why dividend-yield trends are a more predictive indicator for stock price appreciation/depreciation. When a dividend is increased, the price of a stock (which generally represents current value) typically rises to reflect… ([Location 765](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=765))
+    - Tags: [[pink]] 
+- the stock price typically declines to reflect reduced investment value and expectations for further reductions in earnings, not to mention the loss of anticipated income to the investor. The only variable in this equation is the amount of time for the market to… ([Location 768](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=768))
+    - Tags: [[pink]] 
+- When a company has a long-term track record for consistent and rising dividend payments, there is simply no better indicator about the state of the company’s financial health.… ([Location 773](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=773))
+    - Tags: [[pink]] 
+- or it doesn’t. Dividends prove the company is making money; you can’t pay what you don’t have. So instead of trying to determine profitability by studying a company’s earnings, study its dividend history. At the end of the day dividends are the surest confirmation of a company’s… ([Location 775](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=775))
+    - Tags: [[pink]] 
+- Now let’s take this a step further. If you stop and think about it, there is really only one reason a company’s management and board of directors votes for a dividend increase—higher earnings or the reasonable expectation for higher earnings. Once again, the only variable is the amount of time it takes for the market to realize the increased value to the stock because of the… ([Location 778](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=778))
+    - Tags: [[pink]] 
+- Dividend Truth The reasoning behind real total return is a long-term investment concept that will not appeal to short-term traders. It deals with averages—an average dividend yield, average dividend growth, and average annual price appreciation. ([Location 821](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=821))
+    - Tags: [[pink]] 
+- To be fair, we cannot be sure that dividends will rise in each and every year. We cannot be sure when and to what extent ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=824))
+    - Tags: [[pink]] 
+- stock prices will rise. Indeed, since October 2007 the markets have been undergoing the corrective process known as a bear market. However, if stocks are purchased at historically undervalued price levels, and if those stocks have a long, uninterrupted history of dividend payments and of frequent dividend increases, then over a period of years the real total return on that investment is likely to outperform the total return on any other kind of investment. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=825))
+    - Tags: [[pink]] 
+- Although the dividend-value strategy can be implemented with any company paying dividends long enough to establish a pattern, the chances for success are greater with blue-chip stocks. Forty-four years of market research show that the dividend-value strategy, when implemented through high-quality stocks with long track records for consistent dividend increases, provides a powerful tool for building wealth. In the end, it is the building of wealth, both ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=831))
+    - Tags: [[pink]] 
+- capital and income to meet the present and future cash needs of the investor, that is most important. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=834))
+    - Tags: [[pink]] 
+- Figure 3.2 illustrates the concept of the Dividend-Yield Theory and its practical application through the dividend-value strategy in generic terms. The simple premise is that a decision to buy or sell a stock at a certain price is tied to the underlying value of its dividends as expressed by the dividend yield. ([Location 836](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=836))
+    - Tags: [[pink]] 
+- So without a way to measure value, high and low are nothing but nebulous concepts. ([Location 841](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=841))
+    - Tags: [[whorf sapir]] 
+- • Minimize downside risk in the stock market • Maximize upside potential for capital gains • Maximize growth of dividend income, which allows investors to keep pace with inflation ([Location 848](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=848))
+    - Tags: [[pink]] 
+- Dividend Truth As a general rule, a stock is overvalued when it has a relatively high price and a low dividend yield. It is undervalued when it has a relatively low price and a high dividend yield. ([Location 852](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=852))
+    - Tags: [[pink]] 
+- Dividend Truth To get the most benefit from the dividend-yield philosophy and adapt it to any stock market “mechanisms and climate” requires the mastering of several illuminating concepts. An investor must • Confirm the value of a stock • Identify quality • Grasp the ([Location 869](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=869))
+    - Tags: [[pink]] 
+- significance of cycles ([Location 873](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=873))
+    - Tags: [[pink]] 
+- Dividends Still Don’t Lie A lot of water has passed beneath the bridge since Geraldine Weiss first wrote Dividends Don’t Lie in 1988. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=874))
+    - Tags: [[pink]] 
+- well-managed blue chip companies with long track records of excellence and performance are not going to pay or increase a dividend unless the payout is fiscally justified and sound. For these reasons, a trend of consistently rising dividends is more indicative of a company’s health and well being than any other measure. For the investor seeking a reliable return on investment from a predictable ([Location 889](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=889))
+    - Tags: [[pink]] 
+- stream of dividends, there is an added bonus: A trend of rising dividends is also a reliable predictor for future capital growth. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=891))
+    - Tags: [[pink]] 
+- Quality and the Stock Market The extract that follows first ([Location 911](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=911))
+    - Tags: [[pink]] 
+- appeared in The Dividend Connection, Geraldine’s second book written with her son, Gregory Weiss. It is so well written there is simply no way to improve upon it. In the real estate market, quality is determined by three measures: location, location, location. Three measures can also be applied to quality in the stock market: performance, performance, performance. 1. Financial ([Location 912](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=912))
+    - Tags: [[pink]] 
+- performance is the first measure of quality. This includes the company’s record of earnings, dividends, debt-to-equity ratio, dividend payout ratio, book value, and cash flow. 2. Production performance is the second measure of quality. We look for a company that manufactures useful products or services and actively pursues research and ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=916))
+    - Tags: [[pink]] 
+- development of new products or services. The company must also demonstrate an ability to market its products or services successfully. 3. Investment performance, as reflected in long-term capital gains and dividend growth, is the third measure of quality. The most important objective of an investor is a rewarding total return. A well-managed ([Location 919](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=919))
+    - Tags: [[pink]] 
+- company with a strong financial performance will generate a total return that will outperform any other investment vehicle. These three measures of quality do not stand alone. They are intertwined in the fabric of the company and its shareholders’ goals. All of our research has shown that there is as much or more profit potential in high-quality stocks than there is in stocks of inferior or unproven quality—and with far less risk. Our method of investing in the stock market focuses exclusively on blue chip stock selection. It involves limiting investment selections to blue chip stocks and purchasing or selling those stocks based on their individual profiles of undervalue or overvalue. ([Location 922](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=922))
+    - Tags: [[pink]] 
+- Since 1966 we have used six criteria, which we call the Criteria for Select Blue Chips (our ([Location 939](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=939))
+    - Tags: [[pink]] 
+- designation for the highest-quality blue chip stocks), as a starting place for our investment considerations. When a stock has passed this filter for its qualitative characteristics, we then analyze it further to determine its historically repetitive areas of undervalued and overvalued dividend yield. ([Location 940](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=940))
+    - Tags: [[pink]] 
+- These are the six criteria: 1. The dividend has increased five times in the past 12 years. 2. S&P Quality ranks the stock in the “A” category. 3. There are at least 5,000,000 shares outstanding. 4. There are at least 80 institutional investors. 5. The company has at least 25 years of uninterrupted ([Location 944](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=944))
+    - Tags: [[pink]] 
+- dividends. 6. Earnings have improved in at least seven of the last 12 years. ([Location 949](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=949))
+    - Tags: [[pink]] 
+- At first glance these six criteria appear relatively simple, which they are; no rocket science here. When combined into one fundamental filter however, it effectively eliminates approximately 98 percent of the domestic publicly traded universe of stocks. To put that into further perspective, of the roughly 15,000 ([Location 950](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=950))
+    - Tags: [[pink]] 
+- publicly traded companies in the U.S. markets, only 350 companies meet this criteria, and of those 350 we can establish clear-cut dividend-yield profiles for only 273 companies ([Location 953](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=953))
+    - Tags: [[pink]] 
+- The Criteria for ([Location 958](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=958))
+    - Tags: [[pink]] 
+- Select Blue Chips ([Location 958](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=958))
+    - Tags: [[pink]] 
+- Most stock analysis is conducted through two central disciplines: fundamental and technical. Fundamental analysis has two main… ([Location 959](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=959))
+    - Tags: [[pink]] 
+- qualitative. Quantitative generally refers to numbers, things that can be measured—earnings, dividends, cash flow, payout, debt, and so forth. Qualitative generally refers to intangibles—characteristics that can’t necessarily be measured but nonetheless are important; for example, name recognition such as a company’s brand, management expertise, commitment to… ([Location 960](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=960))
+    - Tags: [[pink]] 
+- many to be the polar opposite of fundamental analysis. Whereas fundamental analysis involves analyzing the economic characteristics of a company in order to estimate its value, technicians are primarily interested in price movements because the fundamentals, they believe, have been fully factored into the price. Another definition would be the study of supply… ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=963))
+    - Tags: [[pink]] 
+- future. Generally, but not always, analysts tend to favor one discipline over the other. For many practitioners, there is simply no way for the two disciplines to co-exist. Our approach is based on a combination of the two disciplines, what we call a fundamental approach to technical analysis. The Criteria for Select Blue Chips is how we… ([Location 966](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=966))
+    - Tags: [[pink]] 
+- identification of the historically repetitive patterns of undervalue and overvalue areas of dividend yield, is how we identify value, or when to buy, sell, or hold. In later chapters we will discuss undervalue and overvalue in much greater detail. Before we can begin to focus on the when, however, we first have to identify the what. That is the primary… ([Location 970](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=970))
+    - Tags: [[pink]] 
+- Dividend Increases and Earnings Improvement Criteria 1 and 6 earlier both reference 12 years: dividend increases in five of the last 12 years, and earnings improvement in seven of the last 12 years. One of the most frequent questions I am asked is what is so special about 12 years? The average… ([Location 974](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=974))
+    - Tags: [[pink]] 
+- then, the economy and markets will go through three complete cycles. During that period, a company will experience the inevitable economic surprise, be it on a macro level, which affects all companies, or on a micro level, which is specific to that company, industry, or sector. There is an equally high probability for major legislative and/or tax changes that will… ([Location 978](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=978))
+    - Tags: [[pink]] 
+- consistent track record for earnings growth is not only difficult to achieve, but also to sustain over significant periods of time. For a company to meet both of these criteria, their earnings and dividends must show consistent improvement. Steady and improving earnings and dividend performance over the course of 12 years is not luck; it is evidence of… ([Location 981](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=981))
+    - Tags: [[pink]] 
+- earnings and dividend growth is quite… ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=985))
+    - Tags: [[pink]] 
+- The most reliable measure… ([Location 989](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=989))
+    - Tags: [[pink]] 
+- management is long-term performance, a proven ability to grow the net earnings of its company and maintain a rising trend of increased dividends. You work hard to save the capital you put to work in the markets. Don’t entrust it to just any company; put it… ([Location 989](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=989))
+    - Tags: [[pink]] 
+- Dividend Truth According to Standard & Poor’s: The Quality Rankings ([Location 996](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=996))
+    - Tags: [[pink]] 
+- System attempts to capture the growth and stability of earnings and dividends record in a single symbol. In assessing Quality Rankings, Standard & Poor’s recognizes that earnings and dividend performance is the end result of the interplay of various factors such as products and industry position, corporate resources, and financial ([Location 997](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=997))
+    - Tags: [[pink]] 
+- policy. Over the long run, the record of earnings and dividend performance has a considerable bearing on the relative quality of stocks. The rankings, however, do not profess to reflect all of the factors, tangible or intangible, that bear on stock quality. ([Location 1000](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1000))
+    - Tags: [[pink]] 
+- The rankings are generated by a computerized system and ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1002))
+    - Tags: [[pink]] 
+- are based on per-share earnings and dividend records of the most recent 10 years—a period long enough to measure significant secular growth, capture indications of basic change in trend as they develop, encompass the full peak-to-peak range of the business cycle, and include a bull and a bear market. Basic scores are computed for earnings and ([Location 1003](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1003))
+    - Tags: [[pink]] 
+- dividends, and then adjusted as indicated by a set of predetermined modifiers for change in the rate of growth, stability within long-term trends, and cyclicality. Adjusted scores for earnings and dividends are then combined to yield a final ranking. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1005))
+    - Tags: [[pink]] 
+- A+ Highest A High A- Above average B+ Average B Below average C Lower C Lowest D In reorganization NR1 For inclusion in the universe of Select Blue Chips, a company must initially have at minimum an A- Quality Ranking. The company may remain in the roster if its Quality Ranking declines to a B+, but will be ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1009))
+    - Tags: [[pink]] 
+- removed from the listing if it is downgraded further. ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1014))
+    - Tags: [[pink]] 
+- For our purposes of identifying quality, we aren’t overly concerned with market capitalization. What we do care desperately about though is liquidity. With enough common shares outstanding, a stock is assured of liquidity; we never want to be in the position of having to make an appointment to buy or sell a stock. Institutional investors, whose importance to ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1022))
+    - Tags: [[pink]] 
+- our method is outlined in the next section, prefer to invest in companies that are liquid so they can establish large investment positions without disturbing the price of the stock. Equally important is that when the time comes to sell, they want to know that there will be sufficient numbers of buyers. Few experiences are as frustrating as trying to buy or sell a large position in a thinly traded stock. For institutional investors who frequently ([Location 1025](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1025))
+    - Tags: [[pink]] 
+- deal in large sums of capital, an orderly entrance and exit are extremely important. Lastly, liquidity helps to guard against share price manipulation. ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1028))
+    - Tags: [[pink]] 
+- At Least 80 Institutional Investors When we use the term institutional investor, we are referring to the vast number of mutual funds, Exchange Traded Funds (ETFs), hedge funds, banks, insurance companies, pension fund ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1030))
+    - Tags: [[pink]] 
+- and retirement companies, major brokerages, and money managers. On any given trading day, these groups account for the vast majority of trading activity. As such, their collective buying and selling decisions will exert an enormous impact on the trend of stock prices. In other words, institutions are the 800-pound gorillas of Wall Street. Whether they choose to acknowledge it or not, institutional investors can exhibit some ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1032))
+    - Tags: [[pink]] 
+- fairly predictable behavior. This is due, in no small part, to the fact that it is a closely linked community. This is to say that they associate with, listen to, and behave like other institutional investors. As value investors, we can use this propensity for like-minded behavior to our advantage. It is not uncommon when using the dividend-value strategy to be early to the table, which means that we often take positions in high-quality ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1035))
+    - Tags: [[pink]] 
+- companies that offer excellent historic value long before other investors. Eventually one or two institutional analysts will stumble upon one of our companies, write up a buy recommendation, and distribute it to its traders or sales force. Nothing in the institutional community remains secret very long, so when the word gets out, the full force that is institutional buying power kicks in. Strong institutional buying eventually hits the radar screens of our ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1038))
+    - Tags: [[pink]] 
+- favorite investor type, the momentum investor. In simple terms, a momentum investor attempts to capture capital gains by buying a stock with a discernible uptrend in price, or to short a stock with a discernible downtrend in price. The underlying belief is that, once a trend has been established, it is likely to continue in that direction than to move… ([Location 1042](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1042))
+    - Tags: [[pink]] 
+- some momentum investing ourselves. There is nothing more attractive than a high-quality company with an undervalue price, a high-yield and upward momentum in its dividend trend. Okay, we’re not really momentum investors, but I think you get the point. To bring this point to conclusion, between institutional interest and momentum investing,… ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1045))
+    - Tags: [[pink]] 
+- potential, at which point we lock in our profits and search for another high-quality undervalued opportunity. Of the six Criteria for Select Blue Chips, the number of institutional sponsors is the least rigid, which is to say there is nothing magical about the number 80. What is important is evidence of widespread interest in a stock, and that it has attracted a broad and… ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1049))
+    - Tags: [[pink]] 
+- institutions hold 50 percent of the common shares outstanding, rather than one or several institutions holding the same amount; with diversity comes an element of safety. Most full-service brokers and investor databases can provide information on the number of institutional investors and their percentage of… ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1053))
+    - Tags: [[pink]] 
+- Of the six criteria that comprise the Criteria for Select Blue Chips, this is the one that separates the big dogs in the tall grass from the pups in the weeds. We are often asked if there is really a meaningful difference between a company that has paid uninterrupted dividends for 25 years and one with 10, 15, or 20.… ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1056))
+    - Tags: [[pink]] 
+- indicates there is a greater likelihood for price volatility and less reliability in the trends of earnings and dividends for companies with shorter track records of uninterrupted dividend payments. Although we lack a single empirical measurement that explains this phenomenon, our best guess, based on our experience, is that the market, which posseses… ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1060))
+    - Tags: [[pink]] 
+- achieved this milestone have earned elite status and investors simply treat them differently. What we do know is that over a 25-year period a company will go through many business and economic cycles, will experience the exhilaration of bull markets and the despondence of bear markets, will see their products or services enjoy… ([Location 1063](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1063))
+    - Tags: [[pink]] 
+- analysis I believe it all boils down to one factor, namely, competence. If a company can weather the myriad challenges it will inevitably face over such a period of time and maintain a strong record of earnings growth and maintain a rising dividend trend, that is competence. If a company can keep its products and services at the forefront of consumer interest, or reinvent… ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1067))
+    - Tags: [[pink]] 
+- next generation of management that will continue a tradition of excellence—that is competence. You work hard to save the investment capital you put to work in the financial markets. All things being equal, who are you most comfortable associating with that capital? For us the answer is easy: the most competent companies we can find. With the rare… ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1070))
+    - Tags: [[pink]] 
+- Select Blue Chips have paid uninterrupted dividends… ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1074))
+    - Tags: [[pink]] 
+- The Importance of Dividends At this juncture the importance of cash dividends should be crystal clear. When a dividend is increased, the stock price will inevitably rise to reflect the increase in value. Conversely, when a dividend is reduced,… ([Location 1075](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1075))
+    - Tags: [[pink]] 
+- in value. Dividends are an indicator of value and a predictor of future growth, which attracts new investors to the company and provides a tangible reward for accepting investment risk. Value-conscious investors can depend on cash dividends to either provide a reliable stream of income to meet their current cash needs or as capital to reinvest to… ([Location 1078](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1078))
+    - Tags: [[pink]] 
+- dividends year after year and increases those dividends regularly is well managed. An ongoing dividend stream is the most reliable evidence a company is generating sufficient earnings to cover expenses, pay the interest on its debt, grow the company, and reward its owners. When a dividend is increased, the stock owner knows… ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1081))
+    - Tags: [[pink]] 
+- There Is No Profitable Substitute for Quality In this chapter we have explored the importance of quality as it pertains to the dividend-value strategy. Although the strategy can be implemented through any stock that has paid dividends long enough to establish a discernible pattern for… ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1085))
+    - Tags: [[pink]] 
+- The Select Blue Chips listed within the pages of Investment Quality Trends are all high-quality companies, but not all of them represent current good value. That is, even the highest-quality stock can be overpriced. ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1099))
+    - Tags: [[pink]] 
+- If I had to choose just one factor as the key to investment success, it would be the ability to recognize and appreciate good value, which leads to two important questions: How is value measured in the stock market, and how does an investor know when the price of a stock represents good value? ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1103))
+    - Tags: [[pink]] 
+- There are three fundamental tools that investors use to establish value in the stock market: dividend yield, price-earnings ratio (P/E), and price-book value ratio (P/B), ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1106))
+    - Tags: [[pink]] 
+- In general, depending on the overall growth rate within any stock industry group, any ratio below 15 to 1 is ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1125))
+    - Tags: [[pink]] 
+- believed to represent fair value. In like fashion, a P/E ratio above 20 to 1 suggests that the stock price may be overvalued. However, stocks have their own personalities, and a high P/E ratio for one stock may be an acceptable ratio, depending on the company’s growth characteristics. The market will also often grant higher valuations to a particular stock or industry that captures its fancy. Our personal preference as a firm is a P/E ratio that is closer to 10 to 1. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1125))
+    - Tags: [[pink]] 
+- As you can tell, there is a certain amount of subjectivity when it comes to P/E ratios, another reason why identifying the repetitive extremes of undervalue and… ([Location 1129](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1129))
+    - Tags: [[pink]] 
+- Price-Book Value Ratio In accounting terms, book value is all of a company’s tangible assets (what you can see and touch), minus… ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1131))
+    - Tags: [[pink]] 
+- minus intangible assets (such as patents and goodwill). For normal people, book value is what is left if the company were to go out of business, liquidate all of its assets, and pay off all its debts. This figure is then divided by the total common shares outstanding to determine the book value per share. The P/B ratio compares the market’s… ([Location 1133](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1133))
+    - Tags: [[pink]] 
+- (book value per share). By example, if a company’s stock price is $20 per share and the most recent book value is $10 per share, by dividing $20 by $10 the result is 2. When expressed as a ratio we would say the P/B is 2 to 1. When the P/B ratio is one (1 to 1), it means the market value is in sync with what the company is reporting on its financial statement. When the ratio is… ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1136))
+    - Tags: [[pink]] 
+- on its financial statements. When the ratio is less than one, it can mean one of two things: The market is nervous about the value of the company and is unwilling to pay full price, or investors have incorrectly valued the stock. For some analysts, to question the validity of book values is to commit heresy. For the truly objective analyst, however, it is difficult to… ([Location 1140](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1140))
+    - Tags: [[pink]] 
+- and liabilities are valued leaves room for creative interpretation, as we have discovered recently with financial companies. Another is that some companies, such as those in the technology and service sectors, have hidden (intangible) assets such as intellectual property that are of great value, but are not reflected in the book value. Lastly, most accounting procedures fail to… ([Location 1143](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1143))
+    - Tags: [[pink]] 
+- easily be understated as overstated. Even the great Benjamin Graham, whose work I credit for much of my academic/intellectual development, and whose favorite measure for value identification was book values, cautioned investors that a stock does not necessarily represent good value simply because it can be purchased at or close to book value. In his book The… ([Location 1147](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1147))
+    - Tags: [[pink]] 
+- is placing on shares, to know how many dollars are on hand for each dollar of short term debt, and to know that the dividend is well protected. As is the case with earnings and the P/E ratio, book values and the P/B ratio cannot be dismissed. They are important measures of value as they can confirm… ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1150))
+    - Tags: [[pink]] 
+- most important measure of investment value is the dividend yield. We believe this to be true because of three factors: 1. Dividends are the result of earnings. 2. A rising dividend trend is a predictor of growth. 3. Repetitive dividend-yield extremes establish reliable areas for undervalue and overvalue… ([Location 1154](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1154))
+    - Tags: [[pink]] 
+- earnings or management’s reasoned expectations for higher earnings—that justifies a dividend increase. Think about it. No management, particularly that of a blue chip company, wants to suffer the public embarrassment of a bad call. Before the decision to raise a dividend is made, then, management has to believe the prospects for improved earnings, now as well into… ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1159))
+    - Tags: [[pink]] 
+- is any doubt about future earnings. Throughout this book, you will read the terms undervalue and overvalue. In our lexicon, these are historically repetitive extremes of low-price/high-yield and high-price/low-yield, which we call Profiles of Value. There is no one Profile of Value that can be applied to every stock. Each stock… ([Location 1162](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1162))
+    - Tags: [[pink]] 
+- Dividend Truth Measures of good value include the following: Rule 1. A dividend yield that is historically high for that particular stock, and has repeatedly signaled the bottom of a major declining trend in… ([Location 1167](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1167))
+    - Tags: [[pink]] 
+- historically low for that particular stock, and is below the multiple for the Dow Jones Industrial Average. The only exception to this rule would be growth stocks with consistent records of rising earnings that are advancing faster than the market average and,… ([Location 1171](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1171))
+    - Tags: [[pink]] 
+- financial position with a ratio of current assets to current liabilities of at least two to one, and a debt-to-equity ratio of no more than 50 percent debt to equity. Rule 4. A price that is no higher than one-third above the book value of the company—and the closer to book value, the… ([Location 1174](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1174))
+    - Tags: [[pink]] 
+- superior, long-term growth… ([Location 1177](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1177))
+    - Tags: [[pink]] 
+- The Bluest of the Blue Chips Even among blue chips, some stocks are more blue chip than others. These are stocks that have both an A+ quality ranking and the Investment… ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1178))
+    - Tags: [[pink]] 
+- awarded the “G” designation when the company achieves average annual dividend growth of 10 percent or… ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1180))
+    - Tags: [[pink]] 
+- The Faded Blues The Select Blue Chips listed in Investment Quality Trends are an elite representation of the highest-quality publicly traded companies in America. Achieving Select Blue Chip status is ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1197))
+    - Tags: [[pink]] 
+- not a one-time event, however; the designation must be continuously earned. For varying reasons, more than 100 stocks have been deleted from our blue-chip-stock list over the last 44 years. Many were deleted because they were acquired by another company, some because they eliminated their dividend. On occasion, a Select Blue Chip can run into temporary or cyclical difficulties and their S&P Quality Ranking may be downgraded to “B,” ([Location 1199](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1199))
+    - Tags: [[pink]] 
+- which signifies below- average quality. Even if they meet the five remaining criteria, we feel compelled to delete the stock from our blue chip roster and transfer it to our list of faded blues. ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1203))
+    - Tags: [[pink]] 
+- In 1974, Geraldine conducted an interview with Benjamin Graham, which was later published in what at the time was the San Diego Union. In that interview Graham offered an interesting perspective on the value of patience: It’s hard enough to find good values. When a stock rises slowly, intrinsic value can ([Location 1215](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1215))
+    - Tags: [[pink]] 
+- keep pace with the gradual increase in the price of the stock. However, when the price escalates quickly, faster than the fundamental development of the company, then the stock must be sold and a new investment decision made. Every new investment decision bears the risk of being a mistake. ([Location 1218](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1218))
+    - Tags: [[pink]] 
+- According to the Dividend-Yield Theory, just as dividend-yield extremes represent historically repetitive areas of undervalue and overvalue in individual stocks, so, too, are there dividend-yield extremes that represent historically repetitive areas of undervalue and overvalue in the stock market. ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1242))
+    - Tags: [[pink]] 
+- One of the central postulates of the Dividend-Yield Theory is that there is a cyclical aspect to dividend-yield patterns. Indeed, decades of stock market research has produced strong evidence that high-quality stocks with long histories of dividends and rising dividend trends generally fluctuate between repetitive extremes of high dividend yield and low dividend yield. The nexus for these fluctuations is the cyclical ebb and flow of the stock market, which is the result of market participants ([Location 1256](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1256))
+    - Tags: [[pink]] 
+- anticipating or reacting to news and information from the worlds of economics and politics. Fundamental to the dividend-value strategy is that these recurring themes of yield can be used to establish envelopes of undervalued (low) and overvalued (high) price levels. ([Location 1259](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1259))
+    - Tags: [[pink]] 
+- These lows and highs, which represent the bottoms and tops of cycles, are identified by simply charting the dividend yield over a sufficient period of time for the dividend-yield ([Location 1262](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1262))
+    - Tags: [[pink]] 
+- pattern to emerge. By calculating the repetitive dividend-yield areas where a stock or index turns down, or reverses a slide and turns up, the future behavior of that stock or index can be anticipated. ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1263))
+    - Tags: [[pink]] 
+- Once a dividend-yield pattern is established, the pattern tends to remain constant unless an exogenous event compels market participants to establish new parameters of undervalue and overvalue of dividend yield. ([Location 1265](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1265))
+    - Tags: [[pink]] 
+- When a dividend is raised, undervalue and overvalue price ([Location 1267](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1267))
+    - Tags: [[pink]] 
+- limits will automatically adjust higher to maintain the historically established yield percentages. In general, the stock price will adjust accordingly to reflect the increased value as the result of the dividend increase. The dividend-yield cycles are established by the market, which can be explained by the most basic of economic principles of the supply-and-demand theory as taught in Economics 101. When a high-quality, dividend-paying stock declines in price to the point where the dividend-yield ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1268))
+    - Tags: [[pink]] 
+- is historically high, experienced investors with substantial amounts of capital earmarked for opportunities that represent good value begin to accumulate a position. This accumulative buying halts the decline, stabilizes the price, and begins to reverse the trend. When a price reversal in a stock becomes apparent, other investors initiate purchases and the price begins to rise. Once a rising trend has been established and appears to have legs, less disciplined investors will begin to take positions in the stock. Almost ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1272))
+    - Tags: [[pink]] 
+- simultaneously, investors who purchased the stock at undervalued prices become increasingly inclined to secure their profits by selling. By the time the price reaches its historic level of overvalue, the yield is no longer attractive enough to compel sufficient numbers of new buyers to take positions in the stock. As soon as the early buyers become sellers and new buying interest evaporates, the price will begin to decline. Once a declining price trend becomes evident, the remaining stockholders will move to salvage ([Location 1276](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1276))
+    - Tags: [[pink]] 
+- what they can of any profits and their original principal. This wave of selling will continue until a historically high dividend yield again attracts enough new investors to halt the decline. There, at undervalue, the long-term investment cycle appears all over again. To summarize this point before we move ahead: It can be observed that dividend-paying stocks fluctuate over time within a range of low dividend yield—establishing a peak of overvalue—and high dividend yield—establishing a ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1280))
+    - Tags: [[pink]] 
+- valley of undervalue. The peaks and valleys identify areas in which stocks should be bought or sold. ([Location 1283](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1283))
+    - Tags: [[pink]] 
+- Each stock has a unique profile of undervalue and overvalue; that is, distinctive high- and low-yield characteristics, as shown in Figure 6.1. Because no two profiles are identical, each stock must be studied on an individual basis, so in ([Location 1285](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1285))
+    - Tags: [[pink]] 
+- addition to producing income, dividend yield can also be used as a tool to identify value in the stock market. ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1287))
+    - Tags: [[pink]] 
+- Depending on the primary trend of the market and economy, the average length of time for a stock to rise from undervalue to overvalue has fluctuated between three years and five and three-quarters years. Some stocks cycle at a ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1295))
+    - Tags: [[pink]] 
+- faster pace. Other stocks, especially those with frequent dividend increases, have a long upward climb and may be held longer before a sale at overvalue is necessary. In general, the amount of time required to cycle down from overvalue, through the declining trend and back to undervalue, is two years. ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1297))
+    - Tags: [[pink]] 
+- When your goal is to maximize real total return and minimize risk, it may prove more prudent to leave subjective measures of analysis to the more intrepid. Instead focus on objective measures of analysis that have provided clear ([Location 1315](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1315))
+    - Tags: [[pink]] 
+- indications of value over significant periods of time. For this we look again to the Dividend-Yield Theory, which, when applied to the Dow Jones Industrial Average (DJIA), has provided strong and reliable signals over the last 80-plus years. ([Location 1316](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1316))
+    - Tags: [[pink]] 
+- What these charts illustrate is that four specific areas of dividend yield have a repetitive ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1331))
+    - Tags: [[pink]] 
+- pattern: 3.0 percent at overvalue; 4.0 percent, 5.0 percent, and 6.0 percent at undervalue. Historically, the DJIA has offered good value whenever the dividend yield has risen to 6.0 percent, as it did in 1949-1953, 1974, and in 1978-1982. Strong price support also has been evidenced at the 4.0 percent yield level, which halted and reversed declines in 1960, 1962, 1966, 1971, and, most notably, on October 19, 1987. ([Location 1332](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1332))
+    - Tags: [[pink]] 
+- Even when investors are successful at identifying the primary trend of the market, there are stocks that rise during bear markets as well as stocks that decline during bull markets. All things being equal, I would rather know the direction of the primary trend at not, but market indicators can only tell you what the current temperature of the market is, not where to find good current value. The truth of the matter is there is the stock market and there is the market of stocks, which are two entirely different things. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1364))
+    - Tags: [[market-structure]] [[trade structure]] [[favorite]] [[sentiment]] 
+- The Undervalued category consists of stocks that represent historically repetitive extremes of low-price and high dividend-yield. The Rising-Trend category consists of stocks whose stock price have risen at least 10 percent from its Undervalued base. The Overvalued category consists of stocks that have reached historically repetitive extremes ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1374))
+    - Tags: [[pink]] 
+- of high price and low dividend yield. The Declining-Trend category consists of stocks whose stock price has declined at least 10 percent from its overvalued peak. ([Location 1376](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1376))
+    - Tags: [[pink]] 
+- By tracking the movements between categories and comparing those movements against the highs and lows on the DJIA, we have established that whenever the percentage of stocks in the Undervalued category rises between 70 percent and 80 percent of the total, it has been coincident with a low cycle in the DJIA and many good buying opportunities. In contrast, when the ([Location 1382](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1382))
+    - Tags: [[pink]] 
+- percentage of stocks in the Undervalued category declines to 17 percent or less, it has been coincident with a high cycle in the DJIA, which indicates the market is Overvalued and susceptible to a major market decline. ([Location 1384](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1384))
+    - Tags: [[pink]] 
+- A more contemporary example can be found in January 2000, when the DJIA peaked just below the 12,000 level. In the First-January 2000 issue, we find that only 13 percent of our Select Blue Chips were in the Undervalued category. The market slide that ensued did not end until October, 2002. Interestingly, even though the market decline ([Location 1397](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1397))
+    - Tags: [[pink]] 
+- was halted, in the First-November 2002 issue we find that only 16 percent of our stocks were in the Undervalued category, a clear indication that the bear market was far from over and a harbinger of what was to come five years later. ([Location 1400](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1400))
+    - Tags: [[pink]] 
+- A word of caution before we close, however; don’t lose sight of the forest because of the trees. That is, don’t get so caught up in following the stock market that you lose focus of the market of stocks. ([Location 1406](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1406))
+    - Tags: [[pink]] 
+- In our experience, the most reliable way to identify stocks that offer good values is to ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1419))
+    - Tags: [[pink]] 
+- limit investment considerations to only the highest-quality stocks and then establish the repetitive patterns of dividend yield, which reveals the areas of undervalue and overvalue. For some, this process, which you know now as the dividend-value strategy, can be viewed as overly mechanical or perhaps even rigid, but there is a method to the madness. Even seasoned investors can be seduced by the energy and momentum of a fast-moving market ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1419))
+    - Tags: [[pink]] 
+- and be tempted to follow the crowd. ([Location 1422](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1422))
+    - Tags: [[pink]] 
+- Each stock has its own profile of undervalue and overvalue dividend yield, which means each stock must be studied individually. Any investor can establish the ([Location 1440](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1440))
+    - Tags: [[pink]] 
+- dividend-yield profile of any stock that has paid a dividend over sufficient time to establish a pattern. To identify these patterns you must first compute the dividend yield over a decade or longer (15 to 25 years is optimum) and then chart the channels on a grid. ([Location 1441](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1441))
+    - Tags: [[pink]] 
+- To explain this process in detail, we will use the chart found in Figure 7.1. As with most stock charts, the price is ([Location 1447](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1447))
+    - Tags: [[pink]] 
+- found on the left (vertical) axis, and time is displayed along the bottom (horizontal) axis. The first step is to identify all the high-price extremes and the low-price extremes. In this example, we would note the highs in 1999, 2002, and 2007. For the lows we would note 2000 and 2008. The second step is to find the high price for each high-price year and the low price for each low-price year. These prices would be $49.25, $53.52, and $105.02 for the years 1999, 2002, ([Location 1448](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1448))
+    - Tags: [[pink]] 
+- and 2007, respectively. The data points for the low price areas in this example are $23 in 2000 and $50.71 in 2008. The third step is to find the dividend paid for each year of data points and then to calculate the dividend yield for each point. These would be 1.42 percent, 1.53 percent, and… ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1452))
+    - Tags: [[pink]] 
+- Beginning with the high-price data points we add the three dividend yields together and then divide by three, finding an average of 1.45 percent. Unfortunately, due to space limitations in presenting the charts, what you don’t see in this example is that this stock in 1987 and… ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1456))
+    - Tags: [[pink]] 
+- between 1.45 percent and 1.60 percent, we would like to find a confirmation of the low yields recorded in 1987 and 1992. By adding a fourth yield from the 2005 high price, which is 1.89 percent, then dividing by four, we find an average of 1.56 percent, which we will round up to 1.60 percent and, therefore, confirm that the 1.60 percent dividend yield is the repetitive low… ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1459))
+    - Tags: [[pink]] 
+- (2001, 2003, and 2005) between the major lows in 2000 and 2008. When we calculate the dividend yields for these periods we find a major divergence. Hence, we discard these three and focus on the two extremes in 2000 and 2008. By adding these two yields together and then dividing by 2 we find an average of 3.34 percent, which we will round… ([Location 1462](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1462))
+    - Tags: [[pink]] 
+- additional instances where the 3.30 percent dividend yield has marked a halt in declining prices and the stock reversed course, confirming that this is the… ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1465))
+    - Tags: [[pink]] 
+- Undervalued Stocks Using the simplest definition, undervalue is a relatively high dividend yield that in the past has… ([Location 1467](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1467))
+    - Tags: [[pink]] 
+- price decline. The term can apply to an individual stock, a group of stocks, or the overall market. When these repetitive areas of high-dividend yield are plotted on a stock chart, it becomes visually apparent that the stock has a tendency toward halting and reversing a decline in the same relative area of dividend yield each cycle. By averaging… ([Location 1469](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1469))
+    - Tags: [[pink]] 
+- illustrate this point, let’s consider the example of a company we will call Widgets “R” Us. In 1999, the stock recorded a 2.5 percent yield, which represented the top price for that cycle. In 2003, 2005, and 2007, the stock recorded low yields of 2.5 percent, 2.3 percent, and 2.7 percent, respectively. In 2002 a decline in the stock was halted and reversed at a 5.0 percent… ([Location 1472](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1472))
+    - Tags: [[pink]] 
+- When we average these respective areas of high and low yield, it suggests that Widgets “R” Us has a tendency to halt and reverse a declining trend in the 5.0 percent dividend-yield area and a rising trend at the 2.5 percent dividend-yield area. Note that dividend yield is calculated from both price and dividend; as such the price of the stock at each of… ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1476))
+    - Tags: [[pink]] 
+- look at a real-world example by examining the chart of The Stanley Works (SWK) in Figure 7.2. As noted on the chart, The Stanley Works (SWK) offers good historic value when the dividend yield is at 5.0 percent. The stock reaches its historic level of overvalue when the price rises and the dividend yield declines to 2.0 percent. In October of 2000, The Stanley Works (… ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1479))
+    - Tags: [[pink]] 
+- was 5.0 percent and the stock was historically undervalued, which is displayed in the following equation: Dividend Price Yield $0.94/$18.80 = 5.0 percent A 5.0 percent dividend yield also identified historic good value in 2003, 2008, and 2009. If there were one high yield that… ([Location 1483](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1483))
+    - Tags: [[pink]] 
+- simpler. Unfortunately, that just isn’t the case. Because each stock has a unique profile of value, based on its repetitive extremes of high and low dividend yield, undervalue is not simply a very low price; rather, it represents a relatively high yield in relation to a currently low price. This is what… ([Location 1489](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1489))
+    - Tags: [[pink]] 
+- To take full advantage of the dividend-yield strategy, you will have to put in some work, which at the very least means keeping track of the undervalue and overvalue boundaries on… ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1494))
+    - Tags: [[pink]] 
+- a purchase is made, you must continue to monitor the stock as it winds its way through its cycle. When dividends are increased, the yields at undervalue and overvalue must be recalculated to avoid selling your position too soon or to add to the position if a… ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1496))
+    - Tags: [[pink]] 
+- Some stocks are undervalued when their yields are 4 percent, 5 percent, or 6 percent. Others may be equally undervalued on the basis of their historic profiles of dividend yield when their yields are 1 percent, 2 percent, or 3 percent. The point is that each stock has established its own profile of… ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1500))
+    - Tags: [[pink]] 
+- evaluated… ([Location 1503](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1503))
+    - Tags: [[pink]] 
+- An undervalued stock should never be purchased before ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1510))
+    - Tags: [[pink]] 
+- considering other factors, particularly when the market is at or close to the top of its cycle. Upon further investigation, you may discover serious fundamental problems within the company that have forced the price to drop to undervalued levels. A high level of debt or an excessively high payout ratio may indicate the dividend is in danger. In general, however, if the stock is a blue chip and its dividend is well protected by earnings, a purchase at undervalued ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1510))
+    - Tags: [[pink]] 
+- levels is definitely worthy of consideration. ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1513))
+    - Tags: [[pink]] 
+- As illustrated in Figure 7.4, in the vast majority of instances, overvalue and undervalue designations come within ten percent of the high or low in a major price move. As such, the Dividend-Yield ([Location 1546](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1546))
+    - Tags: [[pink]] 
+- Theory considers prices to be undervalued or overvalued when they are within the 10 percent range of their historic levels of high or low dividend yield. ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1548))
+    - Tags: [[pink]] 
+- The Market of Stocks As mentioned previously, there is the stock market and there is the market of stocks. As such, good values can be found at virtually any phase of the stock market cycle. However, more ([Location 1549](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1549))
+    - Tags: [[pink]] 
+- undervalued stocks can be found at the end of a bear market or during a major correction in a bull market. Because the selection of undervalued stocks is likely to be large, it is a time that investors have an… ([Location 1551](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1551))
+    - Tags: [[pink]] 
+- By example, in the mid-March 2009 issue of Investment Quality Trends, 177 or 65 percent of our 273 Select Blue Chips represented historic good values and were in… ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1554))
+    - Tags: [[pink]] 
+- number, too many to list, were trading at or below book values. Also extraordinary, as was illustrated in the UTX example, were the number of stocks investors had driven beyond long-established extremes of high dividend yield. Although the Dividend-Yield Theory has accurately defined the repetitive levels of undervalue time… ([Location 1555](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1555))
+    - Tags: [[pink]] 
+- undervalue will begin to rise in price. Nonetheless, it is clear that these stocks are bargains, and that high-quality stocks that have consistently proved their worth over the years will eventually garner investor attention. As all experienced investors know, timing is almost impossible to nail down on a consistent basis. Even so, when the timing of an acquisition is not… ([Location 1558](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1558))
+    - Tags: [[pink]] 
+- maintaining their value and price, which can even be seen in a bear market. As my partner Mike frequently says, “With undervalued stocks it is a when and not an if.” If there is one thing knowledgeable investors cannot ignore for very long, it is a high-quality company that offers exceptional, historic value. Although all economic and business cycles… ([Location 1562](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1562))
+    - Tags: [[pink]] 
+- conditions that initiated the decline will improve, and animal spirits will gravitate toward undervalued stocks to realize… ([Location 1565](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1565))
+    - Tags: [[pink]] 
+- The Overvalued Phase Using the simplest definition, overvalue is a relatively low dividend-yield that in the past has coincided with the top of a major… ([Location 1567](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1567))
+    - Tags: [[pink]] 
+- individual stock, a group of stocks, or the overall market. When these repetitive areas of low-dividend yield are plotted on a stock chart, it becomes visually apparent that the stock has a tendency toward halting and reversing a rising trend in the same relative area of dividend-yield each cycle. By averaging these relative areas of low-yield, a… ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1568))
+    - Tags: [[pink]] 
+- areas of overvalue is identical to that for the historically repetitive areas of undervalue… ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1572))
+    - Tags: [[pink]] 
+- When a stock approaches the undervalue area it is a signal to investors that historic good value is in the offing. Conversely, when a stock approaches the overvalue area, it is a signal to investors that much of the historic value has been realized over the course of the rising trend. This is not to say that that an overvalued… ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1577))
+    - Tags: [[pink]] 
+- prove otherwise. What is fundamental to the overvalue area, however, is any further upside potential is far outweighed by the downside risk. The only caveat to this is if an overvalued company increases its dividend, the price at overvalue will also rise, creating… ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1579))
+    - Tags: [[pink]] 
+- Remember, each stock has its own distinctive level of overvalue. So, even when a bull ([Location 1592](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1592))
+    - Tags: [[pink]] 
+- market is in its latter stages, not all stocks are overvalued. For the ones that are overvalued, not all stocks are overvalued to the same extent. For these reasons, it is important to plot each stock’s dividend yield on a ([Location 1593](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1593))
+    - Tags: [[pink]] 
+- chart and make note of the yield area where the stock historically reverses course. ([Location 1595](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1595))
+    - Tags: [[pink]] 
+- No One Gets Bonus Points for Being a Hero Of my grandfather’s ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1599))
+    - Tags: [[pink]] 
+- many lessons, the one most constantly reinforced was “the gain is made on the buy, son.” ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1600))
+    - Tags: [[pink]] 
+- What my grandfather was teaching ([Location 1604](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1604))
+    - Tags: [[pink]] 
+- me though was a values-based mindset; when you buy right, the gains are almost assured. ([Location 1604](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1604))
+    - Tags: [[pink]] 
+- Once a stock has moved up 10 percent or more off of its undervalued base, it has entered into a rising trend. As undervalue represents the buying area and overvalue represents the selling area, the rising trend can generally be characterized as the hold area. From ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1620))
+    - Tags: [[pink]] 
+- the Investment Quality Trends perspective, a stock remains in a rising trend until it comes within 10 percent of its historically repetitive area of overvalue or falls back to within 10 percent of its undervalued area. ([Location 1622](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1622))
+    - Tags: [[pink]] 
+- When making investment considerations, an investor should always look to stocks that are undervalued first because they represent historically repetitive extremes of low price and high dividend yield. In some cases, however, when a stock is near its undervalued area ([Location 1627](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1627))
+    - Tags: [[pink]] 
+- yet technically in a Rising Trend, there may still be a viable opportunity to make a profitable purchase. Before making such a purchase decision though, there are two important things to take into consideration. The first is the primary trend of the broad market. Is it in a bull cycle or a bear cycle? In most cases it is best to avoid purchasing rising-trend stocks in a bear market because the overall wave of selling can engulf the stock, which will ([Location 1629](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1629))
+    - Tags: [[pink]] 
+- halt and reverse the upward trend. In this instance the stock can return to its undervalued area, which necessarily results in a loss to the investor. Secondly, what is the upside potential to overvalue for the stock versus the downside risk back to undervalue for the stock? In this case, when the primary trend is up or in a bull cycle, stocks in a rising trend may still offer an attractive buying opportunity. The salient question at this point is how far into the rising ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1633))
+    - Tags: [[pink]] 
+- trend the stock has traveled. When the broad market is at undervalue or early in its rising trend and a stock is within 15 percent of its undervalued area, a purchase could still realize significant gains. This is particularly true if the stock has a long history of dividend increases. As referenced earlier, a dividend increase will lift the prices at undervalue and overvalue, which provides an additional layer of safety to the original ([Location 1636](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1636))
+    - Tags: [[pink]] 
+- investment. Also previously noted, dividend increases are a predictor for future price growth, not to mention the increased income, which can add momentum to the uptrend. ([Location 1640](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1640))
+    - Tags: [[pink]] 
+- When the broad market is in a rising trend, stocks that are in a rising trend can provide excellent short-term profit opportunities. A rising-trend stock in a rising-trend market has a greater chance to reach overvalue in a ([Location 1653](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1653))
+    - Tags: [[pink]] 
+- shorter period of time than an undervalued stock because it has a shorter distance to travel and it has the all-important force of market momentum at its back. ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1655))
+    - Tags: [[pink]] 
+- In addition to identifying the areas of undervalue and overvalue for individual stocks, the cyclical aspect of the Dividend-Yield Theory applies to the broad market, as ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1664))
+    - Tags: [[pink]] 
+- measured by the Dow Jones Industrial Average (DJIA), in equal manner. By understanding the cyclic nature of value in the Dow, it allows the investor to further hone his buy, sell, and hold decisions. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1666))
+    - Tags: [[pink]] 
+- Because there are so many references to the DJIA throughout this book, there are undoubtedly some critics who will suggest that another index, such as the S&P 500 or perhaps ([Location 1671](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1671))
+    - Tags: [[pink]] 
+- the Dow Jones/ Wilshire 5000, would be more appropriate as a proxy for the overall market. While the S&P and Wilshire are important comparative measurements (the S&P 500 in particular, as it is the most widely recognized benchmark that most equity managers compare performance to), the DJIA has more of the blue chip quality characteristics that we are interested in and is still the most widely recognized of all market indexes. ([Location 1673](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1673))
+    - Tags: [[pink]] 
+- If you refer back to the foreword to this book, Geraldine supplies the Dow quote that has graced the pages of our newsletter since inception and is one ([Location 1710](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1710))
+    - Tags: [[pink]] 
+- of our guiding principles: “The legendary Charles Dow has written, ‘To know values is to know the meaning of the market. And values, when applied to stocks, are determined in the end by the dividend yield.”’ ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1711))
+    - Tags: [[pink]] 
+- Although the majority of Dow’s legacy is attributed to the Wall Street Journal and the Dow Theory that bears his name, it is clear he understood the importance of values and that dividends are the primary indicator of value. ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1713))
+    - Tags: [[pink]] 
+- At the risk of being redundant, I need to drive this point home. Since 1966, when the Undervalue category represented 17 percent or less of our select blue-chip universe, it has been ([Location 1790](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1790))
+    - Tags: [[pink]] 
+- coincident with major market tops. When the Undervalue category is between 70 percent and 80 percent of our universe, it has been coincident with major market bottoms. At the market top in 2000, our Undervalue category was 12 percent of our universe. When the first leg down bottomed in late 2002 our Undervalue category still represented only 16 percent of our universe! So after dropping 5,000 points, the Dow was still dramatically ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1791))
+    - Tags: [[pink]] 
+- overvalued! ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1794))
+    - Tags: [[pink]] 
+- Street, there is a scene in which the character Gordon Gekko tells the character Bud Fox that “a fool and his money are lucky to get together in the first place.” This is a fairly cynical worldview but not altogether surprising considering that the Gekko character was ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1867))
+    - Tags: [[pink]] 
+- a cheat and that his success in the stock market was due in large part to trading on inside information. ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1869))
+    - Tags: [[pink]] 
+- With investing, there is no such thing as one size fits all. ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1892))
+    - Tags: [[pink]] 
+- The dividend-value strategy is the big-picture part of the investment process. ([Location 1912](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1912))
+    - Tags: [[pink]] 
+- In addition to liquidity, our hierarchy of ([Location 1938](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1938))
+    - Tags: [[pink]] 
+- investment goals is: Figure 9.1 Hierarchy of Investment Goals ([Location 1939](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1939))
+    - Tags: [[pink]] 
+- For some, to even talk about stocks and preservation of capital in the same breath is an ([Location 1942](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1942))
+    - Tags: [[pink]] 
+- oxymoron. ([Location 1942](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1942))
+    - Tags: [[pink]] 
+- Know Your Limitations I am going to go out on a limb here and guess this quote from Dirty Harry, A man’s got to know his limitations, was ([Location 1991](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1991))
+    - Tags: [[pink]] 
+- not in reference to the stock market. That being said, the quote is apt when the topic turns to risk as it pertains to stock strategy. ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1993))
+    - Tags: [[pink]] 
+- Everybody is wired differently. What one investor would classify as risk may be totally dismissed by another. The reasons or motivations that compel an investor to embrace or reject risk could keep an army of psychotherapists busy until the end of time. Since I have a deadline to meet, I am going to cut to ([Location 1994](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1994))
+    - Tags: [[pink]] 
+- the chase. If you are feeling pain, you have a risk problem. When Mike and I talk to clients about risk tolerance, we like to invoke the pillow test; if the last thought you have at night when your head hits the pillow is your investment portfolio, then you haven’t passed the pillow test; you need to make some changes. Risk tolerance can cut both ways; a portfolio producing insufficient growth of capital and income to meet future cash needs is as ([Location 1997](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=1997))
+    - Tags: [[pink]] 
+- anxiety producing as a portfolio that contains too much short-term volatility for an investor with more immediate cash needs. This is why it is imperative to understand who, what, why, and when the portfolio is being created for. If you get this part wrong you can be the greatest stock picker the world has ever known and it can all come to naught. ([Location 2000](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2000))
+    - Tags: [[pink]] 
+- As a general rule of thumb, however, we suggest limiting a portfolio to 25 stocks. 25 stocks is a sufficient number to allow for wide ([Location 2029](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2029))
+    - Tags: [[pink]] 
+- diversification, but it is not too many to track effectively. Also, by limiting the portfolio to 25 excellent stocks, there is a higher probability for outperforming the broad market. This is an important advantage of the dividend-value strategy you don’t want to give up; if you hold too many stocks you might as well own an index fund. ([Location 2030](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2030))
+    - Tags: [[pink]] 
+- By example, in the First January 2000 issue of Investment Quality Trends, we introduced a portfolio of 13… ([Location 2033](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2033))
+    - Tags: [[pink]] 
+- portfolio construction process. The text below is taken directly from the IQ Trends web site that describes this portfolio: Investment Quality Trends provides information targeted toward subscribers with varying levels of investment experience and portfolio construction. Unlike many other newsletter services, we do not construct and maintain model… ([Location 2034](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2034))
+    - Tags: [[pink]] 
+- in price, along with a steady influx of new subscribers, such an approach would be impractical for our particular application. For tracking purposes, however, The Hulbert Financial Digest has maintained a portfolio for Investment Quality Trends since 1986. This portfolio consists of all the companies in the Undervalued and Rising-Trend categories, which,… ([Location 2037](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2037))
+    - Tags: [[pink]] 
+- to be practical. Additionally, many studies have shown that the optimum number of stocks for an individual portfolio is 25. That number is appropriate for diversification while not allowing the portfolio to become unwieldy. Accordingly, investors must be selective and fashion a diversified portfolio of Undervalued and Rising-Trend stocks based… ([Location 2041](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2041))
+    - Tags: [[pink]] 
+- risk. To assist subscribers in this endeavor (and at popular urging), we decided in January of 2000 that instead of engaging in the traditional (albeit generally futile) attempt to forecast the year ahead, to construct a portfolio of stocks that offered extraordinary value for your investment consideration. The portfolio, which has become known… ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2044))
+    - Tags: [[pink]] 
+- the market that, while perhaps were currently out of favor, nonetheless offered exemplary fundamentals and attractive dividend yields. Thirteen stocks were also sufficient to establish the foundation for a portfolio while leaving room for expansion when opportunities become available throughout the year. Since its inception in January 2000,… ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2049))
+    - Tags: [[pink]] 
+- shown in Figure 9.6, which is a marked premium above the major indexes. So even a smaller portfolio, when properly configured,… ([Location 2052](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2052))
+    - Tags: [[pink]] 
+- Diversify, Diversify, Diversify Throughout this book I have emphasized the importance of the twin pillars of quality and value. At this juncture I have to add a third leg to the investment stool: diversification. If you do everything right, have well-defined goals and objectives, choose asset classes… ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2056))
+    - Tags: [[pink]] 
+- highest-quality stocks that represent historically good value, but fail to diversify across a broad number of industries and/or sectors, it can totally negate all of your preparation and hard work. Throughout the history of the stock market there are cycles where various industries and sectors have suffered major declines due to an exhausting list of… ([Location 2059](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2059))
+    - Tags: [[pink]] 
+- industry or group of industries, there is an equal number of instances in which trouble has appeared out of the blue. Although limiting investment considerations to high-quality blue chips that represent historically good values can often reduce any downside to a relatively minor degree for a short amount of time, there are instances, such as the complete meltdown… ([Location 2063](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2063))
+    - Tags: [[pink]] 
+- anticipate or predict. As such, it is important to limit your exposure to any one industry or sector. In a perfect world, a portfolio of 25 stocks diversified across 25 separate industries or sectors would limit the overall portfolio exposure to only 4 percent in any one industry or sector. Under this scenario an investor could suffer a total loss (an improbable but… ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2066))
+    - Tags: [[pink]] 
+- don’t live in a perfect world and it isn’t always possible to diversify across that many industries or sectors because they may not all offer simultaneous good historic values. By example, let’s say the utilities sector offers historically good value and there are six or seven that are currently undervalued. As utility stocks tend to have higher dividend-yields,… ([Location 2070](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2070))
+    - Tags: [[pink]] 
+- prudent though is to choose perhaps one gas utility and one electric utility that are based in different geographic regions. In this example the investor has gained exposure to the sector but he has diversified by type of utility and by region. Of course, there won’t always be such a clear-cut distinction by type and region as there is in the utilities… ([Location 2074](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2074))
+    - Tags: [[pink]] 
+- battle lines drawn when it comes to certain industries and companies: Procter & Gamble versus Colgate-Palmolive, Coca-Cola or Pepsi, Wal-Mart or Target, and so forth. In these situations investors must return to individual analyses and compare the fundamentals and strengths: Are they both at undervalue; what are the quality rankings; does one offer a more… ([Location 2077](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2077))
+    - Tags: [[pink]] 
+- forth. Often times one company will stand out over the other; in an equal number of cases there may be a draw. At the end of the day an investor may choose the course of Solomon and divide the allocation among both companies. In any event and no matter the decision, the fundamental concept behind diversification is to spread overall portfolio risk as far as… ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2081))
+    - Tags: [[pink]] 
+- the… ([Location 2084](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2084))
+    - Tags: [[pink]] 
+- Now that I have taken you over the hills and through the woods to grandmother’s house to make my point, I will summarize it for you this way. ([Location 2109](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2109))
+    - Tags: [[pink]] 
+- It should come as no surprise then that there are two primary approaches to stock selection: top-down and bottom-up. ([Location 2122](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2122))
+    - Tags: [[pink]] 
+- With the top-down approach, investors place a higher priority on identifying the trends in the macro economy before selecting the industries and the companies within those industries that have a tendency to benefit from those trends. ([Location 2123](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2123))
+    - Tags: [[pink]] 
+- A more colloquial way of thinking about the top-down approach is that this type of investor is looking first at the forest and then at the trees. Such investors believe it is better to identify the major themes in the market first and then select individual companies second. The logic behind this line of thinking is ([Location 2132](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2132))
+    - Tags: [[pink]] 
+- that if current economic conditions are not supportive of the industry in which a company operates, it could prove to be difficult for the company to generate sufficient earnings to motivate investors to propel the stock price higher. The investor is vulnerable in this approach as he or she may overlook good companies that are still performing well, even in a depressed sector. With the bottom-up approach investors place a higher priority on analyzing ([Location 2134](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2134))
+    - Tags: [[pink]] 
+- individual companies than the trends of the macro economy. The thought here is if the company’s fundamentals are strong and there is evidence of good value, cycles within the economy, the market, or the industry are transitory in nature and the fundamentals will eventually be recognized. ([Location 2137](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2137))
+    - Tags: [[pink]] 
+- As such, the bottom-up investor may begin to acquire positions before trends in the macro economy show improvement or industry outlooks start to firm. The thought here is that, although an industry may be out of favor, investors who defer a purchase until confirmation of improving earnings may miss the opportunity to purchase a historically well-managed company with a long-term performance record for a price that is well below its intrinsic value. ([Location 2142](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2142))
+    - Tags: [[pink]] 
+- As you can see, these two approaches to investing are quite different. Although proponents of both approaches can be overly zealous, the fact is that both approaches have ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2146))
+    - Tags: [[pink]] 
+- something to offer. As the dividend-yield strategy marries aspects of both fundamental and technical analysis, it also utilizes aspects from both the bottom-up and top-down approaches. ([Location 2147](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2147))
+    - Tags: [[pink]] 
+- speculators understand it intellectually or not, the speculative game is played according to the greater fool theory; the boom will last to infinity as long as there is a greater fool to sell to. Unfortunately, at some point in every boom the music stops playing and someone is left without a chair. ([Location 2192](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2192))
+    - Tags: [[pink]] 
+- Dividend Truth It is important to remember that even though a sector or a company within that sector may be widely viewed as timely or favorable, these are subjective perceptions. Values can only be defined by repetitive patterns of dividend yield. ([Location 2226](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2226))
+    - Tags: [[pink]] 
+- Therefore, no stock should be purchased unless it represents historically good value as defined by its undervalued boundary of dividend yield. ([Location 2228](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2228))
+    - Tags: [[pink]] 
+- Dividend Truth Blue chips with low debt levels and higher returns on equity will be more stable in terms of share price during periods of rising ([Location 2277](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2277))
+    - Tags: [[pink]] 
+- interest rates. ([Location 2279](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2279))
+    - Tags: [[pink]] 
+- Q: How can I tell when a dividend is in danger? A: As my grandfather told me many times, “you can’t draw water from an empty well.” Dividends are paid out of earnings. When a company’s dividend payment equals or exceeds its earnings, the well is dry and there is nothing left to operate and expand the company. A company can pay the dividend for a time out of cash flow or savings, but this is a ([Location 2529](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2529))
+    - Tags: [[pink]] 
+- temporary solution to what could be a serious financial problem. It is akin to putting a Band-Aid on a deep laceration before a doctor can attend to it. For this reason we look at a company’s payout ratio. The payout ratio is calculated by dividing the dividend by the trailing 12-month earnings and then multiplying by 100. By example, if the dividend is $1.60 per share and the trailing 12 months earnings are $3.43 per share, the formula would look like this: ([Location 2532](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2532))
+    - Tags: [[pink]] 
+- $1.60/$3.43 = 0.466. We then multiply 0.466 by 100, which equals 46.6, and is expressed as a percentage, 46.6 percent. In this case the payout ratio is 46.6 percent. As a general rule of thumb we prefer the payout ratio to be 50 percent or less for an industrial company, and because of its different capital structure, 75 percent for a utility company. When the payout ratio is too high, it can limit a company’s ability to invest in future ([Location 2536](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2536))
+    - Tags: [[pink]] 
+- growth. This isn’t such a great concern if a company maintains a high return on equity (ROE), but all things being equal, we prefer to see a company grow its dividend while maintaining a healthy balance between net profits and dividend payouts. Q: How can I tell when a dividend is likely to be increased? A: Companies that have a more rapid rate of growth will often maintain a lower payout ratio than a more mature company that has a ([Location 2540](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2540))
+    - Tags: [[pink]] 
+- slower rate of growth but a more developed earnings stream. In that case, the shareholder is typically rewarded with greater capital appreciation than dividend income. What we look for are companies that can grow earnings and increase dividends at the same time. In Investment Quality Trends, these companies often are awarded our “G” designation, which reflects a record of average annual dividend increases of 10 percent per year over ([Location 2544](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2544))
+    - Tags: [[pink]] 
+- the last 12 years. In our experience, when such a company has a payout ratio of 30 percent or less, it often is an indicator that the dividend will likely be increased. ([Location 2547](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2547))
+    - Tags: [[pink]] 
+- Do you believe stock buybacks add value to a stock? A: Technically, a stock buyback does increase the value of a stock. With fewer shares outstanding, earnings per share rise and P/E ratios shrink. As an enlightened investor, though, you know ([Location 2561](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2561))
+    - Tags: [[pink]] 
+- you should buy shares only when they are at historically repetitive areas of undervalue. The management of many companies has not yet learned that lesson. Earlier in this decade, share buybacks were all the corporate rage. Unfortunately many of the buybacks occurred when the companies were deep into rising trends or, in the worst of cases, at overvalued levels. In these cases it was a needless waste of shareholder money. ([Location 2563](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2563))
+    - Tags: [[pink]] 
+- I would have preferred that the money spent on buybacks been paid to the shareholders directly to either spend or to invest in… ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2567))
+    - Tags: [[pink]] 
+- Stocks Q: Do stocks ever move from Declining Trends into the Rising-Trends category? A: The only time a Declining Trend stock can directly reenter the… ([Location 2569](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2569))
+    - Tags: [[pink]] 
+- new high price and dividend increases have lifted the price at overvalue, boosting the upside potential and giving the stock additional upside potential. However, when this happens (especially if it happens early in the new cycle), the upside potential rarely justifies the downside risk, and the shareholder is best advised to sell into the Rising Trend. Q… ([Location 2571](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2571))
+    - Tags: [[pink]] 
+- friend until it isn’t. If the upside potential to overvalue exceeds the downside risk back to undervalue, stocks in Rising Trends are attractive, in a bull market. However, stock trends are greatly influenced by major market trends. As such, in a bear market, stocks in Rising Trends are likely to fall back into the Undervalued category. Once a bear market has… ([Location 2575](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2575))
+    - Tags: [[pink]] 
+- Undervalued category. Rising Trend stocks can be held if the downside risk back to undervalue is not large. If Rising Trend stocks fall back into the Undervalued category in a correction, they are often investment opportunities. Q: Are stocks that fall into your Faded Blues category “bad companies” as it pertains to quality? A: Terms like bad and good are subjective… ([Location 2578](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2578))
+    - Tags: [[pink]] 
+- subjectivity so we may view a stock solely on a qualitative basis. A major benefit of using the criteria is that it brings clarity to the universe of over 13,000 publicly traded stocks by eliminating approximately 96 percent of them from investment consideration. This clarity is distilled even further by assigning each Select Blue Chip to its respective category of… ([Location 2582](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2582))
+    - Tags: [[pink]] 
+- the undervalued stocks when we undertake investment considerations for your hard earned capital. The result of this disciplined approach is that we invest in only the best of the best. This also supports our three primary investment objectives: protect your principal, earn an immediate return on investment from dividends and dividend increases… ([Location 2586](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2586))
+    - Tags: [[pink]] 
+- When a stock is moved to the faded-blues category, it is because it no longer meets our strict criteria. Although many of these companies continue to perform without incident, the loss of Select Blue Chip status is often a harbinger of trouble for others. In our opinion, the potential risks outweigh the potential returns in these situations. Q: Should I sell a stock when it is moved to the Faded Blues category? A: In general terms, a move to the Faded ([Location 2590](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2590))
+    - Tags: [[pink]] 
+- Blues category raises the yellow flag of caution. What is required at this point is some discernment about the cause of the downgrade. For some stocks, a downgrade to the Faded Blues is a transitory event, because the company quickly addresses the issue(s) that prompted the downgrade. For other stocks, the downgrade can be the first in a string of negative events. We would suggest a review of recent history to assist in the discernment ([Location 2594](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2594))
+    - Tags: [[pink]] 
+- process. By example, if, prior to the downgrade, a stock is earmarked as a dividend in danger (the dividend exceeds the trailing 12-months earnings) for an extended period of time and its level of debt has been persistently elevated, it may be prudent to eliminate the position. Remember, there is no profitable substitute for quality. Q: When analyzing the… ([Location 2597](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2597))
+    - Tags: [[pink]] 
+- When considering the stocks in the Undervalue category, our analysis begins with the Standard & Poor’s Earnings and Dividends Quality Ranking. This measurement by S&P is a very comprehensive assessment of a company’s ability to consistently generate earnings, which allows them to fund and maintain their dividend. Optimally, we prefer a ranking… ([Location 2601](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2601))
+    - Tags: [[pink]] 
+- not permit a thorough discussion of all the components that are considered by S&P in this assessment, but subscribers who are so inclined can obtain a white paper directly from S&P that discusses each component in detail. Closely following the S&P ranking is the “G” designation, which denotes a remarkable 10 percent average annual dividend growth… ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2605))
+    - Tags: [[pink]] 
+- and generally realize consistent price appreciation. The “BC” number, which represents how many of the six criteria in our Criteria for Select Blue Chips the stock meets, is a number we look at closely. Obviously, we prefer that a stock maintain all six, but many outstanding companies vacillate between five and six. A payout percentage at or below 50 percent (… ([Location 2608](https://readwise.io/to_kindle?action=open&asin=B00371V7DS&location=2608))
+    - Tags: [[pink]]
+

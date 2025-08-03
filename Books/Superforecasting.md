@@ -1,0 +1,1263 @@
+---
+tags:
+  - readwise
+---
+
+# Superforecasting
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51%2BcBe-c2UL._SL200_.jpg)
+
+## Metadata
+- Author: [[Philip Tetlock and Dan Gardner]]
+- Full Title: Superforecasting
+- Category: #books
+
+## Highlights
+- WE ARE ALL forecasters. When we think about changing jobs, getting married, buying a home, making an investment, launching a product, or retiring, we decide based on how we expect the future will unfold. ([Location 41](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=41))
+    - Tags: [[pink]] 
+- These expectations are forecasts. ([Location 43](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=43))
+    - Tags: [[pink]] 
+- Because Bill Flack is a remarkable forecaster. We know that because each one of Bill’s predictions has been dated, recorded, and assessed for accuracy by independent scientific observers. His track record is excellent. Bill is not alone. There are thousands of others answering the same questions. All are volunteers. Most aren’t as good ([Location 69](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=69))
+    - Tags: [[pink]] 
+- as Bill, but about 2% are. They include engineers and lawyers, artists and scientists, Wall Streeters and Main Streeters, professors and students. We will meet many of them, including a mathematician, a filmmaker, and some retirees eager to share their underused talents. I call them superforecasters because that is what they are. Reliable evidence proves it. Explaining why they’re so good, and how others can learn to do what they do, is my goal in this book. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=72))
+    - Tags: [[pink]] 
+- Every day, the news media deliver forecasts without reporting, or even asking, how good the forecasters who made the forecasts really are. Every day, corporations and governments pay for forecasts that may be prescient or worthless or something in between. And every day, all of us—leaders of nations, corporate executives, investors, and voters—make critical decisions on the basis of forecasts whose quality is unknown. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=80))
+    - Tags: [[pink]] 
+- it turns out that forecasting is not a “you have it or you don’t” talent. It is a skill that can be cultivated. This book will show you how. ([Location 87](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=87))
+    - Tags: [[pink]] 
+- I want to spoil the joke, so I’ll give away the punch line: the average expert was roughly as accurate as a dart-throwing chimpanzee. You’ve probably heard that one before. It’s famous—in some circles, infamous. It has popped up in the New York Times, the Wall Street Journal, the Financial Times, the Economist, and other outlets around the world. It goes like this: A researcher gathered a big group ([Location 89](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=89))
+    - Tags: [[pink]] 
+- of experts—academics, pundits, and the like—to make thousands of predictions about the economy, stocks, elections, wars, and other issues of the day. Time passed, and when the researcher checked the accuracy of the predictions, he found that the average expert did about as well as random guessing. Except that’s not the punch… ([Location 93](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=93))
+    - Tags: [[pink]] 
+- chimpanzee. Because chimpanzees are funny. I am that researcher and for a while I didn’t mind the joke. My study was the most comprehensive assessment of expert judgment in the scientific literature. It was a long slog that took about twenty years, from 1984 to 2004, and the results were far richer and more constructive than… ([Location 96](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=96))
+    - Tags: [[pink]] 
+- research (and, yes, scientists savor their fifteen minutes of fame too). And I myself had used the old “dart-throwing chimp” metaphor, so I couldn’t complain too loudly. I also didn’t mind because the joke makes a valid point. Open any newspaper, watch any TV news show, and you find experts who forecast what’s coming. Some are cautious. More… ([Location 99](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=99))
+    - Tags: [[pink]] 
+- into the future. With few exceptions, they are not in front of the cameras because they possess any proven skill at forecasting. Accuracy is seldom even mentioned. Old forecasts are like old news—soon forgotten—and pundits are almost never… ([Location 102](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=102))
+    - Tags: [[pink]] 
+- The one undeniable talent that talking heads have is their skill at telling a compelling story with conviction, and that is enough. Many have become… ([Location 104](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=104))
+    - Tags: [[pink]] 
+- value to corporate executives, government officials, and ordinary people who would never think of swallowing medicine of unknown efficacy and safety but who routinely pay for forecasts that are as… ([Location 105](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=105))
+    - Tags: [[pink]] 
+- It was easiest to beat chance on the shortest-range questions that only required looking one year out, and accuracy fell off the further out experts tried to forecast—approaching the… ([Location 110](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=110))
+    - Tags: [[pink]] 
+- But as in the children’s game of “telephone,” in which a phrase is whispered to one child who passes it on to another, and so on, and everyone is shocked at the end to discover how much it has changed, the actual message was garbled in the constant retelling and the subtleties were lost entirely… ([Location 113](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=113))
+    - Tags: [[pink]] 
+- Some variations were even cruder—like “experts know no more than chimpanzees.” My research had become a backstop reference for nihilists who see the future as inherently unpredictable and know-nothing… ([Location 116](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=116))
+    - Tags: [[pink]] 
+- So I tired of the joke. My research did not support these more extreme conclusions, nor did I feel any affinity for them.… ([Location 118](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=118))
+    - Tags: [[pink]] 
+- Our desire to reach into the future will always exceed our grasp. But debunkers go too far when they dismiss all forecasting as a fool’s errand.… ([Location 121](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=121))
+    - Tags: [[pink]] 
+- the future, at least in some situations and to some extent, and that any intelligent, open-minded, and hardworking person can… ([Location 123](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=123))
+    - Tags: [[pink]] 
+- It is one thing to look backward and sketch a narrative arc, as I did here, connecting Mohamed Bouazizi to all the events that flowed out of his lonely protest. Tom Friedman, like many elite pundits, is skilled at that sort of reconstruction, particularly in the Middle East, which he knows so well, having ([Location 142](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=142))
+    - Tags: [[pink]] 
+- made his name in journalism as a New York Times correspondent in Lebanon. But could even Tom Friedman, if he had been present that fatal morning, have peered into the future and foreseen the self-immolation, the unrest, the toppling of the Tunisian dictator, and all that followed? Of course not. No one could. Maybe, given how much Friedman knew about the region, he would have mused that poverty and unemployment were high, the number of desperate young people was growing, corruption was ([Location 144](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=144))
+    - Tags: [[pink]] 
+- rampant, repression was relentless, and therefore Tunisia and other Arab countries were powder kegs waiting to blow. But an observer could have drawn exactly the same conclusion the year before. And the year before that. Indeed, you could have said that about Tunisia, Egypt, and several other countries for decades. They may have been powder kegs but… ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=147))
+    - Tags: [[pink]] 
+- In 1972 the… ([Location 150](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=150))
+    - Tags: [[pink]] 
+- meteorologist Edward Lorenz wrote a paper with an arresting title: “Predictability: Does the Flap of a Butterfly’s Wings in Brazil Set Off a Tornado in Texas?” A decade earlier, Lorenz had discovered by accident that tiny data entry variations in computer simulations of weather patterns—like replacing 0.506127 with 0.506—could produce dramatically different long-term forecasts. It was… ([Location 150](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=150))
+    - Tags: [[pink]] 
+- changes in initial conditions can mushroom to enormous proportions. So, in principle, a lone butterfly in Brazil could flap its wings and set off a tornado in Texas—even though swarms of other Brazilian butterflies could flap frantically their whole lives and never cause a noticeable gust a few miles away. Of course Lorenz didn’t mean that the butterfly “causes” the tornado in the same sense that I… ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=154))
+    - Tags: [[pink]] 
+- flapped its wings at that moment, the unfathomably complex network of atmospheric actions and reactions would have behaved differently, and the tornado might never have formed—just as the Arab Spring might never have happened, at least not when and as it did, if the police had just… ([Location 158](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=158))
+    - Tags: [[pink]] 
+- Edward Lorenz shifted scientific opinion toward the view that there are hard limits on… ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=160))
+    - Tags: [[pink]] 
+- philosophical question.4 For centuries, scientists had supposed that growing knowledge must lead to greater predictability because reality was like a clock—an awesomely big and complicated clock but still a clock—and the more scientists learned about its innards, how the gears grind together, how the weights and springs function, the better they could capture its… ([Location 161](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=161))
+    - Tags: [[pink]] 
+- and astronomer Pierre-Simon Laplace took this dream to its logical extreme: We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis, it would embrace in a single formula the movements of the… ([Location 165](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=165))
+    - Tags: [[pink]] 
+- the future just like the past would be present… ([Location 169](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=169))
+    - Tags: [[pink]] 
+- Laplace called his imaginary entity a “demon.” If it knew everything about the present, Laplace thought, it could predict everything about the future. It would be omniscient.5 Lorenz poured cold rainwater on that dream. If the clock symbolizes… ([Location 170](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=170))
+    - Tags: [[pink]] 
+- So even if we learn all that is knowable about how clouds form, we will not be able to predict the shape a particular cloud will take. We can only wait and see. In one of history’s great… ([Location 176](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=176))
+    - Tags: [[pink]] 
+- their colleagues a century ago, and possess vastly more data-crunching power, but they are much less confident in the… ([Location 178](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=178))
+    - Tags: [[pink]] 
+- This is a big reason for the “skeptic” half of my “optimistic skeptic” stance. We live in a world where the actions of one nearly powerless man can have ripple effects around the world—ripples that affect us all to varying degrees. A woman… ([Location 179](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=179))
+    - Tags: [[pink]] 
+- and her life has no connection to it, but if she were married to an air force navigator who flies out of the nearby Whiteman Air Force Base, she might be surprised to learn that one obscure Tunisian’s actions led to protests, that led to riots, that led to the toppling of a dictator, that led to protests in Libya, that led to a civil war, that led to the 2012 NATO intervention, that led to… ([Location 181](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=181))
+    - Tags: [[pink]] 
+- connections are harder to spot, but they are all around us, in things like the price we pay at the gas station or the layoffs down the street. In a world where a butterfly in Brazil can make the difference between just another sunny day in Texas and a tornado tearing through a… ([Location 185](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=185))
+    - Tags: [[pink]] 
+- But it is one thing to… ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=188))
+    - Tags: [[pink]] 
+- the limits on predictability, and quite another to dismiss all prediction as an… ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=188))
+    - Tags: [[pink]] 
+- So much of our reality is this predictable, or more so. I just Googled tomorrow’s sunrise and sunset times for Kansas City, Missouri, and got them down to the minute. Those forecasts are ([Location 211](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=211))
+    - Tags: [[pink]] 
+- reliable, whether they are for tomorrow, the day after, or fifty years from now. The same is true of tides, eclipses, and phases of the moon. All can be predicted from clocklike scientific laws with enough precision to satisfy Laplace’s forecasting demon. ([Location 212](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=212))
+    - Tags: [[pink]] 
+- Of course each of these pockets of predictability can be abruptly punctured. ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=214))
+    - Tags: [[pink]] 
+- The same is true of anything else. Even those fifty-year sunrise and sunset forecasts could be off somewhat if, sometime in the next fifty years, a massive space rock bumps Earth off its orbit around the sun. There are no certainties in life—not even death and taxes if we assign a nonzero probability to the invention of technologies that let us upload the contents of our brains into a cloud-computing ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=217))
+    - Tags: [[pink]] 
+- computing network and the emergence of a future society so public-spirited and prosperous that the state can be funded with charitable donations. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=220))
+    - Tags: [[pink]] 
+- Unpredictability and predictability coexist uneasily in the intricately interlocking systems that make up our ([Location 222](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=222))
+    - Tags: [[pink]] 
+- bodies, our societies, and the cosmos. How predictable something is depends on what we are trying to predict, how far into the future, and under what circumstances. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=223))
+    - Tags: [[pink]] 
+- Look at Edward Lorenz’s field. Weather forecasts are typically quite reliable, under most conditions, looking a few days ahead, but they become increasingly less accurate three, four, and five days out. Much beyond a week, we might as well consult that dart-throwing chimpanzee. So we can’t say that ([Location 224](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=224))
+    - Tags: [[pink]] 
+- weather is predictable or not, only that weather is predictable to some extent under some circumstances—and we must be very careful when we try to be more precise than that. Take something as seemingly simple as the relationship between time and predictability: it is generally true that the further we try to look into the future, the harder it is to see. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=226))
+    - Tags: [[pink]] 
+- Laws of physics aside, there are no universal constants, so separating the predictable from the unpredictable is difficult work. There’s no way around it. ([Location 232](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=232))
+    - Tags: [[pink]] 
+- More often forecasts are made and then … nothing. Accuracy is seldom determined after the fact and is almost never done with sufficient regularity and rigor that conclusions can be drawn. The reason? Mostly it’s a demand-side problem: The consumers of forecasting—governments, business, and the public—don’t demand evidence ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=245))
+    - Tags: [[pink]] 
+- of accuracy. So there is no measurement. Which means no revision. And without revision, there can be no improvement. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=248))
+    - Tags: [[pink]] 
+- “I have been struck by how important measurement is to improving the human condition,” Bill Gates wrote. “You can achieve incredible progress if you set a clear goal and find a measure that will drive progress toward that goal. … This may seem basic, but it is amazing how often it is not done and how hard it is to get right.”8 He is ([Location 252](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=252))
+    - Tags: [[pink]] 
+- right about what it takes to drive progress, and it is surprising how rarely it’s done in forecasting. Even that simple first step—setting a clear goal—hasn’t been taken. ([Location 255](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=255))
+    - Tags: [[pink]] 
+- Big as it was, the Good Judgment Project (GJP) was only part of a much larger research effort ([Location 279](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=279))
+    - Tags: [[pink]] 
+- sponsored by the Intelligence Advanced Research Projects Activity (IARPA). Don’t be put off by the bland name. IARPA is an agency within the intelligence community that reports to the director of National Intelligence and its job is to support daring research that promises to make American intelligence better at what it does. And a big part of what American intelligence does is forecast global ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=280))
+    - Tags: [[pink]] 
+- political and economic trends. By one rough estimate, the United States has twenty thousand intelligence analysts assessing everything from minute puzzles to major events such as the likelihood of an Israeli sneak attack on Iranian nuclear facilities or the departure of Greece from the eurozone.9 How good is all this forecasting… ([Location 282](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=282))
+    - Tags: [[pink]] 
+- producers of forecasting, has never been keen on spending money to figure that out. There are various reasons for that reluctance, some more respectable than others, but we’ll get into that later. What matters is that this forecasting is critical to national security and yet little can be said with any confidence about how good it is,… ([Location 286](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=286))
+    - Tags: [[pink]] 
+- people should be. To change that, IARPA created a forecasting tournament in which five scientific teams led by top researchers in the field would compete to generate accurate forecasts on the sorts of tough questions intelligence analysts deal with every day. The Good Judgment Project was one of those five teams. Each team would effectively be… ([Location 289](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=289))
+    - Tags: [[pink]] 
+- required to submit forecasts at 9 a.m. eastern standard time every day from September 2011 to June 2015. By requiring teams to forecast the same questions at the same time, the tournament created a level playing field—and a rich trove of data about what works, how well, and when. Over four years, IARPA posed nearly five hundred… ([Location 292](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=292))
+    - Tags: [[pink]] 
+- vast majority of forecasts extending out more than one month and less than one year. In all, we gathered over one million individual judgments about the future. In year 1, GJP beat the official control group by 60%. In year 2, we beat the control group by 78%. GJP also beat its university-affiliated competitors,… ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=294))
+    - Tags: [[pink]] 
+- even outperformed professional intelligence analysts with access to classified data. After two years, GJP was doing so much better than its academic competitors that IARPA dropped the other teams.10 I’ll delve into details later, but let’s note two key conclusions that emerge from this research. One, foresight is real. Some… ([Location 297](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=297))
+    - Tags: [[pink]] 
+- the power to peer decades into the future, but they do have a real, measurable skill at judging how high-stakes events are likely to unfold three months, six months, a year, or a year and a half in advance. The other conclusion is what makes these superforecasters so good. It’s not really who they are. It is what they do.… ([Location 301](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=301))
+    - Tags: [[pink]] 
+- thinking, of gathering information, of updating beliefs. These habits of thought can be learned and cultivated by any intelligent, thoughtful, determined person. It may not even be all that hard to get started. One result that particularly surprised me was the effect of a tutorial covering some basic… ([Location 304](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=304))
+    - Tags: [[pink]] 
+- appendix. It took only about sixty minutes to read and yet it improved accuracy by roughly 10% through the entire tournament year. Yes, 10% may sound modest, but it was achieved at so little cost. And never forget that even modest improvements in foresight maintained over time add up. I spoke about that with Aaron Brown, an author, a Wall… ([Location 307](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=307))
+    - Tags: [[pink]] 
+- over $100 billion in assets. “It’s so hard to see because it’s not dramatic,” he said, but if it is sustained “it’s the difference between a consistent winner who’s making a living, or the guy who’s going broke all the time.”11 A world-class poker player we will meet soon could not agree more. The difference between heavyweights and amateurs, she… ([Location 310](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=310))
+    - Tags: [[pink]] 
+- And yet, if it’s possible to improve foresight simply by measuring, and if the rewards of improved foresight are substantial, why isn’t measuring standard practice? A big part of the answer to that question lies in the psychology that convinces us we know things we really don’t—things like whether Tom Friedman is an accurate forecaster or… ([Location 314](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=314))
+    - Tags: [[pink]] 
+- medicine. When physicians finally accepted that their experience and perceptions were not reliable means of determining whether a treatment works, they turned to scientific testing—and medicine finally started to make rapid… ([Location 317](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=317))
+    - Tags: [[pink]] 
+- In the late 1980s I worked out a methodology and conducted what was, at the time, the biggest test of expert political forecasting accuracy ever. One result, delivered many years later, was the punch line that now makes me squirm. But another discovery of that research didn’t receive nearly as… ([Location 320](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=320))
+    - Tags: [[pink]] 
+- modest but real foresight. What made the difference between the experts with foresight and those who were so hopeless they dragged the average down to the level of a dart-throwing chimp? It wasn’t some mystical gift or access to information others didn’t have. Nor was it any particular set of beliefs. Indeed, within a… ([Location 323](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=323))
+    - Tags: [[pink]] 
+- So what is it that elevates forecasting to superforecasting? As with the experts who had real foresight in my earlier research, what ([Location 333](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=333))
+    - Tags: [[pink]] 
+- matters most is how the forecaster thinks. I’ll describe this in detail, but broadly speaking, superforecasting demands thinking that is open-minded, careful, curious, and—above all—self-critical. It also demands focus. The kind of thinking that produces superior judgment does not come effortlessly. Only the determined can deliver it reasonably consistently, which is why our analyses have consistently ([Location 334](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=334))
+    - Tags: [[pink]] 
+- found commitment to self-improvement to be the strongest… ([Location 337](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=337))
+    - Tags: [[pink]] 
+- A FORECAST ABOUT FORECASTING But maybe you think this is all hopelessly outdated. After all, we live in an era of dazzlingly powerful computers, incomprehensible algorithms, and Big Data. At its core, the forecasting I study involves subjective judgment: it is people thinking and deciding,… ([Location 340](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=340))
+    - Tags: [[pink]] 
+- In 1954, a brilliant psychologist, Paul Meehl wrote a small book that caused a big stir.12 It reviewed twenty studies showing that well-informed experts predicting outcomes—whether a student would succeed in college or a parolee would be sent back to prison—were not as accurate as simple algorithms that added up objective… ([Location 344](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=344))
+    - Tags: [[pink]] 
+- experts, but subsequent research—now more than two hundred studies—has shown that in most cases statistical algorithms beat subjective judgment, and in the handful of studies where they don’t, they usually tie. Given that algorithms are quick and cheap, unlike subjective judgment, a tie supports using the algorithm. The point… ([Location 347](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=347))
+    - Tags: [[pink]] 
+- This insight was never a threat to the reign of subjective judgment because we so rarely have well-validated algorithms for the problem at hand. It was just impractical for math to displace plain old thinking—in 1954 and even today. But spectacular advances in information technology suggest we are… ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=350))
+    - Tags: [[pink]] 
+- IBM’s Deep Blue beat chess champion Garry Kasparov. Now, commercially available chess programs can beat any human. In 2011 IBM’s Watson beat Jeopardy! champions Ken Jennings and Brad Rutter. That was a vastly tougher computing challenge, but Watson’s engineers did it. Today, it’s no longer impossible to imagine… ([Location 353](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=353))
+    - Tags: [[pink]] 
+- superpundits alike. After that happens, there will still be human forecasters, but like human Jeopardy! contestants, we will only watch them for entertainment. So I spoke to Watson’s chief engineer, David Ferrucci. I was sure that Watson could easily field a question about the present or past like “Which two Russian leaders… ([Location 356](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=356))
+    - Tags: [[pink]] 
+- will take for Watson or one of its digital descendants to field questions like “Will two top Russian leaders trade jobs in the next ten years?” In 1965 the polymath Herbert Simon thought we were only twenty years away from a world in which machines could do “any work a man can do,” which is the sort of naively optimistic thing people… ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=359))
+    - Tags: [[pink]] 
+- for thirty years—is more cautious today.13 Computing is making enormous strides, Ferrucci noted. The ability to spot patterns is growing spectacularly. And machine learning, in combination with burgeoning human-machine interactions that feed the learning process, promises far more fundamental advances to come. “It’s going to be one… ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=362))
+    - Tags: [[pink]] 
+- But there is a vast difference between “Which two Russian leaders traded jobs?” and “Will two Russian leaders trade jobs again?” The former is a historical fact. The computer can look it up. The latter requires the computer to make an informed guess about the intentions of Vladimir Putin, the character of Dmitri Medvedev, and the causal… ([Location 366](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=366))
+    - Tags: [[pink]] 
+- do that sort of thing all the time, but that doesn’t make it easy. It means the human brain is wondrous—because the task is staggeringly hard. Even with computers making galloping advances, the sort of forecasting that superforecasters do is a long way off. And Ferrucci isn’t sure we will ever see a human under glass at the… ([Location 369](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=369))
+    - Tags: [[pink]] 
+- human meaning,” and thereby better at predicting human behavior, but “there’s a difference between mimicking and reflecting meaning and originating meaning,” Ferrucci said. That’s a space human judgment will always occupy. In forecasting, as in other fields, we will continue to see human judgment being displaced—to the… ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=373))
+    - Tags: [[pink]] 
+- “freestyle chess,” in which humans with computers compete as teams, the human drawing on the computer’s indisputable strengths but also occasionally overriding the computer. The result is a combination that can (sometimes) beat both humans and machines. To re-frame the man-versus-machine… ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=376))
+    - Tags: [[pink]] 
+- pure-human or pure-machine approaches. What Ferrucci does see becoming obsolete is the guru model that makes so many policy debates so puerile: “I’ll counter your Paul Krugman polemic with my Niall Ferguson counterpolemic, and rebut your Tom Friedman op-ed with my Bret Stephens blog.” Ferrucci sees light at the end of… ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=378))
+    - Tags: [[pink]] 
+- to listen to the advice of experts whose views are informed only by their subjective judgment. Human thought is beset by psychological pitfalls, a fact that has only become widely recognized in the last decade or two. “So what I want is that human expert paired with a computer to overcome the human cognitive limitations and… ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=382))
+    - Tags: [[pink]] 
+- forecasting and subjective judgment in the future. So it’s time we got… ([Location 385](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=385))
+    - Tags: [[pink]] 
+- WHEN THE DERMATOLOGIST saw spots on the back of the patient’s hand, he was suspicious and removed a bit of skin. A pathologist confirmed it… ([Location 388](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=388))
+    - Tags: [[pink]] 
+- didn’t panic. He too was a physician. He knew this form of cancer seldom spreads. The carcinoma was removed and, as a precaution, the patient arranged to see a big-name specialist. The specialist discovered a lump in the patient’s right armpit, or axilla. How long had it been there? The patient didn’t know. The specialist said it should come out. The patient… ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=389))
+    - Tags: [[pink]] 
+- disagree? The surgery was booked. When the anesthesia wore off and the patient awoke, he was surprised to find his whole chest wrapped in bandages. The specialist arrived. His expression was grim. “I must tell you the truth,” he began. “Your axilla is full of cancerous tissue. I have done my best to excise it and have removed your pectoralis minor but I may well… ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=393))
+    - Tags: [[pink]] 
+- specialist made all too clear, the patient hadn’t long to live. “For a moment the world seemed to end,” the patient later wrote. “After a short period of surprise and shock I turned as far as I could on my side and sobbed unashamedly. I do not remember much about the rest of the day.” The next morning, with a clear mind, “I worked out a simple plan of how I would spend my remaining time.… ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=397))
+    - Tags: [[pink]] 
+- days that followed, visitors came to offer the patient whatever comfort they could. He found it all rather awkward. “It was soon clear that they were more embarrassed than I was,” he wrote.2 He was dying. That was a fact. One had to keep calm and do what one must. There was no use blubbering. This melancholy moment happened in 1956 but the patient, Archie Cochrane, did not… ([Location 401](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=401))
+    - Tags: [[pink]] 
+- was wrong. Cochrane didn’t have terminal cancer. He didn’t have cancer at all, as a pathologist discovered when he examined the tissue removed during surgery. Cochrane was as shocked by his reprieve as by his death sentence. “I had been told that the pathologist had not yet reported,… ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=405))
+    - Tags: [[pink]] 
+- We have all been too quick to make up our minds and too slow to change them. And if we don’t examine how we make these mistakes, we will keep making them. This stagnation can go on for years. Or a… ([Location 411](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=411))
+    - Tags: [[pink]] 
+- and wretched history of medicine… ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=413))
+    - Tags: [[pink]] 
+- The “long” part is obvious enough. People have been trying to make the sick well for as long as people have been getting sick. But “wretched”? That is less obvious, even for readers familiar with the history of medicine, because “most histories of… ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=414))
+    - Tags: [[pink]] 
+- Burch noted. “They provide a clear account of what people believed they were doing, but almost none at all… ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=416))
+    - Tags: [[pink]] 
+- Until quite recently in historical terms, it was not unusual for a sick person to be better off if there was no physician available because letting an illness take its natural course was less dangerous than what a physician would inflict. ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=422))
+    - Tags: [[pink]] 
+- What medicine lacked was doubt. “Doubt is not a fearful thing,” Feynman observed, “but a thing of very great value.”10 It’s what propels science forward. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=480))
+    - Tags: [[pink]] 
+- When the scientist tells you he does not know the answer, he is an ignorant man. When he tells you he has a hunch about how it is going to work, he is uncertain about it. When he is pretty sure of how it is going to work, and he tells you, “This is the way it’s going to work, I’ll bet,” he still is in some doubt. And it is of paramount importance, in order to make progress, that we recognize this ignorance and this doubt. Because we have the doubt, we then propose looking in new directions for new ideas. The rate of the development of science is not the rate at which you make observations alone but, much more important, the rate at which you create new things to test.11 ([Location 482](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=482))
+    - Tags: [[pink]] 
+    - Note: important
+- Cochrane’s frustration is palpable in his autobiography. Why couldn’t people see that intuition alone was no basis for firm conclusions? It was “ ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=520))
+    - Tags: [[pink]] 
+- Yet when this skeptical scientist was told by an eminent ([Location 522](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=522))
+    - Tags: [[pink]] 
+- physician that his body was riddled with cancer and he should prepare to die, Archie Cochrane meekly acquiesced. He did not think, “That’s just one man’s subjective judgment, it could be wrong, so I’ll wait for the pathologist’s report. And why did the surgeon cut out my muscle before hearing from the pathologist, anyway?”12 Cochrane treated the physician’s conclusion… ([Location 522](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=522))
+    - Tags: [[pink]] 
+- that much more than intuition is needed before we draw firm conclusions. It is so obviously true. Why did people resist it? Why, specifically, did the specialist not think to wait to hear from the pathologist before removing a swath of Cochrane’s flesh? Then there is the puzzle of Cochrane himself. Why did a man who stressed the… ([Location 527](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=527))
+    - Tags: [[pink]] 
+- THINKING ABOUT THINKING It is natural to identify our thinking with the ideas, images, plans, and feelings that flow through consciousness. What else could it be? If I ask, “Why did you buy that car?” you can trot out reasons: “Good mileage. Cute style. Great price.” But you can only share thoughts by introspecting; that is, by turning… ([Location 530](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=530))
+    - Tags: [[pink]] 
+- only capture a tiny fraction of the complex processes whirling inside your head—and behind your decisions. In describing how we think and decide, modern psychologists often deploy a dual-system model that partitions our mental universe into two domains. System 2 is the familiar realm of conscious thought. It consists of everything we choose to focus on.… ([Location 533](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=533))
+    - Tags: [[pink]] 
+- and cognitive operations—like those you are running right now to transform the print on this page into a meaningful sentence or to hold the book while reaching for a glass and taking a sip. We have no awareness of these rapid-fire processes but we could not function without them. We would shut down. The numbering of the two systems is not arbitrary. System 1 comes first. It… ([Location 536](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=536))
+    - Tags: [[pink]] 
+- the answer, it sprang from System 1. System 2 is charged with interrogating that answer. Does it stand up to scrutiny? Is it backed by evidence? This process takes time and effort, which is why the standard routine in decision making is this: first System 1 delivers an answer, and only then can System 2 get involved, starting with an examination of what System 1 decided.… ([Location 540](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=540))
+    - Tags: [[pink]] 
+- ball together cost $1.10. The bat costs a dollar more than the ball. How much does the ball cost?” If you are like just about everybody who has ever read this famous question, you instantly had an answer: “Ten cents.” You didn’t think carefully to get that. You didn’t calculate anything. It just appeared. For that, you can thank System 1. Quick and easy, no effort required. But is “ten cents”… ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=543))
+    - Tags: [[pink]] 
+- thought is demanding. Thinking the problem through requires sustained focus and takes an eternity relative to the snap judgment you got with a quick look. Second, “ten cents” is wrong. It feels right. But it’s wrong. In fact, it’s obviously wrong—if you give it a sober second thought. The bat-and-ball question is one item in an ingenious psychological measure,… ([Location 547](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=547))
+    - Tags: [[pink]] 
+- aren’t very reflective. They read the question, think “ten cents,” and scribble down “ten cents” as their final answer without thinking carefully. So they never discover the mistake, let alone come up with the correct answer (five cents). That is normal human behavior. We tend to go with strong… ([Location 551](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=551))
+    - Tags: [[pink]] 
+- In the Paleolithic world in which our brains evolved, that’s not a bad way of making… ([Location 554](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=554))
+    - Tags: [[pink]] 
+- and mulling it over may be the best way to produce accurate answers, but a hunter-gatherer who consults statistics on lions before deciding whether to worry about the shadow moving in the grass isn’t likely to live long enough to bequeath his accuracy-maximizing genes to the next generation. Snap judgments are sometimes essential. As Daniel Kahneman puts it, “… ([Location 555](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=555))
+    - Tags: [[pink]] 
+- the long grass? Should you worry? Well, can you recall a lion emerging from the grass and pouncing on someone? If that memory comes to you easily—it is not the sort of thing people tend to forget—you will conclude lion attacks are common. And then start to worry. Spelling out this process makes it sound ponderous, slow, and calculating but it can happen entirely within… ([Location 559](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=559))
+    - Tags: [[pink]] 
+- Snap! You are frightened—and running. That’s the “availability heuristic,” one of many System 1 operations—or heuristics—discovered by Daniel Kahneman, his collaborator Amos Tversky, and other researchers… ([Location 562](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=562))
+    - Tags: [[pink]] 
+- A defining feature of intuitive judgment is its insensitivity to the quality of the evidence on which the judgment is based. It has to be that way. System 1 can only do its job… ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=564))
+    - Tags: [[pink]] 
+- speed if it never pauses to wonder whether the evidence at hand is flawed or inadequate, or if there is better evidence elsewhere. It must treat the available evidence as reliable and sufficient. These tacit assumptions are so vital to System 1 that Kahneman gave them an… ([Location 566](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=566))
+    - Tags: [[pink]] 
+- Of course, System 1 can’t conclude whatever it wants. The human brain demands order. The… ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=569))
+    - Tags: [[pink]] 
+- which means we must be able to explain what we see and think. And we usually can—because we are creative confabulators hardwired to invent stories that impose coherence on the world. Imagine you’re sitting at a table in a research lab, looking at rows of pictures. You pick one, a picture of a shovel. Why are you pointing at that? Of course you can’t answer without more information. But if you… ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=570))
+    - Tags: [[pink]] 
+- know” would be a lot harder than you might think. Sane people are expected to have sensible-sounding reasons for their actions. It is awkward to tell others, especially whitelab-coated neuroscientists, “I have no idea why—I just am.” In celebrated research, Michael Gazzaniga designed a bizarre situation in which sane people did indeed have no idea why they were doing what… ([Location 574](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=574))
+    - Tags: [[pink]] 
+- hemispheres of their brains could not communicate with each other because the connection between them, the corpus callosum, had been surgically severed (traditionally as a treatment for severe epilepsy). These people are remarkably normal, but their condition allows researchers to communicate directly with only one hemisphere of their brain—by showing an… ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=577))
+    - Tags: [[pink]] 
+- hemisphere. It’s like talking to two different people. In this case, the left field of vision (which reports to the right hemisphere) was shown a picture of a snowstorm and the person was asked to point to the picture that related to it. So he quite reasonably pointed at the shovel. The right field of vision (which reports to the left hemisphere) was shown an image of a chicken claw—and the person… ([Location 580](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=580))
+    - Tags: [[pink]] 
+- didn’t say “I don’t know.” Instead, he made up a story: “Oh, that’s simple,” one patient said. “The chicken claw goes with the chicken, and you need a shovel to clean out the chicken shed.”15 This compulsion to explain arises with clocklike regularity every time a stock market closes and a journalist says something like “The Dow rose ninety-five points today on news that …” A quick check will often… ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=584))
+    - Tags: [[pink]] 
+- minimal level of scrutiny is seldom applied. It’s a rare day when a journalist says, “The market rose today for any one of a hundred different reasons, or a mix of them, so no one knows.” Instead, like a split-brain patient asked why he is pointing at a picture of a shovel when he has no idea why, the journalist conjures a plausible story from whatever is at hand. The explanatory urge… ([Location 588](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=588))
+    - Tags: [[pink]] 
+- reality. The problem is that we move too fast from confusion and uncertainty (“I have no idea why my hand is pointed at a picture of a shovel”) to a clear and confident conclusion (“Oh, that’s simple”) without spending any time in… ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=592))
+    - Tags: [[pink]] 
+- Scientists must be able to answer the question “What would convince me I am wrong?” If they can’t, it’s a sign they have grown too attached to their beliefs. ([Location 613](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=613))
+    - Tags: [[pink]] 
+- The key is doubt. Scientists can feel just as strongly as anyone else that they know The Truth. ([Location 615](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=615))
+    - Tags: [[pink]] 
+- But they know they must set that feeling aside and replace it with finely measured degrees of… ([Location 615](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=615))
+    - Tags: [[pink]] 
+- reduced (although never to zero) by better evidence from better studies. Such scientific caution runs against the grain of human nature. As the post-Oslo speculation reveals, our natural inclination is to grab on to the first plausible explanation and happily gather supportive evidence without checking its reliability. That is what psychologists call… ([Location 616](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=616))
+    - Tags: [[pink]] 
+- evidence is shoved under our noses we become motivated skeptics—finding reasons, however tenuous, to belittle… ([Location 619](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=619))
+    - Tags: [[pink]] 
+- 16 Recall Galen’s sublime confidence that his wonderful treatment cured everyone who took it except the “incurable cases” who died. That was pure confirmation bias: “If the patient is cured, it is evidence my treatment works; if the patient dies, it means… ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=621))
+    - Tags: [[pink]] 
+- complicated world, but it’s a superb way to satisfy the brain’s desire for order because it yields tidy explanations with no loose ends. Everything is clear, consistent, and settled. And the fact that “it all fits” gives us confidence that we know the truth. “It is wise to take admissions of uncertainty seriously,” Daniel Kahneman noted, “but declarations of high confidence mainly tell you… ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=624))
+    - Tags: [[pink]] 
+- true.… ([Location 627](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=627))
+    - Tags: [[pink]] 
+- When the eminent specialist cut into Archie Cochrane’s armpit, he saw tissue that appeared riddled with cancer. Was it? It made sense that it would be. There was the lump in the patient’s armpit. The carcinoma on his hand. And years before, Cochrane had been involved in research that had exposed him to… ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=629))
+    - Tags: [[pink]] 
+- all fit. This was cancer. No doubt about it. And no need to wait for the pathologist’s report before removing one of Cochrane’s muscles and advising the patient that he hadn’t long to live. Archie Cochrane’s skeptical defenses folded because Cochrane found the specialist’s story as intuitively compelling as the specialist did. But another mental process was likely at work, as well. Formally, it’s… ([Location 631](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=631))
+    - Tags: [[pink]] 
+- surreptitiously replace it with an easy one. “Should I worry about the shadow in the long grass?” is a hard question. Without more data, it may be unanswerable. So we substitute an easier question: “Can I easily recall a lion attacking someone from the long grass?” That question becomes a proxy for the original question and if the answer is yes to the second question, the answer to the first also… ([Location 635](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=635))
+    - Tags: [[pink]] 
+- maneuver. And just as the availability heuristic is usually an unconscious System 1 activity, so… ([Location 639](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=639))
+    - Tags: [[pink]] 
+- But Archie Cochrane was no ordinary fellow. He was a prominent physician. He knew that the pathologist hadn’t reported. He knew better than anyone that physicians are often too sure of themselves and that ([Location 645](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=645))
+    - Tags: [[pink]] 
+- this “God complex” can lead them to make terrible mistakes. And yet he immediately accepted that what the specialist said was the true and final word—because, I suspect, Cochrane unconsciously substituted “Is this the sort of person who should know if I have cancer?” for the question “Do I have cancer?” The answer was “Of course! He is an eminent cancer specialist. He saw the cancerous flesh with his own eyes. This is exactly the sort of person who should know whether I have ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=647))
+    - Tags: [[pink]] 
+- cancer.” So Cochrane acquiesced. ([Location 650](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=650))
+    - Tags: [[pink]] 
+- We could call this automatic, nearly effortless mode of thinking about the world the default setting, but that won’t do. “Default” suggests we can flip the switch to something else. We can’t. Like it or not, System 1 operations keep humming, nonstop, beneath the babbling brook of consciousness. ([Location 654](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=654))
+    - Tags: [[pink]] 
+- This perspective is subjective, unique to each of us. Only you can see the world from the tip of your own nose. So let’s call it the tip-of-your-nose perspective. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=658))
+    - Tags: [[pink]] 
+- As imperfect as the view from the tip of your nose may be, you shouldn’t discount it entirely. Popular books often draw a dichotomy between intuition and analysis—“blink” versus “think”—and pick one or the other as the way to go. I am more ([Location 660](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=660))
+    - Tags: [[pink]] 
+- of a thinker than a blinker, but blink-think is another false dichotomy. The choice isn’t either/or, it is how to blend them in evolving situations. That conclusion is not as inspiring as a simple exhortation to take one path or the other, but it has the advantage of being true, as the pioneering researchers behind both perspectives came to understand. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=662))
+    - Tags: [[pink]] 
+- While Daniel Kahneman and Amos Tversky were documenting System 1’s failings, another psychologist, Gary ([Location 664](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=664))
+    - Tags: [[pink]] 
+- Klein, was examining decision making among professionals like the commanders of firefighting teams, and discovering that snap judgments can work astonishingly well. One commander told Klein about going to a routine kitchen fire and ordering his men to stand in the living room and hose down the flames. The fire subsided at first but roared back. The commander was baffled. He also noticed the living room was surprisingly hot given the size of the kitchen fire. And why was it ([Location 665](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=665))
+    - Tags: [[pink]] 
+- so quiet? A fire capable of generating that much heat should make more noise. A vague feeling of unease came over the commander and he ordered everyone out of the house. Just as the firefighters reached the street, the floor in the living room collapsed—because the real source of the fire was in the basement, not the kitchen. How had the commander known they were in terrible danger? He told Klein he had ESP (extrasensory perception), but that was just a ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=668))
+    - Tags: [[pink]] 
+- story he told himself to cover up the fact that he didn’t know how he knew. He just knew—the hallmark of an intuitive judgment. ([Location 672](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=672))
+    - Tags: [[pink]] 
+- Drawing such seemingly different conclusions about snap judgments, Kahneman and Klein could have hunkered down and fired off rival polemics. But, like good scientists, they got together to solve the puzzle. “We agree on most of the issues that matter,” they concluded in a 2009 paper.19 ([Location 673](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=673))
+    - Tags: [[pink]] 
+- There is nothing mystical ([Location 676](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=676))
+    - Tags: [[pink]] 
+- about an accurate intuition like the fire commander’s. It’s pattern recognition. With training or experience, people can encode patterns deep in their memories in vast number and intricate detail—such as the estimated fifty thousand to one hundred thousand chess positions that top players have in their repertoire.20 If something doesn’t fit a pattern—like a kitchen fire giving off more heat than a kitchen fire should—a competent expert senses it immediately. But as we see every ([Location 676](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=676))
+    - Tags: [[pink]] 
+- time someone spots the Virgin Mary in burnt toast or in mold on a church wall, our pattern-recognition ability comes at the cost of susceptibility to false positives. This, plus the many other ways in which the tip-of-your-nose perspective can generate perceptions that are clear, compelling, and wrong, means intuition can fail as spectacularly as it can work. ([Location 680](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=680))
+    - Tags: [[pink]] 
+- Whether intuition generates delusion or insight depends on whether you work in a world full of valid cues you can ([Location 683](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=683))
+    - Tags: [[pink]] 
+- unconsciously register for future use. “For example, it is very likely that there are early indications that a building is about to collapse in a fire or that an infant will soon show obvious symptoms of infection,” Kahneman and Klein wrote. “On the other hand, it is unlikely that there is publicly available information that could be used to predict how well a particular stock will do—if such valid information existed, the price of the stock would already reflect it. Thus, we have more reason to ([Location 683](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=683))
+    - Tags: [[pink]] 
+- trust the intuition of an experienced fireground commander about the stability of a building, or the intuitions of a nurse about an infant, than to trust the intuitions of a stock broker. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=687))
+    - Tags: [[pink]] 
+- But there is a catch. As Kahneman and Klein noted, it’s often hard to know when there are enough valid cues to make intuition work. And even where it clearly can, caution is advisable. “Often, I cannot explain a certain move, only ([Location 693](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=693))
+    - Tags: [[pink]] 
+- know that it feels right, and it seems that my intuition is right more often than not,” observed the Norwegian prodigy Magnus Carlsen, the world chess champion and the highest-ranked player in history. “If I study a position for an hour then I am usually going in loops and I’m probably not going to come up with something useful. I usually know what I am going to do after 10 seconds; the rest is double-checking.”23 Carlsen respects his intuition, as well he should, but he also does a lot of ([Location 695](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=695))
+    - Tags: [[pink]] 
+- “double-checking” because he knows that sometimes intuition can let him down and conscious thought can improve his judgment. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=699))
+    - Tags: [[pink]] 
+- That’s excellent practice. The tip-of-your-nose perspective can work wonders but it can also go terribly awry, so if you have the time to think before making a big decision, do so—and be prepared to accept that what seems obviously true now may turn out to be false later. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=700))
+    - Tags: [[pink]] 
+- All too often, forecasting in the twenty-first century looks too much like nineteenth-century medicine. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=713))
+    - Tags: [[pink]] 
+- Although bad forecasting rarely leads as obviously to harm as does bad medicine, it steers us subtly toward bad decisions and all that flows from them—including monetary losses, missed opportunities, unnecessary suffering, even war and death. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=715))
+    - Tags: [[pink]] 
+- Happily, physicians now know ([Location 717](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=717))
+    - Tags: [[pink]] 
+- the cure for all this. It is a tablespoon of doubt. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=717))
+    - Tags: [[pink]] 
+- Judging forecasts is much harder than often supposed, a lesson I learned the hard way— ([Location 772](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=772))
+    - Tags: [[pink]] 
+- from extensive and exasperating experience. ([Location 772](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=772))
+    - Tags: [[pink]] 
+- But then the train of history hit a curve, and as Karl Marx once quipped, when that happens, the intellectuals fall off. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=795))
+    - Tags: [[pink]] 
+- But tip-of-your-nose delusions can ([Location 814](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=814))
+    - Tags: [[pink]] 
+- fool anyone, even the best and the brightest—perhaps especially the best and the brightest. ([Location 814](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=814))
+    - Tags: [[pink]] 
+- Obviously, a forecast without a time frame is absurd. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=820))
+    - Tags: [[pink]] 
+- That’s why forecasts without timelines don’t appear absurd when they are made. But as time passes, memories fade, and tacit time frames that once seemed obvious to all become less so. The result is often a tedious dispute about the “real” meaning of the forecast. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=822))
+    - Tags: [[pink]] 
+- Similarly, forecasts often rely on implicit understandings of key terms rather than explicit definitions ([Location 826](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=826))
+    - Tags: [[pink]] 
+- This sort of vague verbiage is more the rule than the exception. ([Location 828](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=828))
+    - Tags: [[pink]] 
+- Hence forecasting is all about estimating the likelihood of something ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=847))
+    - Tags: [[pink]] 
+- happening, ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=847))
+    - Tags: [[pink]] 
+- People liked clarity and precision in principle but when it came time to make clear and precise forecasts they weren’t so keen on numbers. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=890))
+    - Tags: [[pink]] 
+- A more serious objection—then and now—is that expressing a probability estimate with a number may imply to the reader that it is an objective fact, not the subjective judgment it is. That is a danger. But the answer ([Location 895](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=895))
+    - Tags: [[pink]] 
+- is not to do away with numbers. It’s to inform readers that numbers, just like words, only express estimates—opinions—and nothing more. ([Location 896](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=896))
+    - Tags: [[pink]] 
+- And they have another benefit: vague thoughts are easily expressed with vague language but when forecasters are forced to translate terms like “serious possibility” into numbers, they have to think carefully about how they are thinking, a process known as metacognition. ([Location 900](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=900))
+    - Tags: [[pink]] 
+- Forecasters who practice get better at distinguishing finer degrees of uncertainty, just as artists get better at distinguishing subtler shades of gray. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=902))
+    - Tags: [[pink]] 
+- If we are serious about measuring and improving, this won’t do. Forecasts must have clearly defined terms and timelines. They must use numbers. And one more thing is essential: we must have lots of forecasts. ([Location 939](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=939))
+    - Tags: [[pink]] 
+- her forecasting is perfect, rain happens 70% of the time when she says there is 70% chance of rain, 30% of the time when she says there is 30% chance of rain, and so on. This is called calibration. It can be plotted on a simple chart. Perfect calibration is captured by the diagonal line on this chart: ([Location 943](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=943))
+- The math behind this system was developed by Glenn W. Brier in 1950, hence results are called Brier scores. In effect, Brier scores measure the distance between what you forecast and what actually happened. So Brier scores are like golf scores: lower is better. Perfection is 0. A hedged fifty-fifty call, or random guessing in the aggregate, will produce a Brier score of 0.5. A forecast that is wrong to the greatest possible extent—saying there is a 100% chance that something will happen and it ([Location 977](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=977))
+    - Tags: [[pink]] 
+- doesn’t, every time—scores a disastrous 2.0, as far from The Truth as it is possible to get.17 ([Location 981](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=981))
+    - Tags: [[pink]] 
+- Not quite. Remember that the whole point of this exercise is to judge the accuracy of forecasts so we can then figure out what works in forecasting and what doesn’t. To do that, we have to interpret the meaning of the Brier scores, which requires two more things: benchmarks and comparability. ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=985))
+    - Tags: [[pink]] 
+- What a Brier score means depends on what’s being forecast. For instance, it’s quite easy to imagine circumstances where a Brier score of 0.2 would be disappointing. Consider the weather in Phoenix, Arizona. Each June, it gets very hot and sunny. A forecaster who followed a mindless rule like, “always assign 100% to hot and sunny ([Location 989](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=989))
+    - Tags: [[pink]] 
+- could get a Brier score close to 0, ([Location 992](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=992))
+    - Tags: [[pink]] 
+- leaving 0.2 in the dust. Here, the right test of skill would be whether a forecaster can do better than mindlessly predicting no change. This is an underappreciated point. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=992))
+    - Tags: [[pink]] 
+- Another key benchmark is other forecasters. Who can beat everyone else? Who can beat the consensus forecast? How do they pull it off? Answering these ([Location 998](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=998))
+    - Tags: [[pink]] 
+- questions requires comparing Brier scores, which, in turn, requires a level playing field. Forecasting the weather in Phoenix is just plain easier than forecasting the weather in Springfield, Missouri, where weather is notoriously variable, so comparing the Brier scores of a Phoenix meteorologist with those of a Springfield meteorologist would be unfair. A 0.2 Brier score in Springfield could be a sign that you are a world-class meteorologist. It’s a simple point, with a big ([Location 999](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=999))
+    - Tags: [[pink]] 
+- implication: dredging up old forecasts from newspapers will seldom yield apples-to-apples comparisons because, outside of tournaments, real-world forecasters seldom predict exactly the same developments over exactly the same time period. ([Location 1002](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1002))
+    - Tags: [[pink]] 
+- Add it all up and we are ready to roll. Like Archie Cochrane and other pioneers of evidence-based medicine, we must run carefully crafted experiments. Assemble forecasters. Ask them large numbers of questions with ([Location 1004](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1004))
+    - Tags: [[pink]] 
+- precise time frames and unambiguous language. Require that forecasts be expressed using numerical probability scales. And wait for time to pass. If the researchers have done their jobs, the results will be clear. The data can be analyzed and the key questions—How good are the forecasters? Who are the best? What sets them apart?—can be answered. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1005))
+    - Tags: [[pink]] 
+- In total, our experts made roughly twenty-eight thousand predictions. Asking questions took years. Then came the waiting, a test of patience for even the tenured. I began the experiment when Mikhail Gorbachev and the Soviet Politburo were key players shaping the fate of the world; by the time I started to write up the results, the USSR existed only on historical maps and Gorbachev was doing commercials for Pizza Hut. The final results appeared in 2005—twenty-one years, six ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1022))
+    - Tags: [[pink]] 
+- presidential elections, and three wars after I sat on the National Research Council panel that got me thinking about forecasting. I published them in the academic treatise Expert Political Judgment: How Good Is It? How Can We Know? To keep things simple, I’ll call this whole research program “EPJ.” AND THE RESULTS … If you didn’t know the punch line of EPJ before you read this book, you do now: the average ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1026))
+    - Tags: [[pink]] 
+- expert was roughly as accurate as a dart-throwing chimpanzee. But as students are warned in introductory statistics classes, averages can obscure. Hence the old joke about statisticians sleeping with their feet in an oven and their head in a freezer because the average temperature is comfortable. ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1029))
+    - Tags: [[pink]] 
+- So why did one group do better than the other? It wasn’t whether they had PhDs or access to classified information. Nor was it what they thought— ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1035))
+    - Tags: [[pink]] 
+- whether they were liberals or conservatives, optimists or pessimists. The critical factor was how they thought. ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1036))
+    - Tags: [[pink]] 
+- Decades ago, the philosopher Isaiah Berlin wrote a much-acclaimed ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1051))
+    - Tags: [[pink]] 
+- acclaimed but rarely read essay that compared the styles of thinking of great authors through the ages. To organize his observations, he drew on a scrap of 2,500-year-old Greek poetry attributed to the warrior-poet Archilochus: “The fox knows many things but the hedgehog knows one big thing.” No one will ever know whether Archilochus was on the side of the fox or the hedgehog but Berlin favored foxes. I felt no need to take sides. I just liked the metaphor because it captured ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1051))
+    - Tags: [[pink]] 
+- something deep in my data. I dubbed the Big Idea experts “hedgehogs” and the more eclectic experts “ ([Location 1054](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1054))
+    - Tags: [[pink]] 
+- Foxes beat hedgehogs. And the foxes didn’t just win by acting like chickens, playing it safe with 60% and 70% forecasts where hedgehogs boldly went with 90% and 100%. Foxes beat hedgehogs on both calibration and resolution. Foxes had real foresight. Hedgehogs didn ([Location 1055](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1055))
+    - Tags: [[pink]] 
+- But the hedgehog also “knows one big thing,” the Big ([Location 1077](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1077))
+    - Tags: [[pink]] 
+- Idea he uses over and over when trying to figure out what will happen next. Think of that Big Idea like a pair of glasses that the hedgehog never takes off. The hedgehog sees everything through those glasses. And they aren’t ordinary glasses. They’re green-tinted glasses—like the glasses that visitors to the Emerald City were required to wear in L. Frank Baum’s The Wonderful Wizard of Oz. Now, wearing green-tinted glasses may sometimes be helpful, in that they accentuate something ([Location 1078](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1078))
+    - Tags: [[pink]] 
+- real that might otherwise be overlooked. Maybe there is just a trace of green in a tablecloth that a naked eye might miss, or a subtle shade of green in running water. But far more often, green-tinted glasses distort reality. Everywhere you look, you see green, whether it’s there or not. And very often, it’s not. The Emerald City wasn’t even emerald in the fable. People only thought it was… ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1081))
+    - Tags: [[pink]] 
+- foresight. It distorts it. And more information doesn’t help because it’s all seen through the same tinted glasses. It may increase the hedgehog’s confidence, but not his accuracy. That’s a bad combination. The predictable result? When hedgehogs in the EPJ research made forecasts on the subjects they knew the most about—their own specialties—their accuracy declined. The… ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1085))
+    - Tags: [[pink]] 
+- in trouble, he didn’t see what others did. He couldn’t. Everything… ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1088))
+    - Tags: [[pink]] 
+- Not that being wrong hurt Kudlow’s career. In January 2009, with the American economy in a crisis worse than any since the Great Depression, Kudlow’s new show, The Kudlow Report, premiered on CNBC. That too is consistent with the EPJ data, which revealed an inverse correlation between fame and accuracy: the… ([Location 1089](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1089))
+    - Tags: [[pink]] 
+- producers, and the public go looking for bad forecasters. They go looking for hedgehogs, who just… ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1092))
+    - Tags: [[pink]] 
+- And so, as EPJ showed, hedgehogs are likelier to say something definitely… ([Location 1096](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1096))
+    - Tags: [[pink]] 
+- The simplicity and confidence of the hedgehog impairs foresight, but it calms nerves—which is good… ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1098))
+    - Tags: [[pink]] 
+- Foxes don’t fare so well… ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1099))
+    - Tags: [[pink]] 
+- media. They’re less confident, less likely to say something is “certain” or “impossible,” and are likelier to settle on shades of “maybe.” And their stories are complex, full of “howevers” and “on the other hands,” because they look at problems one way, then another, and another. This aggregation of… ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1099))
+    - Tags: [[pink]] 
+- In 1906 the legendary British scientist Sir Francis Galton went to a country fair and watched as hundreds of people individually guessed the weight that a live ox would be after it was “slaughtered and dressed.” Their average guess—their collective judgment—was 1,197 pounds, one pound short of the correct answer, 1,198 pounds. It was the earliest demonstration of a phenomenon… ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1103))
+    - Tags: [[pink]] 
+- the judgment of many consistently beats the accuracy of the average member of the group, and is often as startlingly accurate as Galton’s weight-guessers. The collective judgment isn’t always more accurate than any individual guess, however. In fact, in… ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1107))
+    - Tags: [[pink]] 
+- But those bull’s-eye guesses typically say more about the power of luck—chimps who throw a lot of darts will… ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1109))
+    - Tags: [[pink]] 
+- about the skill of the guesser. That becomes clear when the exercise is repeated many times. There will be individuals who beat the group in each repetition, but they will tend to be different individuals.… ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1110))
+    - Tags: [[pink]] 
+- How well aggregation works depends on what you are aggregating. Aggregating the judgments of many people who know nothing produces a lot of nothing. Aggregating the judgments of people who know a little is better, and if there are enough of them, it can produce ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1122))
+    - Tags: [[pink]] 
+- impressive results, but aggregating the judgments of an equal number of people who know lots about lots of different things is most effective because the collective pool of information becomes much bigger. Aggregations of aggregations can also yield impressive results. A well-conducted opinion survey aggregates a lot of information about voter intentions, but combining surveys—a “poll of polls”—turns many information pools into one big pool. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1124))
+    - Tags: [[pink]] 
+- Now look at how foxes approach forecasting. They deploy not one analytical idea but many and seek out information not from one source but many. Then they synthesize it all into a single conclusion. In a word, they aggregate. They may be individuals working alone, but what they do is, in principle, no different from what Galton’s crowd did. They integrate perspectives and the information ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1131))
+    - Tags: [[pink]] 
+- contained within them. The only real difference is that the process occurs within one skull. ([Location 1133](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1133))
+    - Tags: [[pink]] 
+- But doing this sort of inside-your-head aggregation can be challenging. Consider a guess-the-number game in which players must guess a number between 0 and 100. The person whose guess comes closest to two-thirds of the average guess of all contestants wins. That’s it. And imagine there is a prize: the reader who comes… ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1134))
+    - Tags: [[pink]] 
+- between London and New York. The Financial Times actually held this contest in 1997, at the urging of Richard Thaler, a pioneer of behavioral economics. If I were reading the Financial Times in 1997, how would I win those tickets? I might start by thinking that because anyone can guess anything between 0 and 100 the guesses will be scattered randomly. That would make the average guess… ([Location 1137](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1137))
+    - Tags: [[pink]] 
+- myself. I’m sure I’ve nailed it. But before I say “final answer,” I pause, think about the other contestants, and it dawns on me that they went through the same thought process as I did. Which means they all guessed 33 too. Which means the average guess is not 50. It’s 33. And two-thirds of 33 is 22. So my first conclusion was actually wrong. I should guess 22. Now I’m feeling very… ([Location 1141](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1141))
+    - Tags: [[pink]] 
+- did. Which means they would have all guessed 22. Which means the average guess is actually 22. And two-thirds of 22 is about 15. So I should … See where this is going? Because the contestants are aware of each other, and aware that they are aware, the number is going to keep shrinking until it hits the point where it can no longer shrink. That point is 0. So that’s my final answer. And I… ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1145))
+    - Tags: [[pink]] 
+- familiar with game theory, so I know 0 is called the Nash equilibrium solution. QED. The only question is who will come with me to London. Guess what? I’m wrong. In the actual contest, some people did guess 0, but not many, and 0 was not the right answer. It wasn’t even close to right. The average guess of all the contestants was 18.91, so the winning guess was 13. How did… ([Location 1148](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1148))
+    - Tags: [[pink]] 
+- problem from one perspective—the… ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1152))
+    - Tags: [[pink]] 
+- Who are the other contestants? Are they all the sort of people who would think about this carefully, spot the logic, and pursue it relentlessly to the final answer of 0? If they were Vulcans, certainly. But they are humans. Maybe we can assume that Financial Times readers are a tad smarter than the general public, and better puzzle solvers, but… ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1152))
+    - Tags: [[pink]] 
+- to realize that the other contestants are working through the problem just as they are. They will settle on 33 as their final answer. Maybe some others will spot the logic and get to 22, but they may not keep thinking, so they will stop there. And that’s just what happened—33 and 22 were the most popular answers. And because I did not think about the problem from this… ([Location 1155](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1155))
+    - Tags: [[pink]] 
+- look at the problem from both perspectives—the perspectives of both logic and psycho-logic—and combine what I saw. And this merging of perspectives need not be limited to two. In Thaler’s guess-the-number game we might easily imagine a third perspective and use it to further improve our judgment. The first perspective is that of the rational Vulcan. The second is that of the sometimes rational… ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1159))
+    - Tags: [[pink]] 
+- perspectives and aggregated them to make their guess. In the original Star Trek TV series, Mr. Spock was the unflappably logical Vulcan, Dr. McCoy was the hot-headed human, and Captain Kirk was the synthesis of the two. In the guess-the-number game, Spock’s answer would have been 0, McCoy’s would have been 33—or maybe 22—and Captain Kirk would have considered them both. So… ([Location 1162](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1162))
+    - Tags: [[pink]] 
+- contestants, their responses may not shift the math much. But if there are more, their sophisticated thinking may make a significant difference and it would improve our answer, at least a little, if we could factor that third perspective into our own judgment. It would not be easy. This is getting complicated and the gradations of judgment required—should the final guess be 10 or 11… ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1166))
+    - Tags: [[pink]] 
+- great, as we will see later with the superforecasters. And there is no reason to stop at three or four perspectives, although in the guess-the-number game that’s about as far as it is practical to go. In other contexts, a fourth, fifth, and sixth perspective can further sharpen a judgment. In theory, there is no limit. So the best metaphor for this process is the vision of the… ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1169))
+    - Tags: [[pink]] 
+- enormous, bulging sphere, the surface of which is covered with tiny lenses. Depending on the species, there may be as many as thirty thousand of these lenses on a single eye, each one occupying a physical space slightly different from those of the adjacent lenses, giving it a unique perspective. Information from these thousands of unique perspectives flows into the dragonfly’s brain… ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1173))
+    - Tags: [[pink]] 
+- simultaneously, with the clarity and precision it needs to pick off flying insects at high speed. A fox with the bulging eyes of a dragonfly is an ugly mixed metaphor but it captures a key reason why the foresight of foxes is superior to that of… ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1176))
+    - Tags: [[pink]] 
+- Unfortunately, aggregation doesn’t come to us naturally. The tip-of-your-nose perspective insists that it sees reality objectively and correctly,… ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1179))
+    - Tags: [[pink]] 
+- perspectives. All too often we agree. We don’t consider alternative views—even when it’s clear that we should. This is painfully obvious at a poker table. Even weak players know, in principle, that seeing through the eyes of opponents is critical. She raised the bet $20? What does that tell me about her thinking—and the cards she has? Each bet is another clue to what your opponent is… ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1180))
+    - Tags: [[pink]] 
+- yourself in her seat. Good perspective-takers can make a lot of money. So you might suppose that anyone who takes poker seriously would get good at it, quickly, or take up another hobby. And yet they so often don’t. “Here’s a very simple example,” says Annie Duke, an elite professional poker player, winner of the World Series of Poker, and a former… ([Location 1184](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1184))
+    - Tags: [[pink]] 
+- or raise [a bet]. So what will happen is that when a player who isn’t an expert sees another player raise, they automatically assume that that player is strong, as if the size of the bet is somehow correlated at one with the strength of the other person’s hand.” This is a mistake. Duke teaches poker and to get her students to see like dragonflies she walks them through a game situation. A hand is… ([Location 1187](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1187))
+    - Tags: [[pink]] 
+- other player immediately raises your bet substantially. Now, what do you think the other player has? Duke has taught thousands of students “and universally, they say ‘I think they have a really strong hand.’” So then she asks them to imagine the same situation, except they’re playing against her. The cards are dealt. Their hand is more than strong—it’s unbeatable. Duke makes her bet.… ([Location 1191](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1191))
+    - Tags: [[pink]] 
+- may conclude their hand is strong and fold. They don’t want to scare her off. They want Duke to stay in for each of the rounds of betting so they can expand the pot as much as possible before they scoop it up. So they won’t raise. They’ll only call. Duke then walks them through the same hypothetical with a hand that is beatable but still very strong. Will you raise? No. How about a little weaker hand that… ([Location 1194](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1194))
+    - Tags: [[pink]] 
+- they don’t want to chase me away.” Then Duke asks them: Why did you assume that an opponent who raises the bet has a strong hand if you would not raise with the same strong hand? “And it’s not until I walk them through the exercise,” Duke says, that people realize they failed to truly look at the table from the perspective of their opponent. If Duke’s students were all vacationing retirees trying poker… ([Location 1198](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1198))
+    - Tags: [[pink]] 
+- have played enough poker, and are passionate about the game, and consider themselves good enough, that they’re paying a thousand dollars for a seminar with me,” Duke says. “And they don’t understand this basic concept.”22 Stepping outside ourselves and really getting a different view of reality is a struggle. But foxes are likelier to give it a try. Whether by virtue of temperament or… ([Location 1202](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1202))
+    - Tags: [[pink]] 
+- But remember the old reflexivity-paradox joke. There are two types of people in the world: those who think there are two types and those who don’t. I’m of the second type. My fox/hedgehog model is not a dichotomy. It is a spectrum. In EPJ, my analyses extended to what I called “hybrids”—“fox-hedgehogs,” who are foxes a little closer to the hedgehog end of the spectrum, and “… ([Location 1206](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1206))
+    - Tags: [[pink]] 
+- capture people’s styles of thinking. People can and do think differently in different circumstances—cool and calculating at work, perhaps, but intuitive and impulsive when shopping. And our thinking habits are not immutable. Sometimes they evolve without our awareness of the change. But we can also, with effort, choose to shift gears from one mode to… ([Location 1210](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1210))
+    - Tags: [[pink]] 
+- things, which is why even the best are flawed. But they’re necessary. Our minds are full of models. We couldn’t function without them. And we often function pretty well because some of our models are decent approximations of reality. “All models are wrong,” the statistician George Box observed, “… ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1214))
+    - Tags: [[pink]] 
+- Forget the dart-throwing-chimp punch line. What matters is that EPJ… ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1217))
+    - Tags: [[pink]] 
+- foresight, and the critical ingredient was the style of thinking. The next step was figuring out how to advance that insight. ([Location 1218](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1218))
+    - Tags: [[pink]] 
+- The purpose of laying out an argument as I have done here is to convince the reader, but I hope you’re not convinced about these superforecasters—yet. Imagine that I asked each of my 2,800 volunteers to predict whether a coin I am about to toss will land heads or tails. They do. ([Location 1450](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1450))
+    - Tags: [[pink]] 
+- I then flip the coin and record who got it right. I repeat this procedure 104 times (the number of forecasts made in the first year of the tournament). The results would look like a classic bell curve. Coin-toss game The great majority of my forecasters will have accurately ([Location 1453](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1453))
+    - Tags: [[pink]] 
+- predicted the coin toss about 50% of the time, and they can be found in the middle of the curve. But a few will get quite different results. Some will mostly be wrong (far left of the curve); others mostly right (far right of the curve). What do these extreme results tell us about the skill of the people who got them? Unless you believe in ESP, the answer is nothing. There is no skill involved.… ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1456))
+    - Tags: [[pink]] 
+- does it one time or a hundred. It’s all luck. Of course it takes a lot of luck to correctly call 70% of 104 coin tosses, and if you have only one person making calls it’s extremely unlikely. But if you have 2,800 coin-toss callers, the unlikely becomes quite likely. This is not complicated stuff. But it’s easy to misinterpret randomness. We don’t have an intuitive feel for it. Randomness… ([Location 1460](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1460))
+    - Tags: [[pink]] 
+- The psychologist Ellen Langer has shown how poorly we grasp randomness in a series of experiments. In one, she asked Yale students to watch someone flip a coin thirty times and predict whether it would come up heads or tails. The students could not see the actual flipping but they were told the results of each toss. The results, however, were rigged: all students got a total of fifteen right and… ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1464))
+    - Tags: [[pink]] 
+- Langer then asked the students how well they thought they would do if the experiment were repeated. Students who started off with a string of hits had a higher opinion of their skill and thought they would shine again. Langer called this the “illusion of control,” but it is also an “illusion of prediction.” And think about the context. These are students at an elite university who know their intelligence… ([Location 1467](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1467))
+    - Tags: [[pink]] 
+- them to be “super-rational.” Yet the first pattern they encountered fooled them into sincerely believing that they could predict entirely random outcomes.12 Outside Yale labs, delusions of this sort are routine. Watch business news on television, where talking heads are often introduced with a reference to one of their dramatic forecasting successes: “Pedro Ziff called the… ([Location 1470](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1470))
+    - Tags: [[pink]] 
+- even if we assume these statements are true accounts of what the person forecast—they often are not—they tell us next to nothing about the guest’s accuracy, as viewers would know if they applied a little System 2 thought. Even a dart-throwing chimp will hit the occasional bull’s-eye if he throws enough darts, and anyone can easily “predict” the next stock market crash by incessantly… ([Location 1475](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1475))
+    - Tags: [[pink]] 
+- A variant of this fallacy is to single out an extraordinarily successful person, show that it was extremely unlikely that the person could do what he or she did, and conclude that luck could not be the explanation. This often happens in news coverage of Wall Street. Someone beats the market six or seven years in a row, journalists profile the great investor, calculate how unlikely it is to get such… ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1479))
+    - Tags: [[pink]] 
+- many other people were trying to do what the great man did. If it’s many thousands, the odds of someone getting that lucky shoot up. Think of a lottery winner. It is fantastically unlikely that one particular ticket will win a major lottery, often one in many millions, but we don’t conclude that lottery winners are highly skilled ticket-pickers—because we know there are millions of tickets… ([Location 1482](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1482))
+    - Tags: [[pink]] 
+- by rummaging through remaindered business books: a corporation or executive is on a roll, going from success to success, piling up money and fawning profiles in magazines. What comes next? Inevitably, it’s a book recounting the successes and assuring readers that they can reap similar successes simply by doing whatever the corporation or executive did. These stories may be… ([Location 1486](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1486))
+    - Tags: [[pink]] 
+- highlighted qualities or actions caused happy outcomes, much less that someone who replicates them will get similarly happy outcomes. And they rarely acknowledge that factors beyond the hero’s control—luck—may have played a role in the happy outcomes.13 Lest I add to this unfortunate genre, I should say unequivocally that the evidence presented so far does not establish that the… ([Location 1489](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1489))
+    - Tags: [[pink]] 
+- convertible they can forecast as accurately as Doug Lorch. So what should we make of Doug and the others? Are they superforecasters or superlucky? Don’t answer yet. It is another of those pesky false dichotomies that buzz, like mosquitoes, around efforts to judge judgment. Most things in life involve skill and luck, in varying proportions. The mix may be almost all luck and a… ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1493))
+    - Tags: [[pink]] 
+- variations. That complexity makes it hard to figure out what to chalk up to skill and what to luck—a subject probed in depth by Michael Mauboussin, a global financial strategist, in his book The Success Equation. But as Mauboussin noted, there is an elegant rule of thumb that applies to athletes and CEOs, stock analysts and superforecasters. It involves “regression to the… ([Location 1497](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1497))
+    - Tags: [[pink]] 
+- mean is one of them. Let’s say the average height of men is five feet eight inches. Now imagine a man who is six feet tall and then picture his adult son. Your initial System 1 hunch may be that the son is also six feet. That’s possible, but unlikely. To see why, we have to engage in some strenuous System 2 reasoning. Imagine that we knew everyone’s height and computed the… ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1500))
+    - Tags: [[pink]] 
+- correlation of about 0.5, as captured by the line running through the data points in the chart below. It tells us that when the father is six feet, we should make a compromise prediction based on both the father’s height and the population average. Our best guess for the son is five feet ten. The son’s height has regressed toward the… ([Location 1504](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1504))
+    - Tags: [[pink]] 
+- But as I said, regression to the mean is as easy to forget as it is to understand. Say you suffer from chronic back pain. Not all days are the same.… ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1510))
+    - Tags: [[pink]] 
+- some pain but not a lot; and occasionally it’s awful. Of course it’s when you have one of those awful days that you are most likely to seek help by visiting a homeopath or some other dispenser of medical treatments unsupported by solid scientific evidence. The next day you wake up and … you feel better! The treatment works! The placebo effect may have helped, but you probably would have… ([Location 1511](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1511))
+    - Tags: [[pink]] 
+- a fact that won’t occur to you unless you stop and think carefully, instead of going with the tip-of-your-nose conclusion. This modest little mistake is responsible for many of the things people believe but shouldn’t. Keep regression to the mean in mind, however, and it becomes a valuable tool. Imagine that we had our 2,800 volunteers predict the outcome of 104… ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1515))
+    - Tags: [[pink]] 
+- clustered around 50% and tiny numbers correctly predicting almost none or almost all. But who gets the amazingly good results this time? Most likely it will be different people from last time. The correlation across rounds will be close to zero, and your best prediction for any given forecaster will be the average accuracy rate of 50%—in other words, total… ([Location 1518](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1518))
+    - Tags: [[pink]] 
+- amazingly good results in the first round to do the exercise again. Thanks to regression to the mean, it’s likely that most will do worse the second time. And the decline will be biggest for the luckiest. Those who got 90% right should expect a rapid descent to 50%. Of course it’s possible that a few people will again get nine or ten right, but the fact that everyone else is rapidly regressing to the… ([Location 1521](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1521))
+    - Tags: [[pink]] 
+- Eventually their luck will run out. So regression to the mean is an indispensable tool for testing the role of luck in performance: Mauboussin notes that slow regression is more often seen in activities dominated by skill,… ([Location 1525](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1525))
+    - Tags: [[pink]] 
+- To illustrate, imagine two people in the IARPA tournament, Frank and Nancy. In year 1, Frank does horribly but Nancy is outstanding. On the… ([Location 1528](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1528))
+    - Tags: [[pink]] 
+- bottom 1% and Nancy in the top 99%. If their results were caused entirely by luck—like coin flipping—then in year 2 we would expect both Frank and Nancy to regress all the way back to 50%. If their results were equal parts luck and skill, we would expect halfway regression: Frank should rise to around 25% (between 1% and 50%) and Nancy fall to around 75% (between 50% and 99%… ([Location 1529](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1529))
+    - Tags: [[pink]] 
+- just as awful in year 2 and Nancy would be just as spectacular. Amount of luck in tournament determines amount of regression to… ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1532))
+    - Tags: [[pink]] 
+- So how did superforecasters hold up across years? That’s the key question… ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1535))
+    - Tags: [[pink]] 
+- phenomenally well. For instance, in years 2 and 3 we saw the opposite of regression to the mean: the superforecasters as a whole, including Doug Lorch, actually increased their lead over all other forecasters. But that result should make attentive readers suspicious. It suggests there was little or no luck behind the superforecasters’ results. Given the nature of what they were… ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1536))
+    - Tags: [[pink]] 
+- Some questions were resolved by quirky last-minute events that no one, this side of God, could have foreseen. One such question asked whether there would be a fatal confrontation between vessels on the East China Sea. The answer turned out to be yes when, just before the closing date for the question, an angry Chinese fishing boat captain stabbed a South Korean coast guard… ([Location 1540](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1540))
+    - Tags: [[pink]] 
+- among systems of variables. Take the price of oil, long a graveyard topic for forecasting reputations.16 The number of factors that can drive the price up or down is huge—from frackers in the United States to jihadists in Libya to battery designers in Silicon Valley—and the number of factors that can influence those factors is even bigger. Many of these causal ties are also nonlinear,… ([Location 1543](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1543))
+    - Tags: [[pink]] 
+- dramatic difference to what happens. So we have a mystery. If chance is playing a significant role, why aren’t we observing significant regression of superforecasters as a whole toward the overall mean? An offsetting process must be pushing up superforecasters’ performance numbers. And it’s not hard to guess what that was: after year 1, when the first… ([Location 1547](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1547))
+    - Tags: [[pink]] 
+- and put them on teams with fellow superforecasters. Instead of regressing toward the mean, their scores got even better. This suggests that being recognized as “super” and placed on teams of intellectually stimulating colleagues improved their performance enough to erase the regression to the mean we would otherwise have seen. In years 3 and 4, we harvested fresh crops of superforecasters… ([Location 1550](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1550))
+    - Tags: [[pink]] 
+- continued to do as well or better than they did in the previous year, again contrary to the regression hypothesis. But, as Wall Streeters well know, mortals can only defy the laws of statistical gravity for so long. The consistency in performance of superforecasters as a group should not mask the inevitable turnover among some top performers over time. The correlation between how… ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1554))
+    - Tags: [[pink]] 
+- heights of fathers and sons. So we should still expect considerable regression toward the mean. And we observe just that. Each year, roughly 30% of the individual superforecasters fall from the ranks of the top 2% next year. But that also implies a good deal of consistency over time: 70% of superforecasters remain superforecasters. The chances of such consistency arising among coin-flip… ([Location 1557](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1557))
+    - Tags: [[pink]] 
+- such consistency arising among forecasters (where year-to-year correlation is 0.65) is far higher, about 1 in 3.17 All of this suggests two key conclusions. One, we should not treat the superstars of any given year as infallible, not even Doug Lorch. Luck plays a role and it is only to be expected that the superstars will occasionally have a bad year and produce ordinary… ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1560))
+    - Tags: [[pink]] 
+- hopefully, we can conclude that the superforecasters were not just lucky. Mostly, their results reflected skill. Which raises the big… ([Location 1564](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1564))
+    - Tags: [[pink]] 
+- Are superforecasters better simply because they are more knowledgeable and intelligent than others? That would be flattering for them but deflating for the ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1600))
+    - Tags: [[pink]] 
+- rest of us. Knowledge is something we can all increase, but only slowly. People who haven’t stayed mentally active have little hope of catching up to lifelong learners. Intelligence feels like an even more daunting ([Location 1601](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1601))
+    - Tags: [[pink]] 
+- obstacle. There are believers in cognitive enhancement pills and computer puzzles who may someday be vindicated, but most people feel that adult intelligence is relatively… ([Location 1603](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1603))
+    - Tags: [[pink]] 
+- lottery at conception and the lottery for loving, wealthy families at birth. If super-forecasting is a job for three-standard-deviation MENSA-certified geniuses—the top 1%—then the vast majority of us can never qualify. So why bother trying? The idea that knowledge and intelligence drive foresight is plausible, but as Archie… ([Location 1604](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1604))
+    - Tags: [[pink]] 
+- the test. Thanks to project coleader Barbara Mellers, and the volunteers who endured a grueling battery of psychological tests before they started forecasting, we had the data to do that.2 To gauge fluid intelligence, or raw crunching power, volunteers had to figure out puzzles like the one here, where the goal is to fill in the missing space at… ([Location 1607](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1607))
+    - Tags: [[pink]] 
+- (each row must have a distinctive symbol in the center of its figures) and each column (each column must contain all three shapes). The correct answer… ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1611))
+    - Tags: [[pink]] 
+- High-powered pattern recognition skills… ([Location 1615](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1615))
+    - Tags: [[pink]] 
+- far, though, if you don’t know where to look for patterns in the real world. So we measured crystallized intelligence—knowledge—using some U.S.-centric questions like “How many Justices sit on the Supreme Court?” and more global questions like “Which nations are permanent members of the UN Security Council?” Before we get to the… ([Location 1616](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1616))
+    - Tags: [[pink]] 
+- year and the 2,800 who were motivated enough to work through all the testing and make forecasts were far from a randomly selected sample. That matters. Random selection ensures a sample is representative of the population from which it’s drawn. Lacking that, we can’t assume our volunteers reflected the population… ([Location 1619](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1619))
+    - Tags: [[pink]] 
+- people who had read about the forecasting tournament on a blog or in an article and thought to themselves, “Yes, I’d like to spend a good-size chunk of my precious free time analyzing Nigerian politics, Greek bonds, Chinese military expenditures, Russian oil and gas production, and other complex geopolitical matters. I’d like to do that for the… ([Location 1622](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1622))
+    - Tags: [[pink]] 
+- certificate.” We can be quite confident these are not average people. So to understand the role of intelligence and knowledge in superforecaster success, we have to go a step further. We must compare the superforecasters’ intelligence and knowledge not only with that of other forecasters, but with that of the general… ([Location 1625](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1625))
+    - Tags: [[pink]] 
+- intelligence and knowledge tests than about 70% of the population. Superforecasters did better, placing higher than about 80% of the population. Note three things. First, the big jumps in intelligence and knowledge are from the public to the forecasters, not from forecasters to superforecasters. Second, although superforecasters are… ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1628))
+    - Tags: [[pink]] 
+- so-called genius territory, a problematic concept often arbitrarily defined as the top 1%, or an IQ of 135 and up. So it seems intelligence and knowledge help but they add little beyond a certain threshold—so superforecasting does not require a Harvard PhD and the ability to speak five languages. I find that conclusion… ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1631))
+    - Tags: [[pink]] 
+- those years ago, when I started this research—that high-powered subject-matter experts would not be much better forecasters than attentive readers of the New York Times. It should also satisfy the reader. If you’ve made it this far, you’ve probably got the right stuff. But having the requisite intelligence and knowledge is not enough. Many clever and informed forecasters in the tournament fell far short of ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1634))
+    - Tags: [[pink]] 
+- superforecaster accuracy. And history is replete with brilliant people who made forecasts that proved considerably less than prescient. ([Location 1637](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1637))
+    - Tags: [[pink]] 
+- Ultimately, it’s not the crunching power that counts. It’s how you use it. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1645))
+    - Tags: [[pink]] 
+- FERMI-IZE Here’s a question that definitely was not asked in the forecasting tournament: How many piano tuners are there in Chicago? Don’t even think about letting Google find the answer for you. The Italian American physicist Enrico Fermi—a central figure in the invention of the ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1645))
+    - Tags: [[pink]] 
+- atomic bomb—concocted this little brainteaser decades before the invention of the Internet. And Fermi’s students did not have the Chicago yellow pages at hand. They had nothing. And yet Fermi expected them to come up with a reasonably accurate estimate. Outside Fermi’s classroom, most people would frown, roll their eyes,… ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1648))
+    - Tags: [[pink]] 
+- How did they arrive at that number? Ask them and they would shrug and say nothing more informative than “It seems about right.” The number came out of a black box. They had no idea how it was generated. Fermi knew people could do much better and the key was to break down the question with more questions like “What would have to… ([Location 1651](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1651))
+    - Tags: [[pink]] 
+- information would allow me to answer the question?” So what would we need to know to calculate the number of piano tuners in Chicago? Well, the number of piano tuners depends on how much piano-tuning work there is and how much work it takes to employ one piano tuner. So I could… ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1655))
+    - Tags: [[pink]] 
+- 2. How often pianos are tuned each year 3. How long it takes to tune a piano 4. How many hours a year the average piano tuner works With the first three facts, I can figure out the total amount of piano-tuning work in Chicago. Then I can divide it by the… ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1658))
+    - Tags: [[pink]] 
+- piano tuners there are in Chicago. But I don’t have any of that information! So you may think I’ve wasted my time by exchanging one question I can’t answer for four. Not so. What Fermi understood is that by breaking down the question, we can better separate the knowable and the unknowable. So guessing—pulling a number… ([Location 1662](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1662))
+    - Tags: [[pink]] 
+- into the light of day where we can inspect it. And the net result tends to be a more accurate estimate than whatever number happened to pop out of the black box when we first read the question. Of course, all this means we have to overcome our… ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1665))
+    - Tags: [[pink]] 
+- In that spirit, I’ll take my best shot at each of the four items: 1.… ([Location 1668](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1668))
+    - Tags: [[pink]] 
+- there in Chicago? I have no idea. But just as I broke down the first question, I can break this down by asking what I would need to know in order to answer it. a. How many people are there in Chicago? I’m not… ([Location 1669](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1669))
+    - Tags: [[pink]] 
+- city after New York and Los Angeles. And I think LA has 4 million people or so. That’s helpful. To narrow this down, Fermi would advise setting a confidence interval—a range that you are 90% sure… ([Location 1671](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1671))
+    - Tags: [[pink]] 
+- has more than, say, 1.5 million people. And I’m pretty sure it has fewer than 3.5 million people. But where is the correct answer within that range? I’m not sure. So I’ll take the… ([Location 1673](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1673))
+    - Tags: [[pink]] 
+- b. What percentage of people own a piano? Pianos are too expensive for most families—and most who can afford one don’t really want one. So I’ll put it at one in one hundred. That’s mostly a… ([Location 1675](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1675))
+    - Tags: [[pink]] 
+- institutions—schools, concert halls, bars—own pianos? Again, I don’t know. But many would, and some, like music schools, would own many pianos. I’ll again make a black-box guess and say that it’s… ([Location 1677](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1677))
+    - Tags: [[pink]] 
+- roughly two in one hundred. d. With those guesses, I can do some simple math and conclude that there are fifty thousand pianos in Chicago. 2. How often are pianos tuned? Maybe once a year. That strikes me as… ([Location 1679](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1679))
+    - Tags: [[pink]] 
+- box guess. 3. How long does it take to tune a piano? I’ll say two hours. Again, it’s a black-box guess. 4. How many hours a year does the average piano tuner work? This one I can break down. a. The standard… ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1682))
+    - Tags: [[pink]] 
+- don’t see any reason why piano tuners would be different. So I’ll multiply 40 hours by 50 weeks to come up with 2,000 hours a year. b. But piano tuners have to spend some of that time traveling… ([Location 1685](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1685))
+    - Tags: [[pink]] 
+- much. How much time do they spend between jobs? I’ll guess 20% of their work hours. So I conclude that the average piano tuner works 1,600 hours a year. Now I’ll assemble my guesses to make a final calculation: If 50,000… ([Location 1687](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1687))
+    - Tags: [[pink]] 
+- tune one piano, that’s 100,000 total piano-tuning hours. Divide that by the annual number of hours worked by one piano tuner and you get 62.5 piano tuners in Chicago. So I will estimate that there are sixty-three piano tuners in Chicago. How close am I? Many people have taken a crack at Fermi’s classic puzzler… ([Location 1689](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1689))
+    - Tags: [[pink]] 
+- adapted here.6 Levitin found eighty-three listings for piano tuners in the Chicago yellow pages, but many were duplicates, such as businesses with more than one phone number. So the precise number isn’t certain. But my estimate, which rests on a lot of crude guesswork, looks suprisingly close to the mark. Fermi was… ([Location 1693](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1693))
+    - Tags: [[pink]] 
+- often do back-of-the-envelope calculations like this to come up with a number that subsequent measurement revealed to be impressively accurate. In many physics and engineering faculties, Fermi estimates or Fermi problems—strange tests like “estimate the number of square inches of pizza consumed by all the… ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1696))
+    - Tags: [[pink]] 
+- I shared Levitin’s discussion of Fermi estimation with a group of superforecasters and it drew a chorus of approval. Sandy Sillman told me Fermi estimation was so critical to his job as a scientist working with atmospheric models that it became “a part of my natural way of… ([Location 1699](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1699))
+    - Tags: [[pink]] 
+- A MURDER MYSTERY On October 12, 2004, Yasser… ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1703))
+    - Tags: [[pink]] 
+- seventy-five-year-old leader of the Palestine Liberation Organization, became severely ill with vomiting and abdominal pain. Over the next three weeks, his condition worsened. On October 29, he was flown to a hospital in France. He fell into a coma. Decades earlier, before adopting the role of statesman, Arafat had directed… ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1703))
+    - Tags: [[pink]] 
+- 2004, the man who was once a seemingly indestructible enemy of Israel was pronounced dead. What killed him was uncertain. But even before he died there was speculation that he had been poisoned. In July 2012 researchers at Switzerland’s Lausanne University Institute of Radiation Physics announced that they had tested… ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1706))
+    - Tags: [[pink]] 
+- 210. That was ominous. Polonium-210 is a radioactive element that can be deadly if ingested. In 2006 Alexander Litvinenko—a former Russian spy living in London and a prominent critic of Vladimir Putin—was murdered with polonium-210. That August, Arafat’s widow gave permission for his body to be exhumed and… ([Location 1709](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1709))
+    - Tags: [[pink]] 
+- forecasters the following question: “Will either the French or Swiss inquiries find elevated levels of polonium in the remains of Yasser Arafat’s body?” On its face, this was a tough question, a CSI: Jerusalem murder mystery, with all the byzantine complexities of the Israeli-Palestinian conflict in the background. How… ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1712))
+    - Tags: [[pink]] 
+- came to them the moment they read the question. The strength of the hunch would depend on the person. Someone who knew only a little about Arafat and the long Israeli-Palestinian conflict might only experience a whisper. But for someone who is well-informed and passionate about politics in that volatile region it would be more like… ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1715))
+    - Tags: [[pink]] 
+- That hunch is the tip-of-your-nose perspective. It sprang out of a black box. How exactly it was generated by the person who experiences it I cannot say. But turning it into a forecast is easy. How strongly do you feel? If the hunch is “Israel would never do that!” make your forecast 5% or zero. If it’s “Of course Israel did it!”… ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1719))
+    - Tags: [[pink]] 
+- 50%. When TV pundits make quick volleys of forecasts, this is pretty much all they do. That’s no way to make accurate forecasts. If the tip-of-your-nose perspective contains an error, you won’t catch it—just as you won’t catch it if you blurt out “Ten cents!” on the Cognitive Reflection Test. And there is a mistake… ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1722))
+    - Tags: [[pink]] 
+- inquiries find elevated levels of polonium in the remains of Yasser Arafat’s body?” Neither “Israel would never do that!” nor “Of course Israel did it!” is actually responsive to that question. They answer a different question: “Did Israel poison Yasser Arafat?” System 1 pulled a classic bait and switch: the hard question… ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1725))
+    - Tags: [[pink]] 
+- have been avoided. The key is to Fermi-ize. Bill Flack lives in Kearney, Nebraska, smack in the middle of the Midwest and a planet away from the Middle East. He has no expertise in the Israeli-Palestinian conflict, to say the least. But he didn’t need any to get off to a great start on this question. Thinking like Fermi, Bill… ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1729))
+    - Tags: [[pink]] 
+- What would it take for it to be no?” He realized that the first step of his analysis had nothing to do with politics. Polonium decays quickly. For the answer to be yes, scientists would have to be able to detect polonium on the remains of a man dead for years. Could they? A teammate had posted a link to the Swiss team’s report on… ([Location 1732](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1732))
+    - Tags: [[pink]] 
+- science of polonium testing, and was satisfied that they could do it. Only then did he move on to the next stage of the analysis. Again, Bill asked himself how Arafat’s remains could have been contaminated with enough polonium to trigger a positive result. Obviously, “Israel poisoned Arafat” was one way. But because Bill carefully… ([Location 1735](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1735))
+    - Tags: [[pink]] 
+- enemies. They could have poisoned him. It was also possible that there had been “intentional postmortem contamination by some Palestinian faction looking to give the appearance that Israel had done a Litvinenko on Arafat,”8 Bill told me later. These alternatives mattered because each additional way Arafat’s… ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1738))
+    - Tags: [[pink]] 
+- was. Bill also noted that only one of the two European teams had to get a positive result for the correct answer to the question to be yes, another factor that nudged the needle in that direction. This was only the beginning, but thanks to Bill’s Fermi-style analysis he had already avoided the bait-and-switch tiger trap… ([Location 1742](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1742))
+    - Tags: [[pink]] 
+- So what’s the next step? Most people who knew better than to draw a conclusion based on their gut feeling about Israel’s culpability would think now is the time to roll up their sleeves and dig into the complex politics surrounding Arafat at the time of his death. But it’s too soon for that. To illustrate why, I’m going to ask… ([Location 1745](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1745))
+    - Tags: [[pink]] 
+- Chestnut Avenue. Frank Renzetti is forty-four and works as a bookkeeper for a moving company. Mary Renzetti is thirty-five and works part-time at a day care. They have one child, Tommy, who is five. Frank’s widowed mother, Camila, also lives with the family. My question: How likely is it that the Renzettis have a pet? To answer that, most people… ([Location 1749](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1749))
+    - Tags: [[pink]] 
+- “So are ‘Frank’ and ‘Camila.’ That may mean Frank grew up with lots of brothers and sisters, but he’s only got one child. He probably wants to have a big family but he can’t afford it. So it would make sense that he compensated a little by getting a pet.” Someone else might think, “People get pets for kids and the Renzettis only have one child, and Tommy isn’… ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1752))
+    - Tags: [[pink]] 
+- very compelling, particularly when the available details are much richer than what I’ve provided here. But superforecasters wouldn’t bother with any of that, at least not at first. The first thing they would do is find out what percentage of American households own a pet. Statisticians call that the… ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1756))
+    - Tags: [[pink]] 
+- much more evocative visual term for it. He calls it the “outside view”—in contrast to the “inside view,” which is the specifics of the particular case. A few minutes with Google tells me about 62% of American households own pets. That’s the outside view here. Starting with the outside view means I will start by estimating that there is a 62% chance the Renzettis… ([Location 1759](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1759))
+    - Tags: [[pink]] 
+- them to adjust that initial 62% up or down. It’s natural to be drawn to the inside view. It’s usually concrete and filled with engaging detail we can use to craft a story about what’s going on. The outside view is typically abstract, bare, and doesn’t lend itself so readily to storytelling. So even smart, accomplished people… ([Location 1762](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1762))
+    - Tags: [[pink]] 
+- Reagan speechwriter Peggy Noonan once predicted trouble for the Democrats because polls had found that George W. Bush’s approval rating, which had been rock-bottom at the end of his term, had rebounded to 47% four years after leaving office, equal to President Obama’s. Noonan found that astonishing—and deeply… ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1766))
+    - Tags: [[pink]] 
+- presidential approval always rises after a president leaves office. Even Richard Nixon’s number went up. So Bush’s improved standing wasn’t surprising in the least—which strongly suggests the meaning she drew from it was illusory. Superforecasters don’t make that mistake. If Bill Flack were asked whether, in the next twelve months,… ([Location 1769](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1769))
+    - Tags: [[pink]] 
+- wouldn’t immediately delve into the particulars of that border dispute and the current state of China-Vietnam relations. He would instead look at how often there have been armed clashes in the past. “Say we get hostile conduct between China and Vietnam every five years,” Bill says. “I’ll use a five-year recurrence model to predict the future.… ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1772))
+    - Tags: [[pink]] 
+- of a clash. Having established that, Bill would look at the situation today and adjust that number up or down. It’s often possible to find different outside views. In the Renzetti problem, the pet ownership rate of American households is one outside view. But it can be refined. Single-family detached homes like 84 Chestnut Avenue are more… ([Location 1776](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1776))
+    - Tags: [[pink]] 
+- the lens and use the pet ownership rate of American single-family detached homes—let’s say it’s 73%—as our outside view. That second outside view more closely matches the particular case we’re interested in, so 73% would probably be a better bet as our starting point. Of course I’ve made this easy for myself by offering examples where the… ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1779))
+    - Tags: [[pink]] 
+- That’s tough. It’s not as if dead Middle Eastern leaders are routinely exhumed to investigate suspicions of poisoning—so there’s no way we’re going to be able to do a quick Google search and find that poison is detected in 73% of cases like this. But that doesn’t mean we should skip the outside view and go straight to the inside. Let’s think about this… ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1782))
+    - Tags: [[pink]] 
+- enough reason for suspicion that they are exhuming the body. Under those circumstances, how often would the investigation turn up evidence of poisoning? I don’t know and there is no way to find out. But I do know there is at least a prima facie case that persuades courts and medical investigators that this is worth looking into. It has to be considerably above zero. So let’s say it’s at least 20%. But the probability can’t be ([Location 1786](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1786))
+    - Tags: [[pink]] 
+- 100% because if it were that clear and certain the evidence would have been uncovered before burial. So let’s say the probability cannot be higher than 80%. That’s a big range. The midpoint is 50%. So that outside view can serve as our starting point. You may wonder why the outside view should come first. After all, you could dive into the inside view and draw conclusions, then turn to the outside view. Wouldn’t that ([Location 1789](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1789))
+    - Tags: [[pink]] 
+- work as well? Unfortunately, no, it probably wouldn’t. The reason is a basic psychological concept called anchoring. When we make estimates, we tend to start with some number and adjust. The number we start with is called the anchor. It’s important because we typically underadjust, which means a bad anchor can easily produce a bad estimate… ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1792))
+    - Tags: [[pink]] 
+- Kahneman and Amos Tversky showed you could influence people’s judgment merely by exposing them to a number—any number, even one that is obviously meaningless, like one randomly selected by the spin of a wheel.10 So a forecaster who starts by diving into the inside view risks being swayed by a number that may have little or no meaning.… ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1795))
+    - Tags: [[pink]] 
+- meaningful. And a better anchor is a distinct advantage. THE INSIDE VIEW You’ve Fermi-ized the question, consulted the outside view, and now, finally, you can delve into the inside view. In the case of the Arafat-polonium question, that means digging into Middle Eastern politics and history. And there’s a lot of that. So… ([Location 1799](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1799))
+    - Tags: [[pink]] 
+- Wrong. Such diligence would be admirable, but it would also be misguided. If you aimlessly examine one tree, then another, and another, you will quickly become lost in the forest. A good exploration of the inside view does not involve wandering around, soaking up any and all information and hoping that insight… ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1802))
+    - Tags: [[pink]] 
+- amble.11 Again, Fermi-ization is key. When Bill Flack Fermi-ized the Arafat-polonium question, he realized there were several pathways to a “yes” answer: Israel could have poisoned Arafat; Arafat’s Palestinian enemies could have poisoned him; or Arafat’s remains could have been contaminated after his death to make it look… ([Location 1805](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1805))
+    - Tags: [[pink]] 
+- inside view. Start with the first hypothesis: Israel poisoned Yasser Arafat with polonium. What would it take for that to be true? 1. Israel had, or could obtain, polonium. 2. Israel wanted Arafat dead badly enough to take a big risk… ([Location 1809](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1809))
+    - Tags: [[pink]] 
+- Each of these elements could then be researched—looking for evidence pro and con—to get a sense of how likely they are to be true, and therefore how likely the hypothesis is to be true. Then it’s on to the next hypothesis. And the next. This sounds like detective work because it is—or to be precise, it is detective work as… ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1813))
+    - Tags: [[pink]] 
+- demanding. But it works far better than wandering aimlessly in a forest of information. THESIS, ANTITHESIS, SYNTHESIS So you have an outside view and an inside view. Now they have to be merged, just as your brain merges the different perspectives of your two eyeballs into a… ([Location 1816](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1816))
+    - Tags: [[pink]] 
+- engineer living in Virginia, did that when he tackled a question about terrorism in Europe. It was early 2015, shortly after terrorists had murdered eleven people at the Paris satirical magazine Charlie Hebdo. IARPA asked: “Will there be an attack carried out by Islamist militants in France, the UK, Germany, the… ([Location 1819](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1819))
+    - Tags: [[pink]] 
+- At a moment when the media was awash with information about Islamist terrorism and Muslim communities in Europe, it was tempting to rush to the inside view. David knew better. First, he found a list of Islamist terror attacks on Wikipedia. Then he counted the number of attacks in the specified countries over the previous five years.… ([Location 1822](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1822))
+    - Tags: [[pink]] 
+- Having established the outside view, David switched to the inside view. In the previous several years, the Islamic State of Iraq and Syria (ISIS) movement had surged to prominence. Hundreds of European Muslims had enlisted. And ISIS had repeatedly threatened Europe with terror attacks. David decided that this changed… ([Location 1825](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1825))
+    - Tags: [[pink]] 
+- longer relevant. So he dropped 2010 from his calculation. That raised the base rate to 1.5, “which I suspect is still low” given the level of ISIS recruitment and threats. But David also noted that security measures had been sharply increased after the Charlie Hebdo attack, which would decrease the likelihood of attack. Balancing these two… ([Location 1828](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1828))
+    - Tags: [[pink]] 
+- There were 69 days left in the forecast period. So David divided 69 by 365. Then he multiplied by 1.8. Result: 0.34. So he concluded that there is a 34% chance the answer to IARPA’s question would be yes.12 It was a textbook merger of outside and inside views. But David wasn’t saying “34%, final answer,” like a contestant on Who… ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1831))
+    - Tags: [[pink]] 
+- he wanted to know what his teammates were thinking. In other words, he was looking for more perspectives. Coming up with an outside view, an inside view, and a synthesis of the two isn’t the end. It’s a good beginning. Superforecasters constantly look for other views they can synthesize into their own. There… ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1835))
+    - Tags: [[pink]] 
+- think? What outside and inside views have they come up with? What are experts saying? You can even train yourself to generate different perspectives. When Bill Flack makes a judgment, he often explains his thinking to his teammates, as David Rogg did, and he asks them to critique it. In part, he does that because he hopes they’ll spot… ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1838))
+    - Tags: [[pink]] 
+- distancing himself from it, so he can step back and scrutinize it: “It’s an auto-feedback thing,” he says. “Do I agree with this? Are there holes in this? Should I be looking for something else to fill this in? Would I be convinced by this if I were somebody else?” That is a very smart move. Researchers have found that merely asking people to assume their initial… ([Location 1842](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1842))
+    - Tags: [[pink]] 
+- produces a second estimate which, when combined with the first, improves accuracy almost as much as getting a second estimate from another person.13 The same effect was produced simply by letting several weeks pass before asking people to make a second estimate. This approach, built on the “wisdom of the crowd” concept, has been… ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1845))
+    - Tags: [[pink]] 
+- part of his success, he has often said, is his mental habit of stepping back from himself so he can judge his own thinking and offer a different perspective—to himself.14 There is an even simpler way of getting another perspective on a question: tweak its wording. Imagine a question like “Will the South African government grant… ([Location 1849](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1849))
+    - Tags: [[pink]] 
+- evidence that suggests the Dalai Lama will get his visa while neglecting to look for evidence that suggests he won’t. The more sophisticated forecaster knows about confirmation bias and will seek out evidence that cuts both ways. But if you are constantly thinking the question is “Will he get his visa?” your mental playing… ([Location 1852](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1852))
+    - Tags: [[pink]] 
+- “This is South Africa! Black government officials suffered under apartheid. Of course they will give a visa to Tibet’s own Nelson Mandela.” To check that tendency, turn the question on its head and ask, “Will the South African government deny the Dalai Lama for six months?” That tiny wording change encourages you to lean in the opposite direction… ([Location 1855](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1855))
+    - Tags: [[pink]] 
+- partner being a rather big one. DRAGONFLY FORECASTING Outside views, inside view, other outside and inside views, second opinions from yourself … that’s a lot of perspectives—and inevitably a lot of dissonant information. David Rogg’s neat synthesis of contrary outside and inside… ([Location 1858](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1858))
+    - Tags: [[pink]] 
+- number of perspectives being synthesized increases. The commentary that superforecasters post on GJP forums is rife with “on the one hand/on the other” dialectical banter. And superforecasters have more than two hands. “On the one hand, Saudi Arabia runs few risks in letting oil prices remain low because it has large… ([Location 1862](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1862))
+    - Tags: [[pink]] 
+- OPEC production cuts in November 2014. “On the other hand, Saudi Arabia needs higher prices to support higher social spending to buy obedience to the monarchy. Yet on the third hand, the Saudis may believe they can’t control the drivers of the price dive, like the drilling frenzy in North America and falling global demand. So they may see… ([Location 1865](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1865))
+    - Tags: [[pink]] 
+- support production cuts—much to the shock of many experts.)15 That is “dragonfly eye” in operation. And yes, it is mentally demanding. Superforecasters pursue point-counterpoint discussions routinely, and they keep at them long past the point where most people would succumb to migraines. They are the polar… ([Location 1868](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1868))
+    - Tags: [[pink]] 
+- which is why, to the surprise of no one, they did superbly on the CRT. Forget the old advice to think twice. Superforecasters often think thrice—and sometimes they are just warming up to do a deeper-dive analysis. Yet these are ordinary people. Forecasting is their hobby. Their only reward is a gift certificate and… ([Location 1872](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1872))
+    - Tags: [[pink]] 
+- fun. “Need for cognition” is the psychological term for the tendency to engage in and enjoy hard mental slogs. People high in need for cognition are the sort who like crosswords and Sudoku puzzles, the harder, the better—and superforecasters score high in need-for-cognition tests. An element of personality is also likely… ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1875))
+    - Tags: [[pink]] 
+- experience,” which has various dimensions, including preference for variety and intellectual curiosity. It’s unmistakable in many superforecasters. Most people who are not from Ghana would find a question like “Who will win the presidential election in Ghana?” pointless. They wouldn’t know where to start, or why… ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1878))
+    - Tags: [[pink]] 
+- his reaction, he simply said, “Well, here’s an opportunity to learn something about Ghana.”16 But ultimately, as with intelligence, this has less to do with traits someone possesses and more to do with behavior. A brilliant puzzle solver may have the raw material for forecasting, but if he doesn’t also have an appetite for questioning… ([Location 1881](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1881))
+    - Tags: [[pink]] 
+- intelligent person who has a greater capacity for self-critical thinking. It’s not the raw crunching power you have that matters most. It’s what you do with it. Look at Doug Lorch. His natural inclination is obvious. But he doesn’t assume it will see him through. He cultivates it. Doug knows that when people read… ([Location 1884](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1884))
+    - Tags: [[pink]] 
+- containing hundreds of information sources—from the New York Times to obscure blogs—that are tagged by their ideological orientation, subject matter, and geographical origin, then wrote a program that selects what he should read next using criteria that emphasize diversity. Thanks to Doug’s simple invention, he is sure to… ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1887))
+    - Tags: [[pink]] 
+- open-minded. Active open-mindedness (AOM) is a concept coined by the psychologist Jonathan Baron, who has an office next to mine at the University of Pennsylvania. Baron’s test for AOM asks whether you agree or disagree with statements like: People should take into… ([Location 1890](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1890))
+    - Tags: [[pink]] 
+- useful to pay attention to those who disagree with you than to pay attention to those who agree. Changing your mind is a sign of weakness. Intuition is the best guide in making decisions. It is… ([Location 1894](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1894))
+    - Tags: [[pink]] 
+- brought to bear against them. Quite predictably, superforecasters score highly on Baron’s test. But more important, superforecasters illustrate the concept. They walk the talk. For superforecasters, beliefs are hypotheses to be tested, not treasures to be guarded. It would be facile to reduce… ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1898))
+    - Tags: [[pink]] 
+- Levine is also a superforecaster. And while he is an extreme case, he underscores a central feature of superforecasters: they have a way with numbers. ([Location 1912](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1912))
+    - Tags: [[pink]] 
+- On Wall Street, math wizards are called quants, and the math they use can get a lot more esoteric than Monte Carlo models. ([Location 1920](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1920))
+    - Tags: [[pink]] 
+- But the fact that superforecasters are almost uniformly highly numerate people is not mere coincidence. Superior numeracy does help superforecasters, but not because it lets them tap into arcane math models that divine the future. The truth is simpler, subtler, and much more interesting. ([Location 1931](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=1931))
+    - Tags: [[pink]] 
+- Bowden’s account reminded me of an offhand remark that Amos Tversky made some thirty years ago, when we served on that National Research Council committee charged with preventing nuclear war. In dealing with probabilities, he said, most people only have three settings: “gonna happen,” “not gonna happen,” and “ ([Location 2034](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2034))
+    - Tags: [[pink]] 
+- Why is a decline from 5% to 0% so much more valuable than a decline from 10% to 5%? Because it delivers more than a 5% reduction in risk. It delivers certainty. Both 0% and 100% weigh far more heavily in our minds than the mathematical models of economists say they should.8 Again, ([Location 2053](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2053))
+    - Tags: [[pink]] 
+- this is not surprising if you think about the world in which our brain evolved. ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2056))
+    - Tags: [[pink]] 
+- Harry Truman once joked that he wanted to hear from a one-armed economist because he was sick of hearing “on the one hand … on the other … ([Location 2061](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2061))
+    - Tags: [[pink]] 
+- Confidence and accuracy are positively correlated. ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2066))
+    - Tags: [[pink]] 
+- But research shows we exaggerate the size of the correlation. For instance, people trust more confident financial advisers over those who are less confident even when their track records are identical. And people equate confidence and competence, which makes the forecaster who says something has a middling ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2066))
+    - Tags: [[pink]] 
+- probability of happening less worthy of respect. As one study noted, people “took such judgments as indications the forecasters were either generally incompetent, ignorant of the facts in a given case, or lazy, unwilling to expend the effort required to gather information that would justify greater confidence.”10 This sort of primal thinking goes a long way to explaining why so many people ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2068))
+    - Tags: [[pink]] 
+- have a poor grasp of probability. Some of it can be chalked up to simple ignorance and misunderstanding—like people who think that “a 70% chance of rain in Los Angeles” means “it will rain 70% of the day but not the other 30%” or “it will rain in 70% of Los Angeles but not the other 30%” or “70% of forecasters think it will rain but 30% don’t.” But there is something much more fundamental underlying mistakes like these. To grasp the meaning of “a ([Location 2072](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2072))
+    - Tags: [[pink]] 
+- 70% chance of rain tomorrow” we have to understand that rain may or may not happen, and that over 100 days on which we forecast chances of rain, if our forecasts are good, it should rain on 70% of them and be dry on the rest. Nothing could be further removed from our natural inclination to think “It will rain” or “It won’t rain”—or, if you insist, “Maybe it will rain. ([Location 2075](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2075))
+    - Tags: [[pink]] 
+- The deeply counterintuitive nature of probability ([Location 2079](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2079))
+    - Tags: [[pink]] 
+- explains why even very sophisticated people often make elementary mistakes. When David Leonhardt claimed a prediction market’s forecast was wrong because it had said there was a 75% chance a law would be struck down, and it wasn’t, I was pretty sure that if someone had pointed out his error to him he would have slapped his forehead and said, “Of course!” I had that suspicion confirmed later, when Leonhardt wrote an ([Location 2079](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2079))
+    - Tags: [[pink]] 
+- excellent column about exactly this trap: If a forecaster says there is a 74% chance the Republicans will win control of the Senate in an upcoming election, Leonhardt warned readers, do not conclude the forecast was wrong if the party doesn’t take the Senate because “a 74 percent chance it will” also means “a 26 percent chance it won’t.”12 ([Location 2082](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2082))
+    - Tags: [[pink]] 
+- The confusion caused by the three-setting mental dial is pervasive. Robert ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2086))
+    - Tags: [[pink]] 
+- Rubin, the former Treasury secretary, told me how he and his then-deputy Larry Summers would often be frustrated when they briefed top policy makers in the White House and Congress because people would treat an 80% probability that something would happen as a certainty that it would. “You almost had to pound the table, to say ‘yes there’s a high probability but this also might not happen,’” Rubin said. “But the way people ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2086))
+    - Tags: [[pink]] 
+- think, they seem to translate a high probability into ‘this will happen.’” And yet, if we were to take these presumably educated, accomplished people out of that context, sit them down in a classroom, and tell them that the statement “There is an 80% chance that something will happen” means there is a 20% chance it won’t, they… ([Location 2089](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2089))
+    - Tags: [[pink]] 
+- from abstractions, when dealing with real issues, these educated, accomplished people reverted to the intuitive. Only when the probabilities were closer to even did they easily grasp that the outcome may or may not happen, Rubin said. “If you say something is 60/40, people kind of get the idea.”13… ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2093))
+    - Tags: [[pink]] 
+- THE INFORMATION AGE Scientists come at probability in a radically different way. They relish uncertainty, or at least accept it, because in scientific models of reality, certainty is illusory. Leon Panetta may not be a scientist, but he captured that insight perfectly when he said,… ([Location 2096](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2096))
+    - Tags: [[pink]] 
+- people would identify science with certainty,” wrote the mathematician and statistician William Byers. “Certainty, they feel, is a state of affairs with no downside, so the most desirable situation would be one of absolute certainty. Scientific results and theories seem to promise such certainty.”14 In the popular mind, scientists… ([Location 2100](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2100))
+    - Tags: [[pink]] 
+- “science.” As the work of accumulating facts proceeds, uncertainty is pushed back. The ultimate goal of science is uncertainty’s total eradication. But that is a very nineteenth-century view of science. One of twentieth-century science’s great accomplishments has been to show that uncertainty is an ineradicable element of reality.… ([Location 2103](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2103))
+    - Tags: [[pink]] 
+- illusion.”15 This is true both at the margin of scientific knowledge and at what currently appears to be its core. Scientific facts that look as solid as rock to one generation of scientists can be crushed to dust beneath the advances of the next.16 All scientific knowledge is tentative. Nothing is chiseled in granite. In practice, of… ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2107))
+    - Tags: [[pink]] 
+- whenever you assert a fact to say “although we have a substantial body of evidence to support this conclusion, and we hold it with a high degree of confidence, it remains possible, albeit extremely improbable, that new evidence or arguments may compel us to revise our view of this matter.” But there is always supposed to be an… ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2111))
+    - Tags: [[pink]] 
+- that is true of my work too, including everything in this book.… ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2114))
+    - Tags: [[pink]] 
+- If nothing is certain, it follows that the two- and three-setting mental dials are fatally flawed. Yes and no express certainty. They have to go. The only setting that remains is maybe—the one setting people intuitively want to avoid. Of course a one-setting… ([Location 2115](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2115))
+    - Tags: [[pink]] 
+- polonium in Yasser Arafat’s remains? Maybe. Is the man in the mysterious compound Osama bin Laden? Maybe. So “maybe” has to be subdivided into degrees of probability. One way to do that is with vague terms like “probably” and “unlikely,” but as we have seen that introduces dangerous ambiguity, which is why scientists prefer numbers.… ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2117))
+    - Tags: [[pink]] 
+- mean 10%, 20%, 30% … or 10%, 15%, 20% … or 10%, 11%, 12%. The finer grained the better, as long as the granularity captures real distinctions—meaning that if outcomes you say have an 11% chance of happening really do occur 1% less often than 12% outcomes and 1% more often than 10%… ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2120))
+    - Tags: [[pink]] 
+- In an Uncertain… ([Location 2126](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2126))
+    - Tags: [[pink]] 
+    - Note: READ THIS BOOK AND ALSO ARCHIE COCHRANES 'One Mans Medicine'
+- An awareness of irreducible uncertainty is the core of probabilistic thinking, but it’s a tricky thing to measure. To do that, we took advantage of a distinction that ([Location 2145](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2145))
+    - Tags: [[pink]] 
+- philosophers have proposed between “epistemic” and “aleatory” uncertainty. Epistemic uncertainty is something you don’t know but is, at least in theory, knowable. If you wanted to predict the workings of a mystery machine, skilled engineers could, in theory, pry it open and figure it out. Mastering mechanisms is a prototypical clocklike forecasting challenge. Aleatory uncertainty is something you not ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2146))
+    - Tags: [[pink]] 
+- only don’t know; it is unknowable. No matter how much you want to know whether it will rain in Philadelphia one year from now, no matter how many great meteorologists you consult, you can’t outguess the seasonal averages. You are dealing with an intractably cloud-like problem, with uncertainty that it is impossible, even in theory, to eliminate. Aleatory uncertainty ensures life will always have surprises, regardless ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2149))
+    - Tags: [[pink]] 
+- of how carefully we plan. ([Location 2152](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2152))
+    - Tags: [[pink]] 
+- Superforecasters grasp this deep truth better than most. When they sense that a question is loaded with irreducible uncertainty—say, a currency-market question—they have learned to be cautious, keeping their initial estimates inside the shades-of-maybe zone between 35% and 65% and moving out tentatively. They know the “cloudier” the outlook, the harder it is to beat ([Location 2152](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2152))
+    - Tags: [[pink]] 
+- that dart-throwing chimpanzee. ([Location 2155](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2155))
+    - Tags: [[pink]] 
+- Superforecasters were much more granular. Fully one-third of their forecasts used the single percentage point scale, meaning they would think carefully and decide that the chance of something happening was, say, 3% rather ([Location 2164](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2164))
+    - Tags: [[pink]] 
+- than 4%. Like the Treasury aide taught to think in fine-grained probabilities by his boss, Robert Rubin, superforecasters try to be so precise that they sometimes debate differences that most of us see as inconsequential—whether the correct probability is 5% or 1%, or whether it is a fraction of 1% close enough to zero to justify rounding down. ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2166))
+    - Tags: [[pink]] 
+- It’s easy to impress people by stroking your chin and declaring “There is a 73% probability Apple’s stock will finish the year 24% above where it started.” Toss in a few technical terms most people don’t understand—“stochastic” this, “regression” that—and you can use people’s justified respect for math and science to get them nodding along. This is ([Location 2172](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2172))
+    - Tags: [[pink]] 
+- granularity as bafflegab. It is unfortunately common. So how can we know that the granularity we see among superforecasters is meaningful? ([Location 2175](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2175))
+    - Tags: [[pink]] 
+- As the legendary investor Charlie Munger sagely observed, “If you don’t get this elementary, but mildly unnatural, mathematics of ([Location 2186](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2186))
+    - Tags: [[pink]] 
+- elementary probability into your repertoire, then you go through a long life like a one-legged man in an ass-kicking contest. ([Location 2187](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2187))
+    - Tags: [[pink]] 
+- The reward, remember, is a clearer perception of the future. And that’s invaluable in the ass-kicking contest of life. ([Location 2197](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2197))
+    - Tags: [[pink]] 
+- The economist and Nobel laureate Robert Shiller tells the story of how Henry Ford decided to hire workers at the then-astonishingly ([Location 2256](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2256))
+    - Tags: [[pink]] 
+- astonishingly high rate of $5 a day, which convinced both his grandfathers to move to Detroit to work for Ford. If someone had made one of his grandfathers a better job offer, if one of his grandfathers had been kicked in the head by a horse, if someone had convinced Ford he was crazy to pay $5 a day … if an almost infinite number of events had turned out differently, Robert Shiller would not have been born. But ([Location 2257](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2257))
+    - Tags: [[pink]] 
+- rather than see fate in his improbable existence, Shiller repeats the story as an illustration of how radically indeterminate the future is. “You tend to believe that history played out in a logical sort of sense, that people ought to have foreseen, but it’s not like that,” he told me. “It’s an illusion of hindsight. ([Location 2260](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2260))
+    - Tags: [[pink]] 
+- If it’s true that probabilistic thinking is essential to accurate forecasting, and it-was-meant-to-happen thinking undermines probabilistic thinking, we should expect superforecasters to be much less inclined to see things as fated. To test this, we probed their reactions to pro-fate statements like these: Events unfold according to ([Location 2268](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2268))
+    - Tags: [[pink]] 
+- God’s plan. Everything happens for a reason. There are no accidents or coincidences. We also asked them about pro-probability statements like these: Nothing is inevitable. Even major events like World War II or 9/11 could have turned out very differently. ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2271))
+    - Tags: [[pink]] 
+- Randomness is often a factor in our personal lives. We put the same questions to regular volunteer forecasters, undergraduates at the University of Pennsylvania, and a broad cross section of adult Americans. On a 9-point “fate score,” where 1 is total rejection of it-was-meant-to-happen thinking and 9 is a complete embrace of it, the mean score of adult Americans fell in the middle of the ([Location 2276](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2276))
+    - Tags: [[pink]] 
+- scale. The Penn undergrads were a little lower. The regular forecasters were a little lower still. And the superforecasters got the lowest score of all, firmly on the rejection-of-fate side. ([Location 2280](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2280))
+    - Tags: [[pink]] 
+- For both the superforecasters and the regulars, we also compared individual fate scores with Brier scores and found a significant correlation—meaning the more a forecaster inclined toward it-was-meant-to-happen thinking, the ([Location 2281](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2281))
+    - Tags: [[pink]] 
+- less accurate her forecasts were. Or, put more positively, the more a forecaster embraced probabilistic thinking, the more accurate she was. ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2283))
+    - Tags: [[pink]] 
+- So finding meaning in events is positively correlated with well-being but negatively correlated with foresight. That sets up a depressing possibility: Is misery the price of accuracy? I don’t know. But this book is not about how to be happy. It’s about how to be accurate, and the ([Location 2284](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2284))
+    - Tags: [[pink]] 
+- superforecasters show that probabilistic thinking is essential for that. I’ll leave the existential issues to others. ([Location 2286](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2286))
+    - Tags: [[pink]] 
+- Superforecasters update much more frequently, on average, than regular forecasters. That obviously matters. An updated forecast is likely to be a better-informed forecast and therefore a more accurate forecast. ([Location 2314](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2314))
+    - Tags: [[pink]] 
+- “When the facts change, I change my mind,” the legendary British economist John Maynard Keynes ([Location 2316](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2316))
+    - Tags: [[pink]] 
+- declared. “What do you do, sir?” The superforecasters do likewise, and that is another big reason why they are super. ([Location 2317](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2317))
+    - Tags: [[pink]] 
+- But there is a subtler explanation for Bill Flack’s underreaction to a Japanese official saying Shinzo Abe would visit the Yasukuni Shrine. The political costs of visiting Yasukuni were steep. And Abe ([Location 2382](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2382))
+    - Tags: [[pink]] 
+- had no pressing need to placate his conservative constituents by going, so the benefit was negligible. Conclusion? Not going looked like the rational decision. But Bill ignored Abe’s own feelings. Abe is a conservative nationalist. He had visited Yasukuni before, although not as prime minister. He wanted to go again. Reflecting on his mistake, Bill told me, “I think that the question I was really answering wasn ([Location 2383](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2383))
+    - Tags: [[pink]] 
+- ‘Will Abe visit Yasukuni?’ but ‘If I were PM of Japan, would I visit Yasukuni?’”3 That’s astute. And it should sound familiar: Bill recognized that he had unconsciously pulled a bait and switch on himself, ([Location 2386](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2386))
+    - Tags: [[pink]] 
+- substituting an easy question in place of a hard one. Having strayed from the real question, Bill dismissed the new information because it was irrelevant to his replacement question. ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2388))
+    - Tags: [[pink]] 
+- Commitment can come in many forms, but a useful way to think of it is to visualize the children’s game Jenga, which starts with building blocks ([Location 2427](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2427))
+    - Tags: [[pink]] 
+- stacked one on top of another to form a little tower. Players take turns removing building blocks until someone removes the block that topples the tower. Our beliefs about ourselves and the world are built on each other in a Jenga-like fashion. My belief that Keynes said “When the facts change, I change my mind” was a block sitting at the apex. It supported nothing else, so I could easily pick it up and toss it without disturbing other blocks. But ([Location 2428](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2428))
+    - Tags: [[pink]] 
+- when Jean-Pierre makes a forecast in his specialty, that block is lower in the structure, sitting next to a block of self-perception, near the tower’s core. So it’s a lot harder to pull that block out without upsetting other blocks—which makes Jean-Pierre reluctant to tamper with it. The Yale professor Dan Kahan has done much research showing that our judgments about risks—Does gun control make us safer or put us in danger? ([Location 2431](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2431))
+    - Tags: [[pink]] 
+- careful weighing of evidence than by our identities, which is why people’s views on gun control often correlate with their views on climate change, even though the two issues have no logical connection to each other. Psycho-logic trumps logic. And when Kahan asks people who feel strongly that gun control increases risk, or diminishes it, to imagine conclusive evidence that shows they are wrong, and then asks if they ([Location 2434](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2434))
+    - Tags: [[pink]] 
+- would change their position if that evidence were handed to them, they typically say no. That belief block is holding up a lot of others. Take it out and you risk chaos, so many people refuse to even imagine it. ([Location 2437](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2437))
+    - Tags: [[pink]] 
+- When a block is at the very base of the tower, there’s no way to remove it without bringing everything crashing down. This extreme commitment leads to extreme reluctance to admit error, ([Location 2439](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2439))
+    - Tags: [[pink]] 
+- This suggests that superforecasters may have a surprising advantage: they’re ([Location 2443](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2443))
+    - Tags: [[pink]] 
+- not experts or professionals, so they have little ego invested in each forecast. ([Location 2443](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2443))
+    - Tags: [[pink]] 
+- In the nineteenth century, when prose was never complete without a sage aside to Greek mythology, any discussion of two opposing dangers called for Scylla and Charybdis. Scylla was a rock shoal off the ([Location 2488](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2488))
+    - Tags: [[pink]] 
+- coast of Italy. Charybdis was a whirlpool on the coast of Sicily, not far away. Sailors knew they would be doomed if they strayed too far in either direction. Forecasters should feel the same about under- and overreaction to new information, the Scylla and Charybdis of forecasting. Good updating is all about finding the middle passage. ([Location 2489](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2489))
+    - Tags: [[pink]] 
+- superforecasters not ([Location 2528](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2528))
+    - Tags: [[pink]] 
+- only update more often than other forecasters, they update in smaller increments. ([Location 2528](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2528))
+    - Tags: [[pink]] 
+- Why this works is no mystery. A forecaster who doesn’t adjust her views in light of new information won’t capture the value of that information, while a forecaster who is so impressed by the new information that he bases his forecast entirely on it… ([Location 2529](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2529))
+    - Tags: [[pink]] 
+- prior forecast. But the forecaster who carefully balances old and new captures the value in both—and puts it into her new forecast. The best way to do… ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2531))
+    - Tags: [[pink]] 
+- An old thought experiment illustrates the idea. Imagine you are sitting with your back to a billiards table. A friend rolls a ball onto the table and it stops at a random spot. You want to… ([Location 2532](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2532))
+    - Tags: [[pink]] 
+- rolls a second ball, which stops at another random spot. You ask, “Is the second ball to the left or the right of the first?” Your friend says, “To the left.” That’s an almost trivial scrap of information. But it’s not nothing. It tells you that the first ball is not on the extreme left edge of the table. And it makes it just a tad more likely that the first… ([Location 2534](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2534))
+    - Tags: [[pink]] 
+- procedure is repeated, you get another scrap of information. If he says, “It’s to the left,” the likelihood of the first ball being on the right side of the table increases a little more. Keep repeating the process and you slowly narrow the range of the possible locations, zeroing in on the truth—although you will never eliminate… ([Location 2537](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2537))
+    - Tags: [[pink]] 
+- experiment was dreamt up by Thomas Bayes. A Presbyterian minister, educated in logic, Bayes was born in 1701, so he lived at the dawn of modern probability theory, a subject to which he contributed with “An Essay Towards Solving a Problem in the Doctrine of Chances.” That essay, in combination with the work of Bayes’ friend Richard Price,… ([Location 2541](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2541))
+    - Tags: [[pink]] 
+- mathematician Pierre-Simon La-place, ultimately produced Bayes’ theorem. It looks like this: P(H|D)/P(-H|D) = P(D|H) • P(D|-H) • P(H)/P(-H) Posterior Odds = Likelihood Ratio • Prior Odds The Bayesian belief-updating equation In simple terms, the theorem says that your… ([Location 2544](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2544))
+    - Tags: [[pink]] 
+- knowledge that informed it) multiplied by the “diagnostic value” of the new information. That’s head-scratchingly abstract, so let’s watch Jay Ulfelder—political scientist, superforecaster, and colleague of mine—put it to concrete use. In 2013 the Obama administration nominated Chuck Hagel to be defense secretary,… ([Location 2548](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2548))
+    - Tags: [[pink]] 
+- that Hagel might not be confirmed by the Senate. “Will Hagel withdraw?” wrote Tom Ricks, a defense analyst. “I’d say 50-50 … But declining by the day. Bottom line: Every business day that the Senate Armed Services Committee doesn’t vote to send the nomination to the full Senate, I think the likelihood of Hagel becoming defense secretary… ([Location 2551](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2551))
+    - Tags: [[pink]] 
+- with the base rate,” Ulfelder wrote. “Since the establishment of the [secretary of defense] position soon after World War II, it looks like only one of 24 official nominees has been rejected by the Senate, and none has withdrawn.” So the base rate is 96%. If Ulfelder had been asked immediately after Chuck Hagel was nominated whether he… ([Location 2554](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2554))
+    - Tags: [[pink]] 
+- “there is a 96% chance he will.” Because this estimate is made prior to the arrival of more information, it is called the “prior.”17 But then Hagel botched the hearing. Clearly, that reduced his chances. But by how much? To answer that, Ulfelder wrote, “Bayes’ theorem requires us to estimate two things: 1) how likely are we to see a… ([Location 2557](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2557))
+    - Tags: [[pink]] 
+- see a poor performance when the nominee is bound for approval?” Ulfelder didn’t have those numbers so he started by giving Ricks the benefit of the doubt and tilting his estimates heavily in Ricks’s favor, with the implication that if Ricks couldn’t be vindicated with those numbers he couldn’t be vindicated. “For the sake of argument, I’ll… ([Location 2561](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2561))
+    - Tags: [[pink]] 
+- hearings, but 19 of 20 bound for failure do.” Ulfelder plugged the numbers into Bayes’ formula, did the math, and his forecast “tumbles from 96 percent to a lowly … 83 percent.” Thus, Ulfelder concluded Ricks’s estimate was way off and Hagel was still very likely to be confirmed. And he was, two weeks later.18 This… ([Location 2564](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2564))
+    - Tags: [[pink]] 
+- memorize, and use a—shudder—algebraic formula? For you, I have good news: no, you don’t. The superforecasters are a numerate bunch: many know about Bayes’ theorem and could deploy it if they felt it was worth the trouble. But they rarely crunch the numbers so explicitly. What matters far more to the superforecasters than… ([Location 2568](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2568))
+    - Tags: [[pink]] 
+- constantly updating in proportion to the weight of… ([Location 2571](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2571))
+    - Tags: [[pink]] 
+- In his famous essay “Politics and the English Language,” George Orwell concluded with six emphatic rules, including “never use a long word where a short one will do” and “never use the passive ([Location 2586](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2586))
+    - Tags: [[pink]] 
+- where you can use the active.” But the sixth rule was the key: “Break any of these rules sooner than saying anything outright barbarous. ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2588))
+    - Tags: [[pink]] 
+- I understand the desire for fail-safe rules that guarantee good results. It is the source of our fatal attraction to hedgehog pundits and their false certainty. But there is no magical formula, just broad principles with lots of caveats. Superforecasters understand the principles but also ([Location 2589](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2589))
+    - Tags: [[pink]] 
+- know that their application requires nuanced judgments. And they would rather break the rules than make a barbarous forecast. ([Location 2591](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2591))
+    - Tags: [[pink]] 
+- The psychologist Carol Dweck would ([Location 2604](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2604))
+    - Tags: [[pink]] 
+- say Simpson has a “growth mindset,” which Dweck defines as believing that your abilities are largely the product of effort—that you can “grow” to the extent that you are willing to work hard and learn.2 Some people might think that’s so obviously true it scarcely needs to be said. But as Dweck’s research has shown, the growth mindset is far from universal. Many people have what she calls a “fixed mindset”—the belief that we are who we ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2605))
+    - Tags: [[pink]] 
+- are, and abilities can only be revealed, not created and developed. People with the fixed mindset say things like “I’m bad at math” and see that as an immutable feature of who they are, like being left-handed or female or tall. This has serious consequences. The person who believes he is bad at math, and always will be, won’t try hard to improve… ([Location 2609](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2609))
+    - Tags: [[pink]] 
+- school—he will take any setback as further proof that his limits have been revealed and he should stop wasting his time as soon as possible. Whatever potential he had for improvement will never be realized. Thus, the belief “I am bad at math” becomes self-fulfilling.3 In one of many experiments Dweck devised to reveal the crippling power… ([Location 2612](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2612))
+    - Tags: [[pink]] 
+- them. She then gave the children harder puzzles. Some of the children suddenly lost interest and declined an offer to take the puzzles home. Others loved the harder puzzles even more than the easy ones. “Could you write down the name of these puzzles,” one child asked, “so my mom can buy me some more when these ones run out?” The… ([Location 2615](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2615))
+    - Tags: [[pink]] 
+- among equally adept children, some were turned off by the tougher challenge while others were intrigued. The key factor was mindset. Fixed-mindset kids gave up. Growth-mindset kids knuckled down. Even when the fixed-minded try, they don’t get as much from the experience as those who believe they can grow.… ([Location 2618](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2618))
+    - Tags: [[pink]] 
+- questions, then were told whether their answers were right or wrong and given information that could help them improve. The scans revealed that volunteers with a fixed mindset were fully engaged when they were told whether their answers were right or wrong but that’s all they apparently cared about. Information… ([Location 2621](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2621))
+    - Tags: [[pink]] 
+- an answer wrong, they were not interested in learning what the right answer was,” Dweck wrote. “Only people with a growth mindset paid close attention to information that could stretch their knowledge. Only for them was learning a priority.” To be a top-flight forecaster, a growth mindset is essential. The best… ([Location 2624](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2624))
+    - Tags: [[pink]] 
+- change my… ([Location 2627](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2627))
+    - Tags: [[pink]] 
+- CONSISTENTLY INCONSISTENT Famous today only for his work on macroeconomic theory, one of John Maynard Keynes’s many remarkable accomplishments was his success as an investor. From the end of World War I to the end of World War II, Keynes handled his own money as… ([Location 2628](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2628))
+    - Tags: [[pink]] 
+- various investment funds, and Cambridge University’s King’s College. When he died in 1946, Keynes was an extremely wealthy man, and those whose money he had managed had flourished beyond all reasonable expectation. It would be an impressive record in any era, but this wasn’t just any era.4 Britain’s economy stagnated in… ([Location 2631](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2631))
+    - Tags: [[pink]] 
+- “Considering that Keynes was investing during some of the worst years in history, his returns are astounding,” noted John F. Wasik, the author of a book on Keynes’s investments.5 Keynes was breathtakingly intelligent and energetic, which certainly contributed to his success, but more than that he was an… ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2634))
+    - Tags: [[pink]] 
+- him to change his mind. He did so ungrudgingly. Indeed, he took pride in his willingness to squarely admit mistakes and adopt new beliefs, and he urged others to follow his lead. “There is no harm in being sometimes wrong, especially if one is promptly found out,” he wrote in 1933.6 “Keynes is always ready to… ([Location 2638](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2638))
+    - Tags: [[pink]] 
+- appropriate,” reported a 1945 profile of the “consistently inconsistent” economist. “So far from feeling guilty about such reversals of position, he utilizes them as pretexts for rebukes to those he saw as less nimble-minded. Legend says that while conferring with Roosevelt at Quebec, Churchill sent Keynes a cable reading, ‘Am coming… ([Location 2641](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2641))
+    - Tags: [[pink]] 
+- change my… ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2645))
+    - Tags: [[pink]] 
+- Keynes’s record as an investor was far from unblemished. In 1920 he was nearly wiped out when his foreign currency forecasts turned out to be horribly wrong. He found his footing again and made a fortune for himself and others in the 1920s. But just like Mary Simpson in 2008, Keynes didn’t see the disaster of 1929… ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2645))
+    - Tags: [[pink]] 
+- For Keynes, failure was an opportunity to learn—to identify mistakes, spot new alternatives, and try again. After his bad currency calls, Keynes didn’t retreat to the safe and easy. He embraced new ideas in the early 1920s, like getting stodgy King’s College into stocks at a time when institutions usually stuck to investments like real… ([Location 2648](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2648))
+    - Tags: [[pink]] 
+- scrutiny. Keynes concluded that there was something wrong with one of his key theoretical assumptions. Stock prices do not always reflect the true value of companies, so an investor should study a company thoroughly and really understand its business, capital, and management when deciding whether it had sufficient underlying… ([Location 2651](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2651))
+    - Tags: [[pink]] 
+- the same time, this approach was developed by Benjamin Graham, who called it “value investing.” It became the cornerstone of Warren Buffett’s fortune. The one consistent belief of the “consistently inconsistent” John Maynard Keynes was that he could do better. Failure did not mean he had reached the limits of his… ([Location 2654](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2654))
+    - Tags: [[pink]] 
+- adjust, try again: Keynes cycled through those steps ceaselessly. Keynes operated on a higher plane than most of us, but that process—try, fail, analyze, adjust, try again—is fundamental to how all of us learn, almost from the moment we are born. Look at a baby learning to sit up. She’s wobbly at first, and when she tilts her head back… ([Location 2657](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2657))
+    - Tags: [[pink]] 
+- mother placed there because babies learning to sit up always flop backward. The mother could skip the drama by putting her baby on her back, or in a chair, but she knows that when her baby flops she learns that she shouldn’t tilt her head that far and the next time she sits up she will be a little steadier. The baby will still have to practice this… ([Location 2661](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2661))
+    - Tags: [[pink]] 
+- breakthrough. The same process plays out thousands of times during childhood, from standing, to walking, to getting on a school bus, to figuring out how to manipulate the two joysticks and all those buttons so the character in the video game leaps at precisely the right moment with exactly the speed necessary to snatch the jewel… ([Location 2664](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2664))
+    - Tags: [[pink]] 
+- up a golf club for the first time is like a baby learning to sit up, and even with professional instruction he will fail often before he can pass as a competent golfer at the club. We learn new skills by doing. We improve those skills by doing more. These fundamental facts are true of even the most demanding skills.… ([Location 2667](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2667))
+    - Tags: [[pink]] 
+- isn’t enough to produce a qualified pilot. Not even time in advanced flight simulators will do. Pilots need hours in the air, the more the better. The same is true of surgeons, bankers, and business executives. TRY To demonstrate the limits of learning from lectures, the great philosopher and teacher Michael Polanyi wrote a detailed explanation of the physics of riding a bicycle: “The ([Location 2670](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2670))
+    - Tags: [[pink]] 
+- rule observed by the cyclist is this. When he starts falling to the right he turns the handlebars to the right, so that the course of the bicycle is deflected along a curve towards the right. This results in a centrifugal force pushing the cyclist to the left and offsets the gravitational force dragging him down to the right.” It continues in that vein and closes: “A simple analysis shows that for a given angle of unbalance the curvature of each ([Location 2673](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2673))
+    - Tags: [[pink]] 
+- winding is inversely proportional to the square of the speed at which the cyclist is proceeding.” It is hard to imagine a more precise description. “But does this tell us exactly how to ride a bicycle?” Polanyi asked. “No. You obviously cannot adjust the curvature of your bicycle’s path in proportion to the ratio of your unbalance over the square of… ([Location 2676](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2676))
+    - Tags: [[pink]] 
+- factors to be taken into account in practice which are left out in the formulation of this rule.”8 The knowledge required to ride a bicycle can’t be fully captured in words and conveyed to others. We need “tacit knowledge,” the sort we only get from bruising experience. To learn to ride a bicycle, we must try to ride one. It goes badly at… ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2679))
+    - Tags: [[pink]] 
+- becomes effortless—although if you had to explain how to stay upright, so they can skip the ordeal you just went through, you would succeed no better than Polanyi. That is blindingly obvious. It should be equally obvious that learning to forecast requires trying to forecast. Reading… ([Location 2683](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2683))
+    - Tags: [[pink]] 
+- FAIL But not all… ([Location 2687](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2687))
+    - Tags: [[pink]] 
+- improves skill. It needs to be informed practice. You need to know which mistakes to look out for—and which best practices really are best. So don’t burn your books. As noted earlier, randomized controlled experiments have shown that mastering the contents of just one tiny booklet, our training guidelines (see… ([Location 2687](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2687))
+    - Tags: [[pink]] 
+- also shown how the effects of book knowledge interact with those of practice. People who read the booklet benefited more from practice and people who practiced benefited more from reading the booklet. Fortune favors the prepared mind. The training guidelines help us draw the right lessons from our personal experiences and to strike… ([Location 2690](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2690))
+    - Tags: [[pink]] 
+- help us infuse pallid public-knowledge abstractions with real-world content. Effective practice also needs to be accompanied by clear and timely feedback. My research collaborator Don Moore points out that police officers spend a lot of time figuring out who is telling the truth and who is lying, but research has found they aren’t nearly as… ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2693))
+    - Tags: [[pink]] 
+- because experience isn’t enough. It must be accompanied by clear feedback. When an officer decides that a suspect is or isn’t lying, the officer doesn’t get immediate feedback about the accuracy of her guess (like the suspect saying, “You’re right! I was lying!”). Instead, events proceed. Charges may be laid, a trial held, and a verdict… ([Location 2696](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2696))
+    - Tags: [[pink]] 
+- even when there is a resolution, a huge range of factors could have gone into it. So an officer seldom gets clear feedback that tells her, yes, her judgment was right, or no, it was wrong. Predictably, psychologists who test police officers’ ability to spot lies in a controlled setting find a big gap between their confidence and… ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2700))
+    - Tags: [[pink]] 
+- unreasonably, that their experience has made them better lie detectors. As a result, officers grow confident faster than they grow accurate, meaning they grow increasingly overconfident. Gaps like that are far from unusual. Research on calibration—how closely your confidence matches your accuracy—routinely finds people… ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2702))
+    - Tags: [[pink]] 
+- Meteorologists generally do not suffer from it. Neither do seasoned bridge players. That’s because both get clear, prompt feedback. The meteorologist who calls for torrential rain tomorrow will know he was off if he wakes to sunshine. Bridge players, who estimate how many “tricks” they will win, get results at the end of each hand.… ([Location 2706](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2706))
+    - Tags: [[pink]] 
+- must know when we fail. The baby who flops backward does. So does the boy who skins his knee when he falls off the bike. And the accountant who puts an easy putt into a sand trap. And because they know, they can think about what went wrong, adjust, and try again. Unfortunately, most forecasters do not get the high-quality feedback… ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2709))
+    - Tags: [[pink]] 
+- Ambiguous language is a big one. As we saw in chapter 3, vague terms like “probably” and “likely” make it impossible to judge forecasts. When a forecaster says something could or might or may happen, she could or might or may be saying almost anything. The same is true of countless other terms—like Steve Ballmer’s reference… ([Location 2713](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2713))
+    - Tags: [[pink]] 
+- as fuzzy as fog. Even an impartial observer would struggle to extract meaningful feedback from vague forecasts, but often the judge is the forecaster… ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2716))
+    - Tags: [[pink]] 
+- Consider the Forer effect, named for the psychologist Bertram Forer, who asked some students to complete a personality test, then gave them individual personality profiles based on… ([Location 2717](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2717))
+    - Tags: [[pink]] 
+- their individual personalities. People were impressed by the test, giving it an average rating of 4.2 out of 5—which was remarkable because Forer had actually taken vague statements like “you have a great need for people to like and admire you” from a book on astrology, assembled them into a profile, and given the same profile to everyone.11… ([Location 2719](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2719))
+    - Tags: [[pink]] 
+- images, even though they thought they were judging the test objectively. The lesson for forecasters who would judge their own vague forecasts is: don’t kid yourself. The second big barrier to feedback is time lag. When forecasts span months or years, the wait for a result allows the flaws of memory to creep in. You know how… ([Location 2722](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2722))
+    - Tags: [[pink]] 
+- forecast accurately? There is a good chance you won’t. Not only will you have to contend with ordinary forgetfulness, you are likely to be afflicted by what psychologists call hindsight bias. If you are old enough now to have been a sentient being in 1991, answer this question: Back then, how likely did you think it was… ([Location 2725](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2725))
+    - Tags: [[pink]] 
+- reelection in 1992? We all know Bush 41 lost to Bill Clinton, but you may recall that he was popular after the victory in the Gulf War. So perhaps you thought his chances were pretty good, but, obviously, he also stood a pretty good chance of losing. Maybe it was fifty-fifty? Or maybe you thought the war gave him the edge, with, say, a 60%… ([Location 2728](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2728))
+    - Tags: [[pink]] 
+- Once we know the outcome of something, that knowledge skews our perception of what we thought before we knew the outcome: that’s hindsight bias. ([Location 2744](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2744))
+    - Tags: [[pink]] 
+- The effect can be subtle, but it can also be quite big. ([Location 2748](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2748))
+    - Tags: [[pink]] 
+- hindsight bias is sometimes known as the “I knew it all along” effect. ([Location 2753](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2753))
+    - Tags: [[pink]] 
+- To get better at a certain type of forecasting, that is the type of forecasting you must do—over and over again, with good feedback telling you ([Location 2768](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2768))
+    - Tags: [[pink]] 
+- how your training is going, and a cheerful willingness to say, “Wow, I got that one wrong. I’d better think about why. ([Location 2769](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2769))
+    - Tags: [[pink]] 
+- “Be careful about making assumptions of expertise, ask experts if you can find them, reexamine your assumptions from time to time.” ([Location 2775](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2775))
+    - Tags: [[pink]] 
+- People often assume that when a decision is followed by a good outcome, the decision was good, which isn’t always true, and can be dangerous if it ([Location 2788](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2788))
+    - Tags: [[pink]] 
+- blinds us to the flaws in our thinking. ([Location 2789](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2789))
+    - Tags: [[pink]] 
+- Grit is passionate perseverance of long-term goals, even in the face of frustration and failure. Married with a growth mindset, it is a potent force for personal progress. ([Location 2810](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2810))
+    - Tags: [[pink]] 
+- She ends all her e-mails with her personal motto: “Live simply. Love generously. Care deeply. Speak kindly. Leave the rest to God. ([Location 2817](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2817))
+    - Tags: [[pink]] 
+- “I am always trying to grow, to learn, to change, ([Location 2841](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2841))
+    - Tags: [[pink]] 
+- Computer programmers have a wonderful term for a program that is not intended to be released in a final version but will instead be used, analyzed, and improved without end. It is “perpetual beta.” Superforecasters are perpetual beta. ([Location 2848](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2848))
+    - Tags: [[pink]] 
+- PULLING IT ALL TOGETHER ([Location 2851](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2851))
+    - Tags: [[pink]] 
+- We have learned a lot about superforecasters, from their lives to their test scores to their work habits. Taking stock, we can now sketch a rough composite portrait of the modal superforecaster. In philosophic outlook, they tend to be: CAUTIOUS: Nothing is certain HUMBLE: Reality is infinitely complex NONDETERMINISTIC: What happens is ([Location 2851](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2851))
+    - Tags: [[pink]] 
+- not meant to be and does not have to happen In their abilities and thinking styles, they tend to be: ACTIVELY OPEN-MINDED: Beliefs are hypotheses to be tested, not treasures to be protected INTELLIGENT AND KNOWLEDGEABLE, WITH A “NEED FOR COGNITION”: Intellectually curious, enjoy puzzles and mental challenges ([Location 2856](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2856))
+    - Tags: [[pink]] 
+- REFLECTIVE: Introspective and self-critical NUMERATE: Comfortable with numbers In their methods of forecasting they tend to be: PRAGMATIC: Not wedded to any idea or agenda ANALYTICAL: Capable of stepping back from the tip-of-your-nose perspective and considering other views ([Location 2861](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2861))
+    - Tags: [[pink]] 
+- DRAGONFLY-EYED: Value diverse views and synthesize Judge using many grades of maybe THOUGHTFUL UPDATERS: When facts change, they change their minds GOOD INTUITIVE PSYCHOLOGISTS: Aware of the value of checking thinking for cognitive and emotional biases In their work ethic, they tend to have: A GROWTH MINDSET: Believe it’s possible ([Location 2866](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2866))
+    - Tags: [[pink]] 
+- to get better GRIT: Determined to keep at it however long it takes I paint with a broad brush here. Not every attribute is equally important. The strongest predictor of rising into the ranks of superforecasters is perpetual beta, the degree to which one is committed to belief updating and self-improvement. It is roughly three times as powerful a predictor as its closest rival, intelligence. To paraphrase Thomas ([Location 2871](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2871))
+    - Tags: [[pink]] 
+- Edison, superforecasting appears to be roughly 75% perspiration, 25% inspiration. And not every superforecaster has every attribute. There are many paths to success and many ways to compensate for a deficit in one area with strength in another. The predictive power of perpetual beta does suggest, though, that no matter how high one’s IQ it is difficult to compensate for lack of dedication to the personal project ([Location 2875](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2875))
+    - Tags: [[pink]] 
+- of “growing one’s synapses.” All that said, there is another element that is missing entirely from the sketch: other people. In our private lives and our workplaces, we seldom make judgments about the future entirely in isolation. We are a social species. We decide together. This raises an important question. What happens when superforecasters work in groups? ([Location 2878](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2878))
+    - Tags: [[pink]] 
+- Groups can be wise, or mad, or both. What ([Location 2955](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2955))
+    - Tags: [[pink]] 
+- makes the difference isn’t just who is in the group, Kennedy’s circle of advisers demonstrated. The group is its own animal. ([Location 2955](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2955))
+    - Tags: [[pink]] 
+- If forecasters can keep questioning themselves and their teammates, and welcome vigorous debate, the group can become more than the sum of its parts. ([Location 2971](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2971))
+    - Tags: [[pink]] 
+- So would groups lift superforecasters up or drag them down? Some of us suspected one outcome, others the opposite, but deep down, we knew we were all guessing. ([Location 2972](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2972))
+    - Tags: [[pink]] 
+- Consensus is not always good; disagreement not always bad. If you do happen to agree, don’t take that agreement—in itself—as proof that you are right. Never stop doubting. Pointed questions are as essential to a team as vitamins are to a human body. ([Location 2982](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2982))
+    - Tags: [[pink]] 
+- On the other hand, the opposite of groupthink—rancor and dysfunction—is also a danger. Team ([Location 2984](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2984))
+    - Tags: [[pink]] 
+- members must disagree without being disagreeable, we advised. ([Location 2985](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=2985))
+    - Tags: [[pink]] 
+- My Wharton colleague Adam Grant categorizes people as “givers,” “matchers,” and “takers.” Givers are those who contribute more to others than they receive in return; matchers give as much as they get; takers give less than they take. Cynics might say that giver is a polite word for ([Location 3117](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3117))
+    - Tags: [[pink]] 
+- chump. After all, anyone inclined to freeload will happily take what they give and return nothing, leaving the giver worse off than if he weren’t so generous. But Grant’s research shows that the pro-social example of the giver can improve the behavior of others, which helps everyone, including the giver—which explains why Grant has found that givers tend to come out on top. ([Location 3119](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3119))
+    - Tags: [[pink]] 
+- One involves the provocative phrase “diversity trumps ability,” coined by my colleague (and former competitor in the IARPA tournament) Scott Page.10 As we have seen, the aggregation of different perspectives is a potent way to improve judgment, but the key word is different. Combining ([Location 3136](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3136))
+    - Tags: [[pink]] 
+- uniform perspectives only produces more of the same, while slight variation will produce slight improvement. It is the diversity of the perspectives that makes the magic work. Superteams were fairly diverse—because superforecasters are fairly diverse—but we didn’t design them with that in mind. We put ability first. If Page is right, we might have gotten even better results if we had made diversity the key ([Location 3139](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3139))
+    - Tags: [[pink]] 
+- determinant of team membership and let ability take care of itself. Again, though, flag the false dichotomy. The choice is not ability or diversity; it is fine-tuning the mixes of ability and diversity and gauging which work best in which situations. ([Location 3142](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3142))
+    - Tags: [[pink]] 
+- The Leader’s Dilemma ([Location 3162](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3162))
+    - Tags: [[pink]] 
+- LEADERS MUST DECIDE, and to do that they ([Location 3163](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3163))
+    - Tags: [[pink]] 
+- must make and use forecasts. The more accurate those forecasts are, the better, so the lessons of superforecasting should be of intense interest to them. But leaders must also act and achieve their goals. In a word, they must lead. And anyone who has led people may have doubts about how useful the lessons of superforecasting really are for leaders. Ask people to list the qualities an effective leader must have, or consult the ([Location 3164](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3164))
+    - Tags: [[pink]] 
+- cottage industry devoted to leadership coaching, or examine rigorous research on the subject, and you will find near-universal agreement on three basic points. Confidence will be on everyone’s list. Leaders must be reasonably confident, and instill confidence in those they lead, because nothing can be accomplished without the belief that it can be. Decisiveness is another essential attribute. Leaders can’t ruminate ([Location 3167](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3167))
+    - Tags: [[pink]] 
+- endlessly. They need to size up the situation, make a decision, and move on. And leaders must deliver a vision—the goal that everyone strives together to achieve. But look at the style of thinking that produces superforecasting and consider how it squares with what leaders must deliver. How can leaders be confident, and inspire confidence, if they see nothing as certain? How can they be decisive and avoid ([Location 3170](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3170))
+    - Tags: [[pink]] 
+- “analysis paralysis” if their thinking is so slow, complex, and self-critical? How can they act with relentless determination if they readily adjust their thinking in light of new information or even conclude they were wrong? And underlying superforecasting is a spirit of humility—a sense that the complexity of reality is staggering, our ability to comprehend limited, and mistakes inevitable. No one ([Location 3173](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3173))
+    - Tags: [[pink]] 
+- ever described Winston Churchill, Steve Jobs, or any other great leader as “humble.” Well, maybe Gandhi. But try to name a second and a third. And consider how the superteams operated. They were given guidance on how to form an effective team, but nothing was imposed. No hierarchy, no direction, no formal leadership. These little anarchist cells may work as forums for the endless consideration and ([Location 3176](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3176))
+    - Tags: [[pink]] 
+- reconsideration superforecasters like to engage in but they’re hardly organizations that can pull together and get things done. That takes structure—and a leader in charge. This looks like a serious dilemma. Leaders must be forecasters and leaders but it seems that what is required to succeed at one role may undermine the other. ([Location 3179](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3179))
+    - Tags: [[pink]] 
+- The fundamental message: think. If necessary, discuss your orders. Even criticize them. And if you absolutely must—and you better have a good reason—disobey them.4 ([Location 3215](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3215))
+    - Tags: [[pink]] 
+- An imperfect decision made in time was better than a perfect one made too late. ([Location 3221](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3221))
+    - Tags: [[pink]] 
+- “Clarification of the enemy situation is an obvious necessity, but waiting for information in a tense situation is seldom the sign of strong leadership—more often of weakness, ([Location 3221](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3221))
+    - Tags: [[pink]] 
+- So a leader must possess unwavering determination to overcome obstacles and accomplish his goals—while remaining open to the possibility that he may have to throw out the plan and try something else. ([Location 3231](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3231))
+    - Tags: [[pink]] 
+- That’s a lot to ask of anyone, but the German military saw it as the essence of the leader’s role. “Once a course of action has been initiated it must not be abandoned without overriding ([Location 3232](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3232))
+    - Tags: [[pink]] 
+- reason,” the Wehrmacht manual stated. “In the changing situations of combat, however, inflexibly clinging to a course of action can lead to failure. The art of leadership consists of the timely recognition of… ([Location 3234](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3234))
+    - Tags: [[pink]] 
+- What ties all of this together—from “nothing is certain” to “unwavering determination”—is… ([Location 3237](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3237))
+    - Tags: [[pink]] 
+- Auftragstaktik. Usually translated today as “mission command,” the basic idea is simple. “War cannot be conducted from the green table,” Moltke wrote, using an expression that referred to top commanders at headquarters. “Frequent and rapid decisions can be shaped only on the spot according to estimates of… ([Location 3238](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3238))
+    - Tags: [[pink]] 
+- those on the ground—the first to encounter surprises on the evolving battlefield—can respond quickly. Of course those on the ground don’t see the bigger picture. If they made strategic decisions the army would lose coherence and become a collection of tiny units, each seeking its own ends. Auftragstaktik blended… ([Location 3241](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3241))
+    - Tags: [[pink]] 
+- commanders were to tell subordinates what their goal is but not how to achieve it. Imagine a top-down, command-and-control military unit approaching a town. A captain is ordered to take the town. How? Approach from the southwest, skirt the factory on the outskirts, seize the canal bridge, then occupy the town hall. Why?… ([Location 3244](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3244))
+    - Tags: [[pink]] 
+- situation in the town turns out to be different from what headquarters expects? That won’t happen. But what if it does? There is no answer. The captain will be unsure of what to do other than asking headquarters for new orders. Worse, he and his men will be rattled. As Moltke observed, “It shakes the trust of subordinates and gives the… ([Location 3247](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3247))
+    - Tags: [[pink]] 
+- from higher headquarters had presumed.”9 In the Wehrmacht, by contrast, a captain would be told to take the town. How? That’s up to him. Why? Because his superior has been ordered to prevent enemy reinforcements from reaching the region on the other side of the town and taking the town will sever a key road. Thanks to… ([Location 3250](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3250))
+    - Tags: [[pink]] 
+- account the circumstances he encounters, not those headquarters expects him to encounter. And he can improvise. If he comes across a bridge on another road that HQ thought had been destroyed but wasn’t, he will realize it could be used to move enemy… ([Location 3253](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3253))
+    - Tags: [[pink]] 
+- Orders in the Wehrmacht were often short and… ([Location 3256](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3256))
+    - Tags: [[pink]] 
+- history hung in the balance. “Gentlemen, I demand that your divisions completely cross the German borders, completely cross the Belgian borders and completely cross the River Meuse,” a senior officer told the commanders who would launch the great assault into Belgium and France on May 10, 1940. “I don’t care how you do it, that’s… ([Location 3256](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3256))
+    - Tags: [[pink]] 
+- officers. Right down to junior officers, NCOs, and the lowliest private, soldiers were told what the commander wanted accomplished but were expected to use their judgment about how best to do that given what they were seeing. The battlefield “requires soldiers who can think and act independently, who can make calculated, decisive, and… ([Location 3260](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3260))
+    - Tags: [[pink]] 
+- the command manual… ([Location 3263](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3263))
+    - Tags: [[pink]] 
+- “Never tell people how to do things,” he wrote, succinctly capturing the spirit of Auftragstaktik: “Tell them what to do, and they will surprise you with their ([Location 3308](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3308))
+    - Tags: [[pink]] 
+- ingenuity. ([Location 3309](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3309))
+    - Tags: [[pink]] 
+- “Plans are merely a platform for change ([Location 3320](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3320))
+    - Tags: [[pink]] 
+- “the most powerful tool any soldier carries is not his weapon but his mind, ([Location 3362](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3362))
+    - Tags: [[mindfulness]] 
+- “We let our people know what we want them to accomplish. But—and it is a very big ‘but’—we do not tell them how to achieve those goals. ([Location 3379](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3379))
+    - Tags: [[pink]] 
+- “Have backbone; disagree and commit” is one of Jeff Bezos’s fourteen leadership principles drilled into every new employee at Amazon. It continues: “Leaders are obligated to respectfully challenge decisions when they disagree, even when doing so is uncomfortable or ([Location 3383](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3383))
+    - Tags: [[pink]] 
+- exhausting. Leaders have conviction and are tenacious. They do not compromise for the sake of social cohesion. Once a decision is determined, they commit wholly. ([Location 3385](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3385))
+    - Tags: [[pink]] 
+- “There is nothing like danger to focus the mind,” Soros once said. ([Location 3405](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3405))
+    - Tags: [[pink]] 
+- So how do we square all that with the apparently critical need for a forecaster to be humble? The answer lies in something Annie Duke told me. We met Duke earlier. She believes she is one of the world’s best poker ([Location 3413](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3413))
+    - Tags: [[pink]] 
+- players, which is no small claim, but she has a long record of accomplishments—including a World Series of Poker champion-ship—that suggest her confidence is reasonable. But Duke also knows there is danger in confidence. When making a decision, a smart person like Duke is always tempted by a simple cognitive shortcut: “I know the answer. I don’t need to think long and hard about it. I am a very successful ([Location 3415](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3415))
+    - Tags: [[pink]] 
+- person with good judgment. The fact that I believe my judgment is correct proves it is.” Make decisions like that and you are only looking at reality from the tip of your nose. That’s a dangerous way to make decisions, no matter who you are. To avoid this trap, Duke carefully distinguishes what she is confident about—and what she’s not. “You have to have tremendous humility in the face of the game because the ([Location 3417](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3417))
+    - Tags: [[pink]] 
+- game is extremely complex, you won’t solve it, it’s not like tic-tac-toe or checkers,” she says. “It’s very hard to master and if you’re not learning all the time, you will fail. That being said, humility in the face of the game is extremely different than humility in the face of your opponents.” Duke feels confident that she can compete with most people she sits down with at a poker table. “But that doesn’t mean I think ([Location 3421](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3421))
+    - Tags: [[pink]] 
+- I’ve mastered this game. ([Location 3424](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3424))
+    - Tags: [[pink]] 
+- The humility required for good judgment is not self-doubt—the sense that you are untalented, unintelligent, or unworthy. It is intellectual humility. It is a recognition that reality is profoundly complex, that seeing things clearly is a constant struggle, when it can be done at all, and that human judgment must therefore be riddled with mistakes. This is true for fools and geniuses alike. So it ([Location 3425](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3425))
+    - Tags: [[pink]] 
+- quite possible to think highly of yourself and be intellectually humble. In fact, this combination can be wonderfully fruitful. Intellectual humility compels the careful reflection necessary for good judgment; confidence in one’s abilities inspires determined action. “With firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in,” Abraham Lincoln declared in his second inaugural address. It ([Location 3428](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3428))
+    - Tags: [[pink]] 
+- statement of fierce conviction and determination. But it is also a humble acknowledgment—“as God gives us to see the right”—that our vision is limited, our judgment flawed, and even firmest belief may be wrong. ([Location 3431](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3431))
+    - Tags: [[pink]] 
+- As we saw, people can, in principle, use conscious System 2 reflection to catch mistakes arising from a rapid, unconscious System 1 operations. Superforecasters put ([Location 3465](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3465))
+    - Tags: [[pink]] 
+- enormous effort into doing just that. But the continuous self-scrutiny is exhausting, and the feeling of knowing is seductive. Surely even the best of us will inevitably slip back into easier, intuitive modes of thinking. ([Location 3466](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3466))
+    - Tags: [[pink]] 
+- Consider a 2014 interview with General Michael Flynn, who summed up his view of the world shortly before retiring as head of the Defense Intelligence Agency (DIA), the Pentagon’s equivalent of the CIA with seventeen thousand employees. “I come into this office every morning, and other than a short jog to clear my head, I spend two to three hours reading intelligence reports,” he said. “I will frankly tell you that what I see each ([Location 3468](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3468))
+    - Tags: [[pink]] 
+- day is the most uncertain, chaotic, and confused international environment that I’ve witnessed in my entire career. There were probably more dangerous times such as when the Nazis and [Japanese] imperialists were trying to dominate the world, but we’re in another very dangerous era. … I think we’re in a period of prolonged societal conflict that is pretty unprecedented.”1 Much of what Flynn ([Location 3471](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3471))
+    - Tags: [[pink]] 
+- said is too vague to be judged, but his final line isn’t. In the context of the interview—the reporter had mentioned conflicts in Ukraine, Korea, and the Middle East—that statement makes it clear that Flynn believes “societal conflict” is at a “pretty unprecedented” level. That is an empirical claim that can be checked by reviewing the many reports that have quantified global violence since World War II. And what they ([Location 3475](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3475))
+    - Tags: [[pink]] 
+- all show, broadly, is that interstate wars have been declining since the 1950s and civil wars have been declining since the end of the Cold War in the early 1990s. This is reflected in the number of battle deaths per year, which, with a few blips, declined throughout the period.2 You don’t have to be the head of the DIA to find those reports. Googling “global conflict trends” will suffice. But Flynn saw no need to do so ([Location 3478](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3478))
+    - Tags: [[pink]] 
+- before drawing his sweeping conclusion and sharing it. Why not? The same reason Peggy Noonan saw no need to consult the data on other former presidents’ approval ratings when she judged the meaning of President Bush’s rising appeal. At work in each case was Kahneman’s WYSIATI—What You See Is All There Is—the mother of all cognitive illusions, the egocentric worldview that prevents us from seeing any world beyond the one ([Location 3481](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3481))
+    - Tags: [[pink]] 
+- visible from the tips of our noses. Flynn saw mountains of bad news on his desk every day, and his conclusion felt right—so That Was All There Was. As a lifelong intelligence officer, Flynn knew the importance of checking assumptions, no matter how true they feel, but he didn’t because it didn’t feel like an assumption. It felt true. It’s… ([Location 3485](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3485))
+    - Tags: [[pink]] 
+- Michael Flynn. Quite the opposite: the fact that a man so accomplished made so obvious an error is precisely what makes the error notable. We are all vulnerable. And there’s no way to make ourselves bulletproof,… ([Location 3488](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3488))
+    - Tags: [[pink]] 
+- Müller-Lyer illusion The top horizontal line looks longer than the line below it,… ([Location 3490](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3490))
+    - Tags: [[pink]] 
+- unsure, take out a ruler and measure. Once you are fully satisfied that the lines are identical, look again, but now try to see the lengths of the two lines accurately. No luck? You know the lines are the same. You want to see them that way. But you can’t. Not even knowing it’s an illusion can switch off the illusion. The cognitive illusions… ([Location 3492](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3492))
+    - Tags: [[pink]] 
+- We can’t switch off the tip-of-our-nose perspective. We can only monitor the answers that bubble up into consciousness—and, when we have the time and… ([Location 3495](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3495))
+    - Tags: [[pink]] 
+- Viewed in this light, superforecasters are always just a System 2 slipup away from a blown forecast and a nasty tumble down the rankings. Kahneman and I agree about that.… ([Location 3497](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3497))
+    - Tags: [[pink]] 
+- people can inoculate themselves to some degree against certain cognitive illusions. That may sound like a tempest in an academic teapot,… ([Location 3498](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3498))
+    - Tags: [[pink]] 
+- So just as Kahneman worked with Gary Klein to resolve their disputes about expert intuition, he worked with Barbara Mellers, to explore the capacity of superforecasters to resist a bias of particularly… ([Location 3502](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3502))
+    - Tags: [[pink]] 
+- Kahneman first documented scope insensitivity thirty years ago when… ([Location 3504](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3504))
+    - Tags: [[pink]] 
+- selected group in Toronto, the capital city of Ontario, how much they would be willing to pay to clean up the lakes in a small region of the province. On average, people said about $10.3 Kahneman asked another randomly selected group how much they would be willing to pay to clean up every one of the 250,000 lakes in Ontario. They too said… ([Location 3504](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3504))
+    - Tags: [[pink]] 
+- 2,000 migratory birds drown in oil ponds. How much would you be willing to pay to stop that? Other subjects were told 20,000 birds died each year. A third group was told it was 200,000 birds. And yet in each case, the average amount people said they would be willing to pay was around $80. What people were responding to,… ([Location 3508](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3508))
+    - Tags: [[pink]] 
+- drowning, oil-soaked duck. “The prototype automatically evokes an affective response, and the intensity of that emotion is then mapped onto the dollar scale.” It’s classic bait and switch. Instead of answering the question asked—a difficult one that requires putting a money value on things we never monetize—people… ([Location 3511](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3511))
+    - Tags: [[pink]] 
+- dying ducks, the answer is roughly the same: bad. Scope recedes into the background—and… ([Location 3514](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3514))
+    - Tags: [[pink]] 
+- What do polluted lakes have to do with the Syrian civil war or any of the other geopolitical problems posed in the IARPA tournament? If you are as creative as Daniel Kahneman, the answer is “a lot.” Flash back to early 2012. How likely is the Assad… ([Location 3515](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3515))
+    - Tags: [[pink]] 
+- well-armed core supporters; (2) it has powerful regional allies. Arguments in favor of a fall include (1) the Syrian army is suffering massive defections; (2) the rebels have some momentum, with fighting reaching the capital. Suppose you weight the strength of these arguments, they feel roughly equal, and you settle on a probability of… ([Location 3517](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3517))
+    - Tags: [[pink]] 
+- extreme illustration, the probability of the regime falling in the next twenty-four hours must be less—likely a lot less—than the probability that it will fall in the next twenty-four months. To put this in Kahneman’s terms, the time frame is the “scope” of the forecast. So we asked one randomly selected group of superforecasters,… ([Location 3520](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3520))
+    - Tags: [[pink]] 
+- group was asked how likely it was in the next six months. We did the same experiment with regular forecasters. Kahneman predicted widespread “scope insensitivity.” Unconsciously, they would do a bait and switch, ducking the hard question that requires calibrating the probability to the time frame and tackling the easier question about… ([Location 3524](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3524))
+    - Tags: [[pink]] 
+- frame would make no difference to the final answers, just as it made no difference whether 2,000, 20,000, or 200,000 migratory birds died. Mellers ran several studies and found that, exactly as Kahneman expected, the vast majority of forecasters were scope insensitive. Regular forecasters said there was a 40% chance Assad’s… ([Location 3527](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3527))
+    - Tags: [[pink]] 
+- But the superforecasters did much better: They put the probability of Assad’s fall at 15% over three months and 24% over six months. That’s not perfect scope sensitivity (a tricky thing to define), but it was good enough to surprise Kahneman. If we bear in mind that no one was asked both the three-and six-month version of the… ([Location 3530](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3530))
+    - Tags: [[pink]] 
+- only paid attention to the time frame in the question but also thought about other possible time frames—and thereby shook off a hard-to-shake bias. I wish I could take credit for that. Our advanced training guidelines urge forecasters to mentally tinker with “the question asked” and explore how their answers to a timing question might… ([Location 3533](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3533))
+    - Tags: [[pink]] 
+- for oil were… ([Location 3536](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3536))
+    - Tags: [[pink]] 
+- lower, or some other relevant variation. Running such “thought experiments” inside your head is a good way to stress-test the adequacy of your mental model of the problem and ensure you are scope sensitive. But the truth is superforecasters were talking about problems of scope insensitivity—although… ([Location 3536](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3536))
+    - Tags: [[pink]] 
+- helped inform our training guidelines as much as our training guidelines… ([Location 3539](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3539))
+    - Tags: [[pink]] 
+- My sense is that some superforecasters are so well practiced in System 2 corrections—such as stepping back to take the outside view—that these techniques have become habitual. In effect, they are now part of their System 1. That may sound bizarre but it’s not an… ([Location 3540](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3540))
+    - Tags: [[pink]] 
+- a tee and was told to bend at the knees, tilt her head just so, raise one shoulder, drop the other, lift the elbow … It was awkward and required self-conscious monitoring. The second time she set up at the tee, she had to laboriously work through this mental checklist (“bend at knees, tilt head, raise shoulder …”) and even with great… ([Location 3542](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3542))
+    - Tags: [[pink]] 
+- the same. But slowly, it got easier. A golfer who keeps at it will eventually bury those instructions in System 1 and do it all gracefully. No matter how physically or cognitively demanding a task may be—cooking, sailing, surgery, operatic singing, flying fighter jets—deliberative practice can make it second nature. Ever watch a child… ([Location 3545](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3545))
+    - Tags: [[pink]] 
+- Fortunately, reading this sentence isn’t nearly so demanding for you now. So how long can superforecasters defy the laws of psychological gravity? The answer to that depends on how heavy their cognitive loads are. Turning a self-conscious System 2 correction into an unconscious System 1 operation may… ([Location 3548](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3548))
+    - Tags: [[pink]] 
+- developed—like Doug Lorch’s new-source selection program designed to correct the System 1 bias in favor of the like-minded. But still, superforecasting remains hard work. Those who do it well appreciate the fragility of their success. They expect to stumble. And when they do, they will get up, try to draw the right lessons,… ([Location 3551](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3551))
+    - Tags: [[pink]] 
+- superforecasters as I am. Indeed, he suspects this whole research… ([Location 3554](https://readwise.io/to_kindle?action=open&asin=B00Y78X7HY&location=3554))
+    - Tags: [[pink]]
+

@@ -1,0 +1,942 @@
+---
+tags:
+  - readwise
+---
+
+# Charlie Munger
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41Ma9j8wx%2BL._SL200_.jpg)
+
+## Metadata
+- Author: [[Tren Griffin]]
+- Full Title: Charlie Munger
+- Category: #books
+
+## Highlights
+- Munger is such an interesting person, in no small part because he is, in a word, unrestrained. He says exactly what is on his mind, with little consideration ([Location 69](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=69))
+    - Tags: [[pink]] 
+- given to tact and social conventions. ([Location 70](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=70))
+    - Tags: [[pink]] 
+- People sometimes say to me that they do not understand the fuss about Charlie Munger. Unfortunately, they are missing a key point: no one can ever be Charlie Munger, just like no one can be Warren Buffett. The point is not to treat anyone like a hero, but rather to consider whether Munger, like his idol ([Location 75](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=75))
+    - Tags: [[pink]] 
+- Benjamin Franklin, may have qualities, attributes, systems, or approaches to life that we might want to emulate, even in part. This same process explains why Munger has read hundreds of biographies. Learning from the success and failure of others is the fastest way to get smarter and wiser without a lot of pain. ([Location 77](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=77))
+    - Tags: [[pink]] 
+- Much of what is interesting about Munger is explained by this simple sentence: “I observe what works and what doesn’t and why.” Life happens to Munger as it does to everyone, but unlike many people he thinks deeply about why things happen and works hard to ([Location 84](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=84))
+    - Tags: [[pink]] 
+- learn from the experience. ([Location 86](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=86))
+    - Tags: [[pink]] 
+- This is why Warren Buffett likes to say that “investing is simple, but not easy.”2 Munger’s ([Location 120](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=120))
+    - Tags: [[pink]] 
+- version of what Buffett said is: “Take a simple idea and take it seriously.” ([Location 122](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=122))
+    - Tags: [[pink]] 
+- Wall Street Journal columnist Jason Zweig described one of the essential challenges in investing in an email to me: If it was easy to… ([Location 124](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=124))
+    - Tags: [[pink]] 
+- there wouldn’t be just one Charlie Munger. Turning oneself into a learning machine with multiple mental models … is very hard work, and the few people who succeed at doing it may still fail to benefit from it if they don’t have the right temperament. This is why both Buffett and Munger… ([Location 126](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=126))
+    - Tags: [[pink]] 
+- implacable calm. Buffett talks constantly about the “emotional framework” Graham provides; Charlie often says that most investors, no matter how smart, won’t succeed because they have “the wrong temperament.” I like to use a word from ancient Greek philosophy to describe this: ataraxia, or perfect… ([Location 128](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=128))
+    - Tags: [[pink]] 
+- hanged, when Buffett invests in Goldman and when Charlie buys Wells Fargo the day before the bottom tick in March 2009. —JASON… ([Location 131](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=131))
+    - Tags: [[pink]] 
+- To help myself better understand Munger’s ideas and methods that relate specifically to investing, I created a framework composed of three elements: principles, the… ([Location 134](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=134))
+    - Tags: [[pink]] 
+- framework is only one type of model that can be used to understand Munger’s ideas and methods about investing. Other approaches to understanding Munger can be just as useful. My other intent in creating this framework was to create a checklist that can be used in investing. Munger is a strong proponent of a checklist approach to life’… ([Location 135](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=135))
+    - Tags: [[pink]] 
+- need to get all the likely and unlikely answers before you; otherwise it’s easy to miss something important. —CHARLIE MUNGER, WESCO ANNUAL MEETING, 2007 Part of the benefit of creating a checklist is the process of writing down your ideas. I have always loved the point Buffett made about the importance of… ([Location 139](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=139))
+    - Tags: [[pink]] 
+- cannot write it down, you have not thought it through. To best fulfill the promise of a book entitled Charlie Munger: The Complete Investor, it is essential to start out with a discussion of Graham value investing fundamentals because that will help convey an outline of where this book is going. The four fundamental principles of value… ([Location 143](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=143))
+    - Tags: [[pink]] 
+- proportional ownership of the business.    2.  Buy at a significant discount to intrinsic value to create a margin of safety.    3.  Make a bipolar Mr. Market your servant rather than your master.    4.  Be rational, objective, and dispassionate. Munger has said these four bedrock… ([Location 148](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=148))
+    - Tags: [[pink]] 
+- these principles is not a Graham value investor. The Graham value investing system… ([Location 153](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=153))
+    - Tags: [[pink]] 
+- He believes that if you can learn to overcome behavior that drives poor decisions, you can gain an edge over other investors. Much of the context of the book will be about how Munger invests, but the discussion is ([Location 176](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=176))
+    - Tags: [[pink]] 
+- just as applicable to making decisions in other aspects of life. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=178))
+    - Tags: [[pink]] 
+- [Ben Graham] was trying to invent a system anybody could use. ([Location 187](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=187))
+    - Tags: [[pink]] 
+- Because investing is a probabilistic activity, decisions made in ways that are fundamentally sound may ([Location 203](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=203))
+    - Tags: [[pink]] 
+- sometimes produce bad results. Sometimes a person will produce an unfavorable result even when his or her process is well constructed and executed. However, in the long run, it is always wise to focus on following the right process over any specific, intermediate outcome. Munger believes that when creating a successful investing process, complexity is not the investor’s friend. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=203))
+    - Tags: [[pink]] 
+- We have a passion for keeping things simple. ([Location 207](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=207))
+    - Tags: [[pink]] 
+- “Turn complicated problems into simple ones. Break down a problem into its components, but look at the problem holistically.”1 ([Location 210](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=210))
+    - Tags: [[pink]] 
+- “Simplicity has a way of improving performance through enabling us to better understand what we are doing.”2 ([Location 213](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=213))
+    - Tags: [[pink]] 
+- If something is too hard, we move on to something else. What could be simpler than that? ([Location 220](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=220))
+    - Tags: [[pink]] 
+- We have three baskets: in, out, and too tough. … We have to have a special insight, or we’ll put it in the “too tough” basket. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=223))
+    - Tags: [[pink]] 
+- Confucius said that real knowledge is knowing the extent of one’s ignorance. Aristotle and Socrates said the same thing. Is it a skill that can be taught or learned? It probably can, if you have enough of a stake riding on the outcome. Some people are extraordinarily good at knowing the limits of their knowledge, because they have to be. Think of somebody who’s been a professional ([Location 232](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=232))
+    - Tags: [[pink]] 
+- tightrope walker for 20 years—and has survived. He couldn’t survive as a tightrope walker for 20 years unless he knows exactly what he knows and what he doesn’t know. He’s worked so hard at it, because he knows if he gets it wrong he won’t survive. The survivors know. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=234))
+    - Tags: [[pink]] 
+- Graham value investing is… ([Location 238](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=238))
+    - Tags: [[pink]] 
+- showboating or flouting one’s intelligence. Instead, it is about doing things that are not… ([Location 239](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=239))
+    - Tags: [[pink]] 
+- The successful Graham value investor also works diligently to reduce the downside risk of any investment. For this reason, the Graham value investing system tends to shine most brightly during a flat or falling stock market. The Graham value… ([Location 240](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=240))
+    - Tags: [[pink]] 
+- bull market; this is confusing to many people. The underperformance of the Graham value investing system during a bull market is an essential part of this style of investing. By giving up some of the upside in a bull market, the Graham value investor is able to outperform when the market is flat or down. Consider what Seth Klarman wrote in Margin… ([Location 242](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=242))
+    - Tags: [[pink]] 
+- and pay little attention to risk, how much they can lose.”4 He added, “The payoff from a risk-averse, long-term… ([Location 245](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=245))
+    - Tags: [[pink]] 
+- Here is a story to further illustrate this point. An investor was walking in a park one day when she saw a frog sitting on a log at the edge of a pond. The frog looked right at her and said, “Excuse me… ([Location 249](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=249))
+    - Tags: [[pink]] 
+- replied, “Yes, I am. Why do you ask?” “Well,” replied the frog, “I am a stock speculator. My best client did not like my investing results so he put a spell on me and now I am a frog. The spell can be broken if an investor will kiss me.” The investor immediately reached over and picked up the frog, put him in her purse, and then started to… ([Location 251](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=251))
+    - Tags: [[pink]] 
+- doing? When do I get my kiss?” The investor replied, “I’m not kissing you ever. You’re worth a lot more to me as a talking frog than as a stock speculator.” If you cannot accept investing underperformance in the short term in order to achieve long-term investment outperformance, then you are not a… ([Location 255](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=255))
+    - Tags: [[pink]] 
+- investing system is not the only way to invest successfully. It is important to note that the goal of the Graham value investor is superior absolute performance, not just relative performance. An investor cannot spend the output of relative performance, only actual performance. Failing conventionally is not the goal of the… ([Location 259](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=259))
+    - Tags: [[pink]] 
+- It’s… ([Location 263](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=263))
+    - Tags: [[pink]] 
+- how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent. There must be some wisdom in the folk… ([Location 264](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=264))
+    - Tags: [[pink]] 
+- What’s the flip side, what can go wrong that I… ([Location 267](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=267))
+    - Tags: [[pink]] 
+- In short, Munger’s view is that being smart is often best achieved by not being stupid. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=274))
+    - Tags: [[pink]] 
+- Munger said it simply: “Knowing what you don’t know is more useful than being brilliant.” ([Location 275](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=275))
+    - Tags: [[pink]] 
+- Munger strives to find investments for which a significantly positive outcome is obvious. Because this type of investment is identified only rarely, Munger suggests that one be very patient but also very ready to aggressively invest when the time is right. To use a baseball analogy, Munger knows there are no called strikes in investing, so there is ([Location 277](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=277))
+    - Tags: [[pink]] 
+- no need to swing at every pitch. When you find an obvious bet with a big upside, Munger’s advice is simple: bet big! ([Location 279](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=279))
+    - Tags: [[pink]] 
+- All the equity investors, in total, will surely bear a performance disadvantage per annum equal to the total croupiers’ costs they have jointly elected to bear. This is an inescapable fact of life. And it is also inescapable that exactly half of the investors will get a result below the ([Location 281](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=281))
+    - Tags: [[pink]] 
+- median result after the croupiers’ take, which median result may well be somewhere between unexciting and lousy. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=283))
+    - Tags: [[pink]] 
+- The point Munger makes immediately above about investing as a less-than-zero sum game after fees and expenses is mathematically irrefutable. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=285))
+    - Tags: [[pink]] 
+- Graham value ([Location 296](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=296))
+    - Tags: [[pink]] 
+- investing would not work if markets were perfectly efficient. For this reason, the market’s folly is the fundamental source of the Graham value investor’s opportunity. Munger’s take on why investing is hard is simple: The idea that everyone can have wonderful results from stocks is inherently crazy. Nobody expects everyone to ([Location 296](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=296))
+    - Tags: [[pink]] 
+- succeed at poker. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=300))
+    - Tags: [[pink]] 
+- If [investing] weren’t a little difficult, everybody would be rich. ([Location 302](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=302))
+    - Tags: [[pink]] 
+- For a security to be mispriced, someone else must be a damn fool. It may be bad for the world, but not bad for Berkshire. ([Location 304](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=304))
+    - Tags: [[pink]] 
+- When confronted with this idea, people will often ask, “Do you mean Graham value investors wait for mispriced assets to appear rather than predict the future in the short term?” The answer is an emphatic yes! The Graham value investor’s job is to recognize mispriced assets when he or she sees them. This approach is hard for many people to accept. At the core of the system is the idea that the investor must let go of his or her desire to make short-term predictions about the future. Some people just can’t do that. Klarman wrote: The value discipline seems simple enough but is apparently a difficult one for most investors to grasp or adhere to. As Buffett has often observed, value ([Location 311](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=311))
+    - Tags: [[pink]] 
+- investing is not a concept that can be ([Location 316](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=316))
+    - Tags: [[pink]] 
+- learned and applied gradually over time. It is either absorbed or adopted at once, or it is never truly learned. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=316))
+    - Tags: [[pink]] 
+- Most people who try [investing] don’t do well at it. But the trouble is that if even 90 percent are no good, everyone looks around and says, “I’m the 10 percent.” ([Location 323](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=323))
+    - Tags: [[pink]] 
+- It’s not possible for investors to consistently outperform ([Location 329](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=329))
+    - Tags: [[pink]] 
+- the market. Therefore you’re best served investing in a diversified portfolio of low-cost index funds [or exchange-traded funds]. ([Location 330](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=330))
+    - Tags: [[pink]] 
+- Although this advice is mostly true, it is provably false in the case of investors like Charlie Munger, Warren Buffett, Seth Klarman, Howard Marks, Bill Ruane, and other Graham value investors. Munger once said, “The top 3 or 4 percent of the investment management world ([Location 332](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=332))
+    - Tags: [[pink]] 
+- will do fine.”7 ([Location 333](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=333))
+    - Tags: [[pink]] 
+- It’s a very simple set of ideas and the reason that our ideas have not spread faster is they’re too simple. The professional classes can’t justify ([Location 337](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=337))
+    - Tags: [[pink]] 
+- Successfully learning and especially implementing the Graham value investing system is what Munger has called “a trained response.” You must learn to overcome certain behavior that drives poor decisions. If you can do that successfully, Munger believes you can create an investing edge over other investors. Part of that trained response is to avoid distracting noise made by people who do not understand investing or who have a financial interest in keeping you from understanding investing. The task is made vastly harder by people who generate their income by making the investing process overly complex and harvesting their living from the psychological and emotional dysfunctions of investors. Munger told a story about the incentives... of investment managers that is instructive: I think the reason why we got into such idiocy in investment management is best illustrated by a story that I tell about the guy who sold fishing tackle. I asked him, “My God, they’re purple and green. Do fish really take these lures?” And he said, “Mister, I don’t sell to fish.” ([Location 340](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=340))
+    - Tags: [[earned-secret]] [[pattern-recognition]] [[incentives]] [[vihang]] 
+- of that trained response is to avoid distracting noise made by people who do not understand investing or who have a financial interest in keeping you from understanding investing. The task is made vastly harder by people who generate their income by making the investing process overly complex and harvesting their living from the psychological and emotional dysfunctions of investors. Munger told a story about the incentives ([Location 342](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=342))
+    - Tags: [[pink]] 
+- of investment managers that is instructive: I think the reason why we got into such idiocy in investment management is best illustrated by a story that I tell about the guy who sold fishing tackle. I asked him, “My God, they’re purple and green. Do fish really take these lures?” And he said, “Mister, I don’t sell to fish.” ([Location 345](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=345))
+    - Tags: [[pink]] 
+- Our standard prescription for the know-nothing investor with a long-term time horizon is a no-load index fund. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=358))
+    - Tags: [[pink]] 
+- Who is a “know-nothing” investor? The answer is simple for Munger: a know-nothing investor is someone who does not understand fundamentals of investing. Here is a simple suggestion from Seth Klarman for no-nothing investors: “If you can’t beat the market, be the market.”8 ([Location 361](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=361))
+    - Tags: [[pink]] 
+- Buffett agreed: “By periodically investing in an index fund, for example, the know-nothing investor can actually outperform most investment professionals. Paradoxically, when ‘dumb’ money acknowledges its ([Location 364](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=364))
+    - Tags: [[pink]] 
+- limitations, it ceases to be dumb.”9 What Buffett was talking about is the question of whether a person should be an active or a passive investor—concepts he learned from Benjamin Graham. Passive investors are not completely passive because they still have choices to make. For example, passive investors must make asset allocation decisions (i.e., which types of investments to make) and determine what types of indexes to ([Location 366](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=366))
+    - Tags: [[pink]] 
+- use within those asset classes. When making these choices, investors can still make emotional and psychological errors. Even though passive investors must make some decisions, they are called passive because they do not make as many decisions as active investors. A better approach is perhaps to call these passive investors index investors. If a person is investing in a diversified portfolio of index funds and ([Location 370](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=370))
+    - Tags: [[pink]] 
+- exchange-traded funds (ETFs), then he is an index investor. If a person is picking individual stocks and other securities, then she is an active investor. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=373))
+    - Tags: [[pink]] 
+- Successful investors … must possess an interest in the process. It’s no different from ([Location 380](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=380))
+    - Tags: [[pink]] 
+- carpentry, gardening, or parenting. If money management is not enjoyable, then a lousy job inevitably results, and, unfortunately, most people enjoy finance about as much as they do root canal work. ([Location 381](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=381))
+    - Tags: [[pink]] 
+- Some investors knowingly do a small amount of active investing for fun, much as they might gamble in Las Vegas. This can be logical as ([Location 394](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=394))
+    - Tags: [[pink]] 
+- long as people remember that gambling is, well, gambling. Knowing the difference between gambling and investing is important. Investing is an action that defers consumption in the present in the hope that you will be able to consume more in the future. An investor has an expectation of a positive real rate of return, even though it is possible that this will not happen (especially in the short term). In other ([Location 395](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=395))
+    - Tags: [[pink]] 
+- words, an investment is a net present value–positive activity (the likelihood of the net present value of the potential benefits minus the likelihood net present value of the potential losses is positive). Gambling is a form of present-moment consumption, and the net present long-term value of the activity is negative. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=398))
+    - Tags: [[pink]] 
+- Many people who think they are investing are actually gambling. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=400))
+    - Tags: [[pink]] 
+- Some people try to outperform the ([Location 401](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=401))
+    - Tags: [[pink]] 
+- market by saying essentially, “I can be smart about picking other people who will outperform the market via active investing.” Munger believes that if something related to active investing is worth doing, then it is worth doing yourself. Munger has said on this point: I think you’ll at least make fewer mistakes than people who think they can do anything, no matter how complex, by just hiring somebody with a ([Location 401](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=401))
+    - Tags: [[pink]] 
+- credible label. You don’t have to hire out your thinking if you keep it simple. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=405))
+    - Tags: [[pink]] 
+- Graham value investors like Munger stay away from making predictions about how cash flows will change in the future ([Location 435](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=435))
+    - Tags: [[pink]] 
+- based on projections and forecasts. What Munger looks for is a business that has a significant track record of generating high, sustained, and consistent financial returns. If valuing the business requires understanding how cash flows will change in the future based on factors like rapid technological change, Munger puts that business in the too hard pile and moves on to value other companies. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=436))
+    - Tags: [[pink]] 
+- Jason Zweig of the Wall Street Journal, who is a hero to Graham value investors, wrote that “a stock is not just a ticker symbol or an electronic blip; it’s an ownership interest in an actual business, with an underlying value that does not depend on its share price.”1 ([Location 443](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=443))
+    - Tags: [[pink]] 
+- For a Graham value investor, a share of IBM stock is just a ([Location 446](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=446))
+    - Tags: [[pink]] 
+- small share of IBM’s overall business. Munger believes that treating shares of a company as if they should be valued like baseball cards is a loser’s game because it requires that you predict the behavior of often irrational and emotional herds of human beings. A Graham value investor puts short-term predictions about mass psychology in the too hard pile and focuses on what he or she can do successfully with far greater ease. Graham value ([Location 446](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=446))
+    - Tags: [[pink]] 
+- investors do not spend time with top-down factors like monetary policy, consumer confidence, durable goods orders, and market sentiment in doing a business valuation or investing. ([Location 449](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=449))
+    - Tags: [[pink]] 
+- Be motivated when you’re buying and selling securities by reference to intrinsic value instead of price momentum. ([Location 451](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=451))
+    - Tags: [[pink]] 
+- Munger is adamant about many points, including this core belief: you must value the business in order to value the stock. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=463))
+    - Tags: [[pink]] 
+- Crowd folly, the tendency of humans, under some circumstances, to resemble lemmings, explains much foolish thinking of brilliant men and ([Location 467](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=467))
+    - Tags: [[pink]] 
+- much foolish behavior. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=468))
+    - Tags: [[pink]] 
+- If you do not follow the business to value the stock approach, in the view of Graham value investors, you are a speculator and not an investor. If you are an investor, you are trying to understand the value of the asset. By contrast, a speculator is trying to guess the price of the asset by predicting the behavior of others in the ([Location 470](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=470))
+    - Tags: [[pink]] 
+- future. In other words, a speculator’s objective is to make predictions about the psychology of large masses of people, which if you are both smart and experienced is a sobering thought. How good are you at predicting what people will do once assembled into a mob? The big danger related to this tendency is that you just end up following the crowd and doing what Munger talked about here: Mimicking the herd invites ([Location 473](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=473))
+    - Tags: [[pink]] 
+- regression to the mean (merely average performance). ([Location 476](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=476))
+    - Tags: [[pink]] 
+- Munger is a firm believer in the Ben Graham view that “an investment ([Location 484](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=484))
+    - Tags: [[pink]] 
+- operation is one which, upon thorough analysis, promises safety of principal and an adequate return. Operations not meeting these requirements are speculative.”3 Buffett has his own version: If you’re an ([Location 484](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=484))
+    - Tags: [[pink]] 
+- investor, you’re looking on what the asset is going to do; if you’re a speculator, you’re commonly focusing on what the price of the object is going to do, and that’s not our game. ([Location 487](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=487))
+    - Tags: [[pink]] 
+- If you always bet with the crowd, you cannot beat the market—especially after fees, costs, and taxes. To outperform the market, sometimes you must be a contrarian, and you must be right on enough of those occasions when you’re a contrarian. For example, people who day-trade stocks using charts of past prices and other voodoo-like practices ([Location 491](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=491))
+    - Tags: [[pink]] 
+- are speculators. You will hear them talk about how the market behaves rather than what the value of a given stock may be. A guess about market behavior based on a chart is just that—a guess! Speculators are focused on price, whether it may be an old baseball card or a share of stock. Graham value investors have a very different view than speculators. Seth Klarman wrote that “technical analysis is based on the presumption that past ([Location 494](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=494))
+    - Tags: [[pink]] 
+- share price meanderings, rather than underlying business value, hold the key to future stock prices.”4 ([Location 497](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=497))
+    - Tags: [[pink]] 
+- Buffet used a story to illustrate the dangers of herd behavior in one of his Chairman’s letters: Ben Graham told a story forty years ago that illustrates why investment professionals behave as they do. An oil prospector, moving to his heavenly reward, was met by St. Peter with bad news. “You’re qualified ([Location 499](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=499))
+    - Tags: [[pink]] 
+- for residence,” said St. Peter, “but, as you can see, the compound reserved for oil men is packed. There’s no way to squeeze you in.” After thinking a moment, the prospector asked if he might say just four words to the present occupants. That seemed harmless to St. Peter, so the prospector cupped his hands and yelled, “Oil discovered in hell.” Immediately, the gate to the compound opened ([Location 502](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=502))
+    - Tags: [[pink]] 
+- and all of the oil men marched out to head for the nether regions. Impressed, St. Peter invited the prospector to move in and make himself comfortable. The prospector paused. “No,” he said, “I think I’ll go along with the rest of the boys. There might be some truth to that rumor after all.” ([Location 505](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=505))
+    - Tags: [[pink]] 
+- John Maynard Keynes defined speculation as “the activity ([Location 509](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=509))
+    - Tags: [[pink]] 
+- of forecasting the psychology of the market.”5 Keynes went on to say that the speculator must think about what others are thinking about, what others are thinking about the market (and repeat). In what is now called a “Keynesian beauty contest,” judges are told not to pick the most beautiful woman but instead to pick the contestant they think the other judges will choose as the most beautiful. The winner of such a contest ([Location 509](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=509))
+    - Tags: [[pink]] 
+- may be very different than the winner of a traditional beauty contest. Keynes said this about such a contest: It’s not a case of choosing those [faces] that, to the best of one’s judgment, are really the prettiest, nor even those that average opinion genuinely thinks the prettiest. We have reached the third degree where we devote our intelligences to anticipating what average opinion ([Location 513](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=513))
+    - Tags: [[pink]] 
+- expects the average opinion to be. And there are some, I believe, who practice the fourth, fifth and higher degrees. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=516))
+    - Tags: [[pink]] 
+- Howard Marks advised that Graham value investors focus on what they know now and not where they are going because, rather obviously, your data about the present is extensive while your data about the future ([Location 530](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=530))
+    - Tags: [[pink]] 
+- will always be zero. Like Marks in making investment decisions, Munger is focused on what is happening in a given business right now. Projections about the future are scrupulously avoided. Buffett put it this way: “I have no ([Location 531](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=531))
+    - Tags: [[pink]] 
+- use whatsoever for projections or forecasts. They create an illusion of apparent precision. The more meticulous they are, the more concerned you should be. We never look at projections but we care very ([Location 533](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=533))
+    - Tags: [[pink]] 
+- much about, and look very deeply, at track records. If a company has a lousy track record but a very bright future, we will miss the opportunity.”6 Munger agreed: [Projections] are put together by people who have an interest in a particular outcome, have a subconscious bias, and its apparent precision makes it fallacious. They remind me of Mark Twain’s saying, “A mine is a hole in ([Location 534](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=534))
+    - Tags: [[pink]] 
+- the ground owned by a liar.” Projections in America are often a lie, although not an intentional one, but the worst kind because the forecaster often believes them himself. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=538))
+    - Tags: [[pink]] 
+- Consider the following illustrative story about an investor encountering a forecaster. A man piloting a hot-air balloon discovered he had travelled far off course. He took the ([Location 553](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=553))
+    - Tags: [[pink]] 
+- balloon down to a lower altitude, where he saw that he was above an office building. A man outside the building saw the balloonist and waved. The balloonist shouted, “Excuse me, can you tell me where I am?” The man yelled back, “You’re in a hot-air balloon, about 150 feet above the headquarters of this investment bank.” The balloonist replied, “You must be a forecaster at the investment bank, ([Location 554](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=554))
+    - Tags: [[pink]] 
+- then.” Obviously surprised, the man said, “Yes, I am! How did you know that?” “Well,” said the balloonist, “what you told me is technically correct, but it is of no use to anyone.” ([Location 558](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=558))
+    - Tags: [[pink]] 
+- As will be discussed, a private market intrinsic valuation for a Graham value investor requires that the asset generate free cash flow. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=575))
+    - Tags: [[pink]] 
+- Second Principle: Buy at a Significant Discount to Intrinsic Value to Create a Margin of Safety The idea of a margin of safety, a Graham precept, will never be ([Location 576](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=576))
+    - Tags: [[pink]] 
+- obsolete. —CHARLIE MUNGER, WESCO ANNUAL MEETING, 2003 No matter how wonderful [a business] is, it’s not worth an infinite price. We have to have a price that makes sense and gives a margin of safety considering the normal vicissitudes of life. —CHARLIE MUNGER, BBC INTERVIEW, 2009 Munger is making the point that if there is a single principle ([Location 578](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=578))
+    - Tags: [[pink]] 
+- that should rise above all others in the mind of a Graham value investor, it is margin of safety. No one makes this point better than Ben Graham himself: Confronted with a challenge to distill the secret of sound investment into three words, we venture the following motto, MARGIN OF SAFETY. —BEN GRAHAM, THE INTELLIGENT INVESTOR, 1949 What is a margin of safety? Ben Graham’s definition ([Location 584](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=584))
+    - Tags: [[pink]] 
+- of a margin of safety is “a favorable difference between price on the one hand and indicated or appraised [intrinsic] value on the other.”8 Intrinsic value is the present value of future cash flows. Margin of safety reflects the difference between the intrinsic value and the current market price. The purpose of a margin of safety is quite simple according to Graham: “The function of the margin of safety is, in essence, that of rendering ([Location 589](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=589))
+    - Tags: [[pink]] 
+- unnecessary an accurate estimate of the future.”9 Seth Klarman described the Graham value investing system simply: buy at a bargain defined by a margin of safety and wait. However, as the Tom Petty and the Heartbreakers lyric says, “The waiting is the hardest part.” ([Location 593](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=593))
+    - Tags: [[pink]] 
+- Simply put, your objective as a Graham value investor is to buy a share ([Location 600](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=600))
+    - Tags: [[pink]] 
+- of stock at a sufficiently large bargain that you do not need to predict short-term price movements in the stock market. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=600))
+    - Tags: [[pink]] 
+- A margin of safety ([Location 604](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=604))
+    - Tags: [[pink]] 
+- is achieved when securities are purchased at prices sufficiently below underlying value to allow for human error, bad luck, or extreme volatility in a complex, unpredictable and rapidly changing world. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=605))
+    - Tags: [[pink]] 
+- In engineering, people have a big margin of safety. But in the financial world, people don’t give a damn about safety. They let it balloon and balloon and balloon. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=611))
+    - Tags: [[pink]] 
+- If you could take the stock price and multiply it by the number of shares and get something that was one third or less of sellout value, [Ben Graham] would say that you’ve got a lot of edge going for you. Even with an elderly alcoholic running a stodgy business, this significant excess of real value per share working for you means that all kinds of good things can happen ([Location 614](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=614))
+    - Tags: [[pink]] 
+- to you. You had a huge margin of safety—as he put it—by having this big excess value going for you. ([Location 616](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=616))
+    - Tags: [[pink]] 
+- Ben Graham followers … started ([Location 632](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=632))
+    - Tags: [[pink]] 
+- defining a bargain in a different way. And they kept changing the definition so that they could keep doing what they’d always done. And it still worked pretty well. ([Location 632](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=632))
+    - Tags: [[pink]] 
+- The Graham value investor should always remember this admonition: price is what you pay, and value is what you get. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=638))
+    - Tags: [[pink]] 
+- “My goal in buying a financial asset is to buy a dollar for 70 cents.” When they say this, they do not mean “buy a dollar for seventy cents” precisely, but they do seek a significant discount from intrinsic value. Put simply: when a Graham value investor can buy a dollar for a few dimes less than actual value, he or she can make significant mistakes and still make a profit. ([Location 639](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=639))
+    - Tags: [[pink]] 
+- Ben Graham had a lot to learn as an ([Location 643](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=643))
+    - Tags: [[pink]] 
+- investor. His ideas of how to value companies were all shaped by how the Great Crash and the Depression almost destroyed him, and he was always a little afraid of what the market can do. It left him with an aftermath of fear for the rest of his life, and all his methods were designed to keep that at bay. I think Ben Graham wasn’t nearly as good an investor as Warren Buffett is ([Location 643](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=643))
+    - Tags: [[pink]] 
+- or even as good as I am. Buying those cheap, cigar-butt stocks [companies with limited potential growth selling at a fraction of what they would be worth in a takeover or liquidation] was a snare and a delusion, and it would never work with the kinds of sums of money we have. You can’t do it with billions of dollars or even many millions of dollars. But he was a very good writer and a very ([Location 646](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=646))
+    - Tags: [[pink]] 
+- good teacher and a brilliant man, one of the only intellectuals—probably the only intellectual—in the investing business at the time. ([Location 648](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=648))
+    - Tags: [[pink]] 
+- Ben Graham [had] his concept of “Mr. Market.” Instead of thinking the market was efficient, he treated it as a manic-depressive who comes by every day. And some days he says, “I’ll sell you some ([Location 669](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=669))
+    - Tags: [[pink]] 
+- of my interest for way less than you think it is worth.” And other days, “Mr. Market” comes by and says, “I’ll buy your interest at a price that’s way higher than you think its worth.” ([Location 671](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=671))
+    - Tags: [[pink]] 
+- I think it’s roughly right that the market is efficient, which makes it very hard to beat merely by being an ([Location 691](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=691))
+    - Tags: [[pink]] 
+- intelligent investor. But I don’t think it’s totally efficient at all. And the difference between being totally efficient and somewhat efficient leaves an enormous opportunity for people like us to get these unusual records. It’s efficient enough, so it’s hard to have a great investment record. But it’s by no means impossible. Nor is it something that only a very few ([Location 692](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=692))
+    - Tags: [[pink]] 
+- people can do. The top 3 or 4 percent of the investment management world will do fine. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=695))
+    - Tags: [[pink]] 
+- To Graham, it was a blessing to be in business with a manic-depressive who gave you this series of options all the time. ([Location 708](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=708))
+    - Tags: [[pink]] 
+- Graham value investors price stocks rather than time markets. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=713))
+    - Tags: [[pink]] 
+- based on roughly rational projections of use value in producing future cash. But they are also valued partly like Rembrandt paintings, purchased mostly because their prices have gone up, so far. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=717))
+    - Tags: [[pink]] 
+- Falling in with the crowd will put you under the sway of Mr. Market because Mr. Market is the crowd. If you are the crowd, then you cannot, by ([Location 720](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=720))
+    - Tags: [[pink]] 
+- definition, beat the crowd. Munger believes that short-term price movements are not rationally based, based on always-efficient markets, or predictable with certainty. The best advice is simple; Buffet says, “Be fearful when others are greedy, and be greedy when others are fearful.”14 This is easy to say but hard to do, because it requires courage at the hardest possible time. ([Location 721](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=721))
+    - Tags: [[pink]] 
+- Fourth Principle: Be Rational, Objective, and Dispassionate Rationality is not just something you do so that you can make more money; it’s a binding principle. Rationality is ([Location 742](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=742))
+    - Tags: [[pink]] 
+- a really good idea. You must avoid the nonsense that is conventional in one’s own time. It requires developing systems of thought that improve your batting average over time. ([Location 744](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=744))
+    - Tags: [[pink]] 
+- [An] increase in rationality is not just something you choose or don’t choose; it’s a moral duty to keep up as much as you ([Location 747](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=747))
+    - Tags: [[pink]] 
+- reasonably can. It worked so well at Berkshire, not because we were so darned smart to start with—we were massively ignorant. Any of the great successes of Berkshire started with stupidity and failure. —CHARLIE MUNGER, WESCO ANNUAL MEETING, 2011 The idea of being objective and dispassionate will never be obsolete. ([Location 748](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=748))
+    - Tags: [[pink]] 
+- During ([Location 756](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=756))
+    - Tags: [[pink]] 
+- an interview, Munger once recalled that a person sitting next to him at a dinner party asked him, “Tell me, what one quality accounts for your enormous success?” Munger replied, “I’m rational. That’s the answer. I’m rational.” This rationality is something he works hard to cultivate, as will be explained shortly. Being rational is neither simple nor easy. ([Location 756](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=756))
+    - Tags: [[pink]] 
+- While Graham value investors do not try to predict the behavior of other ([Location 760](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=760))
+    - Tags: [[pink]] 
+- people, they do spend a lot of time trying to keep their own behavior from getting in the way of being rational, objective, and dispassionate. The best Graham value investors understand that if you think things through from the simplest building blocks in a step-by-step process and employ techniques like checklists, which reinforce the Graham value investing system, you can avoid making most mistakes—or at least ([Location 760](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=760))
+    - Tags: [[pink]] 
+- making new mistakes. Most of this book will be devoted to this fourth principle of the Graham value investing system. ([Location 763](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=763))
+    - Tags: [[pink]] 
+- You must know the big ideas in the big disciplines, and ([Location 772](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=772))
+    - Tags: [[pink]] 
+- use them routinely—all of them, not just a few. Most people are trained in one model—economics, for example—and try to solve all problems in one way. You know the old saying: to the man with a hammer, the world looks like a nail. This is a dumb way of handling problems. ([Location 772](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=772))
+    - Tags: [[pink]] 
+- What are the models? Well, the first rule is that you’ve got to have multiple models ([Location 780](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=780))
+    - Tags: [[pink]] 
+- because if you just have one or two that you’re using, the nature of human psychology is such that you’ll torture reality so that it fits your models. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=780))
+    - Tags: [[pink]] 
+- In the language of Wharton Professor Philip Tetlock, Munger is a “fox” (who knows a little about a lot) rather than a “hedgehog” (who knows a lot about very little).2 Among the foxes one may encounter in life, Munger is truly ([Location 841](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=841))
+    - Tags: [[pink]] 
+- special. He knows a lot about a lot, and he knows a little about nearly everything. Bill Gates made this point when he said, “Charlie Munger is truly the broadest thinker I have ever encountered.”3 Buffett added that Munger has “the best 30-second mind in the world. He goes from A to Z in one move. He sees the essence of everything before you even finish the sentence.”4 ([Location 844](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=844))
+    - Tags: [[pink]] 
+- Munger believes that thinking broadly in many disciplines ([Location 849](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=849))
+    - Tags: [[pink]] 
+- makes you a better thinker because everything is literally related. You have to realize the truth of biologist Julian Huxley’s idea that “Life is just one damn relatedness after another.” So you must have the models, and you must see the relatedness and the effects from the relatedness. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=849))
+    - Tags: [[pink]] 
+- People calculate too much and think too little. ([Location 856](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=856))
+    - Tags: [[pink]] [[favorite]] 
+- Both Munger and Buffett set aside plenty of time each day to just think. Anyone reading the news is provided with constant reminders of the consequences of not thinking. Thinking is a surprisingly underrated activity. Researchers published a study in 2014 that revealed that approximately a quarter of women and two-thirds of men chose ([Location 860](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=860))
+    - Tags: [[pink]] 
+- electric shocks over spending time alone with their own thoughts.5 Munger would likely say that people who cannot be alone with their own thoughts are terrible candidates to become successful investors. ([Location 862](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=862))
+    - Tags: [[pink]] 
+- I don’t think it’s necessary to be as dumb as we were. —CHARLIE MUNGER, BERKSHIRE ANNUAL MEETING, 2011 I like people admitting they were ([Location 942](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=942))
+    - Tags: [[pink]] 
+- complete stupid horses’ asses. I know I’ll perform better if I rub my nose in my mistakes. This is a wonderful trick to learn. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=945))
+    - Tags: [[pink]] 
+- Munger believes that one great way to avoid mistakes is to own a business that is simple to understand, given your education and experience. He ([Location 951](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=951))
+    - Tags: [[pink]] 
+- pointed out: “Where you have complexity, by nature you can have fraud and mistakes.”8 This approach echoes the view of Buffett, who likes challenges that are the business equivalent of netting fish in a barrel. Buffett has said that if you cannot explain why you failed after you have made a mistake, the business was too complex for you. In other words, Munger and Buffett like to understand why they made a mistake so they can learn from ([Location 952](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=952))
+    - Tags: [[pink]] 
+- the experience. If you cannot understand the business, then you cannot determine what you did wrong. If you cannot determine what you did wrong, then you cannot learn. If you cannot learn, you will not know what you’re doing, which is the real cause of risk. ([Location 957](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=957))
+    - Tags: [[pink]] 
+- Forgetting your mistakes is a terrible error if you’re trying to improve your cognition. Reality doesn’t remind you. Why not celebrate ([Location 959](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=959))
+    - Tags: [[pink]] 
+- stupidities in both categories? ([Location 960](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=960))
+    - Tags: [[pink]] 
+- that he still makes mistakes even after many decades as a business person and investor. Among the worst mistakes Munger has made are things that he didn’t do. The most extreme mistakes in Berkshire’s history have been mistakes of omission. We saw it, but didn’t ([Location 962](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=962))
+    - Tags: [[pink]] 
+- act on it. They’re huge mistakes—we’ve lost billions. And we keep doing it. We’re getting better at it. We never get over it. There are two types of mistakes: 1) doing nothing—what Warren calls “sucking my thumb” and 2) buying with an eyedropper things we should be buying a lot of. ([Location 965](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=965))
+    - Tags: [[pink]] 
+- Our biggest ([Location 969](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=969))
+    - Tags: [[pink]] 
+- mistakes were things we didn’t do, companies we didn’t buy. ([Location 969](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=969))
+    - Tags: [[pink]] 
+- wrote: “individuals tend to extrapolate heuristics from situations where they make sense to those where they do not.”1 Bias [arises] from the nonmathematical nature of the human brain in its natural state as it deals with probabilities employing crude heuristics, and is often misled. ([Location 990](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=990))
+    - Tags: [[pink]] 
+- What benefits an investor most in avoiding problems such as those Munger discusses above is a financial planner who “eats his own cooking” with incentives, which causes him to suffer and ([Location 1085](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1085))
+    - Tags: [[pink]] 
+- benefit right alongside his client. An example of a really responsible system is the system the Romans used when they built an arch. The guy who created the arch stood under it as the scaffolding was removed. It’s like packing your own parachute. ([Location 1086](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1086))
+    - Tags: [[pink]] 
+- Instead of relying on thousands of meandering pages of regulation, we should enforce a basic principle of “skin in the game” when it comes to financial oversight. “The captain goes down with the ship; every captain and every ship.” In other words, nobody should be in a ([Location 1093](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1093))
+    - Tags: [[pink]] 
+- position to have the upside without sharing the downside, particularly when others may be harmed. ([Location 1095](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1095))
+    - Tags: [[pink]] 
+- Munger believes that structuring compensation incentives is critical. If the right structure exists, then a seamless web of deserved trust can be created which lessens problems related to this tendency. For example, it is surprising how many people fail to recognize how performance suffers if you pay someone in advance rather than after the work has been completed. It’s ([Location 1100](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1100))
+    - Tags: [[pink]] 
+- precisely because of the dangers of misaligned incentives that Munger and Buffett chose to make compensation decisions themselves, whereas they delegate almost all management responsibilities. ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1103))
+    - Tags: [[pink]] 
+- Munger likes to say that a year in which you do not change your mind on some big idea that is important to you is a wasted year. ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1118))
+    - Tags: [[pink]] 
+- The disliking/hating tendency is the inverse of the previous tendency. Munger believes that life is too short to do business with people you don’t like. He also refuses to invest in certain companies that sell goods and services that he does ([Location 1123](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1123))
+    - Tags: [[pink]] 
+- not like for ethical reasons. As an example, Munger and Buffett avoid investing in casinos. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1125))
+    - Tags: [[pink]] 
+- [It’s] counterproductive for a prey ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1139))
+    - Tags: [[pink]] 
+- animal that is threatened by a predator to take a long time in deciding what to do. ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1139))
+    - Tags: [[pink]] 
+- People are reluctant to change even when they have been given new information that conflicts with what they already believe. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1158))
+    - Tags: [[pink]] 
+- Inconsistency-avoidance tendency is another often-useful heuristic because starting each day with a fresh mind about everything requires too much processing power. Unfortunately, as is the case ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1158))
+    - Tags: [[pink]] 
+- with every heuristic, what is mostly helpful can sometimes be harmful. The adverse effects of this tendency can be made worse when it appears in combination with the previously discussed doubt-avoiding tendency. The desire to resist any change in a given conclusion or belief is particularly strong if a person has invested a lot of effort in reaching that conclusion or belief and/or if the change will result in something that is unpleasant. This is a major reason why progress in ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1160))
+    - Tags: [[pink]] 
+- many professions tends to advance “one funeral at a time.” ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1163))
+    - Tags: [[pink]] 
+- Absence of the inconsistency-avoidance tendency among some people operates to benefit society. For example, company founders who are not wedded to old ideas can sometimes create innovative new ([Location 1165](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1165))
+    - Tags: [[pink]] 
+- businesses more easily. As another example, an executive may cling to an idea he or she has publicly advocated, even after facts come to light proving the idea false. One way to avoid this problem is to be very careful about what you say in public. Also, be aware that once you say something in public, you may be blind to disconfirming evidence. Mark Twain’s statement comes to mind on this tendency: “All you need in this life ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1166))
+    - Tags: [[pink]] 
+- is ignorance and confidence; then success is sure.”7 Some entrepreneurs often don’t know enough to think that something can’t be done, so once in a while they actually do something that is completely unexpected. As the old saying goes, even a blind squirrel finds a nut once in a while. ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1169))
+    - Tags: [[pink]] 
+- Experience tends to confirm a long-held notion that being prepared, on a few occasions in a lifetime, to act promptly in scale, in doing some simple and logical thing, will often dramatically improve the financial results of that lifetime. A few major opportunities, clearly recognizable as such, will usually come to one who continuously searches and waits, with a curious mind that loves diagnosis involving multiple variables. And then all that is required is a willingness to bet heavily when the odds are extremely favorable, using resources available as a result of prudence and patience in the past. ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1179))
+    - Tags: [[pink]] 
+- in doing some simple and logical thing, will often dramatically improve the financial results of that lifetime. A few major opportunities, clearly recognizable as such, will usually come to one who continuously searches and waits, with a curious mind that loves diagnosis involving multiple variables. And then all that is required is a willingness to bet heavily when the odds are ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1180))
+    - Tags: [[pink]] 
+- extremely favorable, using resources available as a result of prudence and patience in the past. ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1183))
+    - Tags: [[pink]] 
+- Many things in life involve tradeoffs. A source of what is good in life can also be a source of what is bad in life. That inevitable tradeoff applies to curiosity—and there is nothing like failure and mistakes to teach a person the right ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1185))
+    - Tags: [[pink]] 
+- approach to curiosity. ([Location 1187](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1187))
+    - Tags: [[pink]] 
+- Humans will often act irrationally to punish people who are not fair. In other words, investors may react irrationally when presented with a situation that they feel is unfair. For example, some people would rather lose money in an investment than see another person benefit from unfairness. ([Location 1208](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1208))
+    - Tags: [[pink]] 
+- Another way this tendency may arise is when people sometimes reject systems that are not fair to an individual, even though the system in question is best for a group or society. Munger points to such a rule in the U.S. Navy which dictates that your career is over if you make a big mistake (e.g., if your ship goes aground) even if it was not your fault. Munger believes that the rule is good for society because it creates incentives for ([Location 1210](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1210))
+    - Tags: [[pink]] 
+- the naval officer to make sure that this does not happen, even though it may not be fair to the individual. However, this is hard for many people to accept due to the fairness heuristic, even though it may be logically correct. ([Location 1213](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1213))
+    - Tags: [[pink]] 
+- A member of a species designed through evolutionary process to want often scarce food is going to be ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1216))
+    - Tags: [[pink]] 
+- driven strongly toward getting food when it first sees food. And this is going to occur often and tend to create some conflict when the food is seen in the possession of another member of the same species. This is probably the evolutionary origin of the envy/jealousy tendency that lies so deep in human nature. —CHARLIE MUNGER, UNIVERSITY OF SOUTHERN ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1216))
+    - Tags: [[pink]] 
+- The idea of caring that someone is making money faster [than you] is one of the deadly sins. Envy is a really stupid sin because it’s the only one you could never possibly have any fun at. There’s a lot of pain and no fun. Why would you want to get on that trolley? ([Location 1221](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1221))
+    - Tags: [[pink]] 
+- Missing out on ([Location 1225](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1225))
+    - Tags: [[pink]] 
+- some opportunity never bothers us. What’s wrong with someone getting a little richer than you? It’s crazy to worry about this. ([Location 1225](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1225))
+    - Tags: [[pink]] 
+- Here’s one truth that perhaps your typical investment counselor would disagree with: if you’re comfortably rich and someone else is getting richer faster than you by, for ([Location 1228](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1228))
+    - Tags: [[pink]] 
+- example, investing in risky stocks, so what?! Someone will always be getting richer faster than you. This is not a tragedy. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1229))
+    - Tags: [[pink]] 
+- Well, envy/jealousy made, what, two out of the Ten Commandments? Those of you who have raised siblings … or tried to run a law firm or investment bank or even a faculty, you know about ([Location 1232](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1232))
+    - Tags: [[pink]] 
+- envy. I’ve heard Warren say a half a dozen times, “It’s not greed that drives the world, but envy.” ([Location 1233](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1233))
+    - Tags: [[pink]] 
+- The dangers of envy are a frequent Munger topic, as you can see from the extensive list of quotations ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1239))
+    - Tags: [[pink]] 
+- above. Munger believes that envy is such a powerful emotion because for most of human history people have lived in an environment in which severe scarcity was the normal situation. He believes that very primal emotions are triggered when humans see someone with something they don’t have, often causing dysfunctional thoughts and actions. Envy is an emotion designed to motivate people to acquire attributes and ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1239))
+    - Tags: [[pink]] 
+- possessions that increase evolutionary fitness. Now that there is less scarcity in the world, envy has lost much of its value. Instead of motivating people for emotional fitness, envy just makes people unhappy. Munger’s point on envy is simple: nothing good comes from envy. He believes that envy is a completely wasted emotion that a person should work hard to avoid. ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1242))
+    - Tags: [[pink]] 
+- Major problems ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1245))
+    - Tags: [[pink]] 
+- arising from envy happen because ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1245))
+    - Tags: [[pink]] 
+- people increase risk when they envy the financial success of someone else. The stock market is not going to deliver you a sports car next week simply because your neighbor just acquired one and you’re envious. Promoters of all sorts will point to the possessions of others in an attempt to motive you to comply with their requests. Just saying no to envy is the best approach. ([Location 1246](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1246))
+    - Tags: [[pink]] 
+- One should recognize reality even when one doesn’t like it. ([Location 1285](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1285))
+    - Tags: [[pink]] 
+- We all do that to some extent, and it’s a common ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1291))
+    - Tags: [[pink]] 
+- psychological misjudgment that causes terrible problems. ([Location 1291](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1291))
+    - Tags: [[pink]] 
+- A projection prepared by anybody who stands to earn a commission or an executive trying to justify a particular course of action will frequently be a lie—although it’s not a deliberate lie in most cases. The man has come to believe it himself. And that’s the ([Location 1294](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1294))
+    - Tags: [[pink]] 
+- worst kind. Projections should be handled with care, particularly when they’re being provided by someone who has an interest in misleading you. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1295))
+    - Tags: [[pink]] 
+- Failure to handle psychological denial is a common way for people to go broke. ([Location 1299](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1299))
+    - Tags: [[pink]] 
+- People hate to hear bad news or anything inconsistent with their existing opinions and conclusions. For this reason, if something is potentially painful, the human brain often goes to work trying to deny reality. Nobel Prize-winning psychologist Daniel Kahneman believes that “[people do not invest even] the smallest amount trying to actually figure out what they’ve done wrong—not an accident: they don’t ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1301))
+    - Tags: [[pink]] 
+- want to know.”9 For example, smart investors should have known that it was not possible for Bernard Madoff’s fund to generate not only positive but amazingly consistent returns. What were Madoff’s investors thinking when, month after month, they received financial statements that were positive with little volatility? Madoff investors were so happy with the results that they simply distorted reality. In short, the ([Location 1304](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1304))
+    - Tags: [[pink]] 
+- investors liked the results they saw on the statements from Madoff so much that they went into a state of psychological denial. Even a professor who wrote a scholarly book on gullibility was an investor in the Bernard Madoff Ponzi scheme. A common example of psychological denial happens when people make projections about a potential investment. Weirdly, sometimes the fewer facts there are to support a well-told story, the more believable it may be for certain investors. Only when real facts start to appear do these people start to question the story. Daniel Kahneman pointed this out: “It’s all too easy to tell stories that make sense of one’s life in retrospect.”10 This is why it’s particularly dangerous to short a so-called story stock. Another example that Munger has cited for the psychological denial tendency at work is academics who love the ([Location 1308](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1308))
+    - Tags: [[pink]] 
+- beauty of mathematics. The mathematics of certainty (e.g., trigonometry, geometry) is so much better put together than the messy world of statistics and decision making under conditions of uncertainty. The love of this beautiful math can cause these academics to ignore the fact that the assumptions which form the basis of their mathematics are flawed. ([Location 1315](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1315))
+    - Tags: [[pink]] 
+- The harder you work, the more confidence you get. But you may be working hard on something that is false. ([Location 1320](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1320))
+    - Tags: [[pink]] 
+- [GEICO] got to thinking that, because they were making a lot of money, they knew everything. And they suffered huge losses. All they had to do was to cut ([Location 1333](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1333))
+    - Tags: [[pink]] 
+- In making his point about the excessive self-regard tendency, Munger noted that way more than half of Swedish drivers think they are above-average drivers: Investment counselors make Swedish drivers sound like depressives. Virtually every ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1337))
+    - Tags: [[pink]] 
+- investment expert’s public assessment is that he is above average, no matter what is the evidence to the contrary. ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1339))
+    - Tags: [[pink]] 
+- Investor over-optimism—and its evil twin, over-pessimism—are what make Mr. Market bipolar. The good news for people who can keep their level of optimism at rational levels is that the unpredictable but inevitable gyrations between these two states create opportunities for Graham value investors. Staying rationally optimistic as the market gyrates is very difficult. Only a ([Location 1350](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1350))
+    - Tags: [[pink]] 
+- small number of people can do it successfully. Even experts who spend their lives studying behavioral economics can fall prey to the over-optimism and over-pessimism tendencies. For example, Nobel Prize winner Daniel Kahneman wrote this: One of our biases is that we can ignore the lessons of experience. A group of people compiling a report will estimate they can do it in a year, ([Location 1352](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1352))
+    - Tags: [[pink]] 
+- even though every other similar report has taken comparable groups five years. … When I started the book I told Richard Thaler (the author of Nudge) that I had 18 months to finish it. He laughed hysterically and said, “You have written about that, haven’t you? It’s not going to work the way you expect.” “How long did it take you?” I ask. “Four years, and it was very painful.”14 ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1356))
+    - Tags: [[pink]] 
+- If someone who has spent his life studying dysfunctional decision-making falls prey to the same problems he studies (e.g., overoptimism), these tendencies are indeed strong. ([Location 1360](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1360))
+    - Tags: [[pink]] 
+- This brings to mind Ben Graham’s paradoxical observation that good ideas cause more investment mischief than bad ideas. He had it right. It’s so easy for us all to push a really good ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1394))
+    - Tags: [[pink]] 
+- idea to wretched excess, as in the case of the Florida land bubble or the “nifty fifty” corporate stocks. Then mix in a little “social-proof” (from other experts), and brains (including ours) often turn to mush. ([Location 1395](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1395))
+    - Tags: [[pink]] 
+- Humans have a natural tendency to follow a herd of other humans. In other words, because ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1398))
+    - Tags: [[pink]] 
+- humans do not have unlimited time and complete information, they tend to copy the behavior of other humans. Cialdini put it this way: “One means we use to determine what is correct is to find out what other people think is correct. We view a behavior as more correct … to the degree we see others performing it.”15 ([Location 1399](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1399))
+    - Tags: [[pink]] 
+- In thinking independently, it’s wise to remember Seth Klarman’s view that a Graham value investor is a marriage between a contrarian and a calculator. ([Location 1408](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1408))
+    - Tags: [[pink]] 
+- Because the nervous system of man does not naturally measure in absolute scientific units, it must instead rely on something simpler. The eyes have a solution that limits their programming needs: the contrast in what is seen is registered. And as in sight, so does it go, largely, in the other senses. Moreover, as perception goes, so goes cognition. The result is man’s Contrast-Misreaction Tendency. Few psychological tendencies do more damage to correct thinking. Small-scale damages involve instances such as man’s buying an overpriced $1,000 leather dashboard merely because the price is so low compared to his concurrent purchase of a $65,000 car. Large-scale damages often ruin lives, as when a wonderful woman having terrible parents ([Location 1414](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1414))
+    - Tags: [[pink]] 
+- No one should buy an investment merely because it’s better than the lousy one you just saw or owned. Similarly, when you buy an asset, it should be the best investment ([Location 1424](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1424))
+    - Tags: [[pink]] 
+- of all the investments that are available to you anywhere. For example, the fact that Y is a better stock than X is not enough information to make an investing decision. Is Y the best investment of all the investments you could possibly make anywhere? Thinking about the world through an opportunity-cost lens is a simple but often-ignored idea. ([Location 1426](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1426))
+    - Tags: [[pink]] 
+- Here my favorite example is the great Pavlov. He had all these dogs in cages, which had all been conditioned into changed behaviors, and the great Leningrad flood came and it just went right up and the dog is in a cage. And the dog had as much stress as you can imagine a dog ever having. And the water receded in time to save some of the dogs, and Pavlov noted that they’d had a ([Location 1429](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1429))
+    - Tags: [[pink]] 
+- total reversal of their conditioned personality. ([Location 1432](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1432))
+    - Tags: [[pink]] 
+- Do not make decisions while under ([Location 1439](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1439))
+    - Tags: [[pink]] 
+- stress. It’s just that simple. ([Location 1439](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1439))
+    - Tags: [[pink]] 
+- All skills attenuate with disuse. I was a whiz at calculus until age twenty, after which the skill was soon obliterated by total nonuse. ([Location 1455](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1455))
+    - Tags: [[pink]] 
+- This tendency is pretty simple to understand; a skill degrades unless it is practiced regularly. For example, flying an airplane is not something you should do once in a while. If you’re not flying often as a pilot, you should not be flying as a pilot. Similarly, investing is not something you want to do once in a while. In the context of investing, it is both a fact of life and a shame that so many people spend more time picking out an ([Location 1458](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1458))
+    - Tags: [[pink]] 
+- appliance than picking an investment or investment fund. To be a successful investor, a person must regularly devote the necessary time and effort. Even if you once felt that you knew a lot about investing, it does not mean your skills are current. Maintaining a circle of competence requires constant work and diligence. As a 2014 study concluded, We find that interventions to improve financial literacy explain only ([Location 1461](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1461))
+    - Tags: [[pink]] 
+- 0.1% of the variance in financial behaviors studied, with weaker effects in low-income samples. Like other education, financial education decays over time; even large interventions with many hours of instruction have negligible effects on behavior 20 months or more from the time of intervention. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1465))
+    - Tags: [[pink]] 
+- Three things ruin people: drugs, liquor, and leverage. ([Location 1472](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1472))
+    - Tags: [[pink]] 
+- Everyone makes mistakes, but Munger has repeatedly said ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1481))
+    - Tags: [[pink]] 
+- that staying away from the really big mistakes, like cocaine and heroin, is vital. ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1481))
+    - Tags: [[pink]] 
+- As an analogy, Munger has pointed out that if you are floating down a river and there are really dangerous whirlpools that are killing many people on a daily basis, you do not go anywhere near that whirlpool. Munger also pointed to alcoholism as a major cause of failure in life. His point on substance abuse is simple: why play dice with something that ([Location 1482](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1482))
+    - Tags: [[pink]] 
+- can ruin your life forever? His timeless advice in every setting is to avoid situations with a massive downside and a small upside (negative optionality). This is the reciprocal of his investing advice: seek bets with a huge upside and a small downside (positive optionality). Other tendencies, such as psychological denial, can prevent people from getting the help they need, making matters worse for people with drug or alcohol problems. A ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1484))
+    - Tags: [[pink]] 
+- drug or alcohol problem can quickly become a self-reinforcing negative feedback loop, which is impossible to escape. ([Location 1487](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1487))
+    - Tags: [[pink]] 
+- As an example of Munger not accepting deteriorating health passively, when he was confronted with a diagnosis that he might lose all of his sight, he began ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1496))
+    - Tags: [[pink]] 
+- studying Braille. It is far better to wear out from work than rust out from inactivity. ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1498))
+    - Tags: [[pink]] 
+- You get a pilot and a co-pilot. The pilot is the authority figure. They don’t do this in airplanes, but they’ve done it in simulators. They have the pilot do something where the co-pilot, who’s been trained in simulators a long ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1500))
+    - Tags: [[pink]] 
+- time—he knows he’s not to allow the plane to crash—they have the pilot do something where an idiot co-pilot would know the plane was going to crash, but the pilot’s doing it, and the co-pilot is sitting there, and the pilot is the authority figure. 25 percent of the time, the plane crashes. I mean, this is a very powerful psychological tendency. ([Location 1501](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1501))
+    - Tags: [[pink]] 
+- The definition of twaddle is simple; it is speech or writing that is silly or not true; nonsense. Prattle has an equally ([Location 1528](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1528))
+    - Tags: [[pink]] 
+- simple definition: to talk in a foolish way. What Munger is saying is that people tend to spend a lot of time on meaningless activities. To illustrate the point, he gives the example of a honeybee that knows that the flowers are directly over the hive but has no way to convey that using its dance-based signaling. Despite the fact that no information is being conveyed, the honeybee will still dance in a way that conveys nothing. ([Location 1529](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1529))
+    - Tags: [[pink]] 
+- I try to get rid of people who always confidently answer questions about which they don’t have any real knowledge. To me they are like the bee dancing its incoherent dance. They are just screwing up the hive. —CHARLIE MUNGER, WESCO MEETING NOTES, 1998 Like the honeybee with flowers located directly overhead, many experts who are faced with a situation they know ([Location 1533](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1533))
+    - Tags: [[pink]] 
+- nothing about will prattle and twaddle anyway. In Munger’s view, people too often confuse twaddle and prattle with importance and value. Even worse, many people pay fees to consultants and advisors for twaddle and prattle. Of course, the hardest thing to spot is when you are telling yourself twaddle, because the easiest person to fool is always yourself. ([Location 1537](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1537))
+    - Tags: [[pink]] 
+- The lollapalooza tendency is the tendency to get extreme confluences of psychological tendencies acting in favor of a particular outcome. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1570))
+    - Tags: [[pink]] 
+- Munger believes that all of the tendencies, forces, and phenomena described previously in this book can interact with each other in self-reinforcing ways, which make the output of the whole of what is interacting greater than the sum of the parts. Munger calls this process a lollapalooza. Because a lollapalooza involves feedback, its impact can be nonlinear in nature and is inherently unpredictable. Munger has pointed out that that ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1571))
+    - Tags: [[pink]] 
+- the impact of a lollapalooza involves vastly more than simple addition of the components that are interacting. Munger instead described it as similar to a “nuclear explosion.” One reason why prediction with certainty with respect to a lollapalooza is impossible is that a certain critical mass is required. In other words, the process that creates a lollapalooza will either reach critical mass, as in a nuclear reaction, or will ([Location 1574](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1574))
+    - Tags: [[pink]] 
+- never reveal itself. Munger has identified a number of lollapalooza examples. In his view, the 2007 financial crisis “was a lollapalooza event—a confluence of causes; that is how complex systems work.”19 Long-Term Capital Credit Management’s financial implosion was also a lollapalooza event, according to Munger. He also thinks the rise and fall of the Internet bubble was a lollapalooza. Another example of a lollapalooza is ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1577))
+    - Tags: [[pink]] 
+- a Tupperware party where social proof, liking, and other tendencies are used by the company to get people to buy products. Munger wrote an essay about the brand power of Coca-Cola, describing its tremendous value as being the outcome of a lollapalooza phenomenon. An open-outcry auction is another example of a lollapalooza: Well, the open-outcry auction is just made to turn the brain into mush: you’ve got ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1581))
+    - Tags: [[pink]] 
+- social proof, the other guy is bidding, you get reciprocation tendency, you get deprival super-reaction syndrome, and the thing is going away. … I mean, it just absolutely is designed to manipulate people into idiotic behavior. —CHARLIE MUNGER, HARVARD UNIVERSITY, 1995 The techniques that an auctioneer can use for benevolent purposes in a ([Location 1585](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1585))
+    - Tags: [[pink]] 
+- charity auction can also be used by a criminal to convince people to invest in scams. Buffett’s advice for these open outcry auctions is simple: “Don’t go.” ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1589))
+    - Tags: [[pink]] 
+- The great bridge player and Harvard professor Richard Zeckhauser pointed out: Bridge requires a continual effort to assess probabilities in at best ([Location 1656](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1656))
+    - Tags: [[pink]] 
+- marginally knowable situations, and players need to make hundreds of decisions in a single session, often balancing expected gains and losses. But players must also continually make peace with good decisions that lead to bad outcomes, both one’s own decisions and those of a partner. Just this peacemaking skill is required if one is to invest wisely in an unknowable world. —RICHARD ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1658))
+    - Tags: [[pink]] 
+- ZECKHAUSER, 2006 Buffett believes ([Location 1661](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1661))
+    - Tags: [[pink]] 
+- that bridge shares many characteristics with investing. Every hand is different, yet what has happened in the past is meaningful. In investing, you must make inferences about every bid or card, as well as cards that are not played. Also, as in bridge, you can benefit from having a great partner and strong interpersonal skills. Understanding probability and statistics is essential in both card playing ([Location 1662](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1662))
+    - Tags: [[pink]] 
+- If you don’t get elementary probability into your repertoire, you go through a long life like a one-legged man in an ass-kicking contest. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1666))
+    - Tags: [[pink]] 
+- Only a strong sense of value will give you the discipline needed to take profits on a highly appreciated asset that everyone ([Location 1696](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1696))
+    - Tags: [[pink]] 
+- thinks will rise nonstop, or the guts to hold and average down in a crisis even as prices go lower every day. Of course, for your efforts in these regards to be profitable, your estimate of value has to be on target. ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1697))
+    - Tags: [[pink]] 
+- Looking for signs of genuine discipline in others can be helpful in making wise decisions. For example, if you visit ([Location 1700](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1700))
+    - Tags: [[pink]] 
+- a money management firm that claims to be a Graham value investor and you cannot tell whether the market is open or closed, that is a good sign. Speculators correlate activity with productivity or success, whereas Graham value investors correlate disciplined inactivity with success. ([Location 1701](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1701))
+    - Tags: [[pink]] 
+- If you’re not willing to react with ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1711))
+    - Tags: [[pink]] 
+- equanimity to a market price decline of 50 percent two or three times a century, you’re not fit to be a common shareholder and you deserve the mediocre result you’re going to get compared to the people who do have the temperament, who can be more philosophical about these market fluctuations. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1711))
+    - Tags: [[pink]] 
+- If you want to get ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1715))
+    - Tags: [[pink]] 
+- rich, you’ll need a few decent ideas where you really know what you’re doing. Then you’ve got to have the courage to stick with them and take the ups and downs. Not very complicated, and it’s very old-fashioned. ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1715))
+    - Tags: [[pink]] 
+- You will get a few opportunities to profit from finding underpricing. There are actually ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1719))
+    - Tags: [[pink]] 
+- people out there who don’t price everything as high as the market will easily stand. And once you figure that out, it’s like finding money in the street—if you have the courage of your convictions. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1720))
+    - Tags: [[pink]] 
+- It’s amazing how fast Berkshire acts when we find opportunity. You can’t be timid—and that applies to all of life. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1723))
+    - Tags: [[pink]] 
+- Courage is an essential part of success in the Graham value investing system. If you are trying to outperform the market, mathematics dictates that you must deviate from the view of the crowd. For most people, being a contrarian requires courage. If you do not want to be courageous or do not believe you have the ability to be courageous ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1726))
+    - Tags: [[pink]] 
+- under pressure, you should buy a portfolio of low-fee index funds and exchange-traded funds. To profit from courage, you often must have some cash on hand. Having that cash available when the crisis hits also requires courage because it’s hard to sit on cash when markets are rising. The human urge to avoid missing out is a powerful one that can drive investors into the deadly grip of a stock market bubble. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1728))
+    - Tags: [[pink]] 
+- If you are a Graham value investor, the best times for you are the worst times for other investors and speculators. John Templeton put it this way: “To buy when others are despondently selling and to sell when others are euphorically buying… ([Location 1732](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1732))
+    - Tags: [[pink]] 
+- Market returns will always be lumpy for any investor, especially in the stock market. Drops in the prices of… ([Location 1735](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1735))
+    - Tags: [[pink]] 
+- precisely then that people tend to panic and want to sell. Munger has experienced this several times in his lifetime, so… ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1736))
+    - Tags: [[pink]] 
+- Munger suggests that investors be patient while at the same time being aggressive and decisive when the right opportunity is located. He believes that an investor has an advantage over many professionals in… ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1738))
+    - Tags: [[pink]] 
+- current information about a given investment, they are under huge pressure to do something even if the best thing to do is nothing. As an example of this attribute in action, during the first quarter of 2009, when most everyone was still panicking from the financial crisis, Munger took the excess cash available in the accounts of the Daily Journal… ([Location 1740](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1740))
+    - Tags: [[pink]] 
+- right opportunity to arise and, when he saw what he wanted, he acted decisively and aggressively. We just put the money in. It didn’t take any novel thought. It was a once-in-40-year opportunity. You have to strike the right balance between competency or knowledge on the one hand and gumption on the… ([Location 1743](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1743))
+    - Tags: [[pink]] 
+- circle of competence, then too much gumption will get you killed. But the more you know the limits to your knowledge, the more valuable gumption is. For most professional money managers, if you’ve got four children to put through college and you’re earning $400,000 or $1 million or whatever, the… ([Location 1746](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1746))
+    - Tags: [[pink]] 
+- You care about survival, and the way you survive is just not doing anything that… ([Location 1749](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1749))
+    - Tags: [[pink]] 
+- A lot of people with high IQs are terrible investors because… ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1752))
+    - Tags: [[pink]] 
+- Very-high-IQ people can be completely useless—and many of them are. ([Location 1759](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1759))
+    - Tags: [[pink]] 
+- An old joke about Albert Einstein illustrates the relationship between IQ and investing: Einstein passed away and went to heaven, where he was informed that his room was not yet ready. He was told by an angel who was responsible for new arrivals: “I hope you will not mind ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1765))
+    - Tags: [[pink]] 
+- staying for a while in a dormitory. I am sorry, but it is the best we can do right now.” The angel escorted Einstein to meet his roommates, saying, “This is your first roommate. She has an IQ of 180!” “That’s wonderful!” exclaimed Einstein. “We can discuss mathematics!” The angel then said, “Here is your second roommate. His IQ is 150!” “Why, that’s wonderful,” responded ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1767))
+    - Tags: [[pink]] 
+- Einstein. “We can discuss physics!” The angel finally said, “Here is your third roommate. His IQ is 100!” “That’s wonderful!” said Einstein. “Where… ([Location 1773](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1773))
+    - Tags: [[pink]] 
+- Smart people are not exempt from making mistakes. Unfortunately, all too often a very high IQ and market-beating investing results are inversely correlated. In… ([Location 1776](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1776))
+    - Tags: [[pink]] 
+- intelligence can actually be a problem. The smarter you think you are, the more you may get into trouble doing things like trying to predict things that are not predictable. Due to overconfidence, a person with a high IQ can actually make more mistakes that someone whose IQ is 30 points lower. Thinking that your IQ is… ([Location 1777](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1777))
+    - Tags: [[pink]] 
+- The unfortunate truth… ([Location 1781](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1781))
+    - Tags: [[pink]] 
+- intelligence and experience in one domain do not necessarily translate to another domain. More importantly, IQ tests do not assess whether a person is rational. Someone can have a very high IQ and yet not be very rational. A high-IQ individual may also not have well-developed skills, such as judgment and decision making. For these reasons, a high-IQ… ([Location 1781](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1781))
+    - Tags: [[pink]] 
+- compliance professional. Doctors and lawyers are favorite targets of scam promoters for this reason. For example, being wise about heart disease or estate planning does not make you wise about investing. While it is overconfidence and not high IQ which results in poor investing results, high IQ may lead to overconfidence. By being careful about… ([Location 1784](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1784))
+    - Tags: [[pink]] 
+- investor, as it is for… ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1787))
+    - Tags: [[pink]] 
+- How you behave in one place will help in surprising ways later. —CHARLIE MUNGER, DAMN RIGHT, 2000 Generally speaking, where Berkshire has the power, we try to be more than fair to the minority who don’t have… ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1788))
+    - Tags: [[pink]] 
+- they wonderful, moral people?” I’m not sure we get credit for a lot of morality because we early knew how advantageous that would be to get a reputation for doing the right thing and it’s worked out well for us. And my friend Peter Kaufman said, “If the rascals really knew how well honor worked, they would… ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1792))
+    - Tags: [[pink]] 
+- the time because they trust us to behave well where we have the power and they don’t. There’s an old expression on this subject, which is really an expression on moral theory: “How nice it is to have a tyrant’s strength and how wrong it is to use it like a tyrant.” It’s such a simple idea… ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1795))
+    - Tags: [[pink]] 
+- We believe there should be a huge area between everything you should do and everything you can do without getting into legal trouble. I don’t think you should come anywhere near that line. —CHARLIE MUNGER, WESCO ANNUAL MEETING, 2004 More often we’ve made extra money out of… ([Location 1800](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1800))
+    - Tags: [[pink]] 
+- morals, he said that it was the… ([Location 1804](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1804))
+    - Tags: [[pink]] 
+- Character matters ([Location 1809](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1809))
+    - Tags: [[pink]] 
+- greatly in investing and in life. Munger believes honesty is not only the right thing to do morally, but it is the approach that will produce the greatest financial return. When people in business together trust each other because they are honest, the efficiency that results from that trust improves the financial returns of the business. Munger also says that it is important to stay a safe distance away from anything illegal, dishonest, or ([Location 1809](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1809))
+    - Tags: [[pink]] 
+- immoral. Walking a tightrope on the razor’s edge of something like honesty is unwise. On the subject of teaching honesty, Munger believes that real-life examples are often the best approach. The personal example that most guides Munger is that of his idol Benjamin Franklin: There’s no reason to look only for living models. … Some of the very best models have been dead for a long time. ([Location 1812](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1812))
+    - Tags: [[pink]] 
+- 6. Confident and Nonideological Develop correct confidence in your judgment. —CHARLIE MUNGER, WESCO ANNUAL MEETING, 2002 I have a black belt in chutzpah. I was born with it. ([Location 1818](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1818))
+    - Tags: [[pink]] 
+- The ethos of not fooling yourself is one of the best you could possibly have. It’s powerful because it’s so rare. —CHARLIE MUNGER, WESCO ANNUAL MEETING, 2002 Munger proves that it is possible to be confident about your beliefs and skills and still be very focused on your own potential fallibility. By being aware of your own limitations, keeping important decisions inside your ([Location 1824](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1824))
+    - Tags: [[pink]] 
+- circle of competence, and avoiding decisions that are too hard, it is reasonable to feel more confident in your abilities. Genuine confidence is as valuable as false confidence is dangerous. There is a huge value in knowing the difference between these two types of confidence. Finance writer Morgan Housel absolutely nailed it when he wrote, “There’s a strong correlation between knowledge and humility.” Humility is at the core of ([Location 1828](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1828))
+    - Tags: [[pink]] 
+- concepts like the circle of competence and always searching for evidence that disproves what you or others may assert. You can have a black belt in chutzpah and yet be rubbing your own nose in your own mistakes. People ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1831))
+    - Tags: [[pink]] 
+- who are genuinely humble will make fewer mistakes. Munger has strong views about the dangers of being too ideological. He has said that heavy ideology can be one of the most dysfunctional extreme disorders. ([Location 1833](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1833))
+    - Tags: [[pink]] 
+- If you get a lot of heavy ideology young and then you start expressing it, you are locking your brain into a very unfortunate pattern. And you are going to distort your general cognition. ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1835))
+    - Tags: [[pink]] 
+- Munger has recognized that it is hard to think on a long-term basis when you are just getting started or are starting over. For this reason, he said once that ([Location 1855](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1855))
+    - Tags: [[pink]] 
+- accumulating “the first $100,000 is a bitch.”5 That is reason enough to work hard to assemble a basic financial cushion. Not only is it not fun, it is a handicap to live on the edge of financial ruin. ([Location 1856](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1856))
+    - Tags: [[pink]] 
+- In the long term, the power of compounding becomes ever more evident. Unfortunately, understanding the power of compounding is not a natural state for the human race; however, it is a critical task. ([Location 1859](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1859))
+    - Tags: [[pink]] 
+- Understanding both the power of compound interest and the difficulty of getting it is the heart and soul of understanding a lot of things. ([Location 1861](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1861))
+    - Tags: [[pink]] 
+- Many things that are not directly financial will compound. Skills, relationships, and other aspects of life can compound and benefit a person who invests time and money wisely to ([Location 1864](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1864))
+    - Tags: [[pink]] 
+- cultivate these things. ([Location 1865](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1865))
+    - Tags: [[pink]] 
+- What matters most: passion or competence that was born in? Berkshire is full of people who have a peculiar passion for their own business. I would argue passion is more important than brain power. ([Location 1867](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1867))
+    - Tags: [[pink]] 
+- As for the ([Location 1870](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1870))
+    - Tags: [[pink]] 
+- importance of passion in determining success in investing, business, or life in general, if you do not know about the link between passion and success, you have not been paying attention. People who are passionate tend to work harder and invest more in achieving their goals. Passionate people also read and think more. Passionate people tend to have an informational edge over others who are not as passionate. For these reasons and ([Location 1870](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1870))
+    - Tags: [[pink]] 
+- others, if you are playing a zero-sum game with people who are passionate and you are not, the odds that you will be a success drop substantially. One trick related to passion is that you are not likely to be passionate about something you do not understand. Often, the level of passion you will have for a topic will grow over time. The more you know about some topics, the more passionate you will get. Only becoming ([Location 1873](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1873))
+    - Tags: [[pink]] 
+- passionate about things that create that feeling immediately is a big mistake. Some of the best passions in life grow on you in a nonlinear way after a slow start. ([Location 1876](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1876))
+    - Tags: [[pink]] 
+- Learning from other people’s mistakes is much more pleasant. —CHARLIE MUNGER, BERKSHIRE ANNUAL MEETING, 2012 In my whole life, I have known no wise people (over a ([Location 1878](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1878))
+    - Tags: [[pink]] 
+- broad subject matter area) who didn’t read all the time—none, zero. You’d be amazed at how much Warren reads, at how much I read. ([Location 1881](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1881))
+    - Tags: [[pink]] 
+- You gotta work where you’re turned on. —CHARLIE MUNGER, BERKSHIRE ANNUAL MEETING, 2013 The main contribution of [buying See’s Candies] was ignorance removal. If it weren’t … good at removing ignorance, we’d be nothing today. We were pretty damn stupid when we bought See’s—just a little less stupid enough to buy it. ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1887))
+    - Tags: [[pink]] 
+- The best thing about Berkshire is that we have removed a lot of ignorance. The nice thing is we still have a lot more ignorance left. … Another trick is scrambling out of your mistakes, which is enormously useful. We have a sure-to-fail department store. A trading stamp business sure to fold and a textile mill. Out of that comes Berkshire. Think about how we would have ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1892))
+    - Tags: [[pink]] 
+- done if we had a better start. ([Location 1894](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1894))
+    - Tags: [[pink]] 
+- Munger is a believer in the investment approaches and ideas of Philip Fisher. Fisher was a successful investor based in California who wrote an influential book entitled Common Stocks and Uncommon Profits, first published in 1958. One of these ideas is that the successful investor is usually inherently interested in ([Location 1896](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1896))
+    - Tags: [[pink]] 
+- business problems. It is precisely for this reason that Ben Graham said that the best approach to investing is to be businesslike. The idea is that, in order to understand the stock, you must understand that the business is fundamental to the Graham value investing system. For this reason, investors like Fisher and Munger developed a “scuttlebutt” network of people who can help them to learn more about a business. ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1898))
+    - Tags: [[pink]] 
+- What they inevitably find is that people involved in an industry will talk freely about their competitors as long as they believe they will not be quoted. Buffett uses the same approach: I would go out and talk to customers, suppliers, and maybe ex-employees in some cases. Everybody. Every time I was interested in an industry, say it was coal, I would go around and see every coal ([Location 1901](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1901))
+    - Tags: [[pink]] 
+- company. I would ask every CEO, “If you could only buy stock in one company that was not your own, which one would it be and why?” You piece those things together, you learn about the business after a while. ([Location 1905](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1905))
+    - Tags: [[pink]] 
+- Carefully learning from the mistakes of others is a way to accelerate the learning process. Nothing vicariously exposes you to more mistakes committed by others than reading. ([Location 1909](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1909))
+    - Tags: [[pink]] 
+- I hardly know anybody who’s done very well in life in terms of cognition that doesn’t have somebody trusted to talk to. Einstein would not have been able to do what he did without people to talk to. Didn’t need many but he needed some. You organize your own thoughts as you try and convince other people. It’s a ([Location 1915](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1915))
+    - Tags: [[pink]] 
+- very necessary part of operations. If you had some hermit sitting on a mountain, he wouldn’t do very well. ([Location 1917](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1917))
+    - Tags: [[pink]] 
+- “Unsuccessful investors are dominated by emotion. Rather than responding coolly and rationally to market fluctuations, they respond emotionally with greed and fear.”7 ([Location 1947](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1947))
+    - Tags: [[pink]] 
+- One very important new approach to the Graham value investing system involves using computers and software to take human emotions completely out of the process. These machine-learning systems identify patterns consistent ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1952))
+    - Tags: [[pink]] 
+- with Graham’s value investing principles shared by companies that outperform the market. Because the process happens automatically via computer algorithms, human emotions can be removed from the stock selection process. While machine learning is not used by Buffett or Munger, it is completely consistent with their principles. Software is revolutionizing every industry, and it would be a mistake to ([Location 1954](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1954))
+    - Tags: [[pink]] 
+- assume that this will not be the case with investing. ([Location 1956](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1956))
+    - Tags: [[pink]] 
+- Arguably the best way to sort out whether you have the right temperament for the Graham value investing system is to keep a careful written record of your investment decisions. This record-keeping will help you avoid falling prey to psychological denial. If you review your record of investing performance, you might realize that you are better off as an index investor. If ([Location 1957](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1957))
+    - Tags: [[pink]] 
+- you are not capable of keeping your head when all of the people around you (including Mr. Market) are losing theirs, you may not have the right temperament for the Graham value investing system. Reaching the conclusion that you are not cut out to be a Graham value investor is not a tragedy. In contrast, trying to be an active investor when you have the wrong temperament is almost certain to be a tragedy. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1960))
+    - Tags: [[pink]] 
+- If you take the money invested in common stocks, and then subtract the 2 percent per year that goes out in investment ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1967))
+    - Tags: [[pink]] 
+- management costs and fractional trading costs, that’s more than companies pay in dividends. … This would fit very well into Alice in Wonderland; pay dividends of X and pay the same amount to investment managers and advisors. ([Location 1968](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1968))
+    - Tags: [[pink]] 
+- Mozart … overspent his income his entire life—that… ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1972))
+    - Tags: [[pink]] 
+- Like his idol Benjamin Franklin and his partner Buffett, Munger is relatively frugal given his wealth, especially when it comes to operating and investment expenses. In addition to the axiom “a penny saved is two pence dear,”8 Benjamin Franklin wrote: “The way to… ([Location 1974](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1974))
+    - Tags: [[pink]] 
+- industry and frugality: that is, waste neither time nor money, but make the best use of both. Without industry and frugality nothing will do, and with them, everything.”9 Other Graham value investors have a similar focus on frugality. Walter Schloss was famous for running his investment firm out of a single room leased from… ([Location 1977](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1977))
+    - Tags: [[pink]] 
+- value investors springs from their understanding of opportunity cost and the power of compounding. They naturally compare the value of consumption today with the value of greater… ([Location 1981](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1981))
+    - Tags: [[pink]] 
+- Using [a stock’s] volatility as a measure of risk is nuts. Risk to us is 1)… ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1984))
+    - Tags: [[pink]] 
+- loss of capital, or 2) the risk of inadequate return. Some great businesses have very volatile returns—for example, See’s Candies usually loses money in two quarters of each year—and… ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1984))
+    - Tags: [[pink]] 
+- This is an amazingly sound place. We are more… ([Location 1988](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1988))
+    - Tags: [[pink]] 
+- than most other places. We haven’t pushed it as hard as other people would have pushed it. I don’t want to go back to Go [like in a game of Monopoly]. I’ve been to Go. … A lot of our shareholders have a majority of their net worth… ([Location 1989](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1989))
+    - Tags: [[pink]] 
+- You can easily see how… ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1993))
+    - Tags: [[pink]] 
+- Berkshire is. In the first place, we try and behave in such a way that no rational person is going to worry about our credit. And after we have done that, we also behave in such a way that if the world suddenly didn’t like our credit, we wouldn’t even notice it for months, because we have so much liquidity.… ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1993))
+    - Tags: [[pink]] 
+- Berkshire. It’s just part of the… ([Location 1996](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1996))
+    - Tags: [[pink]] 
+- As the quotes above make clear, Munger strongly believes risk cannot be fully measured by the volatility of investment prices in markets, as some people claim. Volatility is certainly one type of risk. For example, if you are retiring or have tuition bills to pay at… ([Location 1998](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=1998))
+    - Tags: [[pink]] 
+- is not the only risk. Why do investment managers try to equate risk with volatility rather than just considering it as one important type of risk? There are many money managers who want you to believe that volatility is equal to risk because volatility is a major risk for them because, if stocks drop in price, investors will flee from their services… ([Location 2000](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2000))
+    - Tags: [[pink]] 
+- the impression that risk can be precisely quantified, which helps justify their fees. Risk cannot be fully expressed as a number. Why do academics also try to equate risk with volatility? Munger believes this happens because (1) it helps make their mathematics beautiful, even though it has little tie to reality, and (2) it can lead to… ([Location 2003](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2003))
+    - Tags: [[pink]] 
+- written books that chronicle how flawed risk management has resulted in crisis after crisis. One story sometimes told by investors goes like this: A surgeon, an accountant, and a risk manager at a bank are debating whose profession goes back the furthest. The surgeon says, “God made Eve out of Adam’s rib. Obviously surgery… ([Location 2006](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2006))
+    - Tags: [[pink]] 
+- by bringing order out of chaos. That’s accounting.” The risk manager then chimed in. “I’ve got you both beat,” she says. “Answer… ([Location 2010](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2010))
+    - Tags: [[pink]] 
+- For the best essay on the proper definition of risk, it’s a good idea to read Buffett’s 1993 Berkshire shareholder’s letter. Buffett pointed out that risk comes from not knowing what you’re doing. Risk is… ([Location 2012](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2012))
+    - Tags: [[pink]] 
+- Buffett illustrated the best way to deal with risk with a story: Every two years I’m part of an informal group that gathers to have fun and explore a few subjects. Last September, meeting at Bishop’s Lodge in Santa Fe, we asked [Ike Friedman, Borsheim’s managing Genius] to come by and educate us… ([Location 2014](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2014))
+    - Tags: [[pink]] 
+- brought from Omaha about $20 million of particularly fancy merchandise. I was somewhat apprehensive—Bishop’s Lodge is no Fort Knox—and I mentioned my concern to Ike at our opening party the evening before his presentation. Ike took me aside. “See that safe?” he said. “This afternoon we… ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2018))
+    - Tags: [[pink]] 
+- it is.” I breathed easier. Ike went on: “See those two big fellows with guns on their hips? They’ll be guarding the safe all night.” I now was ready to rejoin the party. But Ike leaned closer: “And besides,… ([Location 2021](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2021))
+    - Tags: [[pink]] 
+- First Variable: Determining the Appropriate Intrinsic Value of a Business ([Location 2031](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2031))
+    - Tags: [[pink]] 
+- The definition of intrinsic value in the Owner’s Manual of Berkshire Hathaway is as follows: Intrinsic value can be defined simply: It’s the discounted value of the cash that can be taken out of a business during its remaining life. The calculation of intrinsic value, though, is not so simple. As our definition suggests, intrinsic value is an estimate rather than a precise figure, and it’s additionally an ([Location 2032](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2032))
+    - Tags: [[pink]] 
+- estimate that must be changed if interest rates move or forecasts of future cash flows are revised. ([Location 2036](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2036))
+    - Tags: [[pink]] 
+- In an ideal situation, the process of determining the intrinsic valuation of a business is easy ([Location 2048](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2048))
+    - Tags: [[pink]] 
+- enough that Munger can do that valuation in his head. While people of more ordinary intelligence may need to use a calculator to do the same mathematics, Munger’s point about a desire for simplicity and an obvious result remains true for any Graham value investor. If Munger determines that the valuation of the business is too hard, he simply says, “I pass.” This is such a powerful and underutilized idea. To use a baseball analogy, ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2049))
+    - Tags: [[pink]] 
+- Munger and Buffett love the fact that they are not required to swing the bat as an investor in response to every pitch. ([Location 2052](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2052))
+    - Tags: [[pink]] 
+- The tendency of many people who are overconfident is just the reverse of Munger’s use of a “too hard” pile. In other words, people with a high IQ often relish the opportunity to solve hard valuation problems, thinking that they will be rewarded for having such ample mental skill with a higher return. The ([Location 2053](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2053))
+    - Tags: [[pink]] 
+- reality is that, in trying to solve hard problems, emotional and psychological problems cause the losses rather than a lack of intelligence. Hard problems are hard problems, pregnant with opportunities to make mistakes. Determining the value of a business is best done and is most reliable when the process is simple. Even in a case where the process is relatively simple, a Graham value investor must remember that ([Location 2055](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2055))
+    - Tags: [[pink]] 
+- the valuation process is inherently imprecise. An imprecise value is perfectly acceptable to a value investor because the Graham value investor is looking for a margin of safety that is so substantial that precise calculation is unnecessary. A good analogy is a waiter trying to decide whether a customer is above the legal drinking age. There are certain restaurant patrons who are obviously older than the legal drinking age, just as there are ([Location 2059](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2059))
+    - Tags: [[pink]] 
+- certain businesses with an intrinsic value that obviously provides the necessary margin of safety. Buffett and Munger admit they do not have exactly the same definition of intrinsic value. Buffett believes: Intrinsic value is terribly important but very fuzzy. Two people looking at the same set of facts, moreover—and this would apply even to Charlie and me—will almost inevitably come up ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2062))
+    - Tags: [[pink]] 
+- with at least slightly different intrinsic value figures. ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2066))
+    - Tags: [[pink]] 
+- The definition is fuzzy enough that really smart and experienced investors can do the math in their head. Warren talks about these discounted cash flows. I’ve never seen him do one. ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2068))
+    - Tags: [[pink]] 
+- There are some businesses with certain qualities that Munger will not touch with a ten-foot pole: There are two kinds of businesses: The first earns 12 percent, and you can take it out at the end of the year. The second earns 12 percent, but all the excess cash must be reinvested—there’s never any cash. It reminds me of the guy who looks at all of his equipment and ([Location 2080](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2080))
+    - Tags: [[pink]] 
+- says, “There’s all of my profit.” We hate that kind of business. —CHARLIE MUNGER, BERKSHIRE ANNUAL MEETING, 2003 When Munger and Buffett value a business, they use ([Location 2084](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2084))
+    - Tags: [[pink]] 
+- what they call owner’s earnings as the starting point. Owner’s earnings can be defined as: Net income + Depreciation + Depletion + Amortization – Capital expenditure – Additional working capital. Berkshire ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2086))
+    - Tags: [[pink]] 
+- uses the owner’s earnings figure in this process to take into account capital expenditures that will be necessary to maintain the business’s return on equity. A more complete explanation of an owner’s earnings calculation is provided in the section of this book called Berkshire Math. ([Location 2088](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2088))
+    - Tags: [[pink]] 
+- Buffett has views on the importance of growth in determining the value of a business, which echo Munger’s approach: Growth is always a ([Location 2094](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2094))
+    - Tags: [[pink]] 
+- component in the calculation of value, constituting a variable whose importance can range from negligible to enormous and whose impact can be negative as well as positive. … Growth benefits ([Location 2096](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2096))
+    - Tags: [[pink]] 
+- investors only when the business in point can invest at incremental returns that are enticing – in other words, only when each dollar used to finance the growth creates over a dollar of long-term ([Location 2097](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2097))
+    - Tags: [[pink]] 
+- market value. In the case of a low-return business requiring incremental funds, growth hurts the investor. ([Location 2099](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2099))
+    - Tags: [[pink]] 
+- It is more important that the definition of intrinsic value stay consistent in the mind of a given investor than that the calculation be the same as every other Graham value investor. As will be ([Location 2101](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2101))
+    - Tags: [[pink]] 
+- explained, intrinsic value is a reference point in the final analysis for investors as they patiently watch the price of an investment gyrate up and down in price over time. In doing a valuation analysis, Graham value investors like Munger are very conservative. ([Location 2103](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2103))
+    - Tags: [[pink]] 
+- Second Variable: Determining the Appropriate Margin of Safety ([Location 2105](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2105))
+    - Tags: [[pink]] 
+- Third Variable: Determining the Scope of an Investor’s Circle of Competence ([Location 2147](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2147))
+    - Tags: [[pink]] 
+- Fourth Variable: Determining How Much of Each Security to Buy ([Location 2262](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2262))
+    - Tags: [[pink]] 
+- Fifth Variable: Determining When to Sell a Security ([Location 2303](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2303))
+    - Tags: [[pink]] 
+- Sixth Variable: Determining How Much to Bet When ([Location 2327](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2327))
+    - Tags: [[pink]] 
+- You Find a Mispriced Asset ([Location 2327](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2327))
+    - Tags: [[pink]] 
+- Seventh Variable: Determining Whether the Quality of a Business Should Be Considered ([Location 2382](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2382))
+    - Tags: [[pink]] 
+- Eighth Variable: Determining What Businesses to Own (in Whole or in Part) ([Location 2451](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2451))
+    - Tags: [[pink]] 
+- while management of the businesses within Berkshire is extremely decentralized, the management of capital allocation and compensation systems is extremely centralized. ([Location 2501](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2501))
+    - Tags: [[pink]] 
+- The primary management activity at Berkshire is capital allocation. Munger ([Location 2503](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2503))
+    - Tags: [[pink]] 
+- wrote: Proper allocation of capital is an investor’s number one job. ([Location 2504](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2504))
+    - Tags: [[pink]] 
+- Charles T. Munger, Berkshire Hathaway’s vice-chairman, and I really have only two jobs. … One is to attract and keep outstanding managers to run our various operations. The other is capital allocation. ([Location 2510](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2510))
+    - Tags: [[pink]] 
+- It is wise to remember that when someone is selling, they are doing so for a reason. ([Location 2516](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2516))
+    - Tags: [[pink]] 
+- Buffett illustrated this point with an anecdote: A man says to a veterinarian: “Can you help me? Sometimes my horse walks just fine and sometimes he limps.” The vet replied: “Not a problem. When he’s walking fine, sell him.1 ([Location 2517](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2517))
+    - Tags: [[pink]] 
+- The most important task in capital allocation is to take cash generated by a company and deploy it to the very best opportunity and avoid what… ([Location 2521](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2521))
+    - Tags: [[pink]] 
+- Rationality frequently wilts when the institutional imperative comes into play. For example: (1) As if governed by Newton’s First Law of Motion, an institution will resist any change in its current direction; (2) just as work expands to fill available time, corporate projects or acquisitions will… ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2523))
+    - Tags: [[pink]] 
+- foolish, will be quickly supported by detailed rate-of-return and strategic studies prepared by his troops; and (4) the behavior of peer companies, whether they are expanding, acquiring, setting executive… ([Location 2525](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2525))
+    - Tags: [[pink]] 
+- He has written that at Berkshire “a managerial wish list will not be filled at shareholder expense”… ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2531))
+    - Tags: [[pink]] 
+- Many managerial [princes] remain serenely confident about the future potency of… ([Location 2532](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2532))
+    - Tags: [[pink]] 
+- their corporate backyards are knee-deep in… ([Location 2533](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2533))
+    - Tags: [[pink]] 
+- The heads of many companies are not skilled in capital allocation. Their inadequacy is not surprising. Most bosses rise to the top because they have excelled in an area… ([Location 2536](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2536))
+    - Tags: [[pink]] 
+- administration or, sometimes, institutional politics. Once they become CEOs, they face new responsibilities. They now must make capital allocation decisions, a critical job that they may have never tackled and that is not easily mastered. … CEOs who recognize their lack of capital-allocation skills… ([Location 2537](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2537))
+    - Tags: [[pink]] 
+- management consultants, or investment bankers. Charlie and I have frequently observed the consequences of such “help.” On balance, we feel it’s more likely to accentuate the capital-allocation problem than to solve it. In the end, plenty of unintelligent capital allocation takes place… ([Location 2540](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2540))
+    - Tags: [[pink]] 
+- 2. Compensation Systems That Create Alignment with Shareholders Munger believes that compensation systems are too important to delegate: It isn’t enough to buy the right business. You also have to have a compensation… ([Location 2544](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2544))
+    - Tags: [[pink]] 
+- At Berkshire Hathaway, we have no [single] system; we have different systems. They’re very simple and we don’t tend to revisit them very often. It’s amazing how well it’s worked. We wrote a one-page deal with Chuck Huggins when we bought See’s and it’s… ([Location 2548](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2548))
+    - Tags: [[pink]] 
+- A man does not deserve huge amounts of pay for creating tiny spreads on huge amounts of money. Any idiot can do it. And, as a… ([Location 2552](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2552))
+    - Tags: [[pink]] 
+- I’d rather throw a viper down my shirt front than hire a… ([Location 2555](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2555))
+    - Tags: [[pink]] 
+- In any big business, you don’t worry whether someone is doing something wrong, you worry about whether it’s big and whether it’s material. You can do a lot to mitigate bad behavior, but you simply can’t prevent it altogether. ([Location 2565](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2565))
+    - Tags: [[pink]] 
+- Our success has come from the lack of oversight we’ve provided, and our success will continue to be from a lack of oversight. ([Location 2572](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2572))
+    - Tags: [[pink]] 
+- But if you’re going to provide minimal oversight, you have to buy carefully. It’s a different model from GE’s. GE’s works—it’s just very different from ours. ([Location 2573](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2573))
+    - Tags: [[pink]] 
+- Munger would rather have a great moat than great managers. ([Location 2577](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2577))
+    - Tags: [[pink]] 
+- Of course, he would rather have both, so he has a greater margin of safety. To make this point, Buffett commented that, “Good jockeys will do well on good horses, but not on broken down nags.”2 For example, both the New England textile business and the department stores that Berkshire owned in its very early years had competent managers, but the underlying businesses the managers were employed to run were lodged in ([Location 2577](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2577))
+    - Tags: [[pink]] 
+- quicksand. No amount of managerial skill could have fixed the problems at these companies. As another example, Ron Johnson, who formerly was in charge of Apple’s retail operations, may be a great manager of a retail business, but the fact that the next business he ran (JC Penney) was fundamentally a lousy business made the critical difference in terms of a financial result. ([Location 2581](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2581))
+    - Tags: [[pink]] 
+- Munger admits there are rare ([Location 2584](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2584))
+    - Tags: [[pink]] 
+- exceptions in which the quality of the business is less of a driving factor: So you do get an occasional opportunity to get into a wonderful business that’s being run by a wonderful manager. And, of course, that’s hog heaven day. If you don’t load up when you get those opportunities, it’s a big mistake. … Averaged out, betting on the quality of business is better than betting on the quality of ([Location 2584](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2584))
+    - Tags: [[pink]] 
+- management. In other words, if you have to choose one, bet on the business momentum, not the brilliance of the manager. But, very rarely, you find a manager who’s so good that you’re wise to follow him into what looks like a mediocre business. ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2588))
+    - Tags: [[pink]] 
+- Munger wants managers of the business who have an ownership mentality toward the business, not just the attitude of manager. Carnegie was always proud that he took very little salary. Rocke-feller and Vanderbilt were the same. It was a common culture in a different era. All of these people thought of themselves as the founder. I was delighted to get rid ([Location 2599](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2599))
+    - Tags: [[pink]] 
+- of the pressure of getting fees based on performance. If you’re highly conscientious and you hate to disappoint, you will feel the pressure to live up to your incentive fee. There was an enormous advantage [to switching away from taking a percentage of the profits to managing Berkshire, in which their interests as shareholders are exactly aligned with other shareholders]. —CHARLIE ([Location 2602](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2602))
+    - Tags: [[pink]] 
+- Munger also fears bureaucracy and Berkshire works hard to prevent it from lowering returns by creating what they call a seamless web of deserved trust. For example, if you worked for AT&T in my day, it was a great bureaucracy. Who in the hell was really thinking about the shareholder or anything else? And in a ([Location 2612](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2612))
+    - Tags: [[pink]] 
+- bureaucracy, you think the work is done when it goes out of your in-basket into somebody else’s in-basket. But, of course, it isn’t. It’s not done until AT&T delivers what it’s supposed to deliver. So you get big, fat, dumb, unmotivated bureaucracies. … The constant curse of scale is that it leads to big, dumb bureaucracy—which, of course, reaches its highest and worst form in ([Location 2615](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2615))
+    - Tags: [[pink]] 
+- government, where the incentives are really awful. That doesn’t mean we don’t need governments—because we do. But it’s a terrible problem to get big bureaucracies to behave. ([Location 2618](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2618))
+    - Tags: [[pink]] 
+- We would vastly prefer a management in place with ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2626))
+    - Tags: [[pink]] 
+- a lot of integrity and talent. ([Location 2626](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2626))
+    - Tags: [[pink]] 
+- For Munger, a zero-tolerance policy applies to anything related to a lack of integrity. In other words, a standard of “mostly honest” is not a goal for Munger when it comes to integrity. Buffett repeatedly had pointed out that a reputation gained over a lifetime can be lost in less than a second. Munger believes: ([Location 2628](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2628))
+    - Tags: [[pink]] 
+- Remember that ([Location 2631](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2631))
+    - Tags: [[pink]] 
+- reputation and integrity are your most valuable assets—and can be lost in a heartbeat. ([Location 2631](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2631))
+    - Tags: [[pink]] 
+- Hoping that the negative impact of some dishonest people can be managed by mixing them in with honest people is a triumph of hope over experience in Munger’s view. When you mix raisins with turds, they are still turds. ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2634))
+    - Tags: [[pink]] 
+- We don’t train executives, we find them. If a mountain stands up like Everest, you don’t have to be a genius ([Location 2641](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2641))
+    - Tags: [[pink]] 
+- to figure out that it’s a high mountain. ([Location 2641](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2641))
+    - Tags: [[pink]] 
+- Munger and Buffett are not interested in investing in company “turnarounds,” because they seldom actually do turn around. Munger wants the moat of the company he is investing in to be strong enough to survive bad management. As was discussed previously, he would prefer to have ([Location 2644](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2644))
+    - Tags: [[pink]] 
+- a moat that is so strong that it could survive if the company was run by “an idiot.” Neither Buffett nor Munger is going to buy a business and let some friend or relative run it. However, if they hypothetically did, they would hope that it would still perform adequately as a business with an idiot manager due to the moat. Network TV [in its heyday,] anyone could run and do well. If Tom Murphy is running it, ([Location 2646](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2646))
+    - Tags: [[pink]] 
+- you’d do very well, but even your idiot nephew could do well. ([Location 2649](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2649))
+    - Tags: [[pink]] 
+- Munger is not saying that management does not matter. Instead, he is saying that he would prefer to have a business that passes the idiot manager test and for the business to have talented management. ([Location 2652](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2652))
+    - Tags: [[pink]] 
+- Occasionally, Munger and Buffett find a person who has such superior talent that they really do not need much of a moat. This situation is rare, but it does happen. Occasionally, you’ll find a human being who’s so talented that he can do things that ordinary skilled mortals can’t. I would argue that Simon Marks—who was second generation in Marks & Spencer of England—was ([Location 2657](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2657))
+    - Tags: [[pink]] 
+- such a man. Patterson was such a man at National Cash Register. And Sam Walton was such a man. These people do come along—and in many cases, they’re not all that hard to identity. If they’ve got a reasonable hand—with the fanaticism and intelligence and so on that these people generally bring to the party—then management can matter much. However, averaged out, betting on the ([Location 2661](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2661))
+    - Tags: [[pink]] 
+- quality of a business is better than betting on the quality of management. In other words, if you have to choose one, bet on the business momentum, not the brilliance of the manager. But, very rarely, you find a manager who’s so good that you’re wise to follow him into what looks like a mediocre business. —CHARLIE MUNGER, USC BUSINESS SCHOOL, 1994 ([Location 2663](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2663))
+    - Tags: [[pink]] 
+- This description by Bill Gates of the Berkshire philosophy on the importance of management to a business is a very useful summary: [Warren’s] penchant for long-term investments is reflected in another aphorism: ‘You should invest in a business that even a fool can run, because someday a ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2700))
+    - Tags: [[pink]] 
+- fool will.’ He doesn’t believe in businesses that rely for their success on every employee being excellent. Nor does he believe that great people help all that much when the fundamentals of a business are bad. He says that when good management is brought into a fundamentally bad business, it’s the reputation of the business that remains intact. Warren installs ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2702))
+    - Tags: [[pink]] 
+- strong managers in the companies Berkshire owns, and tends to leave them pretty much alone. His basic proposition to managers is that to the degree that a company spins off cash, which good businesses do, the managers can trust Warren to invest it wisely. He doesn’t encourage managers to diversify. Managers are expected to concentrate on the businesses they know well so that ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2705))
+    - Tags: [[pink]] 
+- Warren is free to concentrate on what he does well: invest. ([Location 2708](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2708))
+    - Tags: [[pink]] 
+- I don’t even like to hear the word EBITDA. ([Location 2753](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2753))
+    - Tags: [[pink]] 
+- The five primary elements that can help create a moat are as follows: ([Location 2759](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2759))
+    - Tags: [[pink]] 
+- Cumulative Impact of Many Factors Some businesses, like Berkshire, have been able to create a moat as a result of a combination of better systems and culture than their competitors. One way to understand this point is to look at Berkshire and ask whether it has a ([Location 2924](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2924))
+    - Tags: [[pink]] 
+- moat. In other words, while Berkshire has Buffett and Munger, what else does the company have that acts as a barrier to entry creating sustainable competitive advantage? Berkshire has many elements that make up the whole of its moat, and they are further amplified by the way the elements “fit” together. In short, the aggregate value that these elements create is greater than the sum of the parts. This section presents a few of the ([Location 2926](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2926))
+    - Tags: [[pink]] 
+- elements that collectively create Berkshire’s moat. ([Location 2930](https://readwise.io/to_kindle?action=open&asin=B010EB3EUM&location=2930))
+    - Tags: [[pink]]
+

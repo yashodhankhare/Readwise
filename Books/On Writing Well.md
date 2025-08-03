@@ -1,0 +1,952 @@
+---
+tags:
+  - readwise
+---
+
+# On Writing Well
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51oWwwesiXL._SL200_.jpg)
+
+## Metadata
+- Author: [[William Zinsser]]
+- Full Title: On Writing Well
+- Category: #books
+
+## Highlights
+- Today everybody in the world is writing to everybody else, making instant contact across every border and across every time zone. Bloggers are saturating the globe. On one level the new torrent is good news. Any invention that reduces the ([Location 92](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=92))
+    - Tags: [[pink]] 
+- fear of writing is up there with air-conditioning and the lightbulb. But, as always, there’s a catch. Nobody told all the new computer writers that the essence of writing is rewriting. Just because they’re writing fluently doesn’t mean they’re writing well. That condition was first revealed with the arrival of the word processor. Two opposite things happened: good writers got better and bad writers got worse. Good writers welcomed the gift of being able to fuss endlessly with their sentences—pruning and revising and reshaping—without the drudgery of retyping. Bad writers became even more ([Location 94](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=94))
+    - Tags: [[pink]] 
+- verbose because writing was suddenly so easy and their sentences looked so pretty on the screen. How could such beautiful sentences not be perfect? E-mail is an impromptu medium, not conducive to slowing down or looking back. It’s ideal for the never-ending upkeep of daily life. If the writing is disorderly, no real harm is done. But e-mail is also where much of the world’s business is now conducted. Millions of e-mail messages every day give people the information they need to do their job, and a badly written message can do a lot of damage. So can a badly written Web site. The new age, for all its electronic wizardry, is still ([Location 98](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=98))
+    - Tags: [[pink]] 
+- writing-based. On Writing Well is a craft book, and its principles haven’t changed since it was written 30 years ago. I don’t know what still newer marvels will make writing twice as easy in the next 30 years. But I do know they won’t make writing twice as good. That will still require ([Location 103](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=103))
+    - Tags: [[pink]] 
+- plain old hard thinking—what E. B. White was doing in his boathouse—and the plain old tools of the English language. William Zinsser April 2006 ([Location 105](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=105))
+    - Tags: [[pink]] 
+- A school in Connecticut once held “a day devoted to the arts,” and I was asked if I would come and talk about writing as a vocation. When I arrived I found that a second speaker had been invited—Dr. Brock (as I’ll call him), a surgeon who had recently begun to write and had sold some stories to magazines. He was going to talk about writing as an avocation. ([Location 113](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=113))
+    - Tags: [[pink]] 
+- For there isn’t any “right” way to do such personal work. There are all kinds of writers and all kinds of methods, and any method that helps you to say what you want to say is the right method for you. Some people write by day, others by night. Some people need silence, others turn on the radio. Some write by hand, some by computer, some by talking into a tape recorder. Some people write their first draft in one long burst and then revise; others can’t write the second paragraph until they have fiddled endlessly with the first. ([Location 141](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=141))
+    - Tags: [[pink]] 
+- But all of them are vulnerable and ([Location 145](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=145))
+    - Tags: [[pink]] 
+- all of them are tense. They are driven by a compulsion to put some part of themselves on paper, and yet they don’t just write what comes naturally. They sit down to commit an act of literature, and the self who emerges on paper is far stiffer than the person who sat down to write. The problem is to find the real man or woman behind the tension. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=145))
+    - Tags: [[pink]] 
+- Ultimately the product that any writer has to sell is not the subject being ([Location 148](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=148))
+    - Tags: [[pink]] 
+- written about, but who he or she is. ([Location 149](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=149))
+    - Tags: [[pink]] 
+- What holds me is the enthusiasm of the writer for his field. ([Location 150](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=150))
+    - Tags: [[pink]] 
+- This is the personal transaction that’s at the heart of good nonfiction writing. Out of it come two of the most important qualities that this book will go in search of: humanity and warmth. Good writing has an aliveness that keeps the reader reading from one paragraph to the next, and it’s not a question of gimmicks to “personalize” the author. It’s a question of using the English language in a way that will achieve the greatest clarity and strength. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=152))
+    - Tags: [[pink]] 
+- But the secret of good writing is to strip every sentence to its cleanest components. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=166))
+- How can the rest of us achieve such enviable freedom from clutter? The answer is to clear our heads of clutter. Clear thinking becomes clear writing; one can’t exist ([Location 183](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=183))
+    - Tags: [[pink]] 
+- without the other. It’s impossible for a muddy thinker to write good English. He may get away with it for a paragraph or two, but soon the reader will be lost, and there’s no sin so grave, for the reader will not easily be lured back. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=184))
+    - Tags: [[pink]] 
+- Who is this elusive creature, the reader? The reader is… ([Location 186](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=186))
+    - Tags: [[pink]] 
+- attention span of about 30 seconds—a person assailed by many forces competing for attention. At one time those forces were relatively few: newspapers, magazines, radio, spouse, children, pets. Today they also include a galaxy of electronic devices for receiving entertainment and information—television, VCRs, DVDs, CDs, video games, the Internet, e-mail, cell phones, BlackBerries, iPods—as well as a fitness program, a pool, a lawn and that most potent of competitors, sleep. The… ([Location 187](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=187))
+    - Tags: [[pink]] 
+- the… ([Location 191](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=191))
+    - Tags: [[pink]] 
+- It won’t do to say that the reader is too dumb or too lazy to keep pace with the train of thought. If the reader is lost, it’s usually because the writer hasn’t been careful enough. That carelessness can take any number of forms. Perhaps a sentence is so excessively cluttered that the reader, hacking through the verbiage, simply doesn’t know what it means. Perhaps a sentence has been so shoddily constructed that the reader could read it in several ways. Perhaps the writer has switched pronouns in midsentence, or has switched tenses, so the reader loses track of who is talking or when the action took place. Perhaps Sentence B is not a logical sequel to Sentence A; the writer, in whose head the connection is clear, hasn’t bothered to provide the missing link. Perhaps the writer has used a word incorrectly by not taking the trouble to look it up. Faced with such obstacles, readers are at first… ([Location 192](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=192))
+    - Tags: [[pink]] 
+- that for long. The writer is making them work too hard, and they will look for one who… ([Location 200](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=200))
+    - Tags: [[pink]] 
+- Writers must therefore constantly ask: what am I trying to say? Surprisingly often they don’t know. Then they must look at what they have written and ask: have I said it? Is it clear to someone encountering the subject for the first time? If it’s not, some fuzz has worked its way into the machinery. The… ([Location 201](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=201))
+    - Tags: [[pink]] 
+- I don’t mean that some people are born clearheaded and are therefore natural writers, whereas others are naturally fuzzy and will never write well. Thinking clearly is a conscious act that writers must force on themselves, as if they were working on any… ([Location 204](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=204))
+    - Tags: [[pink]] 
+- algebra problem. Good writing doesn’t come naturally, though most people seem to think it does. Professional writers are constantly bearded by people who say they’d like to “try a little writing sometime”—meaning when they retire from their real profession, like insurance or real estate,… ([Location 206](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=206))
+    - Tags: [[pink]] 
+- Writing is hard work. A clear sentence is no accident. Very few sentences come out right the… ([Location 209](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=209))
+    - Tags: [[pink]] 
+- third time. Remember this in moments of despair. If you find that writing is hard, it… ([Location 210](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=210))
+    - Tags: [[pink]] 
+- Two pages of the final manuscript of this chapter from the First Edition of On Writing Well. Although they look like a first draft, they had already been rewritten and retyped—like almost every other page—four or five times. With each rewrite I try to make what I have written… ([Location 213](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=213))
+    - Tags: [[pink]] 
+- useful work. Then I go over it once more, reading it aloud, and am always amazed at how much clutter can still be cut. (In later editions I eliminated the sexist pronoun “… ([Location 216](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=216))
+    - Tags: [[pink]] 
+- A small detail, you may say—not worth bothering about. It is worth bothering about. Writing improves in direct ratio to the number of things we can keep out of it that shouldn’t be there. “Up” in “free up” shouldn’t be there. Examine every word you put on paper. You’ll find a surprising number that don’t serve any purpose. ([Location 226](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=226))
+    - Tags: [[pink]] 
+- Physicians are physicians, friends are friends. The rest is clutter. ([Location 233](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=233))
+    - Tags: [[pink]] 
+- Clutter is the laborious phrase that has pushed out the short word that means the same thing. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=234))
+    - Tags: [[pink]] 
+- Clutter is the ponderous euphemism that turns a slum into a ([Location 244](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=244))
+    - Tags: [[pink]] 
+- depressed socioeconomic area, garbage collectors into waste-disposal personnel and the town dump into the volume reduction unit. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=244))
+    - Tags: [[pink]] 
+- Companies that go belly-up have “a negative cash-flow position.” ([Location 250](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=250))
+    - Tags: [[pink]] 
+- Clutter is the language of the Pentagon calling an invasion a “reinforced protective reaction strike” and justifying its vast budgets on the need for “counterforce deterrence.” ([Location 251](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=251))
+    - Tags: [[pink]] 
+- Is there any way to recognize clutter at a glance? Here’s a device my students at Yale found helpful. I would put brackets around every component in a piece of writing that wasn’t doing useful work. Often just one word got bracketed: the unnecessary preposition appended to a verb (“order up”), or the adverb that carries the same meaning as the verb (“smile happily”), or the adjective that states a known fact (“tall skyscraper”). Often my brackets surrounded the little qualifiers that weaken any sentence they inhabit (“a bit,” “sort of”), or phrases like “in a sense,” which don’t mean anything. Sometimes my brackets surrounded an entire sentence—the one that essentially repeats what the previous ([Location 273](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=273))
+    - Tags: [[pink]] 
+- sentence said, or that says something readers don’t need to know or can figure out for themselves. Most first drafts can be cut by 50 percent without losing any information or losing the author’s voice. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=278))
+    - Tags: [[pink]] 
+- You can develop the same eye. Look for the clutter in your writing and prune it ruthlessly. Be grateful for everything you can throw away. Reexamine each sentence you put on paper. Is every word doing new work? Can any thought be expressed with more economy? Is anything pompous or pretentious or faddish? Are you hanging on to something useless just because you think it’s beautiful? ([Location 285](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=285))
+    - Tags: [[pink]] 
+- Simplify, simplify. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=288))
+    - Tags: [[pink]] 
+- There is no style store; style is organic to the person doing the writing, as much a part of ([Location 312](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=312))
+    - Tags: [[pink]] 
+- him as his hair, or, if he is bald, his lack of it. Trying to add style is like adding a toupee. At first glance the formerly bald man looks young and even handsome. But at second glance—and with a toupee there’s always a second glance—he doesn’t look quite right. The problem is not that he doesn’t look well ([Location 313](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=313))
+    - Tags: [[pink]] 
+- groomed; he does, and we can only admire the wigmaker’s skill. The point is that he doesn’t look like himself. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=315))
+    - Tags: [[pink]] 
+- No rule, however, is harder to follow. It requires writers to do two things that by their metabolism are impossible. They must relax, and they must have confidence. ([Location 318](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=318))
+    - Tags: [[pink]] 
+- A writer will do anything to avoid the act of writing. ([Location 322](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=322))
+    - Tags: [[pink]] 
+- Writers are obviously at their most natural when they write in the first person. Writing is an intimate transaction between two people, conducted on paper, and ([Location 338](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=338))
+    - Tags: [[pink]] 
+- it will go well to the extent that it retains its humanity. Therefore I urge people to write in the first person: to use “I” and “me” and “we” and “us.” They put up a fight. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=339))
+    - Tags: [[pink]] 
+- “Who am I to say what I think?” they ask. “Or what I feel?” “Who are you not to say what you think?” I tell them. “There’s only one you. Nobody else thinks or feels in exactly the same way.” “But nobody cares about my opinions,” they say. “It ([Location 341](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=341))
+    - Tags: [[pink]] 
+- would make me feel conspicuous.” “They’ll care if you tell them something interesting,” I say, “and tell them in words that come naturally.” ([Location 344](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=344))
+    - Tags: [[pink]] 
+- Nevertheless, getting ([Location 346](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=346))
+    - Tags: [[pink]] 
+- writers to use “I” is seldom easy. They think they must earn the right to reveal their emotions or their thoughts. Or that it’s egotistical. Or that it’s undignified—a fear that afflicts the academic world. Hence the professorial use of “one” (“One finds oneself not wholly in accord with Dr. Maltby’s view of the ([Location 346](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=346))
+    - Tags: [[pink]] 
+- human condition”), or of the impersonal “it is” (“It is to be hoped that Professor Felt’s monograph will find the wider audience it most assuredly deserves”). I don’t want to meet “one”—he’s a boring guy. I want a professor with a passion for his subject to tell me why it fascinates him. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=348))
+    - Tags: [[pink]] 
+- I realize that there are vast regions of writing where “I” isn’t allowed. Newspapers don’t want “I” in their news stories; many magazines don’t want it in their articles; businesses and institutions don’t want it in the reports they send so profusely into the American home; colleges don’t want “I” in their term papers or dissertations, and English teachers discourage any first-person pronoun except the literary “we” (“We see in Melville’s symbolic use of the white whale …”). Many of those prohibitions are valid; newspaper articles should consist of news, reported objectively. I also sympathize with teachers ([Location 350](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=350))
+    - Tags: [[pink]] 
+- who don’t want to give students an easy escape into opinion—“I think Hamlet was stupid”—before they have grappled with the discipline of assessing a work on its merits and on external sources. “I” can be a self-indulgence and a cop-out. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=355))
+    - Tags: [[pink]] 
+- Still, we have become a society fearful of revealing who we are. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=357))
+    - Tags: [[pink]] 
+- Good writers are visible just behind their words. If you aren’t allowed to use “I,” at least think “I” while you write, or write the first draft in the first person and then take the “I”s out. It will warm up your impersonal ([Location 363](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=363))
+    - Tags: [[pink]] 
+- style. Style is tied to the psyche, and writing has deep psychological roots. The reasons why we express ourselves as we do, or fail to express ourselves because of “writer’s block,” are partly buried in the subconscious mind. There are as many kinds of writer’s block as there are ([Location 364](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=364))
+    - Tags: [[pink]] 
+- kinds of writers, and I have no intention of trying to untangle them. This is a short book, and my name isn’t Sigmund Freud. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=367))
+    - Tags: [[pink]] 
+- But I’ve also noticed a new reason for avoiding “I”: Americans are unwilling to go out on a limb. A generation ago our leaders told us where they stood and what they believed. Today they perform strenuous verbal feats to escape that ([Location 368](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=368))
+    - Tags: [[pink]] 
+- fate. Watch them wriggle through TV interviews without committing themselves. I remember President Ford assuring a group of visiting businessmen that his fiscal policies would work. He said: “We see nothing but increasingly brighter clouds every month.” I took this to mean that the clouds were still fairly dark. Ford’s sentence was just vague enough to say nothing and still sedate his constituents. ([Location 370](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=370))
+    - Tags: [[pink]] 
+- Later administrations brought no relief. Defense Secretary Caspar Weinberger, assessing a Polish crisis in 1984, said: “There’s continuing ground for serious concern and the situation remains serious. The longer it remains serious, the more ground there is for ([Location 373](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=373))
+    - Tags: [[pink]] 
+- serious concern.” The first President Bush, questioned about his stand on assault rifles, said: “There are various groups that think you can ban certain kinds of guns. I am not in that mode. I am in the mode of being deeply concerned.” But my all-time champ is Elliot Richardson, who held four major cabinet positions in the 1970s. It’s hard to know where to begin picking from his trove of equivocal statements, but consider this one: “And yet, on balance, affirmative action has, I think, been a qualified success.” A 13-word sentence with five hedging words. I give it first prize as the most wishy-washy sentence in modern public discourse, though a rival would be his analysis of ([Location 375](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=375))
+    - Tags: [[pink]] 
+- how to ease boredom among assembly-line workers: “And so, at last, I come to the one firm conviction that I mentioned at the beginning: it is that the subject is too new for final judgments.” That’s a firm conviction? Leaders who bob and weave like aging boxers don’t inspire confidence—or deserve it. The same thing is true of writers. Sell yourself, and your subject will exert its own appeal. Believe in your own identity and your own opinions. Writing is an act of ego, and you might as well admit it. Use its energy to keep yourself going. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=380))
+    - Tags: [[pink]] 
+- “Who am I writing for?” ([Location 388](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=388))
+    - Tags: [[pink]] 
+- It’s a fundamental question, and it has a fundamental answer: You are writing for yourself. Don’t try to visualize the great mass audience. There is no such audience—every reader is a different person. Don’t try to guess what sort of thing editors want ([Location 389](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=389))
+    - Tags: [[pink]] 
+- to publish or what you think the country is in a mood to read. Editors and readers don’t know what they want to read until they read it. Besides,… ([Location 390](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=390))
+    - Tags: [[pink]] 
+- Don’t worry about whether the reader will “get it” if you indulge a sudden impulse for humor. If it amuses you in the act of writing, put it in. (It can always be taken out, but only you can put it in.) You are writing primarily to please yourself, and if you go about it with enjoyment you will also entertain the readers who are… ([Location 392](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=392))
+    - Tags: [[pink]] 
+- This may seem to be a paradox. Earlier I warned that… ([Location 395](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=395))
+    - Tags: [[pink]] 
+- impatient bird, perched on the thin edge of distraction or sleep. Now I’m saying you must write for yourself and not be gnawed by worry over whether the reader is tagging along. I’m talking about two different issues. One is craft, the other is attitude. The first is a question of mastering a precise skill.… ([Location 396](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=396))
+    - Tags: [[pink]] 
+- In terms of craft, there’s no excuse for losing readers through sloppy workmanship. If they doze off in the middle of your article because you have been careless about a technical detail, the fault is yours. But on the larger issue of whether… ([Location 399](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=399))
+    - Tags: [[pink]] 
+- are saying it, or agrees with it, or feels an affinity for your sense of humor or your vision of life, don’t give him a moment’s worry. You are who you are, he is who he is, and either you’ll get along or you won’t. Perhaps this still seems like a paradox. How can you think carefully about not losing the reader and still be carefree about his opinion? I assure you that they are separate processes. First, work hard to master the tools. Simplify, prune and strive for order. Think of this as a mechanical act, and soon your sentences will become… ([Location 401](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=401))
+    - Tags: [[pink]] 
+- the tools can be used. But at least your sentences will be grounded in solid principles, and your chances of… ([Location 407](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=407))
+    - Tags: [[pink]] 
+- Think of the other as a creative act: the expressing of who you are. Relax and say what you want to say. And since style is who you are, you only need to be true to yourself to find it gradually emerging from under the accumulated clutter and debris, growing more distinctive every day. Perhaps the style won’t solidify for years as your style, your voice. Just as it takes time to find yourself as a… ([Location 408](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=408))
+    - Tags: [[pink]] 
+- But whatever your age, be… ([Location 412](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=412))
+    - Tags: [[pink]] 
+- when you write. Many old men still write with the zest they had in their twenties or thirties; obviously their ideas are still young. Other old writers ramble and repeat themselves; their style is the tip-off that they have turned into garrulous bores. Many college students write as if they were desiccated alumni 30 years out. Never say anything in writing that you wouldn’t comfortably say in conversation. If you’re not a person who… ([Location 413](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=413))
+    - Tags: [[pink]] 
+- The secret of his popularity—aside from his pyrotechnical use of the American language—was that he was writing for himself and didn’t give a damn what the reader might think. ([Location 461](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=461))
+    - Tags: [[pink]] 
+- “Who am I writing for?” The question that begins this chapter has irked some readers. They want me to say “Whom am I writing for?” But I can’t bring myself to say it. It’s just not me. ([Location 491](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=491))
+    - Tags: [[pink]] 
+- Make a habit of reading what is being written today and what was written by earlier masters. Writing is ([Location 524](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=524))
+    - Tags: [[pink]] 
+- learned by imitation. If anyone asked me how I learned to write, I’d say I learned by reading the men and women who were doing the kind of writing I wanted to do and trying to figure out how they did it. But cultivate the best models. Don’t assume that because an article is in a newspaper or a magazine it must be good. Sloppy editing is common in newspapers, often for lack of time, and writers who use clichés often work for editors who have seen so many clichés that they no longer even recognize them. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=525))
+    - Tags: [[pink]] 
+- Get yourself a dictionary of synonyms. ([Location 533](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=533))
+    - Tags: [[pink]] 
+    - Note: BUY THESE
+- And don’t scorn that bulging grab bag Roget’s Thesaurus ([Location 534](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=534))
+    - Tags: [[pink]] 
+- Also bear in mind, when you’re choosing words and stringing them together, how they sound. This may seem absurd: readers read with their eyes. But in fact they hear what they are reading far more than you realize. Therefore such matters as rhythm and alliteration are vital to every sentence. A typical example—maybe not the best, but undeniably the nearest—is the ([Location 543](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=543))
+    - Tags: [[pink]] 
+- preceding paragraph. Obviously I enjoyed making a certain arrangement of my ruffians and riffraff, my hooligans and hoodlums, and my readers enjoyed it too—far more than if I had provided a mere list. They enjoyed not only the arrangement but the effort to entertain them. They weren’t enjoying it, however, with their eyes. They were hearing the words in their inner ear. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=546))
+    - Tags: [[pink]] 
+- Times like these try men’s souls.       How trying it is to live in these times!       These are trying times for men’s souls.       Soulwise, these are trying times. Paine’s phrase is like poetry and the other four are like oatmeal—which is the divine mystery of the creative process. Good writers of prose must be part poet, always listening to what they write. E. B. White is one of my favorite stylists because I’m conscious of being with a man who cares about the cadences and sonorities of the language. I relish (in my ear) the pattern his words make as they fall into ([Location 551](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=551))
+    - Tags: [[pink]] 
+- a sentence. I try to surmise how in rewriting the sentence he reassembled it to end with a phrase that will momentarily linger, or how he chose one word over another because he was after a certain emotional weight. It’s the difference between, say, “serene” and “tranquil”—one so soft, the other strangely disturbing because of the unusual n and q. ([Location 559](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=559))
+    - Tags: [[pink]] 
+- Such considerations of sound and rhythm should go into everything you write. If all your sentences move at the same plodding gait, which even you recognize as deadly but don’t know how to cure, read them aloud. (I write entirely by ear and read everything aloud before letting it go out into the world.) You’ll begin to hear where the ([Location 561](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=561))
+    - Tags: [[pink]] 
+- trouble lies. See if you can gain variety by reversing the order of a sentence, or by substituting a word that has freshness or oddity, or by altering the length of your sentences so they don’t all sound as if they came out of the same machine. An occasional short sentence can carry a tremendous punch. It stays in the reader’s ear. Remember that words are the only tools you’ve got. Learn to use them with originality and care. And also remember: somebody out there is listening. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=564))
+    - Tags: [[pink]] 
+- Why is one word good and another word cheap? I can’t give you an answer, because usage has no fixed boundaries. Language is a fabric that changes from one week to another, adding new strands and dropping old ones, and even word freaks fight over what is allowable, often reaching their decision on a wholly subjective basis such as taste (“notables” is sleazy). Which still leaves the question of who our tastemakers are. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=581))
+    - Tags: [[pink]] 
+- Incorrect usage will lose you the readers you would most like to win. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=653))
+    - Tags: [[pink]] 
+- We’re still left with the question: What is good usage? One helpful approach is to try to separate usage from jargon. ([Location 676](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=676))
+    - Tags: [[pink]] 
+- I would say, for example, that “prioritize” is jargon—a pompous new verb that sounds more important than “rank”—and that “bottom line” is usage, a metaphor borrowed from the world of bookkeeping that conveys an image we can picture. As every businessman knows, the bottom line is the one that matters. If someone says, “The bottom line is that we just can’t work together,” we know what he means. I don’t much like the phrase, but the bottom line is that it’s here to ([Location 677](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=677))
+    - Tags: [[pink]] 
+- stay. New usages also arrive with new political events. Just as Vietnam gave us “escalate,” Watergate gave us a whole lexicon of words connoting obstruction and deceit, including “deep-six,” “launder,” “enemies list” and other “gate”-suffix scandals (“Irangate”). It’s a fitting irony that under Richard Nixon “launder” became a dirty word. Today when we hear that someone laundered his funds to hide the origin of the money and the route it took, the word has a precise meaning. It’s short, it’s vivid, and we need it. I accept “launder” and “stonewall”; I don’t accept “prioritize” and “disincentive.” I would suggest a similar guideline for separating good English from ([Location 681](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=681))
+    - Tags: [[pink]] 
+- technical English. It’s the difference between, say, “printout” and “input.” A printout is a specific object that a computer emits. Before the advent of computers it wasn’t needed; now it is. But it has stayed where it belongs. Not so with “input,” which was coined to describe the information that’s fed to a computer. Our input is sought on every subject, from diets to philosophical discourse (“I’d like your input on whether God really exists”). ([Location 686](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=686))
+    - Tags: [[pink]] 
+- I don’t want to give somebody my input and get his feedback, though I’d be glad to offer my ideas and hear what he thinks of them. Good usage, to me, consists of using good words if they already exist—as they almost always do—to express myself clearly and simply ([Location 690](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=690))
+    - Tags: [[pink]] 
+- to someone else. You might say it’s how I verbalize the interpersonal. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=692))
+    - Tags: [[pink]] 
+- But you must choose the tense in which you are principally going to address the reader, no matter how many glances you may take backward or ([Location 718](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=718))
+    - Tags: [[pink]] 
+- forward along the way. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=719))
+    - Tags: [[pink]] 
+- Therefore ask yourself some basic questions before you start. For example: “In what capacity am I going to address the reader?” (Reporter? Provider of information? Average man or woman?) “What pronoun and tense am I going to use?” “What style?” (Impersonal reportorial? Personal but formal? Personal and casual?) “What attitude am I going to take toward the material?” (Involved? Detached? Judgmental? Ironic? Amused?) “How much do I want to cover?” “What one point do I want to make?” ([Location 739](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=739))
+    - Tags: [[pink]] 
+- When your zest begins to ebb, the reader is the first person to know it. ([Location 751](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=751))
+    - Tags: [[pink]] 
+- As for what point you ([Location 752](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=752))
+    - Tags: [[pink]] 
+- want to make, every successful piece of nonfiction should leave the reader with one provocative thought that he or she didn’t have before. Not two thoughts, or five—just one. ([Location 752](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=752))
+    - Tags: [[pink]] 
+- Now it often happens that you’ll make these prior decisions and then discover that they weren’t the right ones. The material begins to lead you in an unexpected direction, where you are more comfortable writing in a different tone. That’s normal—the act of writing generates some ([Location 759](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=759))
+    - Tags: [[pink]] 
+- cluster of thoughts or memories that you didn’t anticipate. Don’t fight such a current if it feels right. Trust your material if it’s taking you into terrain you didn’t intend to enter but where the vibrations are good. Adjust your style accordingly and proceed to whatever destination you reach. Don’t become ([Location 761](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=761))
+    - Tags: [[pink]] 
+- the prisoner of a preconceived plan. Writing is no respecter of blueprints. ([Location 763](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=763))
+    - Tags: [[pink]] 
+- The most important sentence in any article is the first one. If it doesn’t induce the reader to ([Location 772](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=772))
+    - Tags: [[pink]] 
+- proceed to the second sentence, your article is dead. And if the second sentence doesn’t induce him to continue to the third sentence, it’s equally dead. Of such a progression of sentences, each tugging the reader forward until he is hooked, a writer constructs that fateful unit, the “lead.” ([Location 773](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=773))
+    - Tags: [[pink]] 
+- Readers want to know—very soon—what’s in it for them. ([Location 781](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=781))
+    - Tags: [[pink]] 
+- Give more thought to adding solid detail and less to entertaining the reader. But take special care with the last sentence of each paragraph—it’s the crucial springboard to the next paragraph. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=787))
+    - Tags: [[pink]] 
+- Make the reader smile and ([Location 789](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=789))
+    - Tags: [[pink]] 
+- you’ve got him for at least one more paragraph. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=789))
+    - Tags: [[pink]] 
+- I’ve often wondered what goes into a hot dog. Now I know and I wish I didn’t. ([Location 796](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=796))
+    - Tags: [[pink]] 
+- ingredients might also include chicken. In other words, can a chickenfurter find happiness in the land of the frank? ([Location 800](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=800))
+    - Tags: [[pink]] 
+- Another fact and another smile. Whenever you’re lucky enough to get a quotation as funny as that one, find a way to use it. ([Location 805](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=805))
+    - Tags: [[pink]] 
+- The style of the article has remained casual and touched with humor. But its content turns out to be more serious than readers expected when they were drawn into it by a whimsical lead. ([Location 811](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=811))
+    - Tags: [[pink]] 
+- The reader is now safely hooked, and the hardest part of the writer’s job is over. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=825))
+    - Tags: [[pink]] 
+- One moral of this story is that you should always collect more material than you will use. ([Location 837](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=837))
+    - Tags: [[pink]] 
+- At some point you must stop researching and start writing. ([Location 839](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=839))
+    - Tags: [[pink]] 
+- But narrative is the oldest and most compelling method of holding someone’s attention; everybody wants to be told a story. ([Location 875](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=875))
+    - Tags: [[pink]] 
+- Yet there can be no ([Location 892](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=892))
+    - Tags: [[pink]] 
+- firm rules for how to write a lead. ([Location 892](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=892))
+    - Tags: [[pink]] 
+- Those are some suggestions on how to get started. Now I want to tell you how to stop. Knowing when to end an article is far more important than most writers realize. You should give as much thought to choosing your last sentence as you did to your first. Well, almost as much. ([Location 922](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=922))
+    - Tags: [[pink]] 
+- That may seem hard to believe. If your readers have stuck with you from the beginning, trailing you around blind corners and over bumpy terrain, surely they won’t leave when the end is in sight. Surely they will, because the end that’s in sight turns out to be a mirage. Like the minister’s sermon that builds to a series of perfect conclusions that never conclude, an article that doesn’t stop where it should stop becomes a drag and therefore a failure. Most of us are still prisoners of the lesson pounded into us by the composition teachers of our youth: that every story must have a beginning, a middle and an end. We can still visualize the outline, with its Roman numerals (I, II and III), which staked out the road we would faithfully trudge, and its subnumerals (IIa and IIb) denoting lesser paths down which we would briefly poke. But we always promised to get back to III and summarize our journey. That’s all right for elementary and high school students uncertain of their ground. It forces them to see that every piece of writing should have a logical design. ([Location 924](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=924))
+    - Tags: [[pink]] 
+- It’s a lesson worth knowing at any age—even professional writers are adrift more often than they would like to admit. But if you’re going to write good nonfiction… ([Location 932](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=932))
+    - Tags: [[pink]] 
+- You’ll know you have arrived at III when you see emerging on your screen a sentence that begins, “In sum, it can be noted that …” Or a question that asks, “… ([Location 934](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=934))
+    - Tags: [[pink]] 
+- glean from …?” These are signals that you are about to repeat in compressed form what you have already said in detail. The reader’s interest begins to falter; the tension you have built begins to sag. Yet you will be true to Miss Potter, your teacher, who… ([Location 936](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=936))
+    - Tags: [[pink]] 
+- what can, in sum, be noted. You go gleaning one more time in insights you… ([Location 938](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=938))
+    - Tags: [[pink]] 
+- But your readers hear the laborious sound of cranking. They notice what you are doing and how bored you are by it. They feel the stirrings of resentment. Why didn’t you give more thought to how you were going to wind this thing up? Or are you summarizing because you think they’re too dumb to get the… ([Location 939](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=939))
+    - Tags: [[pink]] 
+- That’s the negative reason for remembering the importance of the last sentence. Failure to know where that… ([Location 942](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=942))
+    - Tags: [[pink]] 
+- an article that until its final stage has been tightly constructed. The positive reason for ending well is that a good last sentence—or last paragraph—is a joy in itself. It gives the reader… ([Location 943](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=943))
+    - Tags: [[pink]] 
+- The perfect ending should take your readers slightly by surprise and yet seem exactly right. They didn’t expect the article to end so soon, or so abruptly, or to say what it said. But they know it when they see it. Like a good lead, it works. It’s like the curtain line in a theatrical comedy. We are in the middle… ([Location 945](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=945))
+    - Tags: [[pink]] 
+- outrageous, or epigrammatic, and the lights go out. We are startled to find the scene over, and then delighted by the aptness of how it ended. What delights… ([Location 948](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=948))
+    - Tags: [[pink]] 
+- For the nonfiction writer, the simplest way of putting this into a rule is: when you’re ready to stop, stop. If you have presented all the facts and made the point… ([Location 949](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=949))
+    - Tags: [[pink]] 
+- “If people come away relating to me as a person,” Allen says, “rather than just enjoying my jokes; if they come away wanting to hear me again, no matter what I might talk about, then I’m succeeding.” ([Location 968](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=968))
+    - Tags: [[pink]] 
+- Surprise is the most refreshing element in nonfiction writing. If something surprises you it will also surprise—and delight—the people you are writing for, especially as you conclude your story and send them on their way. ([Location 974](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=974))
+    - Tags: [[pink]] 
+- Again, the rule is simple: make your adjectives do work that needs to be done. “He looked at the gray sky and the black clouds and ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1021))
+    - Tags: [[pink]] 
+- decided to sail back to the harbor.” The darkness of the sky and the clouds is the reason for the decision. If it’s important to tell the reader that a house was drab or a girl was beautiful, by all means use “drab” and “beautiful.” They will have their proper power because you have learned to use adjectives sparsely. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1022))
+    - Tags: [[pink]] 
+- Don’t say you were a ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1028))
+    - Tags: [[pink]] 
+- bit confused and sort of tired and a little depressed and somewhat annoyed. Be confused. Be tired. Be depressed. Be annoyed. Don’t hedge your prose with little timidities. Good writing is lean and confident. ([Location 1028](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1028))
+    - Tags: [[pink]] 
+- Don’t say you weren’t too happy because the hotel was pretty expensive. Say you weren’t happy because the hotel was expensive. Don’t tell us you were quite fortunate. How fortunate is that? Don’t describe an event as rather spectacular or very awesome. Words like “spectacular” and “awesome” don’t submit to measurement. “Very” is a useful word to achieve emphasis, but far more ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1030))
+    - Tags: [[pink]] 
+- often it’s clutter. There’s ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1033))
+    - Tags: [[pink]] 
+- no need to call someone very methodical. Either he is methodical or he isn’t. The large point is one of authority. Every little qualifier whittles away some fraction of the reader’s trust. Readers want a writer who believes in himself and in what he is saying. Don’t diminish that belief. Don’t be kind of bold. Be bold. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1033))
+    - Tags: [[pink]] 
+- If you find yourself hopelessly mired in a long sentence, it’s probably because you’re trying to make the sentence do more than it can reasonably do—perhaps express two dissimilar thoughts. The quickest way out is to ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1040))
+    - Tags: [[pink]] 
+- break the long sentence into two short sentences, or even three. There is no minimum length for a sentence that’s acceptable in the eyes of God. Among good writers it is the short sentence that predominates, and don’t tell me about Norman Mailer—he’s a genius. If you want to write long sentences, be a genius. Or ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1041))
+    - Tags: [[pink]] 
+- at least make sure that the sentence is under control from beginning to end, in syntax and punctuation, so that the reader knows where he is at every step of the winding trail. ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1043))
+    - Tags: [[pink]] 
+- The Exclamation Point. Don’t use it unless you must to achieve a certain effect. It has a gushy aura, the breathless excitement of a debutante commenting on an event that was exciting only to her: “Daddy says I must have had too much champagne!” “But honestly, I could have danced all night!” We have all suffered more than our share of these sentences in which an exclamation point knocks us over the head with how cute or wonderful something ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1045))
+    - Tags: [[pink]] 
+- was. Instead, construct your sentence so that the order of the words will put the emphasis where you want it. Also resist using an exclamation point to notify the reader that you are making a joke or being ironic. “It never occurred to me that the water pistol might be loaded!” Readers are annoyed by your reminder that this was a comical moment. They are also robbed of the pleasure of finding it funny on their own. Humor is best achieved by understatement, and there’s nothing subtle about an exclamation point. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1048))
+    - Tags: [[pink]] 
+- Still, the semicolon brings the reader, if not to a halt, at least to a pause. So use it with discretion, remembering that it will slow to a Victorian pace the early-21st-century momentum you’re striving for, and rely ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1056))
+    - Tags: [[pink]] 
+- instead on the period and the dash. ([Location 1057](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1057))
+    - Tags: [[pink]] 
+- which set apart a parenthetical thought within a longer sentence. “She told me to get in the car—she had been after me all summer to have a haircut—and we drove silently into town.” An explanatory detail that might otherwise have required a separate sentence is neatly dispatched along the way. ([Location 1062](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1062))
+    - Tags: [[pink]] 
+- Learn to alert the reader as soon as possible to any change in mood from the previous sentence. At least a dozen words will do this job for you: “but,” “yet,” “however,” “nevertheless,” “still,” “instead,” “thus,” “therefore,” “meanwhile,” “now,” “later,” “today,” “subsequently” and several more. I can’t overstate how much easier it is for readers to process a sentence if you start with “but” when you’re shifting direction. Or, conversely, how much harder it is if they must ([Location 1069](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1069))
+    - Tags: [[pink]] 
+- wait until the end to realize that you have shifted. ([Location 1073](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1073))
+    - Tags: [[pink]] 
+- Many of us were taught that no sentence should begin with “but.” If that’s what you learned, unlearn it—there’s no stronger word at the start. It announces total contrast with what has gone before, and the reader is thereby primed for the change. If you need relief from too many sentences beginning with “but,” switch to “however.” It is, however, a weaker word and needs careful placement. Don’t start a sentence with “however”—it hangs there like a wet dishrag. And don’t end with “however”—by that time it has lost its ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1074))
+    - Tags: [[pink]] 
+- howeverness. Put it as early as you reasonably can, as I did three sentences ago. Its abruptness then becomes a virtue. ([Location 1077](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1077))
+    - Tags: [[pink]] 
+- Anyone who tries to explain “that” and “which” in less than an hour is asking for trouble. Fowler, in his Modern English Usage, takes 25 columns of type. I’m going for two minutes, perhaps the world record. Here (I hope) is much of what you need to bear in mind: Always use “that” unless it makes your meaning ambiguous. ([Location 1096](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1096))
+    - Tags: [[pink]] 
+- Notice that in carefully edited magazines, such as The New Yorker, “that” is by far the predominant usage. I mention this because it is still widely believed—a residue from school and college—that “which” is more correct, more acceptable, more literary. It’s not. In most situations, “that” is what you would naturally say and therefore what you should write. If your sentence needs a comma to achieve its precise meaning, it probably needs “which.” “Which” serves a particular identifying function, different from “that.” (A) “Take the shoes that are in the closet.” This means: take the shoes that are in the ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1099))
+    - Tags: [[pink]] 
+- closet, not the ones under the bed. (B) “Take the shoes, which are in the closet.” Only one pair of shoes is under discussion; the “which” usage tells you where they are. Note that the comma is necessary in B, but not in A. ([Location 1104](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1104))
+    - Tags: [[pink]] 
+- A high proportion of “which” usages narrowly describe, or identify, or locate, or explain, or otherwise qualify the phrase that preceded the comma: The house, which has a red roof, The store, which is called Bob’s Hardware, The Rhine, which is in Germany, The monsoon, which is a seasonal wind, ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1106))
+    - Tags: [[pink]] 
+- The moon, which I saw from the porch, That’s all I’m going to say that I think you initially need to know to write good nonfiction, which is a form that requires exact marshaling of information. ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1111))
+    - Tags: [[pink]] 
+- “The living room looked as if an atomic bomb had gone off there,” ([Location 1137](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1137))
+    - Tags: [[pink]] 
+- writes the novice writer, describing what he saw on Sunday morning after a party that got out of hand. Well, we all know he’s exaggerating to make a droll point, but we also know that an atomic bomb didn’t go off there, or any other bomb except maybe a water bomb. “I felt as if ten 747 jets were flying through my brain,” he writes, “and I seriously considered jumping out the window and killing myself.” These verbal high jinks can get just so high—and this writer is already well over the limit—before the reader feels an overpowering drowsiness. It’s like being trapped with a man who can’t stop reciting limericks. Don’t overstate. ([Location 1137](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1137))
+    - Tags: [[pink]] 
+- You didn’t really consider jumping out the window. Life has more than enough truly horrible funny situations. Let the humor sneak up so we hardly hear it coming. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1142))
+    - Tags: [[pink]] 
+- Every writer is starting from a different point and is bound for a different destination. Yet many writers are paralyzed by the thought that they are competing with everybody else who is trying to write and presumably doing it better. This can often happen in a writing class. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1156))
+    - Tags: [[pink]] 
+- Forget the competition ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1161))
+    - Tags: [[pink]] 
+- and go at your own pace. Your only contest is with yourself. ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1161))
+    - Tags: [[pink]] 
+- Keep your paragraphs short. Writing is visual—it catches the eye before it has a chance to catch the brain. Short paragraphs put air around what you write and make it look inviting, whereas a long chunk of type can discourage a reader from even starting to read. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1176))
+    - Tags: [[pink]] 
+- But don’t go berserk. A succession of tiny paragraphs is as annoying as a paragraph that’s too long. I’m thinking of all those midget paragraphs—verbless wonders—written by modern journalists to make their articles quick ’n’ easy. Actually they make the reader’s job harder by chopping up a natural train of thought. Compare the following two arrangements of the same article—how they look at a glance and how they read: ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1182))
+    - Tags: [[pink]] 
+- The Associated Press version (left), with its breezy paragraphing and verbless third and fourth sentences, is disruptive and condescending. “Yoo-hoo! Look how simple I’m making this for you!” the reporter is calling to us. My version (right) gives the reporter the dignity of writing good English and building three sentences into a logical unit. ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1186))
+    - Tags: [[pink]] 
+- Paragraphing is a subtle but important element in writing ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1189))
+    - Tags: [[pink]] 
+- nonfiction articles and books—a road map constantly telling your reader how you have organized your ideas. Study good nonfiction writers to see how they do it. You’ll find that almost all of them think in paragraph units, not in sentence units. Each paragraph has its own integrity of content and structure. ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1189))
+    - Tags: [[pink]] 
+- Another common solution is to use “or”: ([Location 1213](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1213))
+    - Tags: [[pink]] 
+- “Every employee should decide what he or she thinks is best for him or her.” But again, it should be used sparingly. Often a writer will find several situations in an article where he or she can use “he or she,” or “him or her,” if it seems natural. By “natural” I mean that the writer is serving notice that he (or she) has the problem in mind and is trying his (or her) best within reasonable limits. But let’s face it: the English language is stuck with the generic masculine (“Man shall not live by bread alone”). To turn every “he” into a “he or she,” and every “his” into a “his or her,” would clog the language. In early editions of On ([Location 1213](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1213))
+    - Tags: [[pink]] 
+- Writing Well I used “he” and “him” to refer to “the reader,” “the writer,” “the critic,” “the humorist,” etc. I felt that the book would be harder to read if I used “he or she” with every such mention. (I reject “he/she” altogether; the slant has no place in good English.) Over the years, however, many women wrote to nudge me about this. They said that as writers and readers themselves they resent always having to visualize a man doing the writing and reading, and they’re right; I stand nudged. Most of the nudgers urged me to adopt the plural: to use “readers” and “writers,” followed thereafter by “they.” I don’t like plurals; ([Location 1218](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1218))
+    - Tags: [[pink]] 
+- they weaken writing because they are less specific than the singular, less easy to visualize. I’d like every writer to visualize one reader struggling to read what he or she has written. Nevertheless I found three or four hundred places where I could eliminate “he,” “him,” “his,” “himself” or “man,” mainly by switching to the plural, with no harm done; the sky didn’t fall in. Where the male pronoun remains in this edition I felt it was the only solution that wasn’t cumbersome. ([Location 1223](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1223))
+    - Tags: [[pink]] 
+- The best solutions simply eliminate “he” and its connotations of male ownership by using other pronouns or by altering ([Location 1227](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1227))
+    - Tags: [[pink]] 
+- some other component of the sentence. “We” is a handy replacement for “he.” “Our” and “the” can often replace “his.” (A) “First he notices what’s happening to his kids and he blames it on his neighborhood.” (B) “First we notice what’s happening to our kids and we blame it on the neighborhood.” General nouns can replace specific nouns. (A) “Doctors often neglect their wives and children.” (B) “Doctors often neglect their families.” Countless sins can be erased by such small changes. ([Location 1228](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1228))
+    - Tags: [[pink]] 
+- Rewriting is the essence of writing well: it’s where the game is won or lost. That idea is hard ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1238))
+    - Tags: [[pink]] 
+- to accept. We all have an emotional equity in our first draft; we can’t believe that it wasn’t born perfect. But the odds are close to 100 percent that it wasn’t. Most writers don’t initially say what they want to say, or say it as well as they could. The newly hatched sentence almost always has something wrong with it. It’s not clear. It’s not logical. It’s verbose. It’s klunky. It’s pretentious. It’s boring. It’s full of clutter. It’s full of clichés. It lacks rhythm. It can be read in several different ways. It doesn’t lead out of the previous sentence. It doesn’t … The point is that clear writing is the result of a lot of tinkering. Many people assume ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1239))
+    - Tags: [[pink]] 
+- that professional writers don’t need to rewrite; the words just fall into place. On the contrary, careful writers can’t stop fiddling. I’ve never thought of rewriting as an unfair burden; I’m grateful for every chance to keep improving my work. Writing is like a good watch—it should run smoothly and have no extra parts. Students don’t share my love of rewriting. They think of it as punishment: extra homework or extra infield practice. Please—if you’re such a student—think of it as a gift. You won’t write well until you understand that writing is an evolving process, not a finished product. Nobody expects you to get ([Location 1244](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1244))
+    - Tags: [[pink]] 
+- it right the first time, or even the second time. What do I mean by “rewriting”? I don’t mean writing one draft and then writing a different second version, and then a third. Most rewriting consists of reshaping and tightening and refining the raw material you wrote on your first try. Much of it consists of making sure you’ve given the reader a narrative flow he can follow with no trouble from beginning to end. Keep putting yourself in the reader’s place. Is there something he should have been told early in the sentence that you put near the end? Does he know when he starts sentence B that you’ve made a shift—of ([Location 1248](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1248))
+    - Tags: [[pink]] 
+- subject, tense, tone, emphasis—from sentence A? ([Location 1253](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1253))
+    - Tags: [[pink]] 
+- Read your article aloud from beginning to end, always remembering where you left the reader in the previous sentence. ([Location 1284](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1284))
+    - Tags: [[vihang]] 
+- When you read your writing aloud with these connecting links in mind you’ll hear a dismaying number of places where you lost the reader, or confused the reader, or failed to tell him the one fact he needed to know, or told him the same thing twice: the inevitable loose ends of every early draft. What you must do is make an arrangement—one that holds together from start to finish and that moves with economy and warmth. Learn to enjoy this tidying process. I don’t like to write; I like to have written. But I love to rewrite. I especially like to cut: to press the DELETE key and see an unnecessary ([Location 1289](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1289))
+    - Tags: [[pink]] 
+- word or phrase or sentence vanish into the electricity. I like to replace a humdrum word with one that has more precision or color. I like to strengthen the transition between one sentence and another. I like to rephrase a drab sentence to give it a more pleasing rhythm or a more graceful musical line. With every small refinement I feel that I’m coming nearer to where I would like to arrive, and when I finally get there I know it was the rewriting, not the writing, that won the game. ([Location 1294](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1294))
+    - Tags: [[pink]] 
+- In 1988 I wrote a baseball book called Spring Training. It combined my lifelong vocation with my lifelong addiction—which is one of the best things that can happen to a writer; people will write better and with more enjoyment if they write about what they care about. ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1331))
+- This hearty introduction dropped like a stone in our midst, and none of the three lovely ladies said anything, which I thought was the proper response. ([Location 1385](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1385))
+    - Tags: [[pink]] 
+- Those of us who are trying to write well about the world we live in, or to teach students to write well about the world they live in, are caught in a time warp, where literature by definition still consists of forms that were certified as “literary” in the 19th century: novels and short stories and poems. But the great preponderance of what writers now write and sell, what book and magazine publishers publish and what readers demand is nonfiction. ([Location 1399](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1399))
+    - Tags: [[pink]] 
+- Ultimately every writer must follow the path that feels most comfortable. For most people learning to write, that path is nonfiction. It enables them to write about what they know or can observe or can find out. This is especially true of young people and students. They will write far more willingly about subjects that touch their own lives or that they have an ([Location 1442](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1442))
+    - Tags: [[pink]] 
+- aptitude for. Motivation is at the heart of writing. If nonfiction is where you do your best writing, or your best teaching of writing, don’t be buffaloed into the idea that it’s an inferior species. The only important distinction is between good writing and bad writing. Good writing is good writing, whatever form it takes and whatever we call it. ([Location 1444](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1444))
+    - Tags: [[pink]] 
+- Those three examples are typical of the kind of information that is locked inside people’s heads, which a good nonfiction writer must unlock. The best way to practice is to go out and interview people. The interview itself is one of the most popular nonfiction forms, so you should master it early. ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1500))
+    - Tags: [[pink]] 
+- To learn the craft of nonfiction you must push yourself out into the real world—your town or your city or your county—and pretend that you’re ([Location 1504](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1504))
+    - Tags: [[pink]] 
+- writing for a real publication. If it helps, decide which publication you are hypothetically writing for. Choose as your subject someone whose job is so important, or so interesting, or so unusual that the average reader would want to read about that person. ([Location 1505](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1505))
+    - Tags: [[pink]] 
+- It’s not that Ruff and Mitchell speak a different kind of English; they speak good and often eloquent English. But as Southern blacks they use certain words and idioms that are distinctive to their heritage, adding richness and humor to what they say. I didn’t want to miss any of those usages. My tape recorder caught them all, and readers of the book can hear that I got the two men right. Consider using a tape recorder in situations where you might violate the cultural integrity of the people you’re interviewing. ([Location 1553](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1553))
+    - Tags: [[pink]] 
+- What about your obligation to the person you interviewed? To what extent can you cut or juggle his words? ([Location 1573](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1573))
+- But after that your duty is to the reader. He or she deserves the tightest package. Most people meander in their conversation, filling it with irrelevant tales and trivia. Much of it is delightful, but it’s still trivia. Your interview will be strong to the extent that you get the main points made without waste. Therefore if you find on page 5 of your notes a comment that perfectly amplifies a point on page 2—a point made earlier in the interview—you will do everyone a favor if you link the two thoughts, letting the second sentence follow and illustrate the first. This may violate… ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1579))
+    - Tags: [[pink]] 
+- selecting, rejecting, thinning, transposing their order, saving a good one for the end. Just make sure the play is fair. Don’t change any words or let the cutting of a… ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1584))
+    - Tags: [[pink]] 
+- Do I literally mean “don’t change any words”? Yes and no. If a speaker chooses his words carefully you should make it a point of professional pride to quote him verbatim. Most interviewers are sloppy about this; they think that if they achieve a rough approximation it’s good enough. It’s not good enough: nobody wants to see himself in print using words or phrases he would never use. But if the… ([Location 1586](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1586))
+    - Tags: [[pink]] 
+- is so tangled that it would embarrass him—the writer has no choice but to clean up the English and… ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1589))
+    - Tags: [[pink]] 
+- Sometimes you can fall into a trap by trying to be too true to the speaker. As you write your article, you type his words exactly as you took them down. You even allow yourself a moment of satisfaction at being such a faithful scribe. Later, editing what you’ve written, you realize that several of the quotes don’t quite make sense. When you first heard them they sounded so felicitous that you didn’t give them a second thought. Now, on second… ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1591))
+    - Tags: [[pink]] 
+- credit to the writer. Often you only need to add one or two clarifying words. Or you might find another quote in your notes that makes the same point clearly. But also remember that you can call the person you interviewed. Tell him you want to check a few of the things he said. Get him to rephrase his points until you understand them. Don’t become the prisoner of your quotes—so lulled by how wonderful they sound… ([Location 1595](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1595))
+    - Tags: [[pink]] 
+- As for how to organize the interview, the lead should obviously tell the reader why the person is worth reading… ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1599))
+    - Tags: [[pink]] 
+- time and attention? Thereafter, try to achieve a balance between what the subject is saying in his words and what you are writing in your words. If you quote a person for three or four consecutive paragraphs it becomes monotonous. Quotes are livelier when you break them up, making periodic appearances in your role as guide. You are still the writer—don’t relinquish control. But make your appearances useful; don’t just insert one of those dreary sentences that shout to the reader that your sole purpose is to break up a string of… ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1600))
+    - Tags: [[pink]] 
+- When you use a quotation, start the sentence with it. Don’t lead up to it with a vapid phrase saying what the man said. BAD: Mr. Smith said that he liked to “go downtown once a week and have lunch with some of my old friends.” GOOD: “I usually like to go downtown once a week,” Mr. Smith said, “and have lunch with some of my old friends.” The second sentence has vitality, the first one… ([Location 1605](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1605))
+    - Tags: [[pink]] 
+- many readers stop reading. If the man said it, let him say it and get the sentence off to a warm, human start. But be careful where you break the quotation. Do it as soon as you naturally can, so that the reader knows who is talking, but not where the break will destroy the rhythm or the meaning. Notice how the following three variants all inflict some kind of damage: “I usually like,” Mr. Smith said, “to go downtown once a week and have lunch with some of my… ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1613))
+    - Tags: [[pink]] 
+- “I usually like to go downtown once a week and have lunch,” Mr. Smith said, “with… ([Location 1619](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1619))
+    - Tags: [[pink]] 
+- The following paragraph, quoting George H. Hunter on the subject of pokeweed, is typical of many very long quotes in “Mr. Hunter’s Grave” in its leisurely accretion of enjoyable detail: “In the spring, when it first comes up, the young shoots above the root are good to eat. They taste like asparagus. The old women in Sandy Ground used to believe in eating pokeweed shoots, the old Southern women. They said it renewed your blood. My mother believed it. Every spring she used to send me out in the woods to pick pokeweed shoots. And I believe it. So every spring, if I ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1646))
+    - Tags: [[pink]] 
+- think about it, I go pick some and cook them. It’s not that I like them so much—in fact, they give me gas—but they remind me of the days gone by, they remind me of my mother. Now, away down here in the woods in this part of Staten Island, you might think you were fifteen miles on the other side of nowhere, but just a little ways up Arthur Kill Road, up near Arden Avenue, there’s a bend in the road where you can sometimes see the tops of the skyscrapers in New York. Just the tallest skyscrapers, and just the tops of them. It has to be an extremely clear day. Even then, you might be able to see them ([Location 1650](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1650))
+    - Tags: [[pink]] 
+- one moment and the next moment they’re gone. Right beside this bend in the road there’s a little swamp, and the edge of this swamp is the best place I know to pick pokeweed. I went up there one morning this spring to pick some, but we had a late spring, if you remember, and the pokeweed hadn’t come up. The fiddleheads were up, and golden club, and spring beauty, and skunk cabbage, and bluets, but no pokeweed. So I was looking here and looking there, and not noticing where I was stepping, and I made a misstep, and the next thing I knew I was up to my knees in mud. I ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1655))
+    - Tags: [[pink]] 
+- floundered around in the mud a minute, getting my bearings, and then I happened to raise my head and look up, and suddenly I saw, away off in the distance, miles and miles away, the tops of the skyscrapers in New York shining in the morning sun. I wasn’t expecting it, and it was amazing. It was like a vision in the Bible.” ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1658))
+    - Tags: [[pink]] 
+- Next to knowing how to write about people, you should know how to write about a place. People and places are the twin pillars on which most nonfiction is built. ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1686))
+    - Tags: [[pink]] 
+- A master of this feat of detection was the English author V. S. Pritchett, one of the best and most versatile of nonfiction writers. Consider what he ([Location 1844](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1844))
+    - Tags: [[pink]] 
+- squeezes out of a visit to Istanbul: Istanbul has meant so much to the imagination that the reality shocks most travelers. We cannot get the sultans out of our minds. We half expect to find them still cross-legged and jeweled on their divans. We remember tales of the harem. The truth is that Istanbul has no glory except its situation. It is a city of steep, cobbled, noisy hills.... Mostly the shops sell cloth, clothes, stockings, shoes, the Greek traders rushing out, with cloth unrolled, at any potential customer, the Turks passively waiting. Porters shout; everyone ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1845))
+    - Tags: [[pink]] 
+- shouts; you are butted by horses, knocked sideways by loads of bedding, and, through all this, you see one of the miraculous sights of Turkey—a demure youth carrying a brass tray suspended on three chains, and in the exact center of the tray a small glass of red tea. He never spills it; he maneuvers it through chaos to his boss, who is sitting on the doorstep of his shop. One realizes there are two breeds in Turkey: those who carry and those who sit. No one sits quite so… ([Location 1850](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1850))
+    - Tags: [[pink]] 
+- the art from generations of sultans in the palace above Seraglio Point. Nothing he likes better than to invite you to sit with him in his shop or in his office with half a dozen other sitters: a few polite inquiries about your age, your marriage, the sex of your children, the number of your relations, and where and how you live, and then, like the other sitters, you clear your throat with a hawk that surpasses anything heard in Lisbon, New York or Sheffield, and join the… ([Location 1855](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1855))
+    - Tags: [[pink]] 
+- take us by surprise. They also tell us a great deal about Turks. I’ll never be able to visit Turkey again without noticing its sitters. With one quick insight Pritchett has caught a whole national trait. This is the essence of good writing… ([Location 1860](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1860))
+    - Tags: [[pink]] 
+- The English (as Pritchett reminds me) have long excelled at a distinctive form of travel writing—the article that’s less notable for what a writer extracts from a place than for what the place extracts from him. New sights touch off thoughts that otherwise wouldn’t have entered the writer’s mind. If travel is broadening, it… ([Location 1862](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1862))
+    - Tags: [[pink]] 
+- the French make wine. It should generate a whole constellation of ideas about how men and women work and play, raise their children, worship their gods, live and die. The books by Britain’s desert-crazed scholar-adventurers in Arabia, like T. E. Lawrence, Freya Stark and Wilfred Thesiger, who chose to live among the Bedouin, derive much of their… ([Location 1865](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1865))
+    - Tags: [[pink]] 
+- So when you write about a place, try to draw the best out of it. But if the process should work in reverse, let… ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1869))
+    - Tags: [[pink]] 
+- We’re looking for whatever it is that makes you unique. Write about what you know and what you think.” They can’t. They don’t think they have permission. I think they get that permission by being born. ([Location 1934](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1934))
+    - Tags: [[pink]] 
+- If you write for yourself, you’ll reach the people you want to write for ([Location 1953](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1953))
+    - Tags: [[pink]] 
+- EXCESSIVE WRITING ABOUT YOURSELF CAN BE HAZARDOUS TO THE HEALTH OF THE WRITER AND THE READER. A thin line separates ego from egotism. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=1960))
+    - Tags: [[pink]] 
+- The chapter is based on a simple principle: writing is not a special language owned by the English teacher. Writing is thinking on paper. Anyone who thinks clearly can write clearly, about anything at all. ([Location 2148](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2148))
+    - Tags: [[pink]] 
+- Science, demystified, is ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2149))
+    - Tags: [[pink]] 
+- just another nonfiction subject. Writing, demystified, is just another way for scientists to transmit what they know. ([Location 2150](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2150))
+    - Tags: [[pink]] 
+- But as a writer I’ve learned that scientific and technical material ([Location 2154](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2154))
+    - Tags: [[pink]] 
+- can be made accessible to the layman. It’s just a matter of putting one sentence after another. The “after,” however, is crucial. Nowhere else must you work so hard to write sentences that form a linear sequence. This is no place for fanciful leaps or implied truths. Fact and deduction are the ruling family. ([Location 2154](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2154))
+    - Tags: [[pink]] 
+- A tenet of journalism is that “the reader knows nothing.” As tenets go, it’s not flattering, but a technical writer can never forget it. You can’t assume that your readers know what you assume ([Location 2160](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2160))
+    - Tags: [[pink]] 
+- everybody knows, or that they still remember what was once explained to them. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2162))
+    - Tags: [[pink]] 
+- For the principle of scientific and technical writing applies to all nonfiction writing. It’s the principle of leading readers who know nothing, step by step, to a grasp of subjects they didn’t think they had an aptitude for or were afraid they were too dumb to understand. ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2173))
+    - Tags: [[vihang]] 
+- Imagine science writing as an upside-down pyramid. Start at the bottom with the one fact a reader must know before he can learn any more. The second sentence broadens what was stated first, making the pyramid wider, and the third sentence broadens the second, so that you can gradually move beyond fact into ([Location 2175](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2175))
+    - Tags: [[pink]] 
+- significance and speculation—how a new discovery alters what was known, what new avenues of research it might open, where the research might be applied. There’s no limit to how wide the pyramid can become, but your readers will… ([Location 2177](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2177))
+    - Tags: [[pink]] 
+- A good example is an article by Harold M. Schmeck, Jr., which ran on page 1 of the New York Times. WASHINGTON—There was a chimpanzee in California with a talent… ([Location 2179](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2179))
+    - Tags: [[pink]] 
+- delighted with this evidence of learning, but they were even more impressed by something else. They found they could tell from the animal’s brain whether any particular move would be right or wrong. It depended on the chimpanzee’s state of attention. When… ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2182))
+    - Tags: [[pink]] 
+- Well, that’s a reasonably interesting fact. But why is it worth page 1 of the Times?… ([Location 2185](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2185))
+    - Tags: [[pink]] 
+- The significant fact was that scientists were able to recognize that state. By elaborate computer analysis of brain wave signals they were learning to distinguish what might be called “states of mind.” But hadn’t this been possible before? This was far more ambitious than simply detecting gross states of arousal, drowsiness or… ([Location 2186](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2186))
+    - Tags: [[pink]] 
+- The chimpanzee and the research team at the University of California at Los Angeles have graduated from the ticktacktoe stage, but the work with brain waves is continuing. It has already revealed some surprising insights to the brain’s behavior during space flight. It shows promise of application to… ([Location 2192](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2192))
+    - Tags: [[pink]] 
+- Good. I could hardly ask for a broader… ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2196))
+    - Tags: [[pink]] 
+- research: space, human problems and the cognitive process. But is it an isolated effort? No indeed. It is part of the large ferment of modern brain research in progress in laboratories throughout the United States and abroad. Involved are all manner of creatures from men and monkeys to rats and mice, goldfish, flatworms and Japanese quail. I begin… ([Location 2196](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2196))
+    - Tags: [[pink]] 
+- human brain—that incredible three-pound package of tissue that can imagine the farthest reaches of the universe and the ultimate core of the atom but cannot fathom its own functioning. Each research… ([Location 2201](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2201))
+    - Tags: [[pink]] 
+- So now I know where the chimp at U.C.L.A. fits into the spectrum of international science. Knowing this, I’m ready to learn more… ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2204))
+    - Tags: [[pink]] 
+- In the case of the chimpanzee being… ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2206))
+    - Tags: [[pink]] 
+- ticktacktoe, even the trained eye could see nothing beyond the ordinary in the wavy lines being traced on paper to represent electrical waves from an animal’s brain. But through analysis by computer it was possible to tell which traces showed that the animal was about to make the right move and which preceded a mistake. An important key was the system… ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2206))
+    - Tags: [[pink]] 
+- foreshadowed a correct answer was one that might be described as trained attentiveness. Without the computer’s ability to analyze the huge complexities of the recorded brain waves, the “signatures” of such states could not have been detected. The article goes on for four columns to describe potential uses of the research—measuring causes of domestic tension, reducing drivers’ rush-hour stress—and eventually it… ([Location 2210](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2210))
+    - Tags: [[pink]] 
+- playing… ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2214))
+    - Tags: [[pink]] 
+- You can take much of the mystery out of science writing by helping the reader to identify with the scientific work being done. Again, this means looking for the human element—and if you have to settle for a chimpanzee, at… ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2215))
+    - Tags: [[pink]] 
+- One human element is yourself. Use your own experience to connect the reader to some mechanism that also touches his life. In the following article on memory, notice how the writer, Will Bradbury, gives us a… ([Location 2217](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2217))
+    - Tags: [[pink]] 
+- Economy and survival are the two key words in nature. Examined out of context, the neck of the giraffe seems uneconomically long, but it is economical in view of the fact that most of the giraffe’s food is high on the tree. ([Location 2267](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2267))
+    - Tags: [[pink]] 
+- Or take this article about bats, by Diane Ackerman. Most of us know only three facts about bats: they’re mammals, we don’t like them, and they’ve got some kind of radar that enables them to fly at night without bumping into things. Obviously anyone writing about bats must soon get around to explaining how that mechanism of “echo-location” works. In the following passage Ackerman gives us details so precise—and so easy to relate to what we know—that the process becomes a pleasure to read about: It’s not hard to understand echo-location if you picture bats ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2270))
+    - Tags: [[pink]] 
+- as calling or whistling to their prey with high-frequency sounds. Most of us can’t hear these. At our youngest and keenest of ear, we might detect sounds of 20,000 vibrations a second, but bats can vocalize at up to 200,000. They do it not in a steady stream but at intervals—20 or 30 times a second. A bat listens for the sounds to return to it, and when the echoes start coming faster and louder it knows that the insect it’s stalking has flown nearer. By judging the time between echoes, a bat can tell how fast the prey is moving and in which direction. Some bats are sensitive enough ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2274))
+    - Tags: [[pink]] 
+- to register a beetle walking on sand, and some can detect the movement of a moth flexing its wings as it sits on a leaf. ([Location 2278](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2278))
+    - Tags: [[pink]] 
+- As the bat closes in, it may shout faster, to pinpoint its prey. And there’s a qualitative difference between a steady, solid ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2283))
+    - Tags: [[pink]] 
+- echo bouncing off a brick wall ([Location 2284](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2284))
+    - Tags: [[pink]] 
+- and the light, fluid echo from a swaying flower. By shouting at the world and listening to the echoes, bats can compose a picture of their landscape and the objects in it which includes texture, density, motion, distance, size and probably other features, too. Most bats really belt it out; we just don’t hear them. This is an eerie thought when one stands in a silent grove filled with bats. They spend their whole lives yelling. They yell at their loved ones, they yell at their enemies, they yell at their dinner, they yell at the big, bustling world. Some yell faster, some ([Location 2284](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2284))
+    - Tags: [[pink]] 
+- slower, some louder, some softer. Long-eared bats don’t need to yell; they can hear their echoes perfectly well if they whisper. ([Location 2288](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2288))
+    - Tags: [[pink]] 
+- Lewis Thomas was scientific proof that scientists can write as well as anybody else. It’s not necessary to be a “writer” to write well. We think of ([Location 2308](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2308))
+    - Tags: [[pink]] 
+- Rachel Carson as a writer because she launched the environmental movement with a book, Silent Spring. But Carson wasn’t a writer; she was a marine biologist who wrote well. She wrote well because she was a clear thinker and had a passion for her subject. ([Location 2309](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2309))
+    - Tags: [[pink]] 
+- I rest my case—or, rather, I let Spectrum rest it for me. If a scientific subject of that complexity can be made that clear and robust, in good English, with only a few technical words, which are quickly explained (kryton) or can be quickly looked up (fissile), any subject ([Location 2399](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2399))
+    - Tags: [[pink]] 
+- can be made clear and robust by all you writers who think you’re afraid of science and all you scientists who think you’re afraid of writing. ([Location 2401](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2401))
+    - Tags: [[pink]] 
+- If you have to do any writing in your job, this chapter is for you. Just as ([Location 2406](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2406))
+    - Tags: [[pink]] 
+- in science writing, anxiety is a big part of the problem and humanity and clear thinking are a big part of the solution. ([Location 2406](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2406))
+    - Tags: [[pink]] 
+- After I had read various good and bad examples, the principals began to hear the difference between their true selves and their educator selves. The problem was how to close the gap. I recited my four ([Location 2504](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2504))
+    - Tags: [[pink]] 
+    - Note: These Four Articles are important
+- articles of faith: clarity, simplicity, brevity and humanity. ([Location 2505](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2505))
+    - Tags: [[pink]] 
+- Once an administrator rises to a certain level, nobody ever points out to him again the beauty of a simple ([Location 2509](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2509))
+    - Tags: [[pink]] 
+- declarative sentence, or shows him how his writing has become swollen with pompous generalizations. ([Location 2510](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2510))
+    - Tags: [[pink]] 
+- When I asked them to tackle “Evaluative procedures for the objectives were also established based on acceptable criteria,” one of them wrote: “At the end of the year we will evaluate our progress.” Another wrote: “We will see how well we have succeeded.” That’s the kind of plain talk a parent wants. It’s also what stockholders ([Location 2517](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2517))
+    - Tags: [[pink]] 
+- want from their corporation, what customers want from their bank, what the widow wants from the agency that’s handling her social security. There is a deep yearning for human contact and a resentment of bombast. ([Location 2519](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2519))
+    - Tags: [[pink]] 
+- Remember that what you write is often the only chance you’ll get to present yourself to someone whose business or money or good will you need. If what you write is ornate, or pompous, or fuzzy, that’s how you’ll be perceived. The reader has no other choice. ([Location 2550](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2550))
+    - Tags: [[pink]] 
+- The way to warm up any institution is to locate the missing “I.” Remember: “I” is the most interesting element in any story. ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2567))
+    - Tags: [[pink]] 
+- If you want to write about sports, remember that the men and women you’re writing about are doing something immensely difficult, and they have their pride. You, too, are doing a job that has its codes of honor. One of them is that you are not the story. ([Location 2713](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2713))
+    - Tags: [[pink]] 
+- Vietnam is often referred to as ([Location 2910](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2910))
+    - Tags: [[pink]] 
+- looks at two grownups arguing in a locked room—the aperture of the keyhole small; the figures shadowy, mostly out of sight; the voices indistinct, isolated threats without meaning; isolated glimpses, part of an elbow, a man’s jacket (who is the man?), part of a face, a woman’s face. Ah, she is crying. One sees the tears. (The voices continue indistinctly.) One counts the tears. Two tears. Three tears. Two bombing raids. Four seek-and-destroy ([Location 2914](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2914))
+    - Tags: [[pink]] 
+- missions. Six administration pronouncements. Such a fine-looking woman. One searches in vain for the other grownup, but, ah, the keyhole is so small, he is somehow never in the line of sight. Look! There is General Ky. Look! There are some planes returning safely to the Ticonderoga. I wonder (sometimes) what it is that the people who run television think about the war, because they have given us this keyhole view; we have given them ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2917))
+    - Tags: [[pink]] 
+- the airwaves, and now, at this crucial time, they have given back to us this keyhole view—and I wonder if they truly think that those isolated glimpses of elbow, face, a swirl of dress (who is that other person anyway?) are all that we children can stand to see of what is going on inside the room. This is criticism at its best: stylish, allusive, disturbing. It disturbs us—as criticism often should—because it jogs a set of beliefs and forces us to reexamine them. What holds our attention is the metaphor of the keyhole, ([Location 2920](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2920))
+    - Tags: [[pink]] 
+- so exact and yet so mysterious. But what remains is a fundamental question about how the country’s most powerful medium told the people about the war they were fighting—and escalating. The column ran in 1966, when most Americans still supported the Vietnam war. Would they have turned against it sooner if TV had widened the keyhole, had shown us not only the “swirl of dress” but the severed head and the burning child? It’s too late now to know. But at least one critic was keeping watch. Critics should be among the first to notify us when the truths we hold to be self-evident cease to be true. ([Location 2924](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2924))
+    - Tags: [[pink]] 
+- The most boring sentence in the daily newspaper is the last sentence of the ([Location 2994](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2994))
+    - Tags: [[pink]] 
+- Many years ago, when I was writing editorials for the New York Herald Tribune, the editor of the page was a huge and choleric man from Texas named L. L. Engelking. I respected him because he had no pretense and hated undue circling around a subject. Every morning we would all meet to discuss what editorials we would like to write for the ([Location 2997](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=2997))
+    - Tags: [[pink]] 
+- next day and what position we would take. Frequently we weren’t quite sure, especially the writer who was an expert on Latin America. “What about that coup in Uruguay?” the editor would ask. “It could represent progress for the economy,” the writer would reply, “or then again it might destabilize the whole political situation. I suppose I could mention the possible benefits and then—” “Well,” the man from Texas would break in, “let’s not go peeing down both legs.” ([Location 3000](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3000))
+    - Tags: [[pink]] 
+- It was a plea he made often, and it was the most inelegant advice I ever ([Location 3005](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3005))
+    - Tags: [[pink]] 
+- received. But over a long career of writing reviews and columns and trying to make a point I felt strongly about, it was also probably the best. ([Location 3005](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3005))
+    - Tags: [[pink]] 
+- Humor is the secret weapon of the nonfiction writer. It’s secret because so few writers realize that humor is often their best ([Location 3010](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3010))
+    - Tags: [[pink]] 
+- The answer is that if you’re trying to write humor, almost everything you do is serious. Few Americans understand this. We dismiss our humorists as triflers ([Location 3014](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3014))
+    - Tags: [[pink]] 
+- because they never settled down to “real” work. The Pulitzer Prizes go to authors like Ernest Hemingway and William Faulkner, who are (God knows) serious and are therefore certified as men of literature. The prizes seldom go to people like George Ade, H. L. Mencken, Ring Lardner, S. J. Perelman, Art Buchwald, Jules Feiffer, Woody Allen and Garrison Keillor, who seem to be just fooling around. They’re not just fooling around. They are as serious in purpose as Hemingway or Faulkner—a national asset in forcing the country to see itself clearly. Humor, to them, is urgent work. It’s an attempt to say important ([Location 3015](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3015))
+    - Tags: [[pink]] 
+- things in a special way that regular writers aren’t getting said in a regular way—or if they are, it’s so regular that nobody is reading it. ([Location 3020](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3020))
+    - Tags: [[pink]] 
+- What made those pieces work was that they stuck close to the form they were parodying. Humor may seem to be an act of gross exaggeration. But the hair curler letters wouldn’t succeed if we didn’t recognize them as a specific journalistic form, both in their style and in their mentality. Control is vital to humor. Don’t use comical names like Throttlebottom. Don’t make the same kind of joke two or three times—readers will enjoy themselves more if you make it only once. Trust the sophistication of readers who do know what you’re doing, and don’t worry about the rest. The columns that I wrote for Life made people laugh. But they had a serious purpose, which was to say: “Something crazy is going on here—some erosion in the quality of life, or some threat to life itself, and yet everyone assumes it’s normal.” Today the outlandish becomes routine overnight. The humorist is trying to say ([Location 3071](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3071))
+    - Tags: [[pink]] 
+- that it’s still outlandish. ([Location 3078](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3078))
+    - Tags: [[pink]] 
+- Chic Young, creator of Blondie, when he had been writing and drawing that daily and Sunday comic strip for 40 years, or 14,500 strips. It was the most popular of all strips, reaching 60 million readers in every corner of the world, and I asked Young why it was so durable. “It’s durable because ([Location 3096](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3096))
+    - Tags: [[pink]] 
+- it’s simple,” he said. “It’s built on four things that everybody does: sleeping, eating, raising a family and making money.” The comic variations on those four themes are as numerous in the strip as they are in life. Dagwood’s efforts to get money from his boss, Mr. Dithers, have their perpetual counterweight in ([Location 3099](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3099))
+    - Tags: [[pink]] 
+- Blondie’s efforts to spend it. “I try to keep Dagwood in a world that people are used to,” Young told me. “He never does anything as special as playing golf, and the people who come to the door are just the people that an average family has to deal with.” I cite Young’s four themes to remind you that most humor, however freakish it may seem, is based on fundamental truths. Humor is not a separate organism that can survive on its own frail metabolism. It’s a special angle of vision granted to certain writers who already write good English. They aren’t writing about life that’s essentially ludicrous; they ([Location 3101](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3101))
+    - Tags: [[pink]] 
+- are writing about life that’s essentially serious, but their eye falls on areas where serious hopes are mocked by some ironic turn of fate—“the strange incongruity,” as Stephen Leacock put it, “between our aspiration and our achievement.” E. B. White made the same point. “I don’t like the word ‘humorist,’” he said. “It ([Location 3105](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3105))
+    - Tags: [[pink]] 
+- seems to me misleading. Humor is a by-product that occurs in the serious work of some and not others. I was more influenced by Don Marquis than by Ernest Hemingway, by Perelman than by Dreiser.” ([Location 3108](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3108))
+    - Tags: [[pink]] 
+- But there’s no law that says humor has to make a ([Location 3264](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3264))
+    - Tags: [[pink]] 
+- point. Pure nonsense is a joy forever, as Keats didn’t quite say. ([Location 3264](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3264))
+    - Tags: [[pink]] 
+- etc.—and not to use “I” or to write from their own experience. I assigned the same topic to the whole class, bringing in some absurdity I had noticed in the newspaper. The students jumped boldly into free association, surrealism and nonsense. They found that it was possible to slip off the chains of logic and to have ([Location 3303](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3303))
+    - Tags: [[pink]] 
+- fun making a serious point within a given humor form. They were heavily under the influence of Woody Allen’s non sequiturs (“For this the Rabbi bashes his head in, which, according to the Torah, is one of the most subtle methods of showing concern”). After about four weeks, fatigue set in. The ([Location 3306](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3306))
+    - Tags: [[pink]] 
+- students learned that they were capable of writing humor. But they also learned how tiring it is to sustain a weekly act of comic invention, writing in other voices. It was time to slow down their metabolism—to start them writing in their own voice, about their own lives. I declared a moratorium on Woody Allen and said I would tell them when they could read him again. That day never came. I adopted the Chic Young principle—stick to what you know—and began to read from writers who use humor as a vein that runs quietly through their work. One piece was E. B. White’s “The Eye of Edna,” in ([Location 3308](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3308))
+    - Tags: [[pink]] 
+- which White recalls waiting on his Maine farm for the arrival of Hurricane Edna while listening for several days to inane radio reports of its progress. It’s a perfect essay, full of wisdom and gentle wit. Another writer whose work I excavated was Stephen Leacock, a Canadian. I recalled him ([Location 3313](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3313))
+    - Tags: [[pink]] 
+- My commodity as a writer, whatever I’m writing about, is me. And your commodity is you. Don’t alter your voice to fit your subject. Develop one voice that readers will recognize when they hear it on the page, a voice that’s enjoyable not only in its musical line but in ([Location 3340](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3340))
+    - Tags: [[pink]] 
+- its avoidance of sounds that would cheapen its tone: breeziness and condescension and clichés. ([Location 3342](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3342))
+    - Tags: [[pink]] 
+- I spent several days and nights in mid-September with an ailing pig and I feel driven to account for this stretch of time, more particularly since the pig died at last, and I lived, and things might easily have gone the other way round and none left to do the accounting. ([Location 3349](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3349))
+    - Tags: [[pink]] 
+- Never hesitate to imitate another writer. Imitation is part of the creative process for anyone learning an art or a craft. Bach and Picasso didn’t spring full-blown as Bach and Picasso; they needed models. This is especially true of writing. Find the best writers in ([Location 3408](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3408))
+    - Tags: [[pink]] 
+- the fields that interest you and read their work aloud. Get their voice and their taste into your ear—their attitude toward language. Don’t worry that by imitating them you’ll lose your own voice and your own identity. Soon enough you will shed those skins and become who you are supposed to become. ([Location 3410](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3410))
+    - Tags: [[pink]] 
+- By reading other writers you also plug yourself into a longer tradition that enriches you. Sometimes you will tap a vein of eloquence or racial memory that gives your writing a depth it could never attain on its own. Let me illustrate what I mean by a roundabout route. Ordinarily I don’t read the proclamations issued by state officials to designate important days of the year as important days of the year. But in 1976, when I was teaching at Yale, the governor of Connecticut, Ella Grasso, had the pleasant idea of reissuing the Thanksgiving Proclamation written 40 years earlier by Governor ([Location 3413](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3413))
+    - Tags: [[pink]] 
+- Wilbur Cross, which she called “a masterpiece of eloquence.” I often wonder whether eloquence has vanished from American life, or whether we even still consider it a goal worth striving for. So I studied Governor Cross’s words to see how they had weathered the passage of time, that cruel judge of the rhetoric of earlier generations. I was delighted to find that I agreed with Governor Grasso. It was a piece written by a master: Time out of mind at this turn of the seasons when the hardy oak leaves rustle in the wind and the frost gives a tang to the ([Location 3417](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3417))
+    - Tags: [[pink]] 
+- air and the dusk falls early and the friendly evenings lengthen under the heel of Orion, it has seemed good to our people to join together in praising the Creator and Preserver, who has brought us by a way that we did not know to the end of another year. In observance of this custom, I appoint Thursday, the 26th of November, as a day of Public Thanksgiving for the blessings that have been our common lot and have placed our beloved state with the favored regions ([Location 3422](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3422))
+    - Tags: [[pink]] 
+- of earth—for all the creature comforts: the yield of the soil that has fed us and the richer yield from labor of every kind that has sustained our lives—and for all those things, as dear as breath to the body, that quicken man’s faith in his manhood, that nourish and strengthen his word and act; for honor held above price; for steadfast courage and zeal in the long, long search after truth; for liberty and for justice freely granted by each to his fellow and so as ([Location 3425](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3425))
+    - Tags: [[pink]] 
+- freely enjoyed; and for the crowning glory and mercy of peace upon our land—that we may humbly take heart of these blessings as we gather once again with solemn and festive rites to keep our Harvest Home. ([Location 3428](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3428))
+    - Tags: [[pink]] 
+- “It may seem strange that any men should dare to ask a just God’s assistance in wringing their bread from the sweat of other men’s faces, but let us judge not, that we be not judged.” ([Location 3457](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3457))
+    - Tags: [[pink]] 
+- Toni Morrison, one of the most eloquent of black writers, once said: “I remember the language of the people I grew up with. Language was so important to them. All that power was in it. And grace and metaphor. Some of it was very formal and Biblical, because the habit is that ([Location 3475](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3475))
+    - Tags: [[pink]] 
+- when you have something important to say you go into parable, if you’re from Africa, or you go into another level of language. I wanted to use language that way, because my feeling was that a black novel was not black because I wrote it, or because there were black people in it, or because it was about black things. It was the style. It had a certain style. It was inevitable. I couldn’t describe it, but I could produce it.” ([Location 3477](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3477))
+    - Tags: [[pink]] 
+- Go with what seems inevitable in your own heritage. Embrace it and it may lead you to eloquence. ([Location 3480](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3480))
+    - Tags: [[pink]] 
+- Writing is such lonely work that I try to keep myself cheered up. If something strikes me as funny in the act of writing, I throw it in just to amuse myself. If I think it’s funny I assume a few other people will find it funny, and that seems to me to be a good day’s ([Location 3505](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3505))
+    - Tags: [[pink]] 
+- work. It doesn’t bother me that a certain number of readers will not be amused; I know that a fair chunk of the population has no sense of humor—no idea that there are people in the world trying to entertain them. ([Location 3506](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3506))
+    - Tags: [[pink]] 
+- When I was teaching at Yale I invited the humorist S. J. Perelman to talk to my students, and ([Location 3508](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3508))
+    - Tags: [[pink]] 
+- one of them asked him, “What does it take to be a comic writer?” He said, “It takes audacity and exuberance and gaiety, and the most important one is audacity.” Then he said: “The reader has to feel that the writer is feeling good.” The sentence went off in my head like a Roman candle: it stated the entire case for enjoyment. Then he added: “Even if he isn’t.” That sentence hit me almost as hard, because I knew that Perelman’s life contained more than the usual share of depression and travail. Yet he went to his typewriter every day and made the English language dance. How could he not be feeling good? He cranked it up. ([Location 3509](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3509))
+    - Tags: [[pink]] 
+- I’m often dismayed by the sludge I see appearing on my screen if I approach writing as a task—the day’s work—and not with some enjoyment. My only consolation is that I’ll get another shot at those dismal sentences tomorrow and the next day and the day after. With each rewrite I try to ([Location 3521](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3521))
+    - Tags: [[pink]] 
+- Probably the biggest fear for nonfiction writers is the fear of not being able to bring off their assignment. With fiction it’s a different situation. Because authors of fiction are writing about a world of their own invention, often in an allusive style that they have also invented (Thomas Pynchon, Don DeLillo), we have no right to tell them, “That’s wrong.” We can only say, “It doesn’t work for me.” Nonfiction writers get no such break. They are infinitely accountable: to the facts, to the people they interviewed, to the locale of their story and to the events that happened ([Location 3524](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3524))
+    - Tags: [[pink]] 
+- there. They are also accountable to their craft and all its perils of excess and disorder: losing the reader, confusing the reader, boring the reader, not keeping the reader engaged from beginning to end. With every inaccuracy of reporting and every misstep of craft we can say, “That’s wrong.” ([Location 3528](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3528))
+    - Tags: [[pink]] 
+- How can you fight off all those fears of disapproval and failure? One way to generate confidence is to write about subjects that interest you and that you care about. The poet Allen Ginsberg, another writer who came to Yale to talk to my students, was asked if there was a moment when he consciously ([Location 3530](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3530))
+    - Tags: [[pink]] 
+- decided to become a poet. Ginsberg said, “It wasn’t quite a choice—it was a realization. I was twenty-eight and I had a job as a market researcher. One day I told my psychiatrist that what I really wanted to do was to quit my job and just write poetry. And the psychiatrist said, ‘Why not?’ And I said, ‘What would the American Psychoanalytical Association say?’ And he said, ‘There’s no party line.’ So I did.” ([Location 3532](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3532))
+    - Tags: [[pink]] 
+- We’ll never know how big a loss that was for the field of market research. But it was a big moment for poetry. There’s no party line: good advice for writers. You can be your own party line. Red ([Location 3535](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3535))
+    - Tags: [[pink]] 
+- Smith, delivering the eulogy at the funeral of a fellow sports-writer, said, “Dying is no big deal. Living is the trick.” One of the reasons I admired Red Smith was that he wrote about sports for 55 years, with grace and humor, without succumbing to the pressure, which was the ruin of many sportswriters, that he ([Location 3537](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3537))
+    - Tags: [[pink]] 
+    - Note: Superb
+- ought to be writing about something “serious.” He found in sportswriting what he wanted to do and what he loved doing, and because it was right for him he said more important things about American values than many writers who wrote about serious subjects—so seriously that nobody could read them. ([Location 3539](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3539))
+    - Tags: [[pink]] 
+- Living is the trick. Writers who write interestingly tend to be men and women who keep themselves interested. That’s almost the whole point of becoming a writer. I’ve used writing to give myself an interesting life and a continuing education. If you write about subjects you think you would enjoy knowing about, your enjoyment will show in what you write. Learning is a tonic. ([Location 3541](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3541))
+    - Tags: [[pink]] 
+- That doesn’t mean you won’t be nervous when you go forth into unfamiliar terrain. As a nonfiction writer you’ll be thrown again and again into specialized worlds, and you’ll worry that you’re not qualified to ([Location 3544](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3544))
+    - Tags: [[pink]] 
+- bring the story back. I feel that anxiety every time I embark on a new project. I felt it when I went to Bradenton to write my baseball book, Spring Training. Although I’ve been a baseball fan all my life, I had never done any sports reporting, never interviewed a professional athlete. Strictly, I had no credentials; any of the men I approached with my notebook—managers, coaches, players, umpires, scouts—could have asked, “What else have you written about baseball?” But nobody did. They didn’t ask because I had another kind of credential: sincerity. It was obvious to those men that I really wanted to ([Location 3546](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3546))
+    - Tags: [[pink]] 
+- know how they did their work. Remember this when you enter new territory and need a shot of confidence. Your best credential is yourself. ([Location 3550](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3550))
+    - Tags: [[pink]] 
+- If you want your writing to convey enjoyment, write about people you respect. Writing to destroy and to scandalize can be as destructive to the writer as it is to the subject. ([Location 3565](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3565))
+    - Tags: [[pink]] 
+- I mention this to give confidence to all nonfiction writers: a point of craft. If you master the tools of the trade—the fundamentals of interviewing and of orderly construction—and if you bring to the assignment your general intelligence and your humanity, you can write about any subject. That’s your ticket to an interesting life. ([Location 3584](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3584))
+    - Tags: [[pink]] 
+- “The attitude of people towards birds has changed the attitude of birds towards people.” ([Location 3629](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3629))
+    - Tags: [[pink]] 
+- That was interesting. I’m struck by how often as a writer I say to myself, “That’s interesting.” If you find yourself saying it, pay attention and follow your ([Location 3630](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3630))
+    - Tags: [[pink]] 
+- nose. Trust your curiosity to connect with the curiosity of your readers. ([Location 3631](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3631))
+    - Tags: [[pink]] 
+- thinks of a few important afterthoughts. ([Location 3641](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3641))
+    - Tags: [[pink]] 
+- In the writing course that I’ve taught for many years at the New School, in Manhattan, students often tell me they have an idea for an article that would be perfect for New York, or for Sports Illustrated, or for some other magazine. That’s the last thing I want to hear. They can already picture their story in print: the headline, the layout, the photographs and, best of all, the byline. Now all they have to do is ([Location 3656](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3656))
+    - Tags: [[pink]] 
+- write it. This fixation on the finished article causes writers a lot of trouble, deflecting them from all the earlier decisions that have to be made to determine its shape and voice and content. ([Location 3659](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3659))
+    - Tags: [[pink]] 
+- I said that was a good writer’s subject: a memoir. ([Location 3740](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3740))
+    - Tags: [[pink]] 
+- I said that was also a good subject: a personal essay. ([Location 3743](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3743))
+    - Tags: [[pink]] 
+- That was still another good subject: investigative ([Location 3747](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3747))
+    - Tags: [[pink]] 
+- reporting. ([Location 3747](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3747))
+    - Tags: [[pink]] 
+- Two final words occur to me. One is quest, the other is intention. The quest is one of the oldest themes in storytelling, an act of faith we never get tired of hearing about. Looking back, I notice that many students in my class, ([Location 3756](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3756))
+    - Tags: [[pink]] 
+- assigned to think about a place that was important to them, used the assignment to go on a quest for something deeper than the place itself: a meaning, an idea, some sliver of the past. The result was that the class always had a warm dynamic for a group of strangers. (Some classes even held reunions.) Every quest that a student embarked on found an echo in some search or yearning of our own. Moral: any time you can tell a story in the form of a quest or a pilgrimage you’ll be ahead of the game. Readers bearing their own associations will do some of your work for you. Intention is what we ([Location 3758](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3758))
+    - Tags: [[pink]] 
+- wish to accomplish with our writing. Call it the writer’s soul. We can write to affirm and to celebrate, or we can write to debunk and to destroy; the choice is ours. Destruction has long been a journalistic mode, rewarding the snoop and the hatchet man (or woman) and the invader of privacy. But nobody can make us write what we don’t want to write. We get to keep intention. Nonfiction writers often forget that they are not required to acquiesce in tawdry work, to carry the trash for magazine editors who have an agenda of their own—to sell a commercial product. ([Location 3762](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3762))
+    - Tags: [[pink]] 
+- Writing is related to character. If your values ([Location 3767](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3767))
+    - Tags: [[pink]] 
+- are sound, your writing will be sound. It all begins with intention. Figure out what you want to do and how you want to do it, and work your way with humanity and integrity to the completed article. Then you’ll have something to sell. ([Location 3767](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3767))
+    - Tags: [[pink]] 
+- This has been a book about decisions—the countless successive decisions that go into ([Location 3772](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3772))
+    - Tags: [[pink]] 
+- every act of writing. Some of the decisions are big (“What should I write about?”) and some are as small as the smallest word. But all of them are important. ([Location 3773](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3773))
+    - Tags: [[pink]] 
+- All your clear and pleasing sentences will fall apart if you don’t keep remembering that writing is linear and sequential, that logic is the glue that holds it together, that tension must be maintained from one sentence to the next and from one paragraph to the next and from one section to the next, and that narrative—good old-fashioned storytelling—is what should pull your readers along without their noticing the tug. ([Location 3778](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3778))
+    - Tags: [[pink]] 
+- The hardest decision about any article is how to begin it. The lead must grab the reader with a provocative idea and continue with each paragraph to hold him or her in a tight grip, gradually adding information. The point of the information is to get readers so interested that they will stick around for the whole trip. The lead can be as short as one paragraph and as long as it needs to be. You’ll know ([Location 3784](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3784))
+    - Tags: [[pink]] 
+- it’s over when all the necessary work has been done and you can take a more relaxed tone and get on with your narrative. Here the first paragraph gives readers an arresting notion to think about—one that I hope has never occurred to them before. What struck me most powerfully when I got to Timbuktu was that the streets were of sand. I suddenly realized that sand is very different from dirt. Every town starts… ([Location 3787](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3787))
+    - Tags: [[pink]] 
+- sand represents defeat. A city with streets of sand is a city at the edge. Notice how simple those five sentences are: plain declarative sentences, not a comma in sight. Each sentence contains one thought—and only one. Readers can process only one idea at a time, and they do it in linear sequence. Much of the trouble that writers get into comes from trying to make one sentence do too much work. Never be afraid to break a… ([Location 3791](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3791))
+    - Tags: [[pink]] 
+- destination for edge-seekers. Of the half-dozen places that have always lured travelers with the mere sound of their name—Bali and Tahiti, Samarkand and Fez, Mombasa and Macao—none can match Timbuktu for the remoteness it conveys. I was surprised by how many people, hearing of my trip, didn’t think Timbuktu was a real place, or, if it was, couldn’… ([Location 3796](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3796))
+    - Tags: [[pink]] 
+- synonyms for the almost-unreachable, a God-given toy for songwriters stuck for an “oo” rhyme and a metaphor for how far a lovestruck boy would go to win the unwinnable girl. But as an actual place—surely Timbuktu was one of those “long-lost” African kingdoms like King Solomon’s Mines that turned out not to exist when the Victorian explorers went looking for them. The… ([Location 3799](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3799))
+    - Tags: [[pink]] 
+- reader is given no chance to squirm away. After that the paragraph has one purpose: it acknowledges what the reader already knows—or half knows—about Timbuktu. It thereby welcomes him as a fellow traveler, someone who brings the same emotions to the trip as the writer himself. It also adds a certain kind of information—not hard facts, but enjoyable lore. The following paragraph gets down to hard work—work that can’t be put off any longer… ([Location 3803](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3803))
+    - Tags: [[pink]] 
+- though the men who finally found it after terrible ordeals—the Scotsman Gordon Laing in 1826 and the Frenchman René Caillié in 1828—must have felt cruelly mocked for their efforts. The legendary city of 100,000 people described by the 16th-century traveler Leo Africanus—a center of learning with 20,000 students and 180 Koranic schools—was a… ([Location 3808](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3808))
+    - Tags: [[pink]] 
+- only because of its unique location as the junction of important camel caravan routes across the Sahara. Much of what got traded in Africa, especially salt from the north and gold from the south, got traded in Timbuktu. So much for the history of Timbuktu and the reason for its fame. It’s all that a magazine reader needs to know about the city’s past and its significance. Don’t give readers of a magazine piece… ([Location 3811](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3811))
+    - Tags: [[pink]] 
+- Now, what do your readers want to know next? Ask yourself that question after every sentence. Here what they want to know is: why did I go to Timbuktu? What was the purpose of my trip? The following paragraph gets right to it—again, keeping the thread of the previous sentence taut: It was to watch the arrival of one of those caravans that I had come to Timbuktu. I was one of six men and women bright… ([Location 3816](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3816))
+    - Tags: [[pink]] 
+- the Sunday New York Times, run by a small travel agency of French origins that specializes in West Africa. (Timbuktu is in Mali, the former French Sudan.) The agency’s office is in New York, and I had gone there first thing Monday morning to beat the crowd; I asked the usual questions and got the usual answers—yellow fever… ([Location 3820](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3820))
+    - Tags: [[pink]] 
+- Besides explaining the genesis of the trip, that… ([Location 3824](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3824))
+    - Tags: [[pink]] 
+- job: it… ([Location 3824](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3824))
+    - Tags: [[pink]] 
+- writer’s personality and voice. In travel writing you should never forget that you are the guide. It’s not enough just to take your readers on a trip; you must take them on your trip. Make them identify with you—with your hopes and apprehensions. This means giving them some idea of who you are. The phrase “bright enough or dumb enough” calls up a familiar figure in travel literature: the tourist as a possible patsy or buffoon. Another throwaway phrase is the line about beating… ([Location 3825](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3825))
+    - Tags: [[pink]] 
+- desert/part city of some 7,000 inhabitants. The colorful nomads who drive the caravans have traveled 1,000 miles across the Sahara to celebrate the end of their trek with outdoor feasts and traditional tribal dances. Spend… ([Location 3833](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3833))
+    - Tags: [[pink]] 
+- That’s a typical example of how a writer can get other people to do helpful work for him—in their words, which are usually more revealing than the writer’s words. In this case the brochure not… ([Location 3836](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3836))
+    - Tags: [[pink]] 
+- promised; its language is an amusement in itself and a window into the grandiosity of the promoters. Be on the watch for funny or self-serving quotes and use them with… ([Location 3837](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3837))
+    - Tags: [[pink]] 
+- Well, that’s my kind of trip, if not necessarily my kind of prose, and it also turned out to be my wife’s kind of trip and four other people’s kind of trip. In years we ranged from late middle age to Medicare. Five of us were from… ([Location 3840](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3840))
+    - Tags: [[pink]] 
+- lifelong habit of traveling to places on the edge. Names like Venice and Versailles didn’t bob up in our accounts of earlier trips, or even Marrakech or Luxor or Chiang Mai. The talk was of Bhutan and Borneo, Tibet and Yemen and the Moluccas. Now—praise Allah!—… ([Location 3842](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3842))
+    - Tags: [[pink]] 
+- That concludes the lead. Those six paragraphs took as long to write as the entire remainder of the piece. But when I finally wrestled them into place I felt confidently launched. Maybe someone ([Location 3845](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3845))
+    - Tags: [[pink]] 
+- else could write a better lead for that story, but I couldn’t. I felt that readers who were still with me would stay to the end. ([Location 3846](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3846))
+    - Tags: [[pink]] 
+- No less important… ([Location 3847](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3847))
+    - Tags: [[pink]] 
+- decisions about structure are decisions about individual words. Banality is the enemy of good writing; the challenge is to not write like everybody else. One fact that had to be stated in the lead was how old the six of us were. Initially I wrote something serviceable like “we were in our fifties and sixties.” But the merely serviceable is a drag. Was there any way to state the… ([Location 3847](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3847))
+    - Tags: [[pink]] 
+- phrase “from late middle age to Medicare.” If you look long enough you can usually find a proper name or a metaphor that will bring those dull but necessary facts to life. Even more time went into the sentence about Venice and Versailles. Originally I wrote, “Names like London and Paris didn’t turn up in our accounts of earlier trips.” Not much fun there. I tried to think of other popular capitals. Rome and Cairo? Athens and Bangkok? No better. Maybe alliteration would… ([Location 3851](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3851))
+    - Tags: [[pink]] 
+- stopped thinking of capitals and tried to think of tourist-infested cities. Venice popped into my head and I was glad to see it; everybody goes to Venice. Did any other cities begin with V? Only Vienna, which was too close to Venice in several respects. Finally I shifted my thinking from tourist cities to tourist sites, mentally fanning out from the major capitals, and it was on one of those excursions that I hit Versailles. It made my day. Next I needed a fresher verb than “turn up.” I… ([Location 3855](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3855))
+    - Tags: [[pink]] 
+- word, ludicrously simple. Yet it was the perfect word: it paints a picture of an object periodically rising to the surface of the water. That left just one decision: what slightly offbeat tourist sites would seem commonplace to six travelers who had signed up for Timbuktu? The three that I finally chose—Luxor, Marrakech and Chiang Mai—were quite exotic in the 1950s, when I first visited them. Today they’re not; the age of jet travel has made them almost as popular as London and Paris.… ([Location 3860](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3860))
+    - Tags: [[pink]] 
+- great pleasure. No writing decision is too small to be worth a large expenditure of time. Both you and the reader know it when your finicky labor is rewarded by a sentence coming out right. Notice that there’s an asterisk at the end of the lead. (It could also be a blank space.) That asterisk is a signpost. It announces to the reader that you have organized your article in a certain way and that a new phase is about to begin—perhaps a change of chronology, such as a flashback, or a… ([Location 3865](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3865))
+    - Tags: [[pink]] 
+- breath and start over, this time at the more leisurely gait of a storyteller: We got to Timbuktu by flying from New York to Abidjan, capital of the Ivory Coast, and taking a plane from there to Bamako, capital of Mali, its neighbor to the north. Unlike the verdant Ivory Coast, Mali is dry, its southern half nourished mainly by the Niger River, its upper half pure desert; Timbuktu is… ([Location 3869](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3869))
+    - Tags: [[pink]] 
+- south—a coveted speck on the horizon after weeks of heat and thirst. None of us on the tour knew much about Mali or what to expect of it—our thoughts were fixed on our rendezvous with the salt caravan at Timbuktu, not on the country we would cross to get there. What we didn’t expect was that we would be so instantly taken with it. Mali was an immersion in… ([Location 3873](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3873))
+    - Tags: [[pink]] 
+- vegetables, children whose smile was a routine miracle. Desperately poor, Mali was people-rich. The tree-lined city of Bamako delighted us with its energy and confidence. Up early the next morning, we drove for ten hours in a van that had seen better days, but not much better days, to reach the holy city of Djenné, a medieval center of trade and Islamic scholarship on… ([Location 3877](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3877))
+    - Tags: [[pink]] 
+- small ferry, and as we bounced over unspeakable roads, hurrying to arrive before dark, the spires and turrets of its great clay mosque, looking like a distant sandcastle, taunted us by seeming to recede. When we finally got there the mosque still looked like a sandcastle—an elegant fortress that might have been built by children on a beach. Architecturally (I later… ([Location 3881](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3881))
+    - Tags: [[pink]] 
+- Sudanese style. To linger in Djenné’s ancient square at dusk was a high moment of our trip. The next two days were no less rich. One was spent driving into—and back out of—Dogon country. The Dogon, who live on an escarpment not easily reached by outsiders, are prized by anthropologists for their animist culture and cosmology and by art collectors for… ([Location 3884](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3884))
+    - Tags: [[pink]] 
+- watching a masked dance gave us too brief a glimpse of a society that was far from simple. The second day was spent in Mopte, a vibrant market town on the Niger that we liked enormously and also left too soon. But we had a date in Timbuktu and a chartered plane to take us there. Obviously there’s far more to say about Mali than is jammed into those four paragraphs—many scholarly books have been written about… ([Location 3888](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3888))
+    - Tags: [[pink]] 
+- for a camel caravan. Therefore a decision had to be made about the larger shape of the piece. My decision was to get across Mali as fast as possible—to explain in the barest number of sentences what route we took and what was important about the places where we stopped. At such moments I ask myself one very helpful question: “What is the piece really about?” (Not just “What is the piece about?”) Fondness for material you’ve gone to a lot of trouble to gather isn’t a good enough… ([Location 3892](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3892))
+    - Tags: [[pink]] 
+- The only consolation for the loss of so much material is that it isn’t totally lost; it remains in your writing as an intangible that the reader can sense. Readers should always feel that you know more about your subject than you’ve put in writing. Back to “But we had a date in Timbuktu”: The exactness of that date was what had worried me most when I visited the travel agency. I asked the head of the agency how she… ([Location 3897](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3897))
+    - Tags: [[pink]] 
+- operating on a timetable. My wife, who isn’t cursed with my optimism about such life forces as camels and travel agents, was certain we would be told at Timbuktu that the salt caravan had come and gone, or, more probably, hadn’t been heard from at all. The travel agent scoffed at my question. “We’re in close touch with the caravan,” she said. “We send scouts… ([Location 3902](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3902))
+    - Tags: [[pink]] 
+- itinerary in Mali.” That made sense to me—optimists can make sense of anything—and now I was in a plane not much bigger than Lindbergh’s, flying north toward Timbuktu over terrain so barren that I saw no sign of human habitation below. Simultaneously, however, hundreds of camels carrying huge slabs of salt were moving south to meet me. Even now tribal chiefs… ([Location 3906](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3906))
+    - Tags: [[pink]] 
+- paragraphs contain touches of humor—tiny jokes. Again, they are efforts to keep myself amused. But they are also a deliberate attempt to maintain a persona. One of the oldest strains in travel writing and humor writing is the eternal credulity of the narrator. Used in moderation, making yourself gullible—or downright stupid—gives the reader the enormous pleasure of feeling superior. Our pilot circled over Timbuktu to give us an… ([Location 3909](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3909))
+    - Tags: [[pink]] 
+- abandoned, as dead as Fort Zinderneuf at the end of Beau Geste; surely nobody was alive down there. The Sahara in its steady encroachment, which has created the drought belt across central Africa known as the Sahel, had long since pushed past Timbuktu and left it marooned. I felt a tremor of fear; I didn’t want to be put down in such a forsaken place. The reference to Beau Geste is an effort… ([Location 3914](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3914))
+    - Tags: [[pink]] 
+- put there by Hollywood. By invoking the fate of Fort Zinderneuf—Brian Donlevy played a sadistic French Foreign Legion commandant who propped the dead bodies of his soldiers back into the niches of the fort—I’m revealing my own fondness for the genre and striking a bond with fellow movie buffs. What I’m after is resonance; it can do a great deal of emotional work that writers can’t achieve on their own. Two words—“tremor” and “forsaken”—took a while to find. When I… ([Location 3918](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3918))
+    - Tags: [[pink]] 
+- synonyms. As one of Jesus’s last words (speaking of resonance), it could hardly convey more loneliness and abandonment. At the airport we were met by our local guide, a Tuareg named Mohammed Ali. For a travel buff he was a consoling sight—if anybody can be said to own this part of the Sahara, it is the Tuareg, a race of proud Berbers who wouldn’t… ([Location 3923](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3923))
+    - Tags: [[pink]] 
+- instead into the desert and making it their preserve. Mohammed Ali, who was wearing the traditional blue robe of Tuareg men, had a dark, intelligent face, somewhat Arabic in the angularity of its features, and he moved with an assurance that was obviously part of his character. As a teen-ager, it turned out, he had gone with his father on the haj to Mecca (many… ([Location 3926](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3926))
+    - Tags: [[pink]] 
+- study English, French and Arabic. The Tuareg have a language of their own, with a complex written alphabet, called Tamashek. Mohammed Ali said he had to take us first to the police station in Timbuktu to have our passports checked. I’ve seen too many movies to feel comfortable in this kind of interview situation, and as we sat in a dungeon-like… ([Location 3929](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3929))
+    - Tags: [[pink]] 
+- a man and a boy sleeping, I had another flashback—this one to The Four Feathers and the scene of the British soldiers long imprisoned at Omdurman. The oppressiveness stayed with me when we got back out and Mohammed Ali walked us through the forlorn city, dutifully showing us its few “points of interest”: the Grand Mosque, the market, and… ([Location 3933](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3933))
+    - Tags: [[pink]] 
+- explorer Heinrich Barth lived. We didn’t see any other tourists. Again, the Four Feathers allusion, like the mention of Beau Geste, will bring a chill of recognition to anyone who knows the movie. The fact that the movie was based on a real campaign—Kitchener’s expedition up the Nile to avenge the Mahdi’s defeat of General Gordon—gives the sentence an edge of fear. Obviously Arab justice in outposts of the Sahara is still far from merciful. Once… ([Location 3936](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3936))
+    - Tags: [[pink]] 
+- down to the real business of the story: looking for a camel caravan.” Making these divisions in a long and complex article not only helps the reader to follow your road map. It also takes some of the anxiety out of the act of writing, enabling you to break your material into manageable chunks and to take one chunk at a time. The total task seems less formidable, and panic is staved off. At the Azalai Hotel, where we appeared to be the… ([Location 3941](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3941))
+    - Tags: [[pink]] 
+- “The six of you.” “But …” Something in me didn’t want to finish the sentence. I took a different approach. “I don’t understand what this word ‘Azalai’ means. Why is it called the Azalai Salt Caravan?” “That’s the word the French used,” he said, “when they organized the caravan and all the camels made the trip together once a year, around… ([Location 3946](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3946))
+    - Tags: [[pink]] 
+- got its independence they decided to let the traders bring their salt caravans to Timbuktu whenever they wanted to.” Mali got its independence in 1960. We were in Timbuktu for an event that hadn’t been held in 27 years. The last sentence is a small bomb dropped into the story. But it is allowed to speak for itself—just the facts, please—without comment. I didn’t add an exclamation… ([Location 3952](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3952))
+    - Tags: [[pink]] 
+- discovery. Trust your material. My wife, among others, was not surprised. We took the news calmly: old travel hands who have faith that they will find their camel caravan one way or another. Mainly our reaction was one of amazement that the canons of truth-in-advertising had been so brazenly disregarded. Mohammed Ali knew nothing about the gaudy… ([Location 3957](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3957))
+    - Tags: [[pink]] 
+- caravan, and he told us that in the morning we would go looking for one and would spend the night in the Sahara. Early December, he said, was the usual time for caravans to start arriving. He didn’t say anything about a chieftain’s tent. More carefully chosen words: “canons,” “brazenly,” “gaudy,” “tendered.” They’re vivid and precise, but not long or fancy. Best of all, they are words that readers probably weren’t expecting… ([Location 3961](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3961))
+    - Tags: [[pink]] 
+- brochure, is another tiny joke. These “snappers” at the end of a paragraph propel readers into the next paragraph and keep them in a good mood. In the morning my wife—a voice of reason at the edge of infinity—said she wouldn’t go into the Sahara unless we went in two vehicles. I was therefore glad to see two Land Rovers awaiting us outside the hotel. One of them was having its front… ([Location 3965](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3965))
+    - Tags: [[pink]] 
+- Mohammed Ali sat in front, next to the driver. The second Land Rover took our other two tour members and two boys who were described as “apprentices.” Nobody said what they were apprenticing for. Another startling fact that needs no embellishment—the tire-pumping—and another small joke at the end. We drove straight out into the Sahara. The desert was a… ([Location 3970](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3970))
+    - Tags: [[pink]] 
+- That was the moment when I felt most at the edge, when a small voice said, “This is crazy. Why are you doing this?” But I knew why; I was on a quest that I could trace back to my first encounters with the books by Britain’s “desert eccentrics”—solitaries such as Charles Doughty, Sir Richard Burton, T. E. Lawrence and Wilfred Thesiger, who lived among the Bedouin. I… ([Location 3974](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3974))
+    - Tags: [[pink]] 
+- Englishmen? More resonance. The reference to Doughty and his compatriots is a reminder that the desert has a written literature no less powerful than its movie literature. It adds one more item to the emotional baggage that I was carrying and that the reader was entitled to know about. The following sentence pursues the question that ended the previous paragraph: Now I was starting to find out. As we drove… ([Location 3977](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3977))
+    - Tags: [[pink]] 
+- to the left. We asked how he knew where he was going. He said he could tell by the dunes. The dunes, however, all looked alike. We asked how long we would have to drive to find a salt caravan. Mohammed Ali said he hoped it wouldn’t be more than three or four hours. We kept driving. To my object-oriented eye there was almost nothing to see. But after a… ([Location 3983](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3983))
+    - Tags: [[pink]] 
+- tried to get that fact into my metabolism. It lulled me into a certain acceptance and I totally forgot why we were out there. Suddenly the driver made a sharp left and came to a stop. “Camels,” he said. I strained my urban eyes and didn’t see anything. Then it came into focus, far away: a caravan of forty camels moving at a stately gait toward Timbuktu, as… ([Location 3986](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3986))
+    - Tags: [[pink]] 
+- days to the north. We drove to within a hundred yards of the caravan—no nearer, Mohammed Ali explained, because camels are nervous creatures, easily panicked by anything “strange.” (We were undeniably strange.) He said that the camels are always brought into Timbuktu to unload the salt late at night, when the city is empty of people. So much for… ([Location 3989](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3989))
+    - Tags: [[pink]] 
+- would have been. The aloneness of the caravan was the aloneness of every caravan that had ever crossed the Sahara. The camels were hitched to each other and seemed to be walking in unison, as precise as Rockettes in their undulating rhythm. Each camel had two slabs of salt roped to each side. The salt looked like dirty white marble. The slabs (which I… ([Location 3993](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3993))
+    - Tags: [[pink]] 
+- maximum size and weight, presumably, that can be loaded onto a camel. We sat on the sand and watched the caravan until the last camel disappeared over a dune. The tone has now settled into straight narrative—one declarative sentence after another. The only hard decision involved “aloneness,” which is not my kind of word—it’s too “poetic.” But I finally decided that there was no other… ([Location 3996](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=3996))
+    - Tags: [[pink]] 
+- was fiercely hot. We climbed back into our Land Rovers and drove farther into the desert until Mohammed Ali found a tree that cast a shadow just big enough for five New Yorkers and a widow from Maryland, and there we stayed until about 4, having a picnic lunch, gazing at the bleached-out landscape, dozing, moving our blanket periodically as our shadow… ([Location 4001](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4001))
+    - Tags: [[pink]] 
+- dismantle the engine of one of the Land Rovers. A nomad appeared from nowhere and stopped to ask if we had any quinine. Another nomad appeared from nowhere and stopped briefly to talk. Later we saw two men walking toward us across the desert and beyond them … was it our first mirage? It was another salt caravan, this one fifty camels long,… ([Location 4004](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4004))
+    - Tags: [[pink]] 
+- the caravan to come over for a visit. One of them was an old man, full of laughter. They sat down with Mohammed Ali and got the latest news of Timbuktu. The hardest sentence there was the one about the drivers tinkering with the Land Rover. I wanted it to be as simple as all the other sentences and yet have a small surprise tucked into it—a wry touch of humor. Otherwise my purpose at this point was to tell the… ([Location 4007](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4007))
+    - Tags: [[pink]] 
+- slipped into a different time zone, Sahara time, and in the late afternoon, when the sun’s heat had begun to ebb, we got back into our Land Rovers, which, to my surprise, still worked, and set out across the Sahara for what Mohammed Ali called our “encampment.” I pictured, if not a chieftain’s tent, at least a tent—something that announced itself as… ([Location 4012](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4012))
+    - Tags: [[pink]] 
+- what we had been driving over all day. It did, however, have one small tree. Some Bedouin women were crouched under it—black-garbed figures, their faces veiled—and Mohammed Ali put us down on the desert next to them. The women shrank back at the sight of us—white aliens dumped abruptly in their midst. They were huddled so close together that they… ([Location 4015](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4015))
+    - Tags: [[pink]] 
+- color” that he happened to find for his tourists, counting on us to manage for ourselves after that. We could only sit and try to look friendly. But we were very conscious of being intruders, and we probably looked as uncomfortable as we felt. Only after we had sat there for a while did the black frieze slowly come apart and turn into… ([Location 4019](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4019))
+    - Tags: [[pink]] 
+- seemingly not wanting to have anything to do with the Bedouin; perhaps as a Tuareg he considered them desert riffraff. But it was the Bedouin who had the grace to put us at ease. One of the women, lowering her veil and revealing a movie star’s smile—white teeth and shining black eyes in a beautiful face—rummaged in her belongings, pulled out a blanket and… ([Location 4022](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4022))
+    - Tags: [[pink]] 
+- in the desert there’s no such thing as an intruder; anyone who turns up is somehow expected. Soon after that, two Bedouin men came in from the desert, completing the family unit, which, we now saw, consisted of two men, two wives for each man, and their various children. The older husband, who had a strong and handsome face, greeted both of his wives with a gentle tap on… ([Location 4025](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4025))
+    - Tags: [[pink]] 
+- him his dinner—some millet in a bowl. He immediately offered the bowl to me. I declined, but the offer is one I won’t forget. We sat in companionable silence while he ate. The children came over to get acquainted. The sun went down and a full moon came up over the Sahara. Meanwhile our drivers had spread some blankets next to the two Land Rovers… ([Location 4029](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4029))
+    - Tags: [[pink]] 
+- coming out in the desert sky, had some kind of chicken for dinner, and got ready to turn in. Bathroom facilities were ad hoc—to each his own. We had been warned that Sahara nights were cold and had brought sweaters along. I put on my sweater, rolled up in a blanket, which slightly softened the hardness of the desert, and fell asleep surrounded… ([Location 4032](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4032))
+    - Tags: [[pink]] 
+- A crucial decision about a piece of writing is ([Location 4040](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4040))
+    - Tags: [[pink]] 
+- where to end it. Often the story will tell you where it wants to stop. This ending was not the one I originally had in mind. Because the goal of our trip was to find a salt caravan I assumed that I would have to complete the ancient cycle of trade: to describe how we returned to Timbuktu and saw the salt being unloaded and bought and sold in the market. But the nearer I got to writing that final section, the more I didn’t want to write it. It loomed as drudgery, no fun for me or for… ([Location 4040](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4040))
+    - Tags: [[pink]] 
+- everything. The real climax of my story was not finding the salt caravan; it was finding the timeless hospitality of the people who live in the Sahara. Not many moments in my life have matched the one when a family of nomads with almost no possessions offered to share their dinner. Nor could any other moment distill more vividly what I had come to the desert to find and what all those Englishmen had written about—the nobility of living on the edge. When you get… ([Location 4045](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4045))
+    - Tags: [[pink]] 
+- look for the door. I got out fast, pausing only long enough to make sure that the unities were intact: that the writer-guide who started the trip was the same person who was ending it. The playful reference to Lawrence preserves the persona, wraps up a multitude of associations and brings the journey full circle. The realization that I could just stop was a terrific feeling, not only because my labors were over—the jigsaw puzzle solved—but because the ending felt right. It was the correct decision.… ([Location 4049](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4049))
+    - Tags: [[pink]] 
+- own luck. An exhortation I often use to keep myself going is “Get on the plane.” Two of the most emotional moments of my life came as a result of getting on the plane in connection with my book Mitchell & Ruff. First I went to Shanghai with the musicians Willie Ruff and Dwike Mitchell when they introduced jazz to China at the Shanghai Conservatory of Music. A year later I went to Venice with Ruff to hear him play Gregorian chants on his French horn in St. Mark’s basilica at night, when nobody else… ([Location 4054](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4054))
+    - Tags: [[pink]] 
+- be allowed to play; I might have wasted my time and money by deciding to go along. But I got on the plane, and those two long pieces, which originally ran in The New Yorker, are probably my two best articles. I got on the plane to Timbuktu to look for a camel caravan that was an even bet not to materialize, and I got on the plane to Bradenton for spring training not knowing whether I would be welcomed or rebuffed. My book Writing to Learn was born because of one phone call from a… ([Location 4059](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4059))
+    - Tags: [[pink]] 
+- has taken me to unusual stories all over the world and all over America, and it still does. That isn’t to say I’m not nervous when I leave for the airport; I always am—that’s part of the deal. (A little nervousness gives writing an edge.) But I’m always replenished when I get back home. As a nonfiction writer you must get on the plane. If a subject interests you, go after it, even if it’s in the next county or the next state or the next… ([Location 4063](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4063))
+    - Tags: [[pink]] 
+- Be yourself and your readers will follow you anywhere. Try to commit an act of writing and your readers will ([Location 4105](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4105))
+    - Tags: [[pink]] 
+- jump overboard to get away. Your product is you ([Location 4106](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4106))
+    - Tags: [[pink]] 
+- . ([Location 4106](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4106))
+    - Tags: [[pink]] 
+- But nobody remembers those books today; readers won’t connect with whining. ([Location 4158](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4158))
+    - Tags: [[pink]] 
+- One of my students in a memoir class was a woman who wanted to write about the house in ([Location 4175](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4175))
+    - Tags: [[pink]] 
+- Michigan where she grew up. Her mother had died, the house had been sold, and she and her father and her ten sisters and brothers were about to meet at the house to dispose of its contents. Writing about that task, she thought, would help her to understand her childhood in that large Catholic family. I agreed—it was a perfect framework for a memoir—and I asked her how she was going to proceed. She said she was going to start by interviewing her father and all her brothers and sisters… ([Location 4176](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4176))
+    - Tags: [[pink]] 
+- her story. In that case, I said, interviewing all those siblings would be an almost complete waste of her time and energy. Only then did she begin to glimpse the proper shape of her story and to prepare her mind for confronting the house and its memories. I saved her hundreds of hours of interviewing and transcribing and trying to fit what she transcribed into her memoir, where it didn’t belong. It’s your story. You only need to interview family… ([Location 4180](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4180))
+    - Tags: [[pink]] 
+- Here’s another… ([Location 4185](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4185))
+    - Tags: [[pink]] 
+- from another class. A young Jewish woman named Helen Blatt was very eager to write about her father’s experience as a survivor of the Holocaust. He had escaped from his village in Poland at the age of 14—one of the few Jews to get away—and had made his way to Italy, to New Orleans and, finally, to New York. Now he was 80, and his daughter asked him to go back with her to that Polish village so she could hear about his early life and write his story. But he begged off; he was too frail and… ([Location 4185](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4185))
+    - Tags: [[pink]] 
+- the village. But she couldn’t find enough facts to enable her to do justice to her father’s story, and she was deeply upset about that. Her despair hung over the class. For a few moments I couldn’t think of anything to tell her. Finally I said, “It’s not your father’s story.” She gave me a look that I still remember as it dawned on her what I was saying. “It’s your story,” I told her. I pointed out that nobody has enough facts—not even scholars of the Holocaust—to reconstruct… ([Location 4190](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4190))
+    - Tags: [[pink]] 
+- your father’s past,” I said, “you’ll also tell the story of his life and his heritage.” I saw a heavy weight drop off her shoulders. She smiled a smile that none of us had seen before and said she would get started on the story right away. The course ended and no paper was handed in. I called her and she said she was still writing and needed more time. Then, one day, a 24-page manuscript arrived in the mail. It was called “Returning Home,” and it described Helen Blatt’… ([Location 4196](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4196))
+    - Tags: [[pink]] 
+- she wrote, “I was the first member of the Blatt family the town had seen since 1939.” Gradually making herself known to the townspeople, she found that many of her father’s relatives—grandparents and uncles and aunts—were still remembered. When one old man said, “You look just like your grandmother Helen,” she felt “an overwhelming sense of safety and peacefulness.” This is how her story ends: After I… ([Location 4201](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4201))
+    - Tags: [[pink]] 
+- hour video I made as if it were a masterpiece. He wanted to hear every detail of my trip: who I met, where I went, what I saw, what foods I liked and disliked, and how I was treated. I assured him that I was welcomed with open arms. Although I still have no photos of my family telling me what their faces looked like, I now have a mental picture of their… ([Location 4205](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4205))
+    - Tags: [[pink]] 
+- respect my grandparents earned from the community. I gave my father boxes of letters and gifts from his old friends: Polish vodka and maps and framed photos and drawings of Plesna. As I told him my stories he looked like an excited child waiting to open his birthday present. The sadness in his eyes also disappeared; he looked jubilant and… ([Location 4208](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4208))
+    - Tags: [[pink]] 
+- did, but they were tears of joy. He seemed so proud, and I asked him, “Daddy, what are you looking at with such pride? Is it your house?” He said, “No, it’s you! You have become my eyes and ears and legs. Thank you for taking… ([Location 4212](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4212))
+    - Tags: [[pink]] 
+- Remember: Your ([Location 4255](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4255))
+    - Tags: [[pink]] 
+- biggest stories will often have less to do with their subject than with their significance—not what you did in a certain situation, but how that situation affected you and shaped the person you became. ([Location 4255](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4255))
+    - Tags: [[pink]] 
+- I’m occasionally asked if I can recall the moment when I knew I wanted to be a writer. No such blinding flash occurred; I only knew that I thought I would like to work for a newspaper. But I can point to a set of attitudes that I inherited early in life and that have guided me ever since. They came from both sides of my family, by different routes. ([Location 4273](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4273))
+    - Tags: [[pink]] 
+- My mother loved good ([Location 4275](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4275))
+    - Tags: [[pink]] 
+- writing, and she found it as often in newspapers as ([Location 4276](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4276))
+    - Tags: [[pink]] 
+- she did in books. She regularly clipped columns and articles out of the paper that delighted her with their graceful use of language, or their wit, or their original vision of life. Because of her I knew at an early age that good writing can appear anywhere, even in the lowly newspaper, and that what matters is the writing itself, not the medium where it’s published. Therefore I’ve always tried to write as well as I could by my own standards; I’ve never changed my style to fit the size or the presumed education of the audience I was writing for. My mother was also a woman of humor and optimism. These are lubricants in ([Location 4276](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4276))
+    - Tags: [[pink]] 
+- writing, as they are in life, and a writer lucky enough to have them in his baggage will start the day with an extra round of confidence. ([Location 4280](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4280))
+    - Tags: [[pink]] 
+- My father was a man who loved his business. When he talked about it I never felt that ([Location 4289](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4289))
+    - Tags: [[pink]] 
+- he regarded it as a venture for making money; it was an art, to be practiced with imagination and only the best materials. ([Location 4289](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4289))
+    - Tags: [[pink]] 
+- He had a passion for quality and had no patience with the second-rate; he never went into a store looking for a bargain. He charged more for his product because he made it with the best ingredients, and his company prospered. It was a ready-made future for… ([Location 4290](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4290))
+    - Tags: [[pink]] 
+- But inevitably a different day arrived, and not long after I came home from the war I went to work for the New York Herald Tribune… ([Location 4293](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4293))
+    - Tags: [[pink]] 
+- going to carry on the family business. He accepted the news with his usual generosity and wished me well in my chosen field. No boy or girl could receive a finer gift. I was liberated from having to fulfill somebody else’s expectations, which were not the right ones for me. I was free to succeed or fail on my own terms. Only later did I realize that I took along on my journey another gift from my father: a bone-deep belief that quality is its own reward. I, too, have never gone into a… ([Location 4294](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4294))
+    - Tags: [[pink]] 
+- English language,… ([Location 4298](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4298))
+    - Tags: [[pink]] 
+- of dazzling letters—it was from the world of business that I absorbed my craftsman’s ethic, and over the years, when I found myself endlessly rewriting what I had endlessly rewritten, determined to write better than everybody who was competing for the same space, the inner voice I was hearing was the voice of my father talking about shellac. Besides wanting to write as well as possible, I wanted to write as entertainingly as possible. When I tell aspiring… ([Location 4298](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4298))
+    - Tags: [[pink]] 
+- and jugglers and clowns. But to succeed you must make your piece jump out of a newspaper or a magazine by being more diverting than everyone else’s piece. You must find some way to elevate your act of writing into an entertainment. Usually this means giving the reader an enjoyable surprise. Any number of devices will do the job: humor, anecdote, paradox, an unexpected quotation, a powerful fact, an outlandish detail, a circuitous approach, an elegant arrangement of words. These… ([Location 4303](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4303))
+    - Tags: [[pink]] 
+- like their personality as they express it on paper. Given a choice between two traveling companions—and a writer is someone who asks us to travel with him—we usually choose the one who we think will make an effort to brighten the trip. Unlike medicine or the other sciences, writing has no new discoveries to spring on us. We’re in no danger of reading in our morning newspaper that a breakthrough has been made in how to write a clear English sentence—that information has been around since the… ([Location 4307](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4307))
+    - Tags: [[pink]] 
+- words and sentences are easier to read than long ones, that concrete details are easier to process than vague abstractions. Obviously the rules have often been bent. Victorian writers had a taste for the ornate and didn’t consider brevity a virtue, and many modern writers, like Tom Wolfe, have broken out of the cage, turning a headlong exuberance of language into a source of positive energy. Such skillful acrobats, however, are rare; most nonfiction writers will do well to cling to… ([Location 4312](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4312))
+    - Tags: [[pink]] 
+- but on the whole we know what we need to know. We’re all working with the same words and the same principles. Where, then, is the edge? Ninety percent of the answer lies in the hard work of mastering the tools discussed in this book. Add a few points for such natural gifts as a good musical ear, a sense of rhythm and a feeling for words. But the final advantage is the same one that applies in every other competitive venture. If you would like to write better than everybody else, you have to… ([Location 4316](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4316))
+    - Tags: [[pink]] 
+- be willing to defend what you’ve written against the various middlemen—editors, agents and publishers—whose sights may be different from yours, whose standards not as high. Too many writers are browbeaten into settling for less than their best. I’ve always felt that my “style”—the careful projection onto paper of who I think I am—is my main marketable asset, the one possession that might set me apart from other writers. Therefore I’ve never wanted anyone to tinker with it, and… ([Location 4321](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4321))
+    - Tags: [[pink]] 
+- cares what happens to his piece after he gets paid for it. Most writers won’t argue with an editor because they don’t want to annoy him; they’re so grateful to be published that they agree to having their style—in other words, their personality—violated in public. Yet to defend what you’ve written is a sign that you are alive. I’m a known crank on this issue—I fight over every semicolon. But editors put up with me because they can see that I’m serious. In fact, my crankiness has brought me more… ([Location 4325](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4325))
+    - Tags: [[pink]] 
+- care. They also knew they would get the article on time and that it would be accurate. Remember that the craft of nonfiction writing involves more than writing. It also means being reliable. Editors will properly drop a writer they can’t count on. Which brings us to editors. Are they friends or enemies—gods who save us from our sins or bums who trample on our poetic souls? Like the rest of creation, they come in all varieties. I think with gratitude of a half-dozen editors who… ([Location 4330](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4330))
+    - Tags: [[pink]] 
+- suggesting a different lead, or letting me talk a problem through with them when I couldn’t decide between several routes, or cutting various forms of excess. Twice I threw out an entire chapter of a book because editors told me it was unnecessary. But above all I remember those good editors for their generosity. They had an enthusiasm for whatever project we were trying to bring off together as writer and editor. Their confidence that I could make it work kept me going.… ([Location 4335](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4335))
+    - Tags: [[pink]] 
+- end of ways in which an editor can improve a manuscript: pruning, shaping, clarifying, tidying a hundred inconsistencies of tense and pronoun and location and tone, noticing all the sentences that could be read in two different ways, dividing awkward long sentences into short ones, putting the writer back on the main road if he has strayed down a side path, building bridges where the writer has lost the reader by not paying attention to his transitions, questioning matters of… ([Location 4339](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4339))
+    - Tags: [[pink]] 
+- they should sound like the writer’s words. For all these acts of salvation, editors can’t be thanked fervently enough. Unfortunately, they can also do considerable harm. In general the damage takes two forms: altering style and altering content. Let’s look at style first. A good editor likes nothing better than a piece of copy he hardly has to touch. A bad editor has a compulsion to tinker, proving with busywork that he hasn’t forgotten the minutiae of grammar and usage. He is a… ([Location 4343](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4343))
+    - Tags: [[pink]] 
+- is writing by ear, trying to achieve a particular sound or cadence, or playing with words just for the pleasures of wordplay. One of the bleakest moments for writers is the one when they realize that their editor has missed the point of what they are trying to do. I remember many such dismal revelations. A minor one that comes to mind involved an article I wrote about a program called Visiting Artists, which brought artists and musicians to a group of economically depressed Midwestern cities.… ([Location 4349](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4349))
+    - Tags: [[pink]] 
+- sentence said: “They don’t look like cities that are on the itinerary of many visiting artists.” A small point? Not to me. I had used repetition because it’s a device I like—it takes readers by surprise and refreshes them in midsentence. But the editor remembered the rule about substituting synonyms for words that are repeated, and he corrected my error. When I called to protest, he was amazed. We argued for a long time, neither of us yielding. Finally he said, “You really feel strongly about this, don… ([Location 4353](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4353))
+    - Tags: [[pink]] 
+- back from magazines that made changes I wouldn’t accept. If you allow your distinctiveness to be edited out, you will lose one of your main virtues. You will also lose your virtue. Ideally the relationship between a writer and an editor should be one of negotiation and trust. Frequently an editor will make a change to clarify a muddy sentence and will inadvertently lose an important point—a fact or a nuance that the writer included for reasons the editor didn’t know about. In such cases the writer should ask to have his point back. The editor, if he agrees, should oblige. But he should also insist on his right to fix ([Location 4358](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4358))
+    - Tags: [[pink]] 
+- whatever had been unclear. Clarity is what every editor owes the reader. An editor should never allow something to get into print that he doesn’t understand. If he doesn’t understand it, at least one other person won’t, and that’s one too many. The process, in short, is one in which the writer and the editor proceed through the manuscript together, finding for every problem the solution that best serves the finished article. It’s a process that can be done just as well over the phone as in person. Don’t let editors use distance or their own disarray as an excuse for altering your work without your consent. ([Location 4362](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4362))
+    - Tags: [[pink]] 
+- “We were on deadline,” “we were already late,” “the person who usually deals with you was out sick,” “we had a big shake-up here last week,” “our new publisher has just come on board,” “it got put in the wrong pile,” “the editor’s on vacation”—these dreary phrases cloak a multitude of inefficiencies and sins. One unpleasant change in the publishing profession has been the erosion of courtesies that were once routine. Magazine editors, especially, have become cavalier about a whole series of procedures… ([Location 4367](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4367))
+    - Tags: [[pink]] 
+- whether it’s O.K., returning it immediately if it’s not, working supportively with the writer if the piece needs changes, sending the writer galley proofs, seeing that the writer gets paid promptly. Writers are vulnerable enough without being put through the repeated indignities of calling to learn the status of their article and to beg for their money. The prevailing notion is that such “courtesies” are merely frills and can therefore be dismissed. On the contrary, they… ([Location 4371](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4371))
+    - Tags: [[pink]] 
+- toying with nothing less than the writer’s fundamental rights. This arrogance is at its most injurious when an editor goes beyond changes of style or structure and enters the sacred realm of content. I often hear freelance writers say, “When I got the magazine I looked for my article and I didn’t even recognize it. They had written a whole new lead and had me saying things that aren’t what I believe.” That’s the cardinal sin—tampering with a writer’s opinions. But editors will do what… ([Location 4376](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4376))
+    - Tags: [[pink]] 
+- rewritten by an editor to serve his own purposes. With every surrender they remind editors that they can be treated like hired help. But finally the purposes that writers serve must be their own. What you write is yours and nobody else’s. Take your talent as far as you can and guard it with your life. Only you know how far that is; no editor knows. Writing well means believing in your writing and believing in yourself, taking risks, daring to be different, pushing… ([Location 4381](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4381))
+    - Tags: [[pink]] 
+- from Joe DiMaggio, though he didn’t know that’s what he was defining. DiMaggio was the greatest player I ever saw, and nobody looked more relaxed. He covered vast distances in the outfield, moving in graceful strides, always arriving ahead of the ball, making the hardest catch look routine, and even when he was at bat, hitting the ball with tremendous power, he didn’t appear to be exerting himself. I marveled at how effortless he looked because what he did could… ([Location 4386](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4386))
+    - Tags: [[pink]] 
+- said: “I always thought that there was at least one person in the stands who had never seen me play, and I… ([Location 4389](https://readwise.io/to_kindle?action=open&asin=B0090RVGW0&location=4389))
+    - Tags: [[pink]]
+

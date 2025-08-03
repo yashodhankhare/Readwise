@@ -1,0 +1,198 @@
+---
+tags:
+  - readwise
+---
+
+# A Few Lessons From Sherlock Holmes
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/31voXsdGgFL._SL200_.jpg)
+
+## Metadata
+- Author: [[Peter Bevelin]]
+- Full Title: A Few Lessons From Sherlock Holmes
+- Category: #books
+
+## Highlights
+- What distinguishes Holmes from most mortals is that he knows where to look and what questions to ask. He pays attention to the important things and he knows where to find them. ([Location 74](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=74))
+    - Tags: [[pink]] 
+- Considering many ideas over a wide range of disciplines give us perspective and help us consider the big picture or many aspects of an issue ([Location 92](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=92))
+    - Tags: [[pink]] 
+- But only what is useful - it can be dangerous to know too much ([Location 103](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=103))
+    - Tags: [[pink]] 
+- I consider that a man’s brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things so that he has a difficulty in laying his hands upon it. (Holmes; A Study in Scarlet) ([Location 109](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=109))
+    - Tags: [[vihang]] 
+- Now the skillful workman is very careful indeed as to what he takes into his brain-attic. He will have nothing but the tools which may help him in doing his work, but of these he has a large assortment, and all in the most perfect order. It is a mistake to think that that little room has elastic walls and can distend to any extent. Depend upon it there comes a time when for every addition of knowledge you forget something that you knew before. It is of the highest importance, therefore, not to have useless facts elbowing out the useful ones. (Holmes; A Study in Scarlet) I say now, as I said then, that a man should keep his little brain-attic stocked with all the furniture that he is likely to use, and the rest he can put away in the lumber-room of his library, where he can get it if he wants it. (Holmes; The Five Orange Pips) ([Location 112](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=112))
+    - Tags: [[mindset]] [[holmes]] 
+- It is useful to know something about human nature and what motivates people ([Location 118](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=118))
+    - Tags: [[pink]] 
+- Work is the best antidote to sorrow, my dear Watson...and I have a piece of work for us both to-night which, if we can bring it to a successful conclusion, will in itself justify a man’s life on this planet. (Holmes; The Empty House) My dear Watson, you as a medical man are continually gaining light as to the tendencies of a child by the study of the parents. Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. (Holmes; The Copper Beeches) When a woman thinks that her house is on fire, her instinct is at once to rush to the thing which she values most. It is a perfectly overpowering impulse...A married woman grabs at her baby - an unmarried one reaches for her jewel box. (Holmes; A Scandal in Bohemia) Jealousy is a strange transformer of characters. (Holmes; The Noble Bachelor) ([Location 124](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=124))
+    - Tags: [[pink]] 
+- My dear Watson, you as a medical man are continually gaining light as to the tendencies of a child by the study of the parents. Don’t you see that the converse is equally valid? I have frequently gained my first real insight into the character of parents by studying their children. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=126))
+    - Tags: [[pink]] 
+- Ask: What is in their interest to do? He had a motive in misleading us. (Holmes; The Devil’s Foot) Well, yes, of course the pay is good--too good. That is what makes me uneasy. Why should they give you £120 a year, when they could have their pick for £40? There must be some strong reason behind. (Holmes; The Adventure of the Copper Beeches) ([Location 138](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=138))
+    - Tags: [[pink]] 
+- It was equally clear that the only man who really profited by the incident, as far as we could see, was the stepfather. (Holmes; A Case of Identity) He remarks that, while the individual man is an insoluble puzzle, in the aggregate he becomes a mathematical certainty. You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to. Individuals vary, but percentages remain constant. So says the statistician. (Holmes; The Sign of the Four) ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=146))
+    - Tags: [[pink]] 
+- He remarks that, while the individual man is an insoluble puzzle, in the aggregate he becomes a mathematical certainty. You can, for example, never foretell what any one man will do, but you can say with precision what an average number will be up to. ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=147))
+    - Tags: [[pink]] [[favorite]] 
+- Sorrow is often wisdom’s companion but it is better to learn from others sorrow to prevent our own ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=153))
+    - Tags: [[pink]] 
+- Practice is a good instructor and teaches us to where to look and what to look for ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=156))
+    - Tags: [[pink]] 
+- Before turning to those moral and mental aspects of the matter which present the greatest difficulties, let the inquirer begin by mastering more elementary problems. Let him on meeting a fellow-mortal, learn at a glance to distinguish the history of the man and the trade or profession to which he belongs. Puerile as such an exercise may seem, it sharpens the faculties of observation, and teaches one where to look and what to look for. (Holmes; A Study in Scarlet) ([Location 157](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=157))
+    - Tags: [[pink]] 
+- Education never ends, Watson. It is a series of lessons with the greatest for the last. (Holmes; The Red Circle) ([Location 166](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=166))
+    - Tags: [[learning]] 
+- On Solving a Case - Observation and Inference Cultivate absolute accuracy in observation, and truthfulness in report. (Joseph Bell; Dr Joe Bell) ([Location 167](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=167))
+    - Tags: [[pink]] 
+- It is very evident that in this we have two main processes to bear in mind and keep strictly distinct, first, the collection ([Location 171](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=171))
+    - Tags: [[pink]] 
+- of the observations, and second, the inferences to be drawn from them. (Thomas McCrae; The Method of Zadig) ([Location 172](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=172))
+    - Tags: [[pink]] 
+- What is the problem? What do we ultimately want to achieve or avoid? ([Location 181](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=181))
+    - Tags: [[pink]] 
+- That is the problem which we have to solve. (Holmes; The Cardboard Box) ([Location 182](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=182))
+    - Tags: [[pink]] 
+- Diseases must be diagnosed before they can be cured. And if the diagnosis is wrong, the prescription will be wrong It is not to be imagined that he should know the remedies of diseases who knows not their original causes. (A.C. Celsus) ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=184))
+    - Tags: [[asking the right questions]] 
+- See Things for What They Are Do you remember the fine saying of Bossuet? “The greatest sign of an ill-regulated mind is to believe things because you wish them to be so.” (Louis Pasteur) ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=186))
+    - Tags: [[vihang]] 
+- Never jump to conclusions and try to collect facts as open-minded as possible ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=188))
+    - Tags: [[pink]] 
+- “Men see a little, presume a good deal, and so jump to the conclusion.” ([Location 190](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=190))
+    - Tags: [[pink]] 
+- It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts. (Holmes; A Scandal in Bohemia) ([Location 198](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=198))
+    - Tags: [[pink]] 
+- Now, I make a point of never having any prejudices, and of following docilely wherever fact may lead me. (Holmes; The Reigate Squire) I will not bias your mind by suggesting theories or suspicions, Watson. I wish you simply to report facts in the fullest manner to me, and you can leave me to do the theorizing. (Holmes; The Hound of the Baskervilles) ([Location 203](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=203))
+    - Tags: [[pink]] 
+- Beware of first impressions - appearances can be deceiving ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=206))
+    - Tags: [[pink]] 
+- Being nice is hardly the evidence of innocence ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=216))
+    - Tags: [[pink]] 
+- More is missed by not looking than not knowing. (Thomas McCrae; Medical School Axiom) For one mistake made for not knowing, ten mistakes are made for not looking. (James Alexander Lindsay) ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=223))
+    - Tags: [[pink]] 
+- Don’t be too quick Let us know a little more before we act. (Holmes; The Abbey Grange) ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=225))
+    - Tags: [[pink]] 
+- And don’t blindly collect endless amounts of facts Our steps must be guided by a clue. (Francis Bacon) ([Location 229](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=229))
+    - Tags: [[pink]] [[catalyst]] [[trigger]] 
+- We can’t observe or collect facts without some kind of view - what to look for, how to look and how to interpret what we see The professor and philosopher Karl Popper (1902 - 1994) often started his lectures by telling his audience: “Observe!” But we can’t - we need to know “Observe what?” We can’t observe without an idea of what we are looking for. But we should try to gather facts as open-minded and unbiased as possible. Without an idea of how reality works, a purpose, provisional idea of what is important and what to look for, our observation or collection of facts is of little use ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=231))
+    - Tags: [[pink]] 
+- One forms provisional theories and waits for time or fuller knowledge to explore them. (Holmes; The Sussex Vampire) “We are coming now rather into the region of guesswork,” said Dr. Mortimer. “Say, rather, into the region where we balance probabilities and choose the most likely. It is the scientific use of the imagination, but we have always some material basis on which to start our speculation.” (Holmes; The Hound of the Baskervilles) ([Location 243](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=243))
+    - Tags: [[holmes]] 
+- We must look for consistency. Where there is a want of it we must suspect deception. (Holmes; Thor Bridge) ([Location 292](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=292))
+    - Tags: [[pink]] 
+- Don’t miss the forest for the trees - It is not the amount of information that counts but the relevant one. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=293))
+    - Tags: [[pink]] 
+- The principal difficulty in your case...lay in the fact of there being too much evidence. What was vital was overlaid and hidden by what was irrelevant. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=294))
+    - Tags: [[pink]] 
+- Separate the relevant and important facts from the unimportant or accidental The first thing was to look at the facts and separate what was certain from what was conjecture. (A.C. Doyle, Memories and Adventures) It is of the highest importance in the art of detection to be able to recognize out of a number of facts which are incidental and which are vital. Otherwise your energy and attention must be dissipated instead of being concentrated. (Holmes; The Reigate Squire) ([Location 297](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=297))
+    - Tags: [[pink]] 
+- It is of the highest importance in the art of detection to be able to recognize out of a number of facts which are incidental and which are vital. Otherwise your energy and attention must be dissipated instead of being concentrated. ([Location 299](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=299))
+    - Tags: [[obvious adams]] [[asking the right questions]] 
+- There may be many theories that fit the facts There should be no combination of events for which the wit of man cannot conceive an explanation. (Holmes; The Valley of Fear) Circumstantial evidence is occasionally very convincing, as when you find a trout in the milk. (Holmes; The Noble Bachelor) Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different. (Holmes; The Boscombe Valley Mystery) ([Location 312](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=312))
+    - Tags: [[pink]] 
+- of events for which the wit of man cannot conceive an explanation. (Holmes; The Valley of Fear) Circumstantial evidence is occasionally very convincing, as when you find a trout in the milk. (Holmes; The Noble Bachelor) Circumstantial evidence is a very tricky thing...It may seem to point very straight to one thing, but if you shift your own point of view a little, you may find it pointing in an equally uncompromising manner to something entirely different. (Holmes; The Boscombe Valley Mystery) ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=313))
+    - Tags: [[pink]] 
+- More information isn’t necessarily better information but it may falsely increase our confidence - What is not worth knowing is not worth knowing A wise man sees as much as he ought, not as much as he can. (Montaigne) ([Location 321](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=321))
+    - Tags: [[pink]] 
+- Know where to look “You appeared to read a good deal upon her which was quite invisible to me,” I remarked. “Not invisible but unnoticed, Watson. You did not know where to look, and so you missed all that was important.” (Holmes; A Case of Identity) Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell) “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes) “Frequently.” “How often?” “Well, some hundreds of times.” “Then how many are there?” “How many! I don’t know.” “Quite so! You have not observed. And yet you have seen. That is just my point. Now, I know that there are seventeen steps, because I have both seen and observed.” (A Scandal in Bohemia) This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. (Inspector Lestrade - a fictional Scotland Yard detective; A Study in Scarlet) It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze) “By George!” cried the inspector. “How ever did you see that?” “Because I looked for it.” (Holmes; The Dancing Men) The world is full of obvious things which nobody by any chance ever observes. (Holmes; The Hound of the Baskervilles) “You speak of danger. You have evidently seen more in these rooms than was visible to me.” “No, but I fancy that I may have deduced a little more. I imagine that you saw all that I did.” (Holmes; The Speckled Band) “I can see nothing,” said I, handing it back to my friend. “On the contrary, Watson, you can see everything. You fail, however, to reason from what you see. You are too timid in drawing your inferences.” (Holmes; The Blue Carbuncle) ([Location 329](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=329))
+    - Tags: [[pink]] 
+- look, and so you missed all that was important.” (Holmes; A Case of Identity) Yes indeed you see, we all see, but often you do not observe. (Joseph Bell, Dr. Joe Bell) “You see, but you do not observe. The distinction is clear. For example, you have frequently seen the steps which lead up from the hall to this room.” (Holmes) “Frequently.” “How often?” “Well, some hundreds of times.” “Then how many are there?” “How many! I don’t know.” “Quite so! You have not observed. And yet you have seen. That is just my point. Now, I know that there are seventeen steps, because I have both seen and observed.” (A Scandal in Bohemia) This was overlooked because it was in the darkest corner of the room, and no one thought of looking there. (Inspector Lestrade - a fictional Scotland Yard detective; A Study in Scarlet) It was invisible, buried in the mud. I only saw it because I was looking for it. (Holmes; Silver Blaze) ([Location 331](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=331))
+    - Tags: [[pink]] 
+- What seems like a small thing may be of great significance ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=376))
+    - Tags: [[pink]] 
+- We need to both observe the big picture - forest - and the details - trees - Sometimes the trivial or the most immaterial aspect of a case may be the most important but we need to learn how to separate between trifles that matter and those that don’t ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=380))
+    - Tags: [[pink]] 
+- What have we overlooked? ([Location 395](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=395))
+    - Tags: [[pink]] 
+- Sometimes we overlook that which is most obvious In searching for the obscure, do not overlook the obvious. (James Alexander Lindsay) ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=397))
+    - Tags: [[obvious adams]] [[blind spots]] 
+- What we see is all we think is there- What often leads us astray in an investigation is that we adopt the theory which is most likely to account for the “visible” and found facts but what if the important is left out? What is not reported, withheld, hidden? If we don’t see this evidence, why not? Is it not normally possible to see? Is it being hidden from us - deliberate or not? Can’t it be seen? Or have we not actively looked for it? ([Location 399](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=399))
+    - Tags: [[pink]] 
+- reported, withheld, hidden? If we don’t see this evidence, why not? Is it not normally possible to see? Is it being hidden from us - deliberate or not? Can’t it be seen? Or have we not actively looked for it? ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=400))
+    - Tags: [[pink]] 
+- Sometimes luck comes our way ([Location 403](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=403))
+    - Tags: [[pink]] 
+- Deduction - What inferences can we draw from our observations and facts? ([Location 408](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=408))
+    - Tags: [[pink]] 
+- Reasoning backwards - working back from observations/effects to causes ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=413))
+    - Tags: [[pink]] 
+- In solving a problem of this sort, the grand thing is to be able to reason backward. That is a very useful accomplishment, and a very easy one, but people do not practice it much. In the everyday affairs of life it is more useful to reason forward, and so the other comes to be neglected. (Holmes; A Study in Scarlet) Most people, if you describe a train of events to them, will tell you what the result would be. They can put those events together in their minds, and argue from them that something will come to pass. There are few people, however, who, if you told them a result, would be able to evolve from their own inner consciousness what the steps were which led up to that result. This power is what I mean when I talk of reasoning backward, or analytically. (Holmes; A Study in Scarlet) ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=419))
+    - Tags: [[favorite]] [[historical-determism]] 
+- Sometimes things are not as simple as they seem. But sometimes they are not as complex as they seem, either ([Location 429](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=429))
+    - Tags: [[pink]] 
+- Sometimes the solution is simple Perhaps, when a man has special knowledge and special powers like my own, it rather encourages him to seek a complex explanation when a simpler one is at hand. (Holmes; The Adventure of the Abbey Grange) ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=432))
+    - Tags: [[obliquity]] 
+- Which is the simplest, most natural explanation - the one requiring the least assumptions needed to explain the facts? There never was a sounder logical maxim of scientific procedure than Ockham’s razor...before you try a complicated hypothesis, you should make quite sure that no simplification of it will explain the facts equally well. (Charles Sanders Peirce) I was already firmly convinced, Watson, that there were not three separate mysteries here, but one. (Holmes; The Musgrave Ritual) ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=436))
+    - Tags: [[pink]] 
+- But don’t try to over-simplify complex matters - especially when we deal with systems with complicated interactions ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=441))
+    - Tags: [[pink]] 
+- What normally happens in similar situations? Why should this be any different? When you hear hoof beats behind you, don’t expect to see a zebra. (Proverb) Think of common diseases first...“Queer cases” are usually abnormal types of common conditions. (James Alexander Lindsay) Common diseases cause uncommon symptoms more often than uncommon diseases cause common symptoms. (Medical maxim) Sometimes we are saved from error by our lack of knowledge of the finer points of the game. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=448))
+    - Tags: [[base-rates]] [[probability]] 
+- of the finer points of the game. ([Location 452](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=452))
+    - Tags: [[pink]] 
+- As you are aware E is the most common letter in the English alphabet and it predominates to so marked an extent that even in a short sentence one would expect to find it most often. Out of fifteen symbols in the first message four were the same, so it was reasonable to set this down as E. (Holmes; The Dancing Men) ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=460))
+    - Tags: [[pink]] 
+- But sometimes we learn more by looking for differences - not similarities - in situations ([Location 487](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=487))
+    - Tags: [[pink]] 
+- Paradoxically the strange crime is often easier to solve than the common one ([Location 495](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=495))
+    - Tags: [[pink]] 
+- The most difficult crime to track is the one which is purposeless. Now this is not purposeless. Who is it who profits by it? (Holmes; The Naval Treaty) As a rule...the more bizarre a thing is the less mysterious it proves to be. It is your commonplace, featureless crimes which are really puzzling, just as a commonplace face is the most difficult to identify. (Holmes; The Red-Headed League) It is a mistake to confound strangeness with mystery. The most commonplace crime is often the most mysterious, because it presents no new or special features from which ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=501))
+    - Tags: [[pink]] 
+- deductions may be drawn. This murder would have been infinitely more difficult to unravel had the body of the victim been simply found lying in the roadway without any of those outré and sensational accompaniments which have rendered it remarkable. These strange details, far from making the case more difficult, have really had the effect of making it less so. (Holmes; A Study in Scarlet) The larger crimes are apt to be the simpler, for the bigger the crime the more obvious, as a rule, is the motive. (Holmes; A Case of Identity) ([Location 506](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=506))
+    - Tags: [[pink]] 
+- In investigations such as we are now pursuing, it should not be so much asked “what has occurred,” as “what has occurred that has never occurred before.” (C. Auguste Dupin, The Murders in the Rue Morgue) ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=518))
+    - Tags: [[asking the right questions]] [[variant perception]] 
+- When an event differs from what Holmes expect, it draws his attention - What is out of the ordinary or atypical? The absence of something we expect to see or happen is information and a clue in itself ([Location 523](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=523))
+    - Tags: [[pink]] 
+- Holmes expected the relationship to be dog: strangerè Barking. But he observed that the dog didn’t bark. And if the dog didn’t bark it must be because the dog knew the midnight visitor. Then the relationship must have been dog: familiar person ([Location 528](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=528))
+    - Tags: [[pink]] 
+- Negative evidence and events that don’t happen, matter when something implies they should be present or happen ([Location 533](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=533))
+    - Tags: [[pink]] 
+- Strip away things that don’t count and focus on what matters - the core Eliminate possibilities - What can we exclude? - Assuming the true solution or explanation is among the considered possibilities ([Location 566](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=566))
+    - Tags: [[pink]] 
+- What doesn’t matter? What can’t happen? What can’t it be? What can’t be done? ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=577))
+    - Tags: [[favorite]] [[alternate hypothesis]] [[holmes]] 
+- Assume a crime has taken place and we are faced with the problem of how the criminal escaped from a locked room. Sometimes we need to think the other way around. The question is not how the criminal escaped but how he got into the room in the first place. Sometimes one problem solves the other. Test Our Theory- if it disagrees with the facts it is wrong ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=621))
+    - Tags: [[pink]] 
+- Facts don’t lie but we may have interpreted or stated them wrong and therefore drawn the wrong conclusion ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=647))
+    - Tags: [[pink]] 
+- Imagination has its value - It may have been impossible only because we didn’t consider other possibilities ([Location 651](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=651))
+    - Tags: [[pink]] 
+- Check for other possible explanations - What else can explain this? ([Location 653](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=653))
+    - Tags: [[pink]] 
+- We all learn by experience, and your lesson this time is that you should never lose sight of the alternative. (Holmes; Black Peter) Let us weigh the one against the other. (Holmes; The Priory School) “But what are your alternatives?” ([Location 670](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=670))
+    - Tags: [[alternate hypothesis]] [[disjunctive reasoning]] [[opportunity cost]] 
+- And avoid distractions and concentrate on the problem ([Location 694](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=694))
+    - Tags: [[pink]] 
+- And when we don’t get anywhere - accept doing nothing and wait until more evidence is available. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=702))
+    - Tags: [[pink]] [[favorite]] 
+- Distance gives perspective - Sometimes we need to remove ourselves from the problem and get a fresh perspective ([Location 706](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=706))
+    - Tags: [[pink]] 
+- Put yourself in the other person’s shoes ([Location 721](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=721))
+    - Tags: [[pink]] 
+- It we could see the world the way others see it, we easier understand why they do what they do ([Location 730](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=730))
+    - Tags: [[pink]] 
+- Get a different view - talk it over with someone else ([Location 735](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=735))
+    - Tags: [[pink]] 
+- A rule is only a rule if it’s always true I never make exceptions. An exception disproves the rule. (Holmes; The Sign of the Four) Watch out for overconfidence ([Location 761](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=761))
+    - Tags: [[pink]] 
+- Update our beliefs in light of new information I have devised seven separate explanations, each of which would cover the facts as far as we know them. But which ([Location 769](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=769))
+    - Tags: [[pink]] 
+- of these is correct can only be determined by the fresh information which we shall no doubt find waiting for us. (Holmes; The Copper Beeches) Well, now, Watson, let us judge the situation by this new information. (Holmes; Wisteria Lodge) Criticize ourselves - Have we tried to find evidence against what we believe? Why might we be wrong? What have we overlooked? What (new) information or evidence is needed to make us change our mind? When we meet a fact which contradicts a prevailing theory, we must accept the fact and abandon the theory, even when the theory is supported by great names and generally accepted. (Claude Bernard) When we get better understanding or the facts or evidence don’t agree with the theory we must change the theory and change course I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved...as soon as facts are shown to be opposed to it. (Charles Darwin) What do you think of my theory?...at least it covers all the facts. When new facts come to our knowledge which cannot be covered by it, it will be time enough to reconsider it. (Holmes; The Yellow Face) ([Location 770](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=770))
+    - Tags: [[pink]] 
+- Learn from your mistakes - and learn the general lessons ([Location 790](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=790))
+    - Tags: [[pink]] 
+- Do we really have an important case? Deal with things that really matter and that we can do something about ([Location 821](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=821))
+    - Tags: [[pink]] 
+- Don’t think about how to get things done, instead ask whether they’re worth doing in the first place ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=831))
+    - Tags: [[pink]] 
+- A lot of misery comes from what we allow ourselves to get dragged into Avoid danger - we shouldn’t expect to survive when we enter tough seas ([Location 835](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=835))
+    - Tags: [[pink]] 
+- Learn to tell the lions from the lambs Know your enemy - When you bargain with a fox, beware of tricks ([Location 844](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=844))
+    - Tags: [[pink]] 
+- We shouldn’t disregard even a small probability ([Location 852](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=852))
+    - Tags: [[pink]] 
+- The future is hard to predict - even for Holmes It is a formidable difficulty, and I fear that you ask too much when you expect me to solve it. The past and the present are within the field of my inquiry, but what a man may do in the future is a hard question to answer. (Holmes; The Hound of the Baskervilles) ([Location 855](https://readwise.io/to_kindle?action=open&asin=B00DMGK97I&location=855))
+    - Tags: [[pink]]
+

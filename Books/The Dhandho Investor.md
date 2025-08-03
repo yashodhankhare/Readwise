@@ -1,0 +1,522 @@
+---
+tags:
+  - readwise
+---
+
+# The Dhandho Investor
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51wS1wew-dL._SL200_.jpg)
+
+## Metadata
+- Author: [[Mohnish Pabrai]]
+- Full Title: The Dhandho Investor
+- Category: #books
+
+## Highlights
+- Dhandho is thus best described as endeavors that create wealth while taking virtually no risk. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=128))
+    - Tags: [[pink]] 
+- This is not a risk-free bet, but it is a very low-risk, high-return bet. Heads, I win; tails, I don’t lose much! ([Location 290](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=290))
+    - Tags: [[pink]] 
+- A final note on the Marwaris and their ingrained Dhandho ways. Recently, I had dinner with a good Marwari friend of mine, and I asked him how the stereotypical Marwari approaches investing capital in a venture? ([Location 526](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=526))
+    - Tags: [[pink]] 
+- He said, quite nonchalantly, that Marwari businesspeople, even with only a fifth-grade education, simply expect all their invested capital to be returned in the form of dividends in no more than three years. They expect that, after having gotten their money back, their principal investment continues to be worth at least what they invested in it. They expect these to be ultra low-risk bets. Now, folks, this is really good stuff—they don’t teach this at the Harvard Business School. If you simply used this ([Location 527](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=527))
+    - Tags: [[pink]] 
+- Marwari formula before making any investments, let me assure you of two things:   1. You’d take a quick pass on most investments offered to you; and 2. Starting with very little capital, after a few decades you’ll be very wealthy.   Enough said. ([Location 531](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=531))
+    - Tags: [[pink]] 
+- is these nine principles that constitute the Dhandho framework: ([Location 574](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=574))
+    - Tags: [[pink]] 
+- 1. FOCUS ON BUYING AN EXISTING BUSINESS. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=575))
+    - Tags: [[pink]] 
+- 2. BUY SIMPLE BUSINESSES IN INDUSTRIES WITH AN ULTRA-SLOW RATE OF CHANGE. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=579))
+    - Tags: [[pink]] 
+- We see change as the enemy of investments ... so we look for the absence of change. We don’t like to lose money. Capitalism is pretty brutal. We look for ([Location 583](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=583))
+    - Tags: [[pink]] 
+- mundane products that everyone needs.1 —Warren Buffett ([Location 584](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=584))
+    - Tags: [[pink]] 
+- 3. BUY DISTRESSED BUSINESSES IN DISTRESSED INDUSTRIES. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=590))
+    - Tags: [[pink]] 
+- Never count on making a good sale. ([Location 591](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=591))
+    - Tags: [[pink]] 
+- Have the purchase price be so attractive that even a mediocre sale gives good results.2 —Warren Buffett ([Location 591](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=591))
+    - Tags: [[pink]] 
+- The entrance strategy is actually more important than the exit strategy.3 —Eddie Lampert ([Location 594](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=594))
+    - Tags: [[pink]] 
+- While lecturing a group of students at Columbia University, at age 21, Buffett stated:   I will tell you how to become rich. Close the doors. Be fearful when others are greedy. Be greedy when others are fearful.4 —Warren Buffett ([Location 600](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=600))
+    - Tags: [[pink]] 
+- 4. BUY BUSINESSES WITH A DURABLE ([Location 609](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=609))
+    - Tags: [[pink]] 
+- COMPETITIVE ADVANTAGE—THE MOAT. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=609))
+    - Tags: [[pink]] 
+- The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage. The products and services that have wide, sustainable moats around them are the ones that ([Location 610](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=610))
+    - Tags: [[pink]] 
+- deliver rewards to investors.5 —Warren Buffett ([Location 612](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=612))
+    - Tags: [[pink]] 
+- I don’t want an easy business for competitors. I want a business with a moat around it. I want a very valuable castle in the middle and then I want the duke who is in charge of that castle to be very honest and hardworking and able. Then I want a moat around that castle. The moat can be ([Location 625](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=625))
+    - Tags: [[pink]] 
+- various things: The moat around our auto insurance business, GEICO, is low cost.6 —Warren Buffett ([Location 627](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=627))
+    - Tags: [[pink]] 
+- 5. BET HEAVILY WHEN THE ODDS ARE OVERWHELMINGLY IN YOUR FAVOR. ([Location 632](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=632))
+    - Tags: [[pink]] 
+- According to Munger:   To us, investing is the equivalent of going out and betting against the pari-mutuel system. We look for the horse with one chance in two of winning which ([Location 640](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=640))
+    - Tags: [[pink]] 
+- pays you three to one. You’re looking for a mispriced gamble. That’s what investing is. And you have to know enough to know whether the gamble is mispriced. That’s value investing.7 —Charlie Munger ([Location 642](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=642))
+    - Tags: [[pink]] 
+- 6. FOCUS ON ARBITRAGE. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=653))
+    - Tags: [[pink]] 
+- As Warren Buffett said, speaking at Columbia Law School:   Because my mother isn’t here tonight, I’ll even confess to you that I’ve been an arbitrageur.9 —Warren Buffett ([Location 658](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=658))
+    - Tags: [[pink]] 
+- Humans are creatures of habit. We shave the same side of the face first every day, we comb our hair the same way, and we also don’t change our barber every month. ([Location 679](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=679))
+    - Tags: [[pink]] 
+- 7. BUY BUSINESSES AT BIG DISCOUNTS TO THEIR UNDERLYING INTRINSIC VALUE. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=710))
+    - Tags: [[pink]] 
+- According to Benjamin Graham:   . . . the function of the margin of safety is, in essence, that of rendering unnecessary an accurate estimate of the future.11 —Benjamin Graham ([Location 715](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=715))
+    - Tags: [[pink]] 
+- 8. LOOK FOR LOW-RISK, HIGH-UNCERTAINTY BUSINESSES. ([Location 718](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=718))
+    - Tags: [[pink]] 
+- 9. IT’S BETTER TO BE A COPYCAT THAN AN INNOVATOR. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=728))
+    - Tags: [[pink]] 
+- And that’s the Dhandho framework. To summarize: • Invest in existing businesses. • Invest in simple businesses. • Invest in distressed businesses in distressed industries. • Invest in businesses with durable moats. • Few bets, big bets, and infrequent bets. • Fixate on ([Location 734](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=734))
+    - Tags: [[pink]] 
+- arbitrage. • Margin of safety—always. • Invest in low-risk, high-uncertainty businesses. • Invest in the copycats rather than the innovators. ([Location 739](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=739))
+    - Tags: [[pink]] 
+- According to Charlie Munger: If you stop to think about it, a pari-mutuel system is a market. Everybody goes there and bets and the odds change based on what’s bet. That’s what happens in the stock market.2 —Charlie Munger ([Location 770](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=770))
+    - Tags: [[pink]] 
+- Dhandho 102: Invest in Simple Businesses The advantages of buying a fraction of an existing business are pretty clear, but before we buy, we must know its intrinsic value. How else would we know if it’s a good deal at a given price? What is the intrinsic value of a business? Is there a general formula? How do we figure it ([Location 791](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=791))
+    - Tags: [[pink]] 
+- out? Every business has an intrinsic value, and it is determined by the same simple formula. John Burr Williams was the first to define it in his The Theory of Investment Value published in 1938.1 Per Williams, the intrinsic value of any business is determined by the cash inflows and outflows—discounted at an appropriate interest rate—that can be expected to occur during the remaining life of the business. The definition is painfully simple. ([Location 794](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=794))
+    - Tags: [[pink]] 
+- To illustrate let’s imagine that toward the end of 2006, a neighborhood gas station is put up for sale, and the owner offers it for $500,000. Further, let’s assume that the gas station can be sold for $400,000 after 10 years. Free cash flow—money that can be pulled out of the business—is expected to be $100,000 a year for the next 10 years. Let’s say that we have an… ([Location 799](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=799))
+    - Tags: [[pink]] 
+- Are we better off buying the gas station or taking our virtually assured 10 percent return? I used a Texas Instruments BA-35 calculator to do these discounted cash flow (DCF) calculations. Alternately, you could use Excel. As Table 7.1 demonstrates, the gas station has an intrinsic value of about $775,000. We would be buying it for $500,000, so we’d be buying it for roughly two-thirds of its intrinsic… ([Location 802](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=802))
+    - Tags: [[pink]] 
+- Not surprisingly, the $500,000 invested in our low-risk alternative has a present value of exactly that—$500,000. Investing in the gas station is a better deal than putting the cash in a 10 percent yielding bond—assuming that the expected cash flows and sale price are all but assured. The stock market gives us the price at which thousands of… ([Location 808](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=808))
+    - Tags: [[pink]] 
+- worth. It is simple. Table 7.1 Discounted Cash Flow (DCF) Analysis of the Gas Station Year Free Cash Flow ($) Present Value ($) of Future Cash Flow (10%) 2007 100,000 90,909 2008 100,000 82,645 2009 100,000 75,131 2010 100,000 68,301 2011 100,000 62,092 2012… ([Location 812](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=812))
+    - Tags: [[pink]] 
+- 2016 100,000 38,554 2017 Sale Price 400,000 154,217 Total 768,671 Table 7.2 Discounted Cash Flow (DCF) Analysis of the 10 Percent Yielding Low-Risk Alternative Year Free Cash Flow ($) Present Value ($) of Future Cash Flow… ([Location 824](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=824))
+    - Tags: [[pink]] 
+- 2010 50,000 34,151 2011 50,000 31,046 2012 50,000 28,224 2013 50,000 25,658 2014 50,000 23,325 2015 50,000 21,205 2016 50,000 17,277 2017 Capital… ([Location 834](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=834))
+    - Tags: [[pink]] 
+- When we see a huge gap between the price and intrinsic value of a given business—and that… ([Location 842](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=842))
+    - Tags: [[pink]] 
+- act and buy that business. Let’s take the example of a well-known retail business, Bed Bath and Beyond (BBBY). I have to admit that I have never analyzed BBBY before. I have been to its stores a few times over the years, and it has been a pleasant experience. As I write this, BBBY has a quoted stock price of $36 per share and a market cap of $10.7 billion… ([Location 843](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=843))
+    - Tags: [[pink]] 
+- Let ’s take a look at a few BBBY statistics on Yahoo Finance. BBBY had $505 million in net income for the year ended February 28, 2005. Capital expenditures for the year were $191 million and depreciation was $99 million. The “back of the envelope” net free cash flow was about $413 million. It looks like BBBY is growing revenues 15 percent to 20… ([Location 847](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=847))
+    - Tags: [[pink]] 
+- capital expenditure (capex) spending in 2005. Let’s assume that free cash flow grows by 30 percent a year for the next three years; then grows 15 percent a year for the following three years, and then 10 percent a year thereafter. Further, let’s assume that the business is sold at the end of that year for 10 to 15 times free cash flow plus any excess capital in the business. BBBY has about $850 million in cash in… ([Location 851](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=851))
+    - Tags: [[pink]] 
+- be bought at $10.7 billion. I’d say that’s a pretty good deal, but look at my assumptions—they appear to be pretty aggressive. I’m assuming no hiccups in its execution, no change in consumer behavior, and the ability to grow revenues and cash flows pretty dramatically over the years. What if we made some more conservative assumptions? We can run the numbers with any assumptions. The company has not yet released numbers for the year… ([Location 855](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=855))
+    - Tags: [[pink]] 
+- data to November 2004 data. Nine month revenues increased from $3.7 billion to $4.1 billion from November 2004 to November 2005. And earnings increased from $324 million to $375 million. It looks like the top line is growing at only 10 percent annually and the bottom line by about 15 percent to 16 percent. If we assume that the bottom line growth rate declines by 1 percent a year—going from 15 percent to 5 percent… ([Location 859](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=859))
+    - Tags: [[pink]] 
+- Table 7.3 Aggressive Discounted Cash Flow (DCF) Analysis of Bed Bath and Beyond Year Free Cash Flow ($) Present Value ($MM) of Future Cash Flow Excess cash 850 2006 523 475 2007 679 561 2008 883 663… ([Location 864](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=864))
+    - Tags: [[pink]] 
+- 2013 1625 758 2014 1787 758 2015 1967 758 2016 Sale price 29,500 11,373 Total 19,130 Now we end up with an intrinsic value of $9.6 billion. BBBY’s current market cap is $10.7 billion. If we made the investment, we would end up with an annualized return of… ([Location 874](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=874))
+    - Tags: [[pink]] 
+- where we can earn 10 percent, then BBBY does not look like a good investment at all. So what is BBBY’s real intrinsic value? My best guess is that it lies somewhere between $8 to $18 billion. And in these calculations, I’ve assumed no dilution of stock via option grants, which might reduce intrinsic value further. Table 7.4 Conservative Discounted Cash Flow (DCF) Analysis of Bed Bath and Beyond ([Location 881](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=881))
+    - Tags: [[pink]] 
+- Year Free Cash Flow ($) Present Value ($MM) of Future Cash Flow Excess cash 850 2006 469 426 2007 535 442 2008 604 454 2009 680 464 2010 751 466 2011 827 467 2012 901 462 2013 973 454 2014 1041 442 2015 1103 425 ([Location 886](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=886))
+    - Tags: [[pink]] 
+- 2016 Sale price 11,030 4,252 Total 9,604 With a present price tag of around $11 billion and an intrinsic value range of $8 to $18 billion, I’d not be especially enthused about this investment. There isn’t that much upside and a fairly decent chance of delivering under 10 percent a year. For me, it’s an easy pass. ([Location 897](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=897))
+    - Tags: [[pink]] 
+- We’re getting off track. The objective of this exercise is not to figure out whether to invest in BBBY stock—it is simply to demonstrate that while John Burr Williams’s definition of intrinsic value is painfully simple, calculating it for a given business may not be so simple. I think of BBBY as a fairly straightforward, low-tech, and simple business to understand. Even with its simplicity, we end up with a pretty wide range on its intrinsic value. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=902))
+    - Tags: [[pink]] 
+- If we were to look at a business like Google, it starts getting very complicated. Google has undergone spectacular growth in revenues and cash flow over the past few years. If we extrapolate that into the future, the business appears to be trading at a big discount to its underlying intrinsic value. If we assume that not only is its growth rate likely to taper off, but that its core search business monopoly may be successfully challenged—by Microsoft, Yahoo, or some upstart—the picture is quite different. In that ([Location 906](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=906))
+    - Tags: [[pink]] 
+- scenario, the current valuation of Google might well be many times its underlying intrinsic value. The Dhandho way to deal with this dilemma is painfully simple: Only invest in businesses that are simple—ones where conservative assumptions about future cash flows are easy to figure out. What businesses are simple? Well, simplicity lies in the eye of the beholder. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=909))
+    - Tags: [[pink]] 
+- Simplicity is a very powerful construct. Henry Thoreau recognized this when he said, ([Location 917](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=917))
+    - Tags: [[pink]] 
+- “Our life is frittered away by detail ... simplify, simplify.” Einstein also recognized the power of simplicity, and it was the key to his breakthroughs in physics. He noted that the five ascending levels of intellect were, “Smart, Intelligent, Brilliant, Genius, Simple.” For Einstein, simplicity was simply the highest level of intellect. Everything about Warren Buffett’s investment style is simple. It is the thinkers like Einstein and Buffett, who fixate on simplicity, who triumph. The genius behind E=mc2 is its simplicity and elegance. ([Location 917](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=917))
+    - Tags: [[pink]] 
+- Everything about Dhandho is simple, and therein lies its power. As we see in Chapter 15, the psychological warfare with our brains really gets heated after we buy a stock. The most potent weapon in your arsenal to fight these powerful forces is to buy painfully simple businesses with painfully simple theses for why you’re likely to make a great deal of money and unlikely to lose much. I always write the thesis down. If it takes more than a short paragraph, there is a fundamental problem. If it requires me to fire up Excel, it is ([Location 922](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=922))
+    - Tags: [[pink]] 
+- a big red flag that strongly suggests that I ought to take a pass. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=925))
+    - Tags: [[pink]] 
+- Dhandho 201: Invest in Distressed Businesses in Distressed Industries ([Location 927](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=927))
+    - Tags: [[pink]] 
+- Here are Mr. Buffett’s replies to them: I’d be a bum on the street with a tin cup if the markets were always efficient.1   Investing in a market where people believe in efficiency is ([Location 931](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=931))
+    - Tags: [[pink]] 
+- like playing bridge with someone who has been told it doesn’t do any good to look at the cards.2   It has been helpful to me to have tens of thousands [of students] turned out of business schools taught that it didn’t do any good to think.3   Current finance classes can help you do average.4 ([Location 935](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=935))
+    - Tags: [[pink]] 
+- —Warren Buffett ([Location 940](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=940))
+    - Tags: [[pink]] 
+- The market is mostly efficient. However, there ([Location 944](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=944))
+    - Tags: [[pink]] 
+- is a huge difference between mostly and fully efficient. It is this critical gap that is responsible for Mr. Buffett not being a street corner bum. Buffett’s 1988 Letter to Shareholders of Berkshire Hathaway has a wonderful section on EMTs.5 I strongly recommend reading it. All the shareholders letters are archived on Berkshire Hathaway’s web site and they are a treasure trove of wisdom. About EMTs, Buffett commented: ([Location 944](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=944))
+    - Tags: [[pink]] 
+    - Note: Read this
+- Observing correctly that the market was frequently efficient, [academics and Wall Street pros] went on to conclude incorrectly that it was always efficient. The difference between these propositions is night and day.6 —Warren Buffett ([Location 949](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=949))
+    - Tags: [[pink]] 
+- Alternatively, www.nasdaq.com provides much of the data in condensed form. To get to the data, on the Nasdaq.com main page enter any one ticker symbol of a holding you think one of the value investing stars holds. I know Marty Whitman of Third Avenue has owned Tejon Ranch (TRC) for ([Location 991](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=991))
+    - Tags: [[pink]] 
+- many years, so enter TRC and click on “InfoQuotes,” then click on “Holdings/Insiders,” then click on “Total Number of Holders.” Now click on “Third Avenue Management,” and you get a listing of virtually everything Third Avenue owns in U.S. stocks. You can do a Google search to get the name of the one ticker you need. For example, if I enter “Longleaf 13F” into the Google search field, I get links to many of its holdings. I can use any one ticker on ([Location 993](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=993))
+    - Tags: [[pink]] 
+- Nasdaq.com to get to virtually all its U.S. holdings. ([Location 997](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=997))
+    - Tags: [[pink]] 
+- 5. Take a look at Value Investors Club (VIC; www.valueinvestorsclub.com). It is a wonderful web site started and managed by Joel Greenblatt of Gotham Capital. Greenblatt has perhaps the best audited record of any unleveraged investor on the planet over the past 20 years—a compounded annualized return of 40 percent. We delve more into Greenblatt and his Dhandho approach later in the book. ([Location 998](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=998))
+    - Tags: [[pink]] 
+- Value Investors Club has about 250 members—each of whom had to get approved for membership by presenting a good investment idea. These members are required to post at least two ideas a year. The quality of these ideas is decent as they are peer rated. If a member presents shoddy ideas, he or she is likely to lose membership privileges. Every week the best idea (judged by VIC management) gets $5,000. The primary benefit of membership is the ([Location 1000](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1000))
+    - Tags: [[pink]] 
+- ability to access ideas in real time. However, as a guest, you can access the same content with a 2-month delay. It is very much worth looking through VIC for distressed situations. Start with the highest rated ideas and work downward from there. ([Location 1003](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1003))
+    - Tags: [[pink]] 
+- How do we know when a business has a hidden moat and what that moat is? The answer is usually visible from looking at its financial statements. Good businesses with good moats, like our barber, generate high returns on invested capital. The balance sheet tells us the amount of capital ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1046))
+    - Tags: [[pink]] 
+- deployed in the business. The income and cash flow statements tell us how much they are earning off that capital. So, if a Chipotle store costs $700,000 to open and it generates $250,000 a year in free cash flow, it’s a damn good business. Every three years it can take that cash flow and open another Chipotle. When it starts franchising, the return on invested capital is exponentially higher. Throughout history, kings have sought to build heavily fortified castles ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1048))
+    - Tags: [[pink]] 
+- with ever-widening and deeper moats. At the same time, the marauding invaders continued to attack unabated and have endlessly improved the tools, techniques, and armies at their disposal to capture these prize castles. It is virtually a law of nature that no matter how well fortified and defended a castle is, no matter how wide or deep its moat is, no matter how many sharks or piranha are in that moat, eventually… ([Location 1052](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1052))
+    - Tags: [[pink]] 
+- eventually declined. The businesses mentioned earlier as having narrow or nonexistent moats—Delta, Gateway, General Motors—all had pretty formidable moats at one time. They have all eroded over time, just like the most well-defended castle eventually falls into the enemy’s hand. Here is… ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1056))
+    - Tags: [[pink]] 
+- 1911, today only one, General Electric, remains in business. . . . That’s how powerful the forces of competitive destruction are. Over the very long term, history shows that the chances of any business surviving in a manner agreeable to a company’s owners are slim at best.1 —Charlie Munger   There is no… ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1060))
+    - Tags: [[pink]] 
+- Google, Microsoft, Toyota, and American Express will all eventually decline and disappear. Some moats are more durable than others. Wells Fargo and American Express were founded over 150 years ago, and amazingly both their moats are as robust as ever today. Amazingly, as an aside, both American Express and Wells Fargo were founded by the same person, Henry Wells.… ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1064))
+    - Tags: [[pink]] 
+- impossible to pick these two out of the large available universe. The odds are very high that, even if the ones you picked were the bluest of the blue chips, they would eventually wither away. In 1997, Arie de Geus wrote a fascinating book called The Living Company.2 Geus studied the life expectancy of companies of all sizes and was very surprised to find that the average… ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1068))
+    - Tags: [[pink]] 
+- formation for a highly successful company to earn a spot on the Fortune 500. Geus found that it typically takes many blue chips less than 20 years after they get on the list to cease to exist. The average Fortune 500 business is already past its prime by the time it gets on the list. Even businesses with durable moats don’t last forever. Thus, when using John Burr Williams’s… ([Location 1072](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1072))
+    - Tags: [[pink]] 
+- We are best off never calculating a discounted cash flow stream for longer than 10 years or expecting a sale in year 10 to be at anything greater than 15 times cash flows at that… ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1076))
+    - Tags: [[pink]] 
+- Dhandho 301: Few Bets, Big Bets, Infrequent Bets Let’s assume you were offered the following odds on a $1 bet: 80 percent chance of winning $21.00 10 percent chance of… ([Location 1079](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1079))
+    - Tags: [[pink]] 
+- Let’s further assume that you had $10,000 to your name and you were allowed to bet as much of that bankroll as you wanted. How much of that $10,000 would you be willing to put at stake to play this game once? The answer is clearly not $10,000, as there is a solid 10 percent chance of being in the… ([Location 1083](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1083))
+    - Tags: [[pink]] 
+- The good news is that exactly 50 years ago a researcher at Bell Labs in New Jersey, Mr. John Larry Kelly Jr. pondered this question and published his findings. Kelly came up with what is now known as the Kelly Formula. Kelly calculated that the optimal… ([Location 1086](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1086))
+    - Tags: [[pink]] 
+- wonderful book written by William Poundstone entitled Fortune’s Formula1 that is well worth reading. Poundstone describes the Kelly Formula beautifully. Michael Mauboussin of Legg Mason recently wrote a paper2 on the Kelly Formula where he used the following illustration: assume you’re offered a coin toss where heads means you get $2 and tails costs you $1. How much of… ([Location 1090](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1090))
+    - Tags: [[pink]] 
+    - Note: Buy this book
+- edge is $0.50 [(0.5 × $2) + (0.5 × −$1)]. The odds are what you win, if you win, or $2. So the Kelly Formula suggests you bet 25 percent ($0.50/$2.00) each time. The first example involves more than 2 outcomes. For a detailed treatise on how to calculate the Kelly bet size for such bets, go to www.cisiova.com/betsize.asp. This web site not only gives the general case Kelly Formula, but the author has generously… ([Location 1094](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1094))
+    - Tags: [[pink]] 
+- Thorp’s paper, “The Kelly Criterion in Blackjack, Sports Betting and the Stock Market.” For the first example, the answer is 89.4 percent… ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1098))
+    - Tags: [[pink]] 
+- The wise ones bet heavily when the world offers them that opportunity. They bet big when they have the odds. And the rest of the time, they don’t. It’s just that simple.3 —Charlie Munger ([Location 1117](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1117))
+    - Tags: [[pink]] 
+- Papa Patel, Manilal, Mittal, and yours truly have always fixated on making very few bets—and each bet is pretty large. All have tried to ([Location 1120](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1120))
+    - Tags: [[pink]] 
+- place bets when the odds were heavily in our favor. This betting lingo is deliberate. To be a good capital allocator, you have to think probabilistically. The most obvious business model entirely based on overt probabilities is a casino. Connoisseurs of blackjack know that the odds change with every card that is dealt. They are always fixating on trying to figure out… ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1121))
+    - Tags: [[pink]] 
+- casinos, the overall odds are soundly with the house and playing blackjack at a casino is a losing proposition. (I have to admit that this hasn’t stopped me yet.) But it wasn’t always a losing proposition. In the 1960s, an MIT math professor, Ed Thorp, used MIT’s computers to run a variety of calculations and came up with optimized blackjack play. Thorp named the optimal play of cards Basic Strategy… ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1125))
+    - Tags: [[pink]] 
+- blackjack players the world over rely on Basic Strategy to optimize their card play. In the 1960s, casinos offered single-deck blackjack and dealt the entire deck. Thorp calculated that players who counted cards and scaled their bets based on the residual cards left in the deck had an edge over the casinos. He used the Kelly Formula to figure out how much of your… ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1128))
+    - Tags: [[pink]] 
+- had an overrepresentation of tens and aces, that was good for the player. If the odds were 52:48 in the favor of the player, the Kelly Formula suggested that the player bet 4 percent of his bankroll. That’s what Thorp would endeavor to do with every hand. For Thorp, this wasn’t an academic exercise. He started frequenting the Nevada casinos and cleaned up.… ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1132))
+    - Tags: [[pink]] 
+- casinos, they didn’t wait to understand. They simply showed him the door and made it very clear that if he ever returned, the reception wouldn’t be so civil. When Thorp published Beat the Dealer,5 players the world over started cleaning up. Casino owners also read Thorp’s book and began to make changes to the game. Over the past four decades, the… ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1136))
+    - Tags: [[pink]] 
+- gambler would figure out a way to beat the system. Then the casinos would figure it out and make another change. Today, most casinos deal from a shoe of six to eight decks. They don’t play the last couple of decks and pit bosses watch the action like hawks. In some casinos, auto shufflers recycle the used cards back in real time—ensuring that the card pool never has an over- or… ([Location 1140](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1140))
+    - Tags: [[pink]] 
+- onerous threats) and decided that he’d be far better off if he applied his talents to a casino where: There were no table limits. The offered odds were vastly better. The house was civil about… ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1144))
+    - Tags: [[pink]] 
+- He found that such a casino existed, and it was the New York Stock Exchange (NYSE) and the fledgling options market. Rumor has it that Thorp figured out something along the lines of the Black-Scholes formula years before Black and Scholes did. He decided not to publish his findings. The Black-Scholes formula is, effectively, Basic Strategy for… ([Location 1149](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1149))
+    - Tags: [[pink]] 
+- was one of the only players armed with this knowledge, Thorp could buy underpriced options and sell overpriced ones—making a killing in the process. Thorp set up a hedge fund, Princeton-Newport Partners. Over a 20-year span, the professor delivered 20 percent annualized returns to his investors with ultra-low volatility. One of his potential investors was actor Paul Newman. Newman once asked Thorp how much he could make playing ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1152))
+    - Tags: [[pink]] 
+- blackjack full-time. Thorp could still beat the casinos with his skilled card counting and replied that it would be about $300,000 a year. Newman then asked him why he wasn’t pursuing it. Thorp looked at him and said that the NYSE and options market “casinos” made him over $6 million a year with miniscule risk. Why pursue $300,000 and take on added risk to life and limb?6 In investing, there is no such thing as a sure bet. Even the most blue-chip ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1156))
+    - Tags: [[pink]] 
+- business on the planet has a probability of not being in business tomorrow. Investing is all about the odds—just like blackjack. Thorp is the most vivid example of a human who has mastered these concepts fully. He has repeatedly played the odds on the Strip and Wall Street over the decades and won handsomely on both fronts—creating a huge fortune for himself and his investors. When an investor… ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1160))
+    - Tags: [[pink]] 
+- the odds are overwhelmingly in your favor, bet heavily. Let’s assume that you have adopted the Dhandho framework and have found an existing publicly traded company with a simple business model. Further, it happens to be a business under temporary distress, and this has led to a collapse in its stock price. The best part—it’s a good business with a durable moat. The business… ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1163))
+    - Tags: [[pink]] 
+- and two to three years out. You’ve found that the current stock price is less than half of the expected intrinsic value in two to three years. What would cause your stock to reach its intrinsic value in a few years at most? Senator William Fulbright fixated on this question and asked Benjamin Graham about it during one of the more interesting… ([Location 1167](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1167))
+    - Tags: [[pink]] 
+- Fulbright: One other question and I will desist. When you find a special situation and you decide, just for illustration, that you can buy for $10 and it’s worth $30, and you take a position, and then you cannot realize it until a lot of other people decide it is worth $30, how is that process brought… ([Location 1171](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1171))
+    - Tags: [[pink]] 
+- Graham: That is one of the mysteries of our business and it is a mystery to me as well as to everybody else. But we know from experience that eventually the market catches up with value.7 Whenever there is a dislocating event like 9/11 or Pearl Harbor, stock prices can be severely impacted in the short… ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1175))
+    - Tags: [[pink]] 
+- spades. The nine events outlined in Table 10.1 all led to double-digit declines in the Dow in a few days or weeks. However, a few months later, the Dow had recovered most, if not all, of the decline. Business-specific microevents for businesses, like the Tylenol scare, the Exxon Valdez oil spill, or the American Express “salad oil crisis” in the 1960s, have similar traits. They… ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1179))
+    - Tags: [[pink]] 
+- prices did recover to more rational levels. Table 10.1 DJIA Declines and Subsequent Performance after Crisis Events… ([Location 1183](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1183))
+    - Tags: [[pink]] 
+- or overpriced business, it will eventually trade around its intrinsic value—leading to an appropriate profit or loss. We can pretty much treat this as a law of investing and hang our hat on it. Thus, if we can determine the intrinsic value of a given business two to three years out and can acquire a stake in that business at a deep discount to its value, profits… ([Location 1187](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1187))
+    - Tags: [[pink]] 
+- I don’t believe that question has ever been answered directly by Mr. Buffett, but there are some clues in his letters to partners from 1964 to 1967: We might invest up to 40% of our net worth in a single security under conditions coupling an extremely high probability that our facts and reasoning are correct with a very low probability ([Location 1206](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1206))
+    - Tags: [[pink]] 
+- that anything could change the underlying value of the investment.10 We are obviously only going to go to 40% in very rare situations—this rarity, of course, is what makes it necessary that we concentrate so heavily, when we see such an opportunity. We probably have had only five or six situations in the nine-year history of the partnerships where we have exceeded 25%. Any such situations are ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1209))
+    - Tags: [[pink]] 
+- going to have to promise very significant superior performance. . . . They are also going to have to possess such superior qualitative and/or quantitative factors that the chance of serious permanent loss is minimal.... In selecting the limit to which I will go in any one investment, I attempt to reduce to a tiny figure the probability that the single… ([Location 1213](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1213))
+    - Tags: [[pink]] 
+- poorer than the Dow.11 —Warren Buffett Note the language that Mr. Buffett uses. He is not talking about sure bets—every investment has a probability of a loss. He fixated on the odds and did not hesitate in placing large bets when the odds were overwhelmingly in his favor. Mr. Buffett generated… ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1216))
+    - Tags: [[pink]] 
+- years. Based on the available facts, let’s assume the conservative odds of this bet are as follows: Odds of a 200 percent or greater return in three years 90 percent Odds of a breakeven return in three years 5 percent Odds of a loss of up to 10 percent in… ([Location 1221](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1221))
+    - Tags: [[pink]] 
+- Based on these odds, the Kelly Formula would suggest betting 98.3 percent of the partnership’s assets of the fund. Mr. Buffett stayed well within the maximum suggested and placed a few other highly favorable bets with the rest of the assets. In the light of these logical facts, it is indeed… ([Location 1227](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1227))
+    - Tags: [[pink]] 
+- top 10 holdings represent just 25 percent of assets. Over one-third of mutual funds have greater than 100 positions each. 12 It is no wonder that 80 + percent of mutual funds consistently lag the S&P 500 Index. It is also no wonder that fewer than 1 in 200 mutual funds delivers long-term annualized performance that beats the S&P 500 by three percent or more.… ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1230))
+    - Tags: [[pink]] 
+- supports this hypothesis. This approach works exceedingly well in making passive investments in the stock market. Finally, as Charlie Munger frequently says, “Invert, Always Invert!” As we examine the investing record of those who place many bets, small bets, and frequent bets, the results are predictably pathetic. Here are some salient observations about the Kelly Formula. Because the… ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1234))
+    - Tags: [[pink]] 
+- wealth goals. No other approach can get you there faster without increasing the odds of a total wipeout. If you overbet what Kelly suggests, it is all but assured that with enough repeated bets, you will end up with nothing. Using the Kelly Formula may lead to relatively high volatility. The formula optimizes just one variable—the maximization of wealth in the least amount of time. It is agnostic… ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1238))
+    - Tags: [[pink]] 
+- price of suboptimal capital allocation. In the real world of portfolio management, an investment manager may have eight noncorrelated favorable bets available simultaneously. Let’s say the Kelly Formula suggests betting the following percentage of your bankroll on each bet (Table 10.2). Since the manager can only invest 100… ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1242))
+    - Tags: [[pink]] 
+- Table 10.3. This looks pretty similar to the allocations Munger and Buffett likely have done historically when they were running their partnerships. It is also similar to the allocations Joel Greenblatt and Eddie Lampert do today. For Greenblatt, typically 80 percent of his assets have always been invested in five of his best ideas. In Table… ([Location 1247](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1247))
+    - Tags: [[pink]] 
+- go a long way toward handling the volatility problem. These bets are significantly below the Kelly maximum. Because they are heavily noncorrelated, the underlying volatility is likely to be significantly tempered—especially if we look at it year over year. The Buffett Partnership has never had a down year, in spite of placing large Kelly-type bets. As far as I know, neither has Greenblatt or… ([Location 1252](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1252))
+    - Tags: [[pink]] 
+- Hypothetical Kelly Formula Suggested Percent of Bankroll to Be Bet on Each of Eight Available Bets Available Bets (%) Bet 1 80 Bet 2 70 Bet 3 60 Bet 4 55 Bet… ([Location 1256](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1256))
+    - Tags: [[pink]] 
+- Suggested Percent of Bankroll to Be Bet on Each of Eight Simultaneous Bets Simultaneous Bets (%) Bet 1 20 Bet 2 17 Bet 3 15 Bet 4 14 Bet 5… ([Location 1266](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1266))
+    - Tags: [[pink]] 
+- Another point worth noting is that we can be off on the probabilities. Anytime we are trying to compute odds for the way the future of a given business is likely to unfold, it is, at best, an approximation. We try to adjust for this by ascribing conservative odds. It might well be that our eight bets all have very favorable odds, but that Bet 6 actually has better odds than Bet… ([Location 1275](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1275))
+    - Tags: [[pink]] 
+- is error prone. In my own portfolios at Pabrai Funds, I adjust for this by simply placing bets at 10 percent of assets for each bet. It is suboptimal, but it takes care of the Bet 6 being superior to Bet 2 problem. Many times the bottom three to four bets outperform the ones I felt the best about. In aggregate, among the 10 positions, the results have been quite satisfactory. Even though it’s not as good as… ([Location 1278](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1278))
+    - Tags: [[pink]] 
+- + percent of the portfolio. Investing is just like gambling. It’s all about the odds. Looking out for mispriced betting opportunities and betting heavily when the odds are overwhelmingly in your favor is the ticket to wealth. It’s all about letting the Kelly Formula dictate the upper bounds of these large bets. Further, because of multiple favorable betting opportunities available in equity markets, the… ([Location 1282](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1282))
+    - Tags: [[pink]] 
+- An enduring Dhandho arbitrage spread is what Warren Buffett called a moat when responding to a question at the 2000 Berkshire Hathaway annual meeting in Omaha, Nebraska:   We like to own castles with large moats filled with sharks and crocodiles that can fend ([Location 1433](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1433))
+    - Tags: [[pink]] 
+- off marauders—the millions of people with capital that want to take our capital. We think in terms of moats that are impossible to cross, and tell our managers to widen their moat every year, even if profits do not increase every year. We think almost all of our businesses have big and widening moats.3 —Warren Buffett ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1436))
+    - Tags: [[pink]] 
+- We know that all Dhandho arbitrage spreads will eventually disappear. The critical question is: How long is the spread likely to last and how wide is the moat? As stated by Mr. Buffett:   The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1452))
+    - Tags: [[pink]] 
+- advantage of any given company and, above all, the durability of that advantage.4 —Warren Buffett   Everything wears out eventually. Even the seemingly permanent Dhandho arbitrage spreads will eventually vanish. That does not mean we can’t invest and make a decent return. It does mean, however, that we need to have some perspective on whether the spread is likely to last 10 months or 10 years. ([Location 1455](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1455))
+    - Tags: [[pink]] 
+- The wider the spread, the better it is. And the more durable it is, the better it is. The difference between Dhandho and traditional arbitrage lies mainly in duration and width of the spread. With Dhandho, this spread is likely to last for many years, and the returns an investor can garner by capturing this spread can be enormous. ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1459))
+    - Tags: [[pink]] 
+- The Intelligent Investor is still the best book on investing. It has the only three ideas you really need: ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1476))
+    - Tags: [[pink]] 
+- 1. Chapter 8—The Mr. Market analogy. Make the stock market serve you. The C section of the Wall Street Journal is my business broker—it quotes me prices every day that I can take or leave, and there are no called strikes. 2. A stock is a piece of a business. Never forget that you are buying a business which has an underlying value based on how ([Location 1478](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1478))
+    - Tags: [[pink]] 
+- much cash goes in and out. 3. Chapter 20—Margin of Safety. Make sure that you are buying a business for way less than you think it is… ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1481))
+    - Tags: [[pink]] 
+- Recall that Einstein’s five ascending levels of intellect were “Smart, Intelligent, Brilliant, Genius, Simple.” When we buy an asset for substantially less than what it’s worth, we reduce downside risk. Graham’s genius was that he fixated on these two joint realities:   1. The bigger the… ([Location 1486](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1486))
+    - Tags: [[pink]] 
+- intrinsic value, the higher the return.   Papa Patel and Manilal have likely never heard of Benjamin Graham. Branson, too, has likely never read any of Graham’s books. Their Dhandho journeys have always been all about the minimization of risk. They’ve always fixated on the seemingly bizarre notion of “the lower the risk, the higher the rewards.” Most of the top-ranked business schools around the world do not understand the fundamentals of margin of safety or Dhandho. For them, low risk and low returns go together as do high risk and high returns. Over a lifetime, we all encounter scores of low-risk, high-return bets. They exist in all facets of life. Business… ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1490))
+    - Tags: [[pink]] 
+- markets is Warren Buffett’s observations about his purchase of Washington Post stock in 1973: We bought all of our [Washington Post (WPC)] holdings in mid-1973 at a price of not more than one-fourth of the then per-share business value of the enterprise. Calculating the price/value ratio required no unusual insights. Most… ([Location 1499](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1499))
+    - Tags: [[pink]] 
+- business value at $400 to $500 million just as we did. And its $100 million stock market valuation was published daily for all to see. Our advantage, rather, was attitude: we had learned from Ben Graham that the key to successful investing was the purchase of shares in good businesses when market prices were at a large… ([Location 1502](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1502))
+    - Tags: [[pink]] 
+- do fine as a business, and intrinsic value grew. Nevertheless, by year-end 1974 our WPC holding showed a loss of about 25%, with a market value of $8 million against our cost of $10.6 million. What we had bought ridiculously cheap a year earlier had become a good bit cheaper as the market, in its infinite wisdom, marked WPC… ([Location 1506](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1506))
+    - Tags: [[pink]] 
+- As an aside, Mr. Buffett hasn’t sold a single share of the Washington Post over the past 33 years of holding the stock. That original $10.6 million dollar investment is now worth over $1.3 billion—over 124 times the original investment. The Washington Post pays a modest dividend that is not included in the 124-times number. That modest… ([Location 1511](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1511))
+    - Tags: [[pink]] 
+- paid for the stock in the first place. Why was the Washington Post trading at such a large discount to intrinsic value in 1973/1974? Mr. Buffett goes on to offer an explanation:   Most institutional investors in the early 1970s, on the other hand, regarded business value… ([Location 1514](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1514))
+    - Tags: [[pink]] 
+- they would buy or sell. This now seems hard to believe. However, these institutions were then under the spell of academics at prestigious business schools who were preaching a newly-fashioned theory: the stock market was totally efficient, and therefore calculations of business value—and even thought, itself—were of no importance in… ([Location 1518](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1518))
+    - Tags: [[pink]] 
+- advantageous in an intellectual contest—whether it be bridge, chess, or stock selection than to have opponents who have been taught that thinking is a waste of energy?)4 —Warren Buffett   Over the past 20 years, there hasn’t been much change in the thinking of institutional… ([Location 1521](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1521))
+    - Tags: [[pink]] 
+- speaking at the 2004 Wesco annual meeting:   Very few people have adopted our approach.... Maybe two percent of people will come into our corner of the tent, and the rest of the ninety-eight percent will believe what they’ve been told… ([Location 1524](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1524))
+    - Tags: [[pink]] 
+- It is instructive to note that Mr. Buffett bought his Washington Post stake at a 75 percent discount to intrinsic value. As Benjamin Graham told Senator Fulbright, all discounts to intrinsic value eventually close. Mr. Buffett knew that this gap was likely to close in a few years. Whenever I make investments, I assume that the gap is highly likely to close in three years or less. My… ([Location 1529](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1529))
+    - Tags: [[pink]] 
+- of gaps close in under 18… ([Location 1532](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1532))
+    - Tags: [[pink]] 
+- Dhandho 402: Invest in Low-Risk, High-Uncertainty Businesses Papa Patel, Manilal, ([Location 1559](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1559))
+    - Tags: [[pink]] 
+- Branson, and Mittal are all about investing in low-risk businesses. Nonetheless, most of the businesses they invested in had a very wide range of possible outcomes. The future performance of these businesses was very uncertain. However, these savvy Dhandho entrepreneurs had thought through the range of possibilities and drew comfort from the fact that very little capital was invested and/or the odds of a permanent loss of capital were extremely low. Both of these are highly desirable characteristics in an investment. ([Location 1561](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1561))
+    - Tags: [[pink]] 
+- Beyond that, the picture was quite fuzzy. Their businesses had a common unifying characteristic—they were all low-risk, high-uncertainty businesses. They hadn’t calculated the Kelly Formula odds but intrinsically understood that there was a good chance of making many times their investment and a very small chance of losing the investment. It was a simple bet: Heads, I win; tails, I don’t lose much! ([Location 1564](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1564))
+    - Tags: [[pink]] 
+- Wall Street sometimes gets confused between risk and uncertainty, and you can profit handsomely from that confusion. The Street just hates uncertainty, and it demonstrates that hate by collapsing the quoted stock price of the underlying business. Here are a few scenarios that are likely to lead to a depressed stock price: High risk, low uncertainty High risk, high uncertainty Low risk, high uncertainty ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1568))
+    - Tags: [[pink]] 
+- The fourth logical combination, low risk and low uncertainty, is loved by Wall Street, and stock prices of these securities sport some of the highest trading multiples. Avoid investing in these businesses. Of the three, the only one of interest to us connoisseurs of the fine art of Dhandho is the low-risk, high-uncertainty combination, which… ([Location 1573](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1573))
+    - Tags: [[pink]] 
+- STEWART… ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1579))
+    - Tags: [[pink]] 
+- A good case study of a low-risk, high-uncertainty business is the situation with Stewart Enterprises (STEI) in 2000. Stewart is a 96-year-old company that had done a roll-up in the funeral service business through the 1990s.1 The funeral services industry had been highly fragmented until it became fashionable in the early 1990s to roll them up into billion-dollar enterprises. Companies… ([Location 1580](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1580))
+    - Tags: [[pink]] 
+- rapid buying sprees of these mom-and-pop businesses at high multiples—ending up heavily debt laden. The mistake all three made was that most of the acquisitions were done for cash rather than stock, and they freely borrowed money to support their acquisition binge. The music stopped when Loewen couldn’t handle its crushing debt load and went bankrupt. Wall Street lost its… ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1584))
+    - Tags: [[pink]] 
+- lenders weren’t interested in further lending and wanted balance sheets deleveraged. With no additional acquisitions, sales went flat. This is not a growth business. Stewart found itself in 2000 with $930 million of long-term debt with about $500 million coming due in 2002. Wall Street began to doubt the debt-servicing ability of all of these funeral service behemoths and priced their equities… ([Location 1587](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1587))
+    - Tags: [[pink]] 
+- share to under $2 per share in two years (Figure 13.1). In the fall of 2000, as I was looking at Value Line’s listing of stocks with the lowest price-to-earnings (P/E) ratios, something jumped out at me. Week after week, there were two stocks that I’d never heard of that were showing up as the lowest P/E stocks in the entire Value Line universe. They were Service Corp. and Stewart Enterprises. Both were sporting P/E… ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1591))
+    - Tags: [[pink]] 
+- 1,600-stock universe trade at under three times earnings is a rarity. Further, I noticed that both these businesses were in the funeral services business. It sounded like a simple business, so I decided to dig deeper. Figure 13.1 Stewart Enterprises’ (STEI) Stock Price Collapse from $28 to $2 from 1998 to… ([Location 1596](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1596))
+    - Tags: [[pink]] 
+- I recalled reading an interesting article in the Chicago Tribune in the mid-1990s. The article delved into the rate of business failure by industry. Of particular… ([Location 1602](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1602))
+    - Tags: [[pink]] 
+- failure by SIC code. I found it interesting that the lowest rate of failure of any class of business was funeral homes. When I thought about it, it made perfect sense: • Families want the last rites of their loved ones to be done right. They don’t go shopping for the low bid. They are likely to follow tradition and use the services of the same funeral home that the family has used in the past. • I don’t… ([Location 1603](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1603))
+    - Tags: [[pink]] 
+- also serves to keeps upstarts down to a trickle. • As Warren Buffett has succinctly stated, industries with rapid change are bad for the investor. The choices that most humans consider for their last rites are pretty set and slow to change over hundreds of years. Even the growing preference for cremations over burials is a gradual shift that existing players have easily adapted to. •… ([Location 1607](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1607))
+    - Tags: [[pink]] 
+- coming decades, leading to an increasing revenue stream for years to come. • While increased life expectancy puts a damper on near-term revenue, pre-need sales counterbalance this trend. Pre-need sales make up about 25 percent of the total revenue for many operators. How would you like to be in a business where… ([Location 1612](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1612))
+    - Tags: [[pink]] 
+- With these characteristics, funeral homes ought to trade at very high premiums and double-digit P/E ratios. Their cash flow has a very high degree of certainty. And yet, here was this bulletproof business being discarded by the Street. There was no clear answer in July 2000 as to how Stewart was going to… ([Location 1616](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1616))
+    - Tags: [[pink]] 
+- have to declare bankruptcy when it defaulted on its debt and tanked the stock. At the time, Stewart had about $700 million in annual revenues and owned about 700 cemeteries and funeral homes in nine countries, with the bulk of them in the United States. Stewart’s tangible book value was $4 per share. It was thus trading at half of book… ([Location 1619](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1619))
+    - Tags: [[pink]] 
+- Stewart’s earnings and operating cash flow for the six months ended April 30, 2000, was about $38 million, or about $0.36 per share. On an annualized basis, it was producing free cash flow of about $0.72 per share. The stock was trading at less than three times cash flow. It was also trading at about one-quarter of annual revenue. On the exterior,… ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1623))
+    - Tags: [[pink]] 
+- The names were maintained since these small funeral homes had tremendous brand equity in their communities, but the back end, merchandising, selling pre-paid funerals, and such were streamlined and corporatized. Each underlying funeral home was an excellent business with lucrative and predictable free cash flow characteristics. The weak balance sheet of the parent company was the culprit. By the… ([Location 1627](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1627))
+    - Tags: [[pink]] 
+- of under $350 million. I concluded that there were five possible scenarios for Stewart over the next 24 months:   1. Each individual funeral home is a distinct standalone business. Stewart was a roll-up that had bought hundreds of family-owned funeral homes. Each had kept the same name. Most customers did not know that ownership had even… ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1631))
+    - Tags: [[pink]] 
+- Presumably, many of the previous owners might buy them back. The company had typically paid eight or more times cash flow for each funeral home. I figured that it should be able to sell boatloads of these back to the original owners for at least four to eight times cash flow. Thus, 100 to 200 homes might be sold… ([Location 1635](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1635))
+    - Tags: [[pink]] 
+- Equity value in 24 months if this scenario played out >$4 per share 2. Stewart’s lenders or bankers could look at the company’s solid cash flow and predictable business model and extend the loan maturities or refinance the debt—especially if the company offered to pay… ([Location 1639](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1639))
+    - Tags: [[pink]] 
+- Odds I ascribed to this scenario playing out 35 percent Equity value in 24 months if this scenario played out >$4 per share 3. Stewart could look for another lender. With the robust cash flows, it was likely to find many takers—especially if it offered… ([Location 1644](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1644))
+    - Tags: [[pink]] 
+- Odds I ascribed to this scenario playing out 20 percent Equity value in 24 months if this scenario played out >$4 per share 4. Stewart goes into bankruptcy. In a bankruptcy reorganization like Stewart, the judge would order that some of the businesses be sold and cash proceeds be used to repay… ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1649))
+    - Tags: [[pink]] 
+- least five to seven times cash flow due to competition among buyers. A few hundred businesses (at most) get sold and the company emerges clean from bankruptcy. Odds I ascribed to this scenario playing out 19 percent Equity value in 24 months if this scenario played out >$2 per share 5. A 50… ([Location 1653](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1653))
+    - Tags: [[pink]] 
+- place that takes Stewart’s equity value to zero.   Odds I ascribed to this scenario playing out 1 percent Equity value in 24 months if… ([Location 1659](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1659))
+    - Tags: [[pink]] 
+- It is clear that there is much uncertainty about how this might play out. The risk of a permanent loss of capital is under 1 percent. It is a textbook example of a situation with ultra high uncertainty and ultra low risk. If presented with such a scenario, Wall Street will irrationally collapse the quoted value of the business. Always take advantage of a situation where Wall Street gets confused between… ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1664))
+    - Tags: [[pink]] 
+- back then, but I didn’t need anything beyond third grade math to know that this is a very favorable bet to make. (As an aside, per the Kelly Formula, about 97 percent of your available bankroll ought to be put on this very favorable bet.) Pabrai Funds invested 10 percent of its assets into Stewart Enterprises at under $2 per share in the third and fourth… ([Location 1668](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1668))
+    - Tags: [[pink]] 
+- A few months later, on a conference call on March 15, 2001, the company announced that it had begun to explore the sale of international funeral homes and cemeteries in Europe, Mexico, and such. International assets comprised about 20 percent of revenues and assets, but weren’t generating much cash flow. Stewart had about $460 million in assets outside the… ([Location 1672](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1672))
+    - Tags: [[pink]] 
+- Stewart was expected to generate $300 to $500 million in cash from these sales. The amazing thing was that management had come up with a better option than I had envisioned. They were going to be able to eliminate the debt without any reduction in their cash flow. The lesson here is that we always have a free upside option on most equity investments… ([Location 1676](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1676))
+    - Tags: [[pink]] 
+- By March 2001, Stewart had paid down $50 + million of debt and cash flow remained strong. A few weeks thereafter, Stewart’s stock price went over $4 per share and I exited. Subsequently, when Stewart got the sales consummated, the stock rallied to $8 per share and traded for quite a while between $6 to $8 per share. Wall Street could… ([Location 1680](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1680))
+    - Tags: [[pink]] 
+- investors like Buffett and Graham have been taking advantage of Mr. Market’s handicap for decades with spectacular results. Take advantage of Wall Street’s handicap by… ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1683))
+    - Tags: [[pink]] 
+- Rapidly changing industries are the enemy of the investor. That’s why all the Dhandho entrepreneurs fixate on industries with minimal long-term change. ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1691))
+    - Tags: [[pink]] 
+- Wall ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1772))
+    - Tags: [[pink]] 
+- Street did not even attempt to handicap this important fact. For them, the entire sector was in meltdown, and the people and what they were saying didn’t matter. Well, they do matter. ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1772))
+    - Tags: [[pink]] 
+- This is great, because whenever Wall Street gets confused, it means we likely can make some money. ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1838))
+    - Tags: [[pink]] 
+- Fear and greed are very much fundamental to the human psyche. As long as humans drive buying and selling decisions in equity markets, pricing will be affected by these fear and greed attributes. When extreme fear sets in, there is likely to be irrational behavior. In that situation, the stock ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1892))
+    - Tags: [[pink]] 
+- market resembles a theater that is filled to capacity. Someone sees some smoke and yells “Fire, Fire!” There is a mad rush for the exits. In the theater called the stock market, you can only exit if someone else buys your seat—each share has to be held by someone! If there is a mass rush to leave the burning theater, what price do you think these seats would go for? The trick is to only buy seats in those theaters where there is a mass exodus and you know that there is no real fire, or it’s already well on its way to being put out. Read ([Location 1894](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1894))
+    - Tags: [[pink]] 
+- voraciously and wait patiently, and from time to time these amazing bets will present themselves. ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=1898))
+    - Tags: [[pink]] 
+- Most mutual funds and hedge funds discuss their holdings at length with their investors from time to time. Mr. Buffett did not disclose most of his holdings to his investors. Even today, Mr. Buffett rarely discusses his public equity portfolio positions. He concluded that investing was not a spectator sport, and he was likely to compromise the all-important independence of thought if he discussed current or potential investments with others. Here are Mr. Buffett’s thoughts on the subject: Despite our policy of candor, we will discuss our activities in marketable securities only to the extent legally required. Good investment ideas are rare, valuable and subject to competitive appropriation just as good product or ([Location 2023](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2023))
+    - Tags: [[pink]] 
+- business acquisition ideas are.16 —Warren Buffett ([Location 2029](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2029))
+    - Tags: [[pink]] 
+- Some would argue that Charlie Munger works with Mr. Buffett and, hence, the team size is at least two. Mr. Buffett and Mr. Munger have an unusual relationship. Mr. Munger lives in Los Angeles while Mr. Buffett is a lifelong resident of Omaha. The two men speak a few times every month on the phone, and they likely meet less than 3 to 4 times a year. Mr. Buffett does consult Mr. Munger from time to time on certain investments or acquisitions, but there are two ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2054))
+    - Tags: [[pink]] 
+- facets to this interaction:   1. For many investments or acquisitions, Mr. Buffett does not consult Mr. Munger at all. For example, when Berkshire acquired General Re, its largest acquisition ever, Mr. Munger did not know it was even in the works until the deal was nearly done. 2. Sometimes Mr. Buffett consults Mr. Munger and if Mr. Munger is negative or skeptical, he proceeds anyway. ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2057))
+    - Tags: [[pink]] 
+- This is not a traditional investment team. These are two individuals who proceed with investments even when they don’t have consensus. One partner sometimes does not even bother to consult the other partner from time to time. If there were such a thing as the Laws of… ([Location 2063](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2063))
+    - Tags: [[pink]] 
+- small team size (ideally one) would be one of these laws. Why is an investment team size of one so critical? Let’s take the example of Buffett putting 40 percent of the Buffett Partnership’s $17 million in assets into American Express (AmEx) in 1963 (see Chapter 10—“Few Bets, Big Bets, Infrequent Bets”). As Charlie Munger says, “Invert, Always Invert.” Let’s assume that there is an investment fund… ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2066))
+    - Tags: [[pink]] 
+- investing record and a 150 + IQ, and their modus operandi is that an investment only gets made when all 10 are in agreement. There is simply no way our 150 + IQ team of 10 would all (1) agree that AmEx was a strong buy; or (2) ever be willing to bet 40 percent of fund assets on this deeply distressed business—even if, by some miracle, they reached consensus to make the investment. Finally, even if this… ([Location 2070](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2070))
+    - Tags: [[pink]] 
+- percent? This is not a hypothetical question. In 1973, when Buffett bought a large stake in the Washington Post, he saw the price cut in half after he had acquired most of his stake. More recently, Berkshire saw the price of USG stock go from $18 to less than $4 (a 75+ percent drop) after they had acquired their stake. It later rose to over $120. As you reduce the size of this 10-person team, the likelihood of making these bets… ([Location 2074](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2074))
+    - Tags: [[pink]] 
+- highest when you have a single, focused, value investor at the helm. Value investing is fundamentally contrarian in nature. The best opportunities lie in investing in businesses that have been hit hard by negativity. Even the pundits of the efficient market theory, Eugene Fama and Ken French, concluded that stocks in the lowest decile of price/book ratios outperformed stocks in the… ([Location 2078](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2078))
+    - Tags: [[pink]] 
+- stocks with the highest price/book ratios (the Googles of the world) in 1963, it would have grown to about $72,000 by 1990. Not bad. However, if you had invested those same dollars in the cheapest businesses, you’d have $915,000 by 1990. I’d say that’s a statistically significant difference. The problem is that the businesses in the lowest deciles are ones “with the most hair on them.” Investing in… ([Location 2082](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2082))
+    - Tags: [[pink]] 
+- loads of these hairy, hated, and unloved businesses just isn’t going to happen. It is the same reason that Joel Greenblatt’s Magic Formula (highlighted in The Little Book That Beats the Market)17 is likely to trounce virtually all active managers with very little work. Nonetheless, most active managers won’t buy… ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2086))
+    - Tags: [[pink]] 
+- These seven Buffett Partnership nuances make it a very unique offering. When I studied them, my conclusion was that, taken together, they accomplished three wonderful results for Mr. Buffett:   1. They attracted just the right kind of long-term investor for Mr. Buffett. The investor base was positively self-selecting ([Location 2095](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2095))
+    - Tags: [[pink]] 
+- based on the rules. 2. They created a wide moat that was virtually impossible for his competitors to cross—forever. 3. They made professional money management a very relaxed, blissful career to follow. Mr. Buffett tapdances to work every single day. ([Location 2098](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2098))
+    - Tags: [[pink]] 
+- In seeking to make ([Location 2108](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2108))
+    - Tags: [[pink]] 
+- investments in the public equity markets, ignore the innovators. Always seek out businesses run by people who have demonstrated their ability to repeatedly lift and scale. It is the Dhandho way. ([Location 2108](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2108))
+    - Tags: [[pink]] 
+- To be a good investor, we need a robust framework for both the buying and selling of stocks. The first 14 chapters of this tome have been primarily focused on the various facets of making great investments. Making an… ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2111))
+    - Tags: [[pink]] 
+- need an equally robust framework for selling. Selling a stock is a more difficult decision than buying one—thus the need for a robust framework and some help from our dear friend Abhimanyu. Abhimanyu is the hero of this chapter. I like to think that one of the reasons he martyred himself was so that we, as modern capitalists, could learn vicariously from his experience and become vastly… ([Location 2113](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2113))
+    - Tags: [[pink]] 
+- ever written. It was penned in Sanskrit in India about 2,000 years ago. While the main subject is a bloody feud between two branches of a North Indian ruling family, the Mahabharata is chock-full of deep philosophical lessons. The family conflict culminates in an epic 18-day battle between the Pandavas and Kauravas. The Pandavas are the good guys while the Kauravas aren’t entirely an above-board… ([Location 2118](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2118))
+    - Tags: [[pink]] 
+- Mahabharata ma-haa-bhaa-rut Pandavas pawn-doves Subhadra sue-bud-rah On the 13th day of the battle, the Kauravas had arranged their army in a deadly chakravyuh battle formation. A welldesigned chakravyuh is an Archimedes Spiral (Figure 15.1) that is virtually impossible to penetrate. The Kaurava chakravyuh was wreaking havoc on… ([Location 2125](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2125))
+    - Tags: [[pink]] 
+- losses they were facing. At this point, the story goes into a 16-year flashback when Lord Krishna was explaining to his pregnant sister, Subhadra, how a chakravyuh could be successfully penetrated all the way to its center. If one can break through and enter a chakravyuh, traverse it to its core, and finally exit, it is very effective at neutralizing the enemy’s leadership at its very center—leading to… ([Location 2130](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2130))
+    - Tags: [[pink]] 
+- to be virtually impossible. Figure 15.1 The Chakravyuh Battle Formation Lord Krishna gave his sister a detailed narrative on how… ([Location 2134](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2134))
+    - Tags: [[pink]] 
+- and successfully traversed to its core. He was about to explain how one could safely exit the spiral when he noticed his sister, bored with the tale, had fallen asleep. Krishna, finding himself without an audience, left the story unfinished. But there was an interested listener present. From his mother’s womb, the unborn Abhimanyu had been keenly absorbing the discourse. Abhimanyu’s father, Arjuna, was the… ([Location 2138](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2138))
+    - Tags: [[pink]] 
+- accomplished warrior. Finding his side sustaining deep losses, he offered to penetrate the chakravyuh—even though he did not know how he would exit once he got to its center. Under pressure, the Pandava leadership reluctantly agreed to let him proceed—planning to follow closely behind to keep him out of trouble. Remembering Lord Krishna’s technique, Abhimanyu successfully entered the… ([Location 2142](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2142))
+    - Tags: [[pink]] 
+- him. However, the Kauravas were successful at sealing off the chakravyuh right after Abhimanyu’s entry, so no additional Pandavas could follow Abhimanyu’s lead. At the center, nine of the best Kaurava warriors battled Abhimanyu simultaneously. Not knowing how to break out of the chakravyuh, Abhimanyu stayed put at the center and put up a brave fight with all nine. In the end,… ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2146))
+    - Tags: [[pink]] 
+- parallels to the decisions confronting equity investors every day. The decision to enter, traverse, and finally exit a chakravyuh is akin to figuring out when to buy, hold, and sell a given stock. The lesson Abhimanyu has for us is to have a… ([Location 2150](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2150))
+    - Tags: [[pink]] 
+- TO ENTER OR NOT TO ENTER—THAT IS… ([Location 2152](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2152))
+    - Tags: [[pink]] 
+- Much of this book has fixated on the various nuances of buying stocks. This is by no means a summary, but here are seven questions that an investor ought to be thinking about before entering any stock market chakravyuh:   1. Is it a business I understand very well—squarely within my… ([Location 2153](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2153))
+    - Tags: [[pink]] 
+- and, with a high degree of confidence, how it is likely to change over the next few years? 3. Is the business priced at a large discount to its intrinsic value today and in two to three years? Over 50 percent? 4. Would I be willing to invest a large part of my net worth into this business? 5. Is the downside… ([Location 2157](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2157))
+    - Tags: [[pink]] 
+- One should only consider buying if the answer to all seven is a resounding yes. If a well-understood business is offered to you at half or less than its underlying intrinsic value two to three years from now, with minimal downside risk, take it. If not, take a pass on… ([Location 2164](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2164))
+    - Tags: [[pink]] 
+- It is amazing to me how many investors buy a stock for $10 and then feel uncomfortable when it drops to $8—prompting them to sell the turkey and restart their quest for the next winner. They entered the chakravyuh lured by the reward at its center, but got… ([Location 2168](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2168))
+    - Tags: [[pink]] 
+- A critical rule of chakravyuh traversal is that any stock that you buy cannot be sold at a loss within two to three years of buying it unless you can say with a high degree of certainty that current intrinsic value is less than the current price the market ([Location 2220](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2220))
+    - Tags: [[pink]] 
+- is offering. ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2221))
+    - Tags: [[pink]] 
+- As a corollary, the only time a stock can be sold at a loss within two to three years of buying it is when both of the following conditions are satisfied:   1. We are able to estimate its present and future intrinsic value, two to three years out, with a very high degree of certainty. 2. The price offered is higher than present or future estimated intrinsic value. ([Location 2231](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2231))
+    - Tags: [[pink]] 
+- While valuations of public companies can go through dramatic change in a matter of a few minutes, real business changes takes months, if not years. ([Location 2247](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2247))
+    - Tags: [[pink]] 
+- Once three years have passed, all the shackles are off. At this point, I would be open to selling at any reasonable price—even if it means a big loss on the investment. Markets are mostly efficient and, in most instances, an undervalued asset will move up and trade around (or even above) its intrinsic value once the clouds have lifted. Most clouds of uncertainty will dissipate in two to three years. ([Location 2253](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2253))
+    - Tags: [[pink]] 
+- One of the best books on value investing I’ve read recently is ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2271))
+    - Tags: [[pink]] 
+- The Little Book That Beats the Market by Joel Greenblatt. 3 I will presume that the reader of this book has already read Greenblatt’s book. His Magic Formula calls for all stocks to be held for exactly a year. Whether a stock declines or appreciates, once you buy a Magic Formula stock, per the algorithm, it cannot be sold for a year. Magic Formula stocks are, in general, deep value stocks. They are mostly stocks where the lion has already roared and the stock has plummeted. The Magic Formula works because most of the roaring, if not all, ends over the course of the year and ([Location 2272](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2272))
+    - Tags: [[pink]] 
+- rationality prevails, eventually leading to, on average, a significantly above-market annualized return. One year is a very good holding time frame, but if you understand the business well before buying it, I believe a longer time frame is fully warranted and justified. The Magic Formula suggests that you buy stocks that you know nothing about and hold for 12 months. It makes logical sense that you’d want to allow a longer holding period on businesses you actually understand well. ([Location 2276](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2276))
+    - Tags: [[pink]] 
+- After three years, if the investment is still underwater, the cause is virtually always a misjudgment on the intrinsic value of the business or its critical value drivers. It could also be because intrinsic value has indeed declined over the years. Don’t hesitate to take a realized loss once three years have passed. Such losses are your best teachers to becoming a better investor. While it is always best to learn vicariously from the mistakes of others, the lessons that really stick are ones we’ve stumbled though ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2388))
+    - Tags: [[pink]] 
+- ourselves. Over time, learning from your stumbles, you’ll begin to notice a diminishing number of unsuccessful chakravyuh attempts. ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2391))
+    - Tags: [[pink]] 
+- Warren Buffett, without fixating on the Kelly Formula, has often highlighted the benefits of concentrated equity ownership:   A lot of great fortunes in the world have been made by owning a single wonderful ([Location 2401](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2401))
+    - Tags: [[pink]] 
+- business. If you understand the business, you do not need to own very many of them.5 —Warren Buffett   And in 2003, he continued:   Really outstanding investment opportunities are rare enough that you should really have a go at it when it comes around, and put a huge portion of your wealth into it. ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2403))
+    - Tags: [[pink]] 
+- I’ve said in the past you should think of investment as though you have a punch card with 20 holes in it. You have to think really hard about each one, and in fact 20 (in a lifetime) is way more than you need to do extremely well as an investor.6 —Warren Buffett   And Charlie Munger observed: ([Location 2407](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2407))
+    - Tags: [[pink]] 
+- This idea (of focused value investing) has zero currency in academic circles. Investment managers don’t feel they will make enough money this way. It’s so foreign to them.7 —Charlie Munger   True to form, most mutual fund managers think nothing of starting several new battles daily—with well over a hundred simultaneous chakravyuh traversals. It is no surprise that over 80 percent of them consistently lag the indexes. As stated ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2412))
+    - Tags: [[pink]] 
+- by Warren Buffett:   Billy Rose used to say that if you have a harem of a hundred girls, you never get to know any of them very well. The trick is to know a lot about what you own, and you don’t own that many things.8 —Warren Buffett   The mantra always is “few bets, big bets, infrequent ([Location 2416](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2416))
+    - Tags: [[pink]] 
+- bets”—all placed when the odds are overwhelmingly in your favor. ([Location 2421](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2421))
+    - Tags: [[pink]] 
+- I enjoyed reading Swensen’s most recent book, Unconventional Success: A Fundamental Approach to Personal Investment.4 The book is written for the individual investor, but it was very surprising for me to read Swensen’s thesis: stick to investing in the indexes. His take ([Location 2455](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2455))
+    - Tags: [[pink]] 
+    - Note: Buy this book
+- is that active investing can work wonders, but for a very small cadre of great managers. It is not for the investing public. Effectively, Swensen is saying do as I say, not as I do. I don’t entirely disagree with Swensen, but we can improve dramatically on Swensen’s recommendations and do vastly better. ([Location 2457](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2457))
+    - Tags: [[pink]] 
+- FIFTY CENT DOLLARS—HIDING IN PLAIN SIGHT! The Magic Formula is a very good place to go hunting for fifty-cent dollar bills. We could keep it very simple, only analyzing Magic Formula stocks day in and day out, and become quite wealthy over time. I strongly recommend this approach. It is simple. You’re shooting fish in a small barrel, and the results are likely to be vastly superior ([Location 2512](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2512))
+    - Tags: [[pink]] 
+- to the indexes. However, here are nine other ponds where we are likely to find more of these fifty-cent dollars.   1. The Value Investors’ Club (VIC) web site is open to the public, and it is loaded with a plethora of fifty-cent dollars. Anyone can view these write-ups on individual stocks on www.valueinvestorsclub.com. This web site was created by Joel Greenblatt. About 250 good value ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2515))
+    - Tags: [[pink]] 
+- investors post two to four of their best ideas every year. Greenblatt awards $5,000 to the best idea each week. The web site costs him $260,000 (plus maintenance costs) to operate and seemingly generates no revenue. Greenblatt has described the web site as “American Idol for Hedge Fund Managers.” He uses the web site to find promising money… ([Location 2520](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2520))
+    - Tags: [[pink]] 
+- this activity alone is millions of dollars a year, and the site has paid for itself many times over. In addition, he uses the ideas on the web site as another feeder for himself. Many Magic Formula stocks have VIC write-ups that can help your research. If an investor just analyzed stocks that are on the Magic Formula and have a VIC writeup, they are likely to do… ([Location 2522](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2522))
+    - Tags: [[pink]] 
+- every week. They list stocks that have lost the most value in the preceding 13 weeks, ones trading at the widest discounts to book value, lowest P/E, highest dividend yield, and so on. It is a wonderful treasure trove to dig in and discover. 3. Look at the 52-week lows on the New York Stock Exchange (NYSE) daily. This is published in many newspapers,… ([Location 2526](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2526))
+    - Tags: [[pink]] 
+- a weekly list of stocks that have hit a 52-week low during the week. Most stocks will be ones you’ve never heard of. Ignore these. Fixate on familiar names and then dig deeper on any that pique your interest. 4. Subscribe to Outstanding Investor Digest (OID; www.oid.com) and Value Investor Insight (www.valueinvestorinsight.com). Both carry detailed… ([Location 2530](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2530))
+    - Tags: [[pink]] 
+- These are likely to deliver another idea or two for you to add to your funnel. 5. Subscribe to Portfolio Reports. It is published by the same people as OID, and it lists the recent buying activity of some of the best money managers in North America. Alternately, you can get close to the same data on Nasdaq.com. If I know that Southeastern Asset Management (Longleaf… ([Location 2534](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2534))
+    - Tags: [[pink]] 
+- “Info Quotes.” This brings up a screen for FFH. Click on “Holdings/Insiders” and then “Total Number of Holders.” Finally, click on “Southeastern Asset Management” and you’ll see all that they own. 6. Another web site that is free and can partly replace Portfolio Reports is Guru Focus (www.gurufocus.com). This is a free web site that tracks the buying and… ([Location 2538](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2538))
+    - Tags: [[pink]] 
+- go treasure hunting. 7. A sister publication of Value Investor Insight is Super Investor Insight. It too tracks the 13-F filings of the super investors of our time. This is another worthwhile subscription to get. 8. Subscribe to the major business publications—Fortune, Forbes, the Wall Street Journal, Barron’s, and BusinessWeek—at a minimum. A tremendous… ([Location 2542](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2542))
+    - Tags: [[pink]] 
+- presented in an easyto-digest format at a super value price. The more you read up on the different companies, people, and industries in these publications, the better you’ll get at securities analysis. That’s the long-term benefit. The short-term reward is that, once in a while, things jump out at you—eventually leading to an investment. As an… ([Location 2546](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2546))
+    - Tags: [[pink]] 
+- biannual Value Investing Congress (www.valueinvestingcongress.com). It is held semiannually in New York City and Hollywood. It is well worth the price of admission. Not only do they teach you to become a better fisherman, but they also provide some fish at half price.   If an investor runs a portfolio of 5 to 10… ([Location 2549](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2549))
+    - Tags: [[pink]] 
+- investment idea or two just every few months. The combination of Magic Formula, VIC, Value Line, OID, Value Investor Insight, Portfolio Reports, Super Investor Insight, Guru Focus, and the various business publications are all… ([Location 2553](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2553))
+    - Tags: [[pink]] 
+- Do not make the fatal mistake of looking at five businesses at once. Learn all you can about the business that jumps out for whatever reason and fixate solely on it. Once you’re at the finish line with your ([Location 2591](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2591))
+    - Tags: [[pink]] 
+- analysis, only then look at the broader circle of competence. ([Location 2592](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2592))
+    - Tags: [[pink]] 
+- Kahlil Gibran had some amazing perspectives on life to share in his little book, The Prophet.1 ([Location 2608](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2608))
+    - Tags: [[pink]] 
+    - Note: Buy this book
+- You give but little when you give of your possessions. It is when you give of yourself that you truly give. For ([Location 2611](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2611))
+    - Tags: [[pink]] 
+- what are your possessions but things you keep and guard for fear you may need them tomorrow? . . . There are those who give little of the much they have—and they give it for recognition and their hidden desire makes their gift unwholesome. And there are those who give and know not pain in giving, nor do they seek joy, nor give with mindfulness of virtue.... Through the hands of such as these ([Location 2612](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2612))
+    - Tags: [[pink]] 
+- God speaks, and from behind their eyes He smiles upon the earth. You often say, “I would give but only to the deserving.” . . . Surely he who is worthy to receive his days and his nights is worthy of all else from you. And he who has deserved to drink from the ocean of life deserves to fill his cup from your little stream. See first that you yourself deserve to be a giver, and an ([Location 2615](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2615))
+    - Tags: [[pink]] 
+- instrument of giving. For in truth it is life that gives onto life—while you, who deem yourself a giver, are but a witness.2 ([Location 2619](https://readwise.io/to_kindle?action=open&asin=B008L042Q4&location=2619))
+    - Tags: [[pink]]
+

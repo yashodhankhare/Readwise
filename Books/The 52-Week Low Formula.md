@@ -1,0 +1,842 @@
+---
+tags:
+  - readwise
+---
+
+# The 52-Week Low Formula
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51wuhauM-PL._SL200_.jpg)
+
+## Metadata
+- Author: [[Luke L. Wiley and Wesley R. Gray]]
+- Full Title: The 52-Week Low Formula
+- Category: #books
+
+## Highlights
+- There is one side to the stock market; and it is not the bull side or bear side, but the right side. —Reminiscences of a Stock Operator by Edwin LeFevre, 1923 ([Location 235](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=235))
+    - Tags: [[pink]] 
+- The conventional view serves to protect us from the painful job of thinking. —John Kenneth Galbraith ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=239))
+    - Tags: [[pink]] 
+- There is nothing like losing all you have in the world for teaching you what not to do. And when you know what not to do in order to lose money, you begin to learn what to do in order to win. Did you get that? You begin to learn! —Reminiscences of a Stock Operator by Edwin LeFevre, 1923 The only function of economic forecasting is to make astrology look respectable. —John Kenneth Galbraith ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=242))
+    - Tags: [[pink]] 
+- Then again, maybe it wasn’t so surprising because I’ve never been one to conform to conventional wisdom and, despite my standardized test scores, I have had one ([Location 270](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=270))
+    - Tags: [[pink]] 
+- big advantage over a lot of other people: a willingness to learn and an internal fire to disprove some of the widely held beliefs of society that kept me working long after most other people would have given up. ([Location 271](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=271))
+    - Tags: [[pink]] 
+- My parents showed me through their actions the value of doing things that go against the status quo—young parents, young marriage, college degree midway through career, the value of a dollar, delayed gratification, and many other actions that challenged the norm. ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=278))
+    - Tags: [[pink]] 
+- It would be years before I would read a book by Berkshire Hathaway cofounder Charlie Munger and ([Location 280](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=280))
+    - Tags: [[pink]] 
+- learn about the seventeenth-century German mathematician Carl Gustav Jacob Jacobi and his cardinal rule: “invert, always invert.” That cardinal rule would become my mantra, the way I thought, the way I solved problems in later years, but I think I innately understood what Jacobi was talking about early on in my life, that many of the… ([Location 281](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=281))
+    - Tags: [[pink]] 
+- Inversion, the way Jacobi described it, is the process of solving problems by first understanding the opposite approach. Understand a desired outcome and, rather than designing a solution for that outcome, design the solution for the opposite. If you are trying to be healthy, figure out all the steps and processes that would make you sick and do the… ([Location 284](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=284))
+    - Tags: [[pink]] 
+- that will ensure that you will become destitute and do the opposite. To hit this critical thinking exercise home, I would like to share with you some of the key points within the commencement speech given by Charlie Munger in 1986 to the Harvard School. Charlie did not tell the graduating class all the ways to be successful… ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=288))
+    - Tags: [[pink]] 
+- Johnny Carson’s three prescriptions to guarantee misery: Be unreliable. Learn only from your own personal experience; minimize what you learn from others. Go down and stay down when you get your first, second, and third severe reverses in the battle of life. I have actually… ([Location 291](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=291))
+    - Tags: [[pink]] 
+- have a fulfilling marriage, ask yourself: What are the surest ways to have a miserable marriage? Or the extreme—what are the surest ways to destroy my marriage? Or get a lack of respect from my kids? Or live a life of mediocrity? In fact, when I think about it, I pretty much think this way consistently. It is not that I am a pessimist… ([Location 295](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=295))
+    - Tags: [[pink]] 
+- and then strive to make the right choices. Do you remember when you were a kid and you set out to complete the hardest mazes? When you started at the end of the maze, you were more likely to be successful at completing it, and faster than others who took the common path—starting at the beginning. If you want to build wealth above and beyond the average, figure out how to attain the average and work backwards from there. If you are the new kid in a school and want to make a bunch of new friends, figure out how you would fail and avoid those steps. It works like this. Identify the desired outcome: I… ([Location 298](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=298))
+    - Tags: [[pink]] 
+- What are the behaviors, the messages from the investment world, the mindset, the emotions, and the investment strategy that could help me guarantee substandard and quite disappointing investment results? Do the opposite: Seek out research that refutes your deeply held beliefs about investing. Seek out individuals, both living and dead… ([Location 308](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=308))
+    - Tags: [[pink]] 
+- objectively study the lack of accuracy of economic forecasts and analysts’ recommendations. Make it a point to understand the various human biases that can negatively impact your desired outcome. Develop a strategy that is… ([Location 312](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=312))
+    - Tags: [[pink]] 
+- Successful people are generally successful thinkers. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=328))
+    - Tags: [[pink]] 
+- If fitting in in junior high is about conformity, the world of finance is the largest seventh-grade lunchroom in the world. True, there are plenty of ([Location 337](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=337))
+    - Tags: [[pink]] 
+- examples of the exceptions. You will read many references to Warren Buffett in the pages that follow. But for every Buffett or Munger, there are literally thousands of men and women selling the same mutual funds recommended by the same analysts, and packaged by the same companies. Why? Well, for one thing, it’s easy. A college graduate can make a nice living recommending index funds and mutual funds. There’s safety in it. The old adage “no one ever ([Location 338](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=338))
+    - Tags: [[pink]] 
+- got fired for buying IBM” was meant to describe the complacency of technology purchasing a couple of decades ago, but it is perhaps even truer in the investing world. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=341))
+    - Tags: [[pink]] 
+- In addition to the quote from Jacobi, one of my favorite quotes is from President Ronald ([Location 345](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=345))
+    - Tags: [[pink]] 
+- I’ve inverted nearly every aspect of investing—not just the mechanical and financial side of it, but the emotional and social forces that influence the way we make investing decisions. And the result of this relentless pursuit is the book you are ([Location 357](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=357))
+    - Tags: [[pink]] 
+- holding now and the principles behind the 52-Week Low formula. There are literally thousands of investing books. Many of them make big promises about overnight gains. Many of them make claims of extraordinary gains in unprecedented short periods of time. A lot of them want to tell you the “secrets” of investing. I’ve read a lot of them. I’ve dissected them. And I have concluded: There are no ([Location 358](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=358))
+    - Tags: [[pink]] 
+- “secrets” to investing well. Good investing comes from strategy and process, not from uncovering some never-before-seen corner of the market. The only rule that really applies is this: buy low, sell high. On the surface, it is simple and it should be. Too many of us… ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=362))
+    - Tags: [[pink]] 
+- caught up in the hype. We have an instinct to follow the herd. We allow emotions—namely, hope and fear—to cloud our judgments. Investing is not as simple as, say, chewing gum, but it doesn’t need to be as complicated as we often make it out to be. We get in our own way when we don’t have… ([Location 365](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=365))
+    - Tags: [[pink]] 
+- you heard a tip from a guy who knows a guy who knows Bill Gates does not mean you know anything at all. Trying to bet on the next big thing is not investing; it is gambling. Feel free to do it, but don’t play with your mortgage money. I often tell clients that investing in the “next big thing” is… ([Location 368](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=368))
+    - Tags: [[pink]] 
+- lighting your living room. It doesn’t make sense. A good investment strategy is as much about mitigating risk as it is about maximizing returns. Investment performance is a long-term construct. If you are reading a book to find one investment… ([Location 371](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=371))
+    - Tags: [[pink]] 
+- thing. Unprecedented gains are about luck, not skill. I would rather focus on the skill that builds over time than rest my chances on the luck that more often than not leads to heartbreak. There’s no such thing as a perfect pick. It may seem like Apple is a good idea or… ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=373))
+    - Tags: [[pink]] 
+- makes sense, but it doesn’t. My batting average with the 25 companies I buy every six months that make up the 52-Week Low strategy is around .700 to .750. That means three out of every four companies on the list grow during the period I own them. This is a terrific return, well above the… ([Location 376](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=376))
+    - Tags: [[pink]] 
+- key is to insulate yourself from being wholly invested in one thing, be it a company or a mutual fund. This time is never different. If rule number one of investing is buy low, sell high, then this is rule number two. At the time I am writing this, both the Dow and the S&P are… ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=378))
+    - Tags: [[pink]] 
+- forever. This doesn’t mean the 52-Week Low is only about not losing money as opposed to making money. Quite the contrary. You’ll see that the strategy consistently outperforms the market, but it doesn’t always outperform the market. Sometimes the market soars… ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=381))
+    - Tags: [[pink]] 
+- what goes up must come down, and this strategy is as focused on managing the inevitable downturn and returning to profitability as quickly as possible as it is about taking advantage of large gains. Healthy skepticism protects the realistic. Not having it leaves… ([Location 383](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=383))
+    - Tags: [[pink]] 
+- difference between the mindset of an investor and that of a believer. The 52-Week Low is designed to take emotion as far out of the equation as possible. Emotion blinds us to opportunity and risk. The reason this strategy performs as well as it does is that it helps to take emotion out… ([Location 386](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=386))
+    - Tags: [[pink]] 
+- As an investor, it’s important to disassociate how you feel about a company from the likelihood that company has of making you money. I always laugh when I read a headline about someone’s hope for a stock or fear of a trend. Hope and fear are not based on data, they are based on response. It… ([Location 388](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=388))
+    - Tags: [[pink]] 
+- being, just like you and everyone you know. But I recognize the risks that go with feeling and have done my best to… ([Location 391](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=391))
+    - Tags: [[pink]] 
+- I may be the last person I ever expected to write a book, but if I’ve learned one thing about life and investments, it is this: never trust what you expect. It’s always better to trust what you can know. I hope you will read the pages that follow with an open yet critical mind, because there is no such thing as certainty, particularly when it comes to investing. But after having spent half my life looking for a better way, this is the closest I believe we can come to it. You will also notice that I don’t just cover the mechanics of investing or the ([Location 399](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=399))
+    - Tags: [[pink]] 
+- filters that drive the 52-Week Low formula in this book. I also cover the biases and cognitive behaviors that drive investors—too often in the wrong direction. Making good investment decisions often requires overcoming these biases and behaviors, going against instinct in pursuit of logic, and sticking with a strategy. I won’t dwell too long on these, as there are a lot of great resources out there that help ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=404))
+    - Tags: [[pink]] 
+- us understand why we make decisions the way we do. But I would be remiss if I ignored the human side of investing completely. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=407))
+    - Tags: [[pink]] 
+- If I have learned anything at all in more than 15 ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=428))
+    - Tags: [[pink]] 
+- years of working in the wealth management industry, it is this: it is a relationship business. The relationships you form with clients are based on your ability to create value—not just monetary value, but real value—in their lives. It’s not all that different from the relationship a reader has with an author. The reader has to invest himself in the author—not just his ([Location 429](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=429))
+    - Tags: [[pink]] 
+- words—in order to derive value from the book. He has to have a feeling that he understands who the author is and what makes him tick before he will lend credence to the author’s thoughts, theories, or ideas. When I’m meeting with a client for the first time, we sit down and talk about each other’s lives long before we talk about business. With existing clients, the meetings follow the ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=432))
+    - Tags: [[pink]] 
+- same pattern. I’m never comfortable ending a meeting without making a human connection. As a financial strategist and adviser, it’s important that clients trust me. As a husband, it’s important that my wife trusts me. As a father, it’s important that my children trust me, and it’s important to me that they know who I am. The same goes for my friendships and other relationships. I want them to trust me, to know me. I want the same of you. I want readers like you to understand who I am so that you will understand the information I’m conveying a little better. I want you to know that I’m someone who cares very deeply about my clients and considers them to be friends and family, not just a name on an account. I take that responsibility seriously. I welcome ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=436))
+    - Tags: [[pink]] 
+- it. ([Location 442](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=442))
+    - Tags: [[pink]] 
+- Luke’s mantra is to invert your analytical ([Location 499](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=499))
+    - Tags: [[pink]] 
+- process and forget about home runs. Instead, he shows you an investment process that removes emotion and behavioral bias—and hits for percentages, powerful percentages. ([Location 499](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=499))
+    - Tags: [[pink]] 
+- “Keep things as simple as possible, but no simpler, ([Location 502](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=502))
+    - Tags: [[pink]] 
+- In academic jargon, “52-Week Low” translates as “low momentum.” And as any empirical researcher can tell you, buying a portfolio of low momentum stocks is typically a sucker ([Location 512](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=512))
+    - Tags: [[pink]] 
+- bet. Nonetheless, Luke inverts the evidence on low momentum portfolios and finds great value among baskets of securities often left for dead by the broader investment and academic community. ([Location 513](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=513))
+    - Tags: [[pink]] 
+- To my business partner and brother, Zach, thank you for being my devil’s advocate while developing this strategy. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=526))
+    - Tags: [[pink]] 
+- investing’s golden rule: Buy low, sell high ([Location 568](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=568))
+    - Tags: [[pink]] 
+- This willingness to go with the status quo is the approach of System 1 thinking, as defined by Nobel-Prize ([Location 576](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=576))
+    - Tags: [[pink]] 
+- Prize winning economist Daniel Kahneman.1 It’s reactive, instinctive, and prone to following the path of least resistance. It’s the kind of thinking that doesn’t seek opportunities to challenge. System 2 thinking, however, takes little for granted. It is a challenging way of thinking because it requires consideration and a willingness to go against the grain, especially when the grain is going in the ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=577))
+    - Tags: [[pink]] 
+- wrong direction. That’s not to say it is purely contrary, but rather, it is devoted to purpose and making the best decisions possible—not simply the easiest decisions. Psychologists refer to this phenomenon of two ways of thinking as the dual process theory. It means that something—a behavior, a response, a cognition—can… ([Location 580](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=580))
+    - Tags: [[pink]] 
+- understanding the difference between them is important, especially in the context of an investment strategy like the 52-Week Low. System 1 thinking is responsive and immediate. It’s the kind of thinking Malcolm Gladwell covers in great detail in his bestselling book Blink. In System 1, we take small bits of… ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=584))
+    - Tags: [[pink]] 
+- System 1 thinking is what tells you that you shouldn’t walk down a dark alley; it’s the way you respond in a heated conversation. It’s not purely emotional, but it is emotive. When in the process of System 1 thinking, your mind is responding, firing a specific kind on neuron that makes unconscious connections. It is thinking… ([Location 588](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=588))
+    - Tags: [[pink]] 
+- the bottom of your television screen flash negative news about a company you own. System 1 thinking is not considered thinking; rather, it is the extremely rapid thinking that keeps you safe, keeps you moving and dictates the process of getting routine things done (shaving, brushing your teeth, etc.) without having to consider… ([Location 590](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=590))
+    - Tags: [[pink]] 
+- you to seek out input, to consider data and extrapolate consequences. Where System 1 is spontaneous, System 2 is more academic. System 2 thinking is how we process context and overcome cognitive biases to make informed decisions. A System 2 thinker—and we are all capable of both kinds of thinking—considers the… ([Location 594](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=594))
+    - Tags: [[pink]] 
+- the heated conversation, but walk away to consider what we really want to say. We see the stock ticker at the bottom of the screen as another source of data or as an impetus to seek more information. System 2 thinking is how we make plans to change our routines and project the long-term benefit of something. The… ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=596))
+    - Tags: [[pink]] 
+- term decisions based on many consistent data points. System 1 is recognizing an opportunity to make a quick buck, while System 2—and the 52-Week Low—is about making good decisions to build wealth. System 1 investing follows preset rules, discourages critical thought, and makes it easy for investors to follow preset paths. It… ([Location 600](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=600))
+    - Tags: [[pink]] 
+- money manager has behind his name (CFA, MBA, PhD), the better the results. Not exactly. These mutual funds are relatively familiar and don’t require a lot of thought, in their mind, so they go that route even when the evidence doesn’t support it. Many individuals and investors don’t take the time to do their homework or challenge their… ([Location 603](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=603))
+    - Tags: [[pink]] 
+- often end up buying into something that is already at or around its high. For all of us, it is much more comfortable emotionally to invest in a mutual fund, index fund, or stock that looks healthy and is favored by Wall Street. We all have this bias in some form, called the conformity bias, and it is one that can severely impact… ([Location 606](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=606))
+    - Tags: [[pink]] 
+- benchmarks over a 10-year period, and yet behavior… ([Location 609](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=609))
+    - Tags: [[pink]] 
+- Where do you have the most risk as an investor? Buying a business that everyone already likes, where enthusiasm is high among investors and ([Location 622](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=622))
+    - Tags: [[pink]] 
+- Wall Street analysts, and that is trading around its 52-Week High? Or buying a business that no one really likes, where enthusiasm is low among investors and Wall Street analysts, and that is trading around its 52-Week Low? Hint: A company that has had really good recent performance has not made you any money. It has made money for those who already own the stock. You would be putting in new money. A ([Location 623](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=623))
+    - Tags: [[pink]] 
+- company that has had a really underwhelming recent performance has not lost you any money. It has lost money for those who already own it. So, which one should you buy? Which one do most investors buy? Remember: If you were truly trying to buy low, then wouldn’t the headlines, analyst recommendations, and investor enthusiasm be pretty underwhelming? If you were truly trying to sell high, ([Location 626](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=626))
+    - Tags: [[pink]] 
+- then wouldn’t the headlines, analyst recommendations, and investor enthusiasm be pretty overwhelming? ([Location 630](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=630))
+    - Tags: [[pink]] 
+- The simple fact remains, however, that no one knows what the future holds. No one. So isn’t it better to make decisions based upon what you can know—the present and the past? ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=640))
+    - Tags: [[pink]] 
+- had the discipline to get better and better at the things I set my eyes on, the focus and drive to not rest until I did, and an innate understanding that relying on other people to shape my self-esteem and confidence didn’t make much sense. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=643))
+    - Tags: [[pink]] 
+- John Kenneth Galbraith sums it up pretty well: “The function of economic forecasting is to make astrology look respectable. ([Location 661](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=661))
+    - Tags: [[forecasting]] 
+- Why do we continue to follow the experts? Not only is it cognitive ease—being lazy and not doing our homework—but it is also another type of ([Location 669](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=669))
+    - Tags: [[pink]] 
+- subconscious thinking, called the halo effect. The halo effect is quite prominent in most of our decision making. It is how we perceive those with whom we interact. Wall Street analysts, the investment community, and all of us have to be mindful of the halo effect. Phil Rosenzweig, writing for McKinsey & Company, explains the halo effect this way: Imagine a company that is ([Location 670](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=670))
+    - Tags: [[pink]] 
+- doing well, with rising sales, high profits, and a sharply increasing stock price. The tendency is to infer that the company has a sound strategy, a visionary leader, motivated employees, an excellent customer orientation, a vibrant culture, and so on. But when that same company suffers a decline—if sales fall and profits shrink—many people are quick ([Location 674](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=674))
+    - Tags: [[pink]] 
+- to conclude that the company’s strategy went wrong, its people became complacent, it neglected its customers, its culture became stodgy, and more. In fact, these things may not have changed much, if at all. Rather, company performance, good or bad, creates an overall impression—a halo—that shapes how we perceive its strategy, leaders, ([Location 676](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=676))
+    - Tags: [[pink]] 
+- employees, culture, and other elements. ([Location 679](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=679))
+    - Tags: [[pink]] 
+- In addition, if you study the stock performance of companies known as glamour stocks versus the stock performance of companies known as despised stocks, who do you think comes out ahead? We assume the glamour stocks do, because it is our confirmation bias that tells us that the more expensive stocks are the better performers. In ([Location 681](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=681))
+    - Tags: [[pink]] 
+- reality, it is often the despised stocks that represent the best opportunity for growth. And it is not just stocks where this bias plays out. Think of the last time you were standing in the grocery store aisle, looking at detergents. Without a pre-established preference, how would you make the decision of which detergent performs the best? Well, packaging may be an influence, but more than likely, you assume the most expensive product is the most effective. It makes sense, right? ([Location 684](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=684))
+    - Tags: [[pink]] 
+- But it is more than likely wrong-headed because the products are probably all made of the same chemicals and have similar effectiveness. James Montier makes a similar argument and comparison with painkillers, branded products versus unbranded, in his study on the placebo effect and glamour stocks.8 Subjects who paid more for their painkillers reported less pain, even when they were given a placebo, than those who paid less. It’s a bias against “cheapness,” as he calls ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=687))
+    - Tags: [[pink]] 
+- it, but it is really a sign of how we are programmed—in System 1, anyway—to defer to price as a measure of quality, how we make decisions based on incomplete or misleading data. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=691))
+    - Tags: [[pink]] 
+- Believe it or not, the 52-Week Low list that had been recommended as fertile investment soil popped up again on page 397 of The Intelligent Investor, Revised Edition, in the paragraph titled, “Looking Under the Right Rocks.” Unlike most people, many of the best professional investors first get interested ([Location 704](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=704))
+    - Tags: [[pink]] 
+- in a company when its share price goes down, not up. Christopher Browne of Tweedy Brown Global Value Fund, William Nygren of the Oakmark Fund, Robert Rodriguez of FPA Capital Fund, and Robert Torray of the Torray Fund all suggest looking at the daily list of the new 52-week lows in the Wall Street Journal or the similar table in the “Market Week” section of Barron’s. That will point you toward stocks and industries that are ([Location 707](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=707))
+    - Tags: [[pink]] 
+- unfashionable or unloved and that thus offer the potential for high returns once perceptions change. The 52-Week Low is the antithesis of System 1 thinking. It is measured, considered, constantly challenged, and disciplined in such a way to account for and avoid cognitive bias and emotion-based decision making… ([Location 711](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=711))
+    - Tags: [[pink]] 
+- Even the best companies in the world—names you know, products you use—go through periods of contraction. Their stock falls, their rate of growth slows, but they are fundamentally sound. In my opinion, these companies going through this kind of cycle or struggle represent the best opportunity for a disciplined investor looking to make smart decisions that have… ([Location 715](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=715))
+    - Tags: [[pink]] 
+- statistical approach to fielding a baseball team profiled in Michael Lewis’s popular… ([Location 719](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=719))
+    - Tags: [[pink]] 
+- Don’t focus on the players on a hot streak; look for the ones with a… ([Location 722](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=722))
+    - Tags: [[pink]] 
+- The 52-Week Low, when you look at it on paper, seems so simple. Almost too simple. We look at companies and judge them… ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=725))
+    - Tags: [[pink]] 
+- Do they have a durable competitive advantage? Are they the kind of company that is hard to compete with, either because they have cornered a difficult market or because competing with them would require an unreasonably high investment by others? What is the purchase value of the company relative… ([Location 727](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=727))
+    - Tags: [[pink]] 
+- would the free cash flow being generated be well in excess of simply investing in a 10-year Treasury bond? After all, the cash flow on a 10-year Treasury bond is said to be “risk-free” while the free cash flow from a company is not without risk. What’s the return on invested capital of the company? Is the company using its… ([Location 730](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=730))
+    - Tags: [[pink]] 
+- shareholder value due to generating returns below its cost of capital? Is it using its money well to create returns, or is it taking on bad investments that don’t pay off? Can it pay off its long-term debt quickly with free cash flow? There are a lot of companies out there that are making a lot of money, but should revenues stall or… ([Location 734](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=734))
+    - Tags: [[pink]] 
+- Finally, is it trading close to its… ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=738))
+    - Tags: [[pink]] 
+- The 52-Week Low formula is based on the idea that even the best companies go through a skid, a downturn in stock value. This is the key ingredient to the strategy because you are buying into a business that is more than likely or completely out of favor with the investing public and Wall Street analysts. Is it better to buy a good business… ([Location 739](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=739))
+    - Tags: [[pink]] 
+- good business that is overvalued, where there is an abundance of capital? Which investment choice would feel most comfortable emotionally? A quote I share with clients is, “If an investment feels really good emotionally to buy, then you may be paying too much for the business.” To paraphrase Warren Buffett, “You want to do business with Mr. Market when he is… ([Location 742](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=742))
+    - Tags: [[pink]] 
+- to do business with you.” Reminder: We don’t just buy any company trading closest to its 52-Week Low; we buy good businesses at attractive valuations that are trading near their 52-Week Lows. The five filters—which will be detailed throughout this book—are in place to ensure that the company in question has more of a mild infection versus a terminal… ([Location 745](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=745))
+    - Tags: [[pink]] 
+- business” at its 52-Week Low versus buying “any business” at its 52-Week Low. If it is the wrong business or it is a business that operates in an industry with poor economics (e.g., the steel industry), then there is a high probability that that company will continue to reset its 52-Week Low and you could permanently lose your investment. The 52-Week Low is a… ([Location 750](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=750))
+    - Tags: [[pink]] 
+- with an end goal—outperforming the market, with less downside risk—and working backwards. It is a logic-based, disciplined approach to narrowing down the 3,000 publicly traded companies in the market to the 25 that represent the best… ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=753))
+    - Tags: [[pink]] 
+- “Return on investment is typically the highest where capital is scarce,” according to Richard Bernstein, CEO of Richard Bernstein Advisors. ([Location 794](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=794))
+    - Tags: [[scarcity mindset]] 
+- The reason this formula is timeless is that the investing public and most of Wall Street suffer from investing myopia. Their time frame for a company is 30 to 90 days, and when the short-term outlook looks dire, millions to billions of dollars flee the company, which creates opportunity for the 52-Week Low investor. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=799))
+    - Tags: [[pink]] 
+- Cognitively, it is a lot easier to agree and listen to noise, when in reality the correct answer was—and often is—to buy. ([Location 826](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=826))
+    - Tags: [[favorite]] [[decision-making]] 
+- Companies, far from being dead on arrival, are more than likely suffering from a cold, but are being left for dead by popular opinion. ([Location 827](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=827))
+    - Tags: [[variant perception]] 
+- Too often, we are looking for secret solutions. We look for those things that will get us to the top when we should be looking for and avoiding the things that will take us to the bottom or, worse, leave us where we are. By inversing the way we approach problems, we don’t need to figure out the “secret”; we simply need to ([Location 844](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=844))
+    - Tags: [[pink]] 
+- avoid the pitfalls. ([Location 846](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=846))
+    - Tags: [[pink]] 
+- If you want to achieve above average outcomes you must be willing to take an unconventional approach. If your approach is conventional and commonly used then you guarantee average results. —Howard Marks, The Most Important Thing: Uncommon Sense for the Thoughtful Investor ([Location 883](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=883))
+    - Tags: [[pink]] 
+- Jacobian Inverse: I would prefer to invest alongside the masses to ensure I achieve average results. It feels comfortable, as there is safety in numbers. I realize there is no use to thinking differently than the investing public, as it is much easier emotionally to be one of many versus one of few. We will all win and lose together ([Location 888](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=888))
+    - Tags: [[pink]] 
+- . ([Location 890](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=890))
+    - Tags: [[pink]] 
+- In 1951, Swarthmore College psychologist ([Location 902](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=902))
+    - Tags: [[pink]] 
+- Solomon Asch began a series of experiments to understand the influence a crowd can have on an individual’s decision-making. In one experiment, seven male students were shown a card with a single line drawn on it. Then they were shown a second card with three lines—each of different lengths—on it and asked to say which line was the same length as the one on the original card. All seven students were ([Location 902](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=902))
+    - Tags: [[pink]] 
+- introduced as participants. All were seated in the same room and could hear the other participants’ responses. But in reality, only one of the students was an actual participant. The other six were a part of the team conducting the study. The test would be given three times. The first two times, the members of… ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=905))
+    - Tags: [[pink]] 
+- gave an incorrect answer. And in all cases, the sole true participant was seated in such a way that he or she would give an answer last. To control his results, Asch recruited 87 “real” participants. Fifty followed the format above—sitting in the room with the six other “participants,” hearing the other answers first, and giving… ([Location 908](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=908))
+    - Tags: [[pink]] 
+- other people to influence their answers. What do you think happened? According to results Asch later published,1 the influence of the crowd is profound and disturbing. The control group performed as expected. Of the 37 participants, the number of incorrect answers given to the… ([Location 912](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=912))
+    - Tags: [[pink]] 
+- alone to make a considered decision, people generally choose correctly. But what about the 50 participants influenced by a band of confederates? They performed distinctly worse. Twenty-five percent never gave an incorrect answer, despite the influence of the group. But 75 percent, a full three-quarters of the participants, gave at least one incorrect response. Why… ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=916))
+    - Tags: [[pink]] 
+- In general, herding is a good thing. This isn’t to say we need conformity—far from it. Nor is it to say that outliers can’t inspire us. But, in general, we seek comfort in each other, and this is positive, except for one place—investments, where joining a pack can defeat one of… ([Location 921](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=921))
+    - Tags: [[pink]] 
+- sell high. Herds, bands of investors gathered around the comforting warmth of a hot stock, end up driving prices up beyond intrinsic value. Those early to the game benefit, but the late ones? Well, they buy high, and after the stock… ([Location 924](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=924))
+    - Tags: [[pink]] 
+- What are the stock market and the investment industries if not a giant, multi-chambered room with other people in it? After all, nearly… ([Location 930](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=930))
+    - Tags: [[pink]] 
+- investments is based upon trends—trends set by the herd, by the folks on the bandwagon. Apple’s stock has doubled? Well, that’s not because of an individual, but millions of individuals agreeing on its value based on the rising price. The rising price is based on millions buying. How is that so different from sitting in a room… ([Location 931](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=931))
+    - Tags: [[pink]] 
+- It’s not. And it’s human nature—particularly if the herd has gotten it right some of the time—to assume the herd offers us safety. It does not. Warren… ([Location 934](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=934))
+    - Tags: [[pink]] 
+- needs no description here, has made fortune after fortune by observing trends, identifying tribes, and running away from them. When everyone else is running from the railroads, he doubles down. When people are running toward tech, he looks to industrial conglomerates. Is he just a contrarian? Does he have a super-secret scientific method? Is he psychic? No. Warren Buffett… ([Location 936](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=936))
+    - Tags: [[pink]] 
+- much a study in human nature as it is in stock valuation. He watches people and looks for the overlooked. He observes trends and tribes and looks the other way for opportunities that run counter to human nature. He has an approach, to be sure, and metrics he uses to judge the real value of a stock—not just its trading value—but uses the herding mentality to filter the lines in his book.… ([Location 940](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=940))
+    - Tags: [[pink]] 
+- point. Popularity is merely a reflection of trend, not a measure of real worth. Investing, at least the 52-Week Low strategy of investing, is based on that which can be measured—data, quantitative analysis that reveals intrinsic value, not just implied or inferred value. Here’s how the fallacy of popularity plays out. Imagine that there are… ([Location 944](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=944))
+    - Tags: [[pink]] 
+- stock, an e-retail company led by a visionary CEO who aims to change the definition of modern-day logistics. He is investing like crazy in new facilities, new tracking measurement systems, new ways of doing one of the oldest business activities in the world. The other is a bricks-and-mortar retailer that has been around for decades. This company was once the talk of the investment town, but… ([Location 948](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=948))
+    - Tags: [[pink]] 
+- bloom, as they say, is off the rose from a popular sentiment perspective, and the company’s stock price has slid to a recent record low. Why? Well, the first company has become a part of the popular lexicon. It is constantly in the news. Its CEO is a celebrity who graces the covers of magazines. He has built a network of popular support that has… ([Location 951](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=951))
+    - Tags: [[pink]] 
+- other CEO, and when you drive by the stores in suburban strip malls, you get a sense of both nostalgia and sadness. Remember when you used to shop that way? Remember when that seemed like a good idea? What if I told you those two companies were Amazon and Best Buy? How would you feel about that? You would, like so many people, gravitate toward… ([Location 955](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=955))
+    - Tags: [[pink]] 
+- the stock price, it seems like a justified investment. In the period between October 31, 2012, and October 31, 2013, Amazon’s stock rose from $232.89 per share to $364.03. That’s 56 percent in growth in 12 months—an excellent return for the millions trying to get in on the action. Surely popular opinion is justified, right? Maybe. But what if I told you… ([Location 959](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=959))
+    - Tags: [[pink]] 
+- growing 181 percent? How does popular opinion factor in there? I will cover what happened with Best Buy in greater detail later in the book, but I use it here to illustrate how popular opinion—herding—often hides real opportunity. Value-investing strategies, like Buffett’s and the 52-Week Low, are not about being contrarian for the sake of being contrarian. It’s not about… ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=963))
+    - Tags: [[pink]] 
+- something that can’t be quantified in real terms to reveal opportunity—and taking a data-centric, disciplined approach to identifying investment opportunities where few others are looking for them. Herding can be a great thing. It’s a way to stay safe and warm, a way to choose a restaurant or a movie, a way to pick a vacation spot. But when it comes to investing, look… ([Location 967](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=967))
+    - Tags: [[pink]] 
+- then, and only then, will you be in a position to truly buy… ([Location 971](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=971))
+    - Tags: [[pink]] 
+- You have to have a measuring stick to know how long the line on the first card is and you have to be willing—if not enthusiastic—to go against the group when you know they are wrong. It’s not a matter of being contrary; it’s a matter of having a system and process in place to reinforce that you’re doing ([Location 976](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=976))
+    - Tags: [[pink]] 
+- the right thing. That’s what the 52-Week Low is for, to give you the confidence in your decisions to look where others are not, to overcome the System 1 bandwagon effect and focus instead on a disciplined approach to making good decisions. ([Location 978](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=978))
+    - Tags: [[pink]] 
+- When a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact. —Warren Buffett Jacobian Inverse: If I wanted a high probability of losing my invested capital, I would look for industries where there is poor economics, low barriers to entry, lack of customer loyalty, and ([Location 986](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=986))
+    - Tags: [[pink]] 
+- readily available alternatives. I want to find businesses where the customer has all the control and the only unique value from the business is that it offers the lowest price with no margin. This brings us to the correct answer—study industries that are known to have good economics, high barriers to entry, customer loyalty, and limited alternatives. ([Location 991](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=991))
+    - Tags: [[pink]] 
+- One of the keys to value investing with the 52-Week Low formula is understanding economics. ([Location 996](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=996))
+    - Tags: [[pink]] 
+- Warren Buffett and others have long held strong beliefs that ([Location 1003](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1003))
+    - Tags: [[pink]] 
+- earnings potential from investing in undervalued companies rests almost solely on the economics of the industry that company is in. Strong economics means a company has a durable competitive advantage that will help safeguard it from the kinds of competitive forces that will prevent an undervalued company from ever achieving or sustaining profitability. So important are industry economics that Buffett and others, like me, won’t even look ([Location 1003](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1003))
+    - Tags: [[pink]] 
+- at a company without first understanding its industry and where it fits into that industry. It doesn’t matter how brilliant the management team is or how much investment it is putting into its future; if the economics don’t add up, walk away. Durable competitive advantages—or competitive moats, as they are sometimes called ([Location 1006](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1006))
+    - Tags: [[pink]] 
+- give companies the ability to adjust to a changing world, fend off upstart competition, and insulate themselves from price-driven competition, daunting supply-side pressures, and overly empowered customers with the ability to dictate price through readily available access to alternatives, low switching costs, and ease of market entry. All of these things require a lot of history. It’s difficult to know what kind of ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1009))
+    - Tags: [[pink]] 
+- moat a relatively young company has. Particularly difficult is understanding how competitive forces will influence profitability without knowing how this young company will respond to competition. That’s why it’s generally established companies that pass this first filter in the 52-Week Low formula—ones with a history of combating or responding to changes in technology, consumer demand, and global logistics. ([Location 1012](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1012))
+    - Tags: [[pink]] 
+- The Five Competitive Forces In 2008, Harvard Business Review published a paper by economist Michael Porter detailing how competitive forces shape the ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1035))
+    - Tags: [[pink]] 
+- economics that determine whether a company has an advantage. The paper, called “The Five Competitive Forces that Shape Strategy,” updated an article he wrote in 1979, and began: “You know that to sustain long-term profitability you must respond strategically to competition.”2 Those five forces are: Threat of New Entrants Bargaining Power of Buyers Threat of Substitute Products or Services ([Location 1037](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1037))
+    - Tags: [[pink]] 
+- Bargaining Power of Suppliers Rivalry among Existing Competitors ([Location 1042](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1042))
+    - Tags: [[pink]] 
+- Howard Marks, in his book The Most Important Thing: Uncommon Sense for the Thoughtful Investor, stated that skepticism and pessimism aren’t synonymous. Skepticism calls for pessimism when optimism is excessive. But it also calls for optimism when pessimism is excessive. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1476))
+    - Tags: [[positive thinking]] [[favorite]] 
+- there are certain mistakes or pitfalls that I’ve seen consistently over ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1522))
+    - Tags: [[pink]] 
+- time. These mistakes are not limited to bad investments. In fact, bad investments tend to be the results of mistakes, not the mistakes themselves. The mistakes I’ve seen over the years happen long before a trade is executed. They are mental mistakes, psychological mistakes, and, for the most part, they are completely avoidable. There are more than five, but these are the most common ones I’ve ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1522))
+    - Tags: [[pink]] 
+- seen and the ones most likely to lead to investor dissatisfaction, disappointment, and poor results. ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1526))
+    - Tags: [[pink]] 
+- Mistake 1: Trusting Your Emotions Instead of Engaging the Mind I’m a fairly emotional guy. I understand the power of feelings, but when it comes to investments, emotions need to take a backseat to logic, rules, and discipline. The most common emotion in money management ([Location 1527](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1527))
+    - Tags: [[pink]] 
+- is fear—fear of losing, fear of missing out, fear of the unknown. Following fear is unfounded optimism. Buying a hot stock—one that’s been on the rise and is making people money—is a fool’s errand. Competition is high, driving the price higher, and overvaluing a company will eventually lead to loss. The same goes for good companies that are on the decline. Holding on to a stock with the ([Location 1530](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1530))
+    - Tags: [[pink]] 
+- hopes that it will rebound makes no sense on paper. It’s only in the murky recesses of our brains and hearts that we can make sense of that. Don’t buy out of hope or fear; don’t invest with your heart on your sleeve. Instead, make sound decisions based on clear rules and principles—like the 52-Week Low formula—and take emotion out of the equation. Benjamin Graham, the “Father of Value ([Location 1533](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1533))
+    - Tags: [[pink]] 
+- Investing,” put it this way: “Individuals who cannot master their emotions are ill-suited to profit from the investment process. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1536))
+    - Tags: [[pink]] 
+- Mistake 2: Lack of Discipline and What is the Ulysses Contract? Discipline is hard. It’s hard to get up on a rainy morning and go for a run. It’s hard to say no to that slice of grandma’s pie. But when it comes to investing, discipline has to be a way of life. You need to have discipline to make good up-front decisions—what to buy and why—and, perhaps most important, the discipline to sell. When I buy a ([Location 1550](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1550))
+    - Tags: [[pink]] 
+- company, I know the exact date I’m going to sell it, regardless of how well it’s doing. It can be just as hard to sell a stock that’s performing well as it is to drag yourself out of bed for that run, but not having a sell discipline could eventually (and inevitably) cost you. Process is vital in life. Having a regimen, a process, helps you maintain your health. What’s a diet if not a process, a checklist to follow? Having ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1554))
+    - Tags: [[pink]] 
+- established processes removes some of the need to make decisions that can be influenced by emotion, timidity, or other external factors. Atul Gawande is a journalist and surgeon widely known as an expert on reducing error, improving efficiency, and improving safety in modern surgery. He lives by a checklist… ([Location 1557](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1557))
+    - Tags: [[pink]] 
+- misconceive how checklists function in complex lines of work. They are not comprehensive how-to guides, whether for building a skyscraper or getting a plane out of trouble. They are quick and simple tools aimed to buttress the skills of expert professionals. And by remaining… ([Location 1561](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1561))
+    - Tags: [[pink]] 
+- thousands of lives.1 Many of you can probably think back to junior high school and remember reading Homer’s Odyssey, the epic tale of Ulysses and his band of men struggling against morality and nature in a tough and unforgiving world. I’m not one of them. To be honest, I don’t remember having ever heard of the… ([Location 1563](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1563))
+    - Tags: [[pink]] 
+- part dealing with the pact Ulysses makes with his men as they sail near the dangerous Sirens. Ulysses knows he will be tempted by the intoxicating song of the Sirens. He knows how hard it will be to resist and that not resisting will surely cost him his life. Some people might believe they have willpower enough to resist temptation,… ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1568))
+    - Tags: [[pink]] 
+- so he asks his men to tie him to the mast of his ship and not release him, no matter how hard he struggles, how much he begs, no matter the promises or threats he makes to let him go. Ulysses understood human frailty the same way Gawande does. He understood that, left to our own devices and without systems in… ([Location 1572](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1572))
+    - Tags: [[pink]] 
+- adopted the insights of Ulysses and Gawande in the form of a Ulysses contract. Essentially, it’s an agreement between an investor and his or her advisor of the course they will take in the event of a catastrophe or euphoria. They look at the road ahead, plan for contingency, and agree to what will be done. They pre-commit to a… ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1575))
+    - Tags: [[pink]] 
+- course of action when things are good—not chasing after boom stocks and crowds, for example—but agreeing to a disciplined approach to ride out tough times—not agreeing to a six-month reassessment and then freaking out and selling two months in, for example. Having rules and means of… ([Location 1578](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1578))
+    - Tags: [[pink]] 
+- investing that can help avoid common pitfalls. Mistake 3: Apathy the Halo Effect It’s always been puzzling to me to see clients accept their adviser’s advice without asking some really hard questions. I’ve seen it time and again. Clients put their money where their advisers tell them to without asking why,… ([Location 1581](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1581))
+    - Tags: [[pink]] 
+- goals and budgets and blithely go where their advisers tell them to go. I want my clients to challenge me. It forces me to work harder, to ask critical questions before they come up, to challenge my own assumptions, and to strengthen my planning. I like it when a new client challenges my… ([Location 1586](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1586))
+    - Tags: [[pink]] 
+- explain it further to them, to make them understand. If I can do that, then I know I’ve done my job. This isn’t to say that investors should be watching their portfolio performance every minute of every day; after all, that’s my job. But they should challenge their advisers and take an active role in decision making.… ([Location 1590](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1590))
+    - Tags: [[pink]] 
+- dictum “trust, but verify.” If the adviser is doing his or her job, if he or she is actively working to develop sound strategies on a client’s behalf, he or she will welcome the challenge. Or, as Warren Buffett once put it: “Wall Street is the only place that people ride to in a Rolls Royce to get advice from those who take the… ([Location 1592](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1592))
+    - Tags: [[pink]] 
+- cognitive bias in which we tend to give too much authority to people based on perceptions instead of real knowledge. Think about it this way. When you meet someone with a PhD, you tend to think he or she has a great amount of intelligence. If you barely graduated from high school, you might be inclined to assume… ([Location 1597](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1597))
+    - Tags: [[pink]] 
+- must know more about something than you could, right? Wrong. The halo effect is the reason anyone might take advice from someone on the radio calling himself, say, Dr. John. We assume he has more insight into relationships for a couple of reasons: 1) He has a radio show on which he dispenses… ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1600))
+    - Tags: [[pink]] 
+- know anything about him? For instance, do we know he’s really a doctor? I know someone with a PhD in mechanical engineering. He has every right to be referred to as “Dr.” But does a strong grasp of calculus qualify him to dispense marriage advice? Not necessarily. He may be no more qualified than I am. And what… ([Location 1604](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1604))
+    - Tags: [[pink]] 
+- if getting on the radio was about topical bona fides, then maybe. But the qualifications for being on the radio probably have more to do with being able to talk for hours on end and create appeal for advertisers than anything else. It’s the halo effect that leads to complacency when we talk about investing. We… ([Location 1607](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1607))
+    - Tags: [[pink]] 
+- natural. As someone who works for a well-respected firm and worked hard for my degrees and professional qualifications, I certainly want those things to be appreciated, but it would be foolish to use them as a basis for simply taking my word for it. Just as we will cover a bit later in the chapter about herds and the… ([Location 1610](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1610))
+    - Tags: [[pink]] 
+- dangerous to take someone’s investment counsel at face value. Do the work. Challenge the logic and don’t be afraid to get your hands dirty. After all, it is your money, your savings, your retirement, your wealth—you should work hard to make sure you feel confident in your decisions. Mistake 4:… ([Location 1613](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1613))
+    - Tags: [[pink]] 
+- and the dissemination of digital media. You can keep tabs on the world, discover new and interesting things, and feel more connected to what’s happening. But the major downside of our always-on culture as it relates to investing is information overload. Investors who make decisions based on a talking-head cable… ([Location 1618](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1618))
+    - Tags: [[pink]] 
+- the TV at any time of day and you’ll be able to find people talking about companies—winners, losers, and all shades between. Stop. Switch to the History Channel or, better yet, turn the TV off and read a book. Taking investment advice from a TV show host is like trying to find an organ donation on Craigslist—a bad idea.… ([Location 1621](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1621))
+    - Tags: [[pink]] 
+- unlike the guy shouting about initial public offerings (IPOs) on MSNBC whose job is to keep you watching, has a vested interest in your long-term success. Develop the strategy that’s right for you and your goals and needs. Leave the stock chasing to the day traders and rest a whole lot easier. The same goes for… ([Location 1624](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1624))
+    - Tags: [[pink]] 
+- opportunity. Let them keep it a secret, and stick to what’s best for you. In “When Less Is More: Simplification and the Art of Investment,”3 James Montier quotes Sir Arthur Conan Doyle and his most famous character, Sherlock Holmes, as inspiration for those looking to limit their knowledge intake. I consider that a man’s… ([Location 1626](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1626))
+    - Tags: [[pink]] 
+- furniture as you choose. A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things, so that he has a difficulty laying his hands upon it. But the skillful workman is very careful… ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1632))
+    - Tags: [[pink]] 
+- tools, which may help him in doing his work, but of these he has a large assortment, and all in the most perfect order. It is a mistake to think that the little room has elastic walls and can distend to any extent. Depend on it; there comes a time when for every addition of knowledge, you forget… ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1634))
+    - Tags: [[pink]] 
+- have useless facts elbowing out the useful ones. Mistake 5: Mistaking Value and the Risk of Familiarity During the dot-com bubble, people were getting rich overnight on IPOs for companies with little or no intrinsic value. Pets.com is, of course, one of the most famous examples and proved to be a harbinger… ([Location 1637](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1637))
+    - Tags: [[pink]] 
+- markets continued to rise, it seemed like the sky was the limit. If you recall, Warren Buffett’s philosophy of value investing was declared dead by the media, who seemed to usher in a new age of investment principles based on nothing more than a craze. We all know what happened. The bubble burst, and all those people who, months… ([Location 1642](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1642))
+    - Tags: [[pink]] 
+- Buffett, however, continued his ascension and remains one of the most successful investors of all time. How? He has maintained a clear focus on value over all else. This devotion to value kept him out of bubble markets, away from crowds, and sitting on the greatest portfolio the world has ever known. A lot… ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1645))
+    - Tags: [[pink]] 
+- cost $1 a share or $200 a share. Price is not important. What is important, in terms of value, is the ratio of what the stock is trading for compared to what the company is worth. Too many investors chase returns instead of seeking value. Returns will eventually lead to a bubble and its inevitable burst. Value never loses… ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1648))
+    - Tags: [[pink]] 
+- Week Low formula, and you’ll find yourself on the right side of history with greater long-term returns and faster recovery times after markets take a dive. Graham also believed that market valuations (stock prices) are often wrong. He used his famous “Mr. Market” parable to highlight a simple truth: stock prices will fluctuate… ([Location 1651](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1651))
+    - Tags: [[pink]] 
+- investors “an opportunity to buy wisely when prices fall sharply and to sell wisely when they advance a great deal.” The same goes for buying familiar companies. Too often, we allow familiarity to cloud our judgment as it relates to price. We see a company, we buy it, thinking it’s a good deal for a company we… ([Location 1654](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1654))
+    - Tags: [[pink]] 
+- important to distinguish between the System 1 thinking, which responds instantly to a stimulus, and System 2, which is measured and considered, as described in Daniel Kahneman’s Thinking, Fast and Slow.4 System 2 thinking may help to ground your decision to buy a familiar company simply… ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1657))
+    - Tags: [[pink]] 
+- of Chip Heath and Amos Tversky, who conducted a series of experiments in which participants were presented a choice between two gambles: one unknown and one they were familiar with. Almost without fail, subjects picked the one with which they were more familiar, even when the odds of winning were lower.… ([Location 1662](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1662))
+    - Tags: [[pink]] 
+- associated with a general sense of comfort with the known and discomfort with—even distaste for and fear of—the alien or distant.” How does the familiarity effect impact investment decisions? Quite simply, by limiting them to the familiar because familiar is often mistaken for better. Mei… ([Location 1665](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1665))
+    - Tags: [[pink]] 
+- Germany, said the familiarity effect often leaves investors heavily under-diversified.6 This means they only invest in companies they’ve heard of or in countries they live in. But, perhaps most dangerous is when investors over-invest or solely invest in the company they work for, which has a double risk. Should… ([Location 1669](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1669))
+    - Tags: [[pink]] 
+- and the value of their savings all at once. The 52-Week Low is designed to identify companies with value potential, regardless of familiarity. At any given time, it is comprised of 25 stocks. The 52-Week Low is designed to mitigate the risks that can come with familiarity. That’s not to say, of course, that the… ([Location 1672](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1672))
+    - Tags: [[pink]] 
+- no bearing on the decision to include them. Understanding the common biases, effects, and mistakes investors make is the first step to avoiding them and is the basis of a systematic, disciplined, approach that overcomes human emotions, instincts… ([Location 1676](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1676))
+    - Tags: [[pink]] 
+- This leads to the correct strategy, which is to set a requirement that any company worth investing in must provide a cash flow multiple over the risk-free rate. This helps to ensure that ([Location 1705](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1705))
+    - Tags: [[pink]] 
+- we are buying a business with a margin of safety. ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1706))
+    - Tags: [[pink]] 
+- Let’s first define the term. I believe free cash flow, owner earnings, and distributable cash flow are all synonymous. Distributable cash flow, as defined by Bruce Greenwald and Paul Sonkin in their book Value Investing from Graham to Buffett and Beyond,2 is the money the owners can extract from the firm and still leave its operations intact. Why is free cash flow so important in the evaluation process? Research has shown ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1721))
+    - Tags: [[pink]] 
+- that free cash flow is less susceptible to accounting manipulations than reported net income. “The income statement gives the company’s accounting profit; the cash flow statement reports what happened to its money,” according to Graham and Dodd’s Security Analysis.3 It continues to say, “Companies that try to cook the books such as Enron or Waste Management can always dress up the earnings ([Location 1725](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1725))
+    - Tags: [[pink]] 
+- statement, at least for a while. But they can’t manufacture cash. ([Location 1730](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1730))
+    - Tags: [[pink]] 
+- But it’s important to differentiate free cash flow yield from the enterprise value of a company. Enterprise value is what it would cost you to buy the entire company (Equity + Debt − Cash). For example, as of December 10, 2013, the market capitalization of Caterpillar Inc. is $54.99 billion, while its enterprise value is ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1738))
+    - Tags: [[pink]] 
+- So this means that Caterpillar has roughly $33 billion in debt. When you a buy a business in the real world, you not only buy the shares from the existing shareholders, but you also inherit the debt obligation as well. This is why only looking at a company’s price-to-earnings (P/E) multiple can be misleading because it does not include the debt side of the business. In fact, you will hear terms like ([Location 1753](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1753))
+    - Tags: [[pink]] 
+- earnings yield, which is a company’s P/E ratio inverted. So if you have a company with a P/E of 20, its earnings yield is 1/20, which is 5 percent. To take the Caterpillar example a step further, what would be its P/E ratio when you include debt? Its P/E would be approximately 25.2, and its earnings yield would be 1/25.2, which is 3.95 percent. Let’s take a look at owner earnings, also known as free cash ([Location 1755](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1755))
+    - Tags: [[pink]] 
+- flow. Of all the landmarks Warren Buffett has established for the world of investing, few can compare in terms of lasting importance to a single paragraph in his 1986 letter to the shareholders of Berkshire Hathaway: [Owner earnings] represent a) reported earnings plus b) depreciation, depletion, amortization, and certain other non-cash charges . . . less c) the average ([Location 1759](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1759))
+    - Tags: [[pink]] 
+- annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume. It’s a mouthful, to be sure, but Buffett changed the way many investors think with that deft stroke of his pen by essentially saying that considering investments as purchasing a small or large portion of a ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1763))
+    - Tags: [[pink]] 
+- company does not give a clear enough picture of the value of that company. Rather, investors—or at least he and those at Berkshire Hathaway—should judge investments as if they are purchasing the entire company. Owner earnings is an approach that asks investors to consider the value of a company should it be purchased outright. “If all you have is a hammer, everything looks like a nail, ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1766))
+    - Tags: [[pink]] 
+- Chris Davis, of the Davis New York Venture Fund, told Morningstar’s David Kathman, CFA, in 1999.6 Davis was explaining why he preferred using owner’s earnings over other traditional measures of P/E. The measurement, he said, gives a better measure of a stock’s true value. It is a more sophisticated measurement, which takes into account all costs (including stock options) to determine the real earnings potential of ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1770))
+    - Tags: [[pink]] 
+- a company. Here’s how I, and many well-known investors, calculate free cash flow: Operating Cash Flow − Capital Costs of Maintaining Current Capacity = Free Cash Flow So, free cash flow is what the business owner could take out of the cash register while still ensuring that the company is staying competitive (… ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1774))
+    - Tags: [[pink]] 
+- The next part of the equation is to find the enterprise value of the business. Market Capitalization + Debt − Cash = Enterprise Value And free cash flow yield: Free Cash Flow/Enterprise Value = Free Cash Flow Yield So, if you had a business with a market cap of $10 but debt… ([Location 1778](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1778))
+    - Tags: [[pink]] 
+- $1 in free cash flow, then its free cash flow yield is $1/$100, or 1 percent. Understanding and calculating the free cash flow yield of a company gives you a sense of how good of an investment it is in real cash return versus what you could receive owning a risk-free Treasury bond. If Treasury bonds provide an investment yield… ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1783))
+    - Tags: [[pink]] 
+- take the risk? Why invest in a company, which is fraught with risk in the form of catastrophe, economic downturn, competitive forces, scandal, and such, when you can make three times as much guaranteed by investing in a Treasury bond? The answer is simple: You wouldn’t. There has to be a margin of safety if… ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1787))
+    - Tags: [[pink]] 
+- the free cash flow yield multiple over the risk-free rate. Benjamin Graham’s The Intelligent Investor has a chapter titled “Margin of Safety,” in which you’ll find the following footnote, summarizing the discussion that followed a lecture he gave in 1972. The margin of safety is the difference between the… ([Location 1791](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1791))
+    - Tags: [[pink]] 
+- interest on bonds, and that margin of safety is the difference which would absorb unsatisfactory developments. At the time the 1965 edition of The Intelligent Investor was written, the typical stock was selling at 11 times earnings, giving about 9 percent return as against 4 percent on bonds. In… ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1795))
+    - Tags: [[pink]] 
+- the following examples: You have the opportunity to buy one ice cream truck. The red truck generates $1,000 in free cash flow and has market capitalization of $10,000. So the red truck has a P/E of 10. The green truck generates $750 in free cash flow and has a market capitalization of $15,000. So the… ([Location 1799](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1799))
+    - Tags: [[pink]] 
+- After doing a little more homework, we discover that the red truck has $20,000 in long-term debt. With this knowledge you now realize you would need $30,000 to buy the entire business ($10,000 + $20,000). So the free cash flow yield of this business is 3.33 percent. This is barely above the risk-free rate of a 10-year Treasury bond. After doing a… ([Location 1803](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1803))
+    - Tags: [[pink]] 
+- would need to buy this business is $5,000 ($15,000 − $10,000). So the free cash flow yield of this business is 15 percent. This business is earning in real cash five times more than the risk-free rate. Which business should you buy or has the greatest margin of safety? A businessman—which is what you are, or are becoming—would buy the green truck. Why?… ([Location 1807](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1807))
+    - Tags: [[pink]] 
+- have distributed out to you. You want to compare this free cash flow yield of 15 percent to what you could earn on a risk-free 10-year Treasury. If the 10-year Treasury is paying 2.75 percent, then you are earning more than 5 times more owning the green truck over a 10-year Treasury. This creates a substantial margin of safety. The red… ([Location 1811](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1811))
+    - Tags: [[pink]] 
+- would not be worth the risk. Remember: The free cash flow yield multiple over the 10-year Treasury bond is known as the margin of safety. If you are going to take on the risk of purchasing a company, the free cash flow yield needs to be more than slightly larger than a 10-year Treasury bond. For the 52-Week Low formula,… ([Location 1814](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1814))
+    - Tags: [[pink]] 
+- year Treasury bond. We don’t want to earn slightly more. We want to earn a lot more in cash over the 10-year treasury, given the risks inherent in investing in common stocks. And while the specific minimum hurdle rate or multiplier is proprietary, it is important to realize that using a multiplier—rather than a… ([Location 1818](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1818))
+    - Tags: [[pink]] 
+- mitigate risk by focusing on the companies with a high… ([Location 1821](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1821))
+    - Tags: [[pink]] 
+- The reason the 52-Week Low is able to mitigate loss and quickly aid recovery is the same as the reason it outperforms the market on the upside: regular and ([Location 1925](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1925))
+    - Tags: [[pink]] 
+- regimented rebalancing of the 25 stocks that make up the strategy. The 52-Week Low is rebalanced twice a year for retirement accounts, and typically once a year for large non-retirement accounts due to the taxation of short-term capital gains versus long-term capital gains. This rebalancing, while focusing on undervalued companies primed for recovery, means not riding losses for ([Location 1926](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1926))
+    - Tags: [[pink]] 
+- very long and increasing the likelihood that companies will be growing aggressively before the market catches up. ([Location 1929](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1929))
+    - Tags: [[pink]] 
+- This inversion should help you realize that if you are feeling concerned or uncomfortable and you’re in a cognitive battle, you may be buying a business at the right price. Remember, when you buy low, the news, the enthusiasm and your emotions surrounding the business are not good. Let’s play a little game. Let’s say I gave you $25 to bid on an item at an ([Location 1983](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1983))
+    - Tags: [[pink]] 
+- auction. It’s a small item, but I told you that if you won the auction, you could keep whatever was left over from the original $25. How aggressively would you bid? Probably not that hard. It’s not your money after all. But what if I gave you $25 and told you the only way to keep it was to win the auction? Would that change your perspective? Would you bid harder because not winning would cost you $25? Well, science tells us ([Location 1986](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1986))
+    - Tags: [[pink]] 
+- that the answer to this last question is a resounding yes. Scientists at New York University conducted a very similar study in 2008, using imaging technology to study brain activity among people given a lottery ticket and those given money to bid at an auction. The lottery folks—those who could gain only from winning—were far less interested (as seen in their brain activity) than those who stood to lose money ([Location 1989](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1989))
+    - Tags: [[pink]] 
+- if they didn’t win an auction. The difference? Fear. Fear is one of the most powerful forces in the human experience. Fear keeps you sharp. It can keep you alive. You can see the power of fear in the lives of the people you know. Imagine the most successful people in your life. They are probably the people least motivated by fear. They take chances. They try new things. They are willing to think outside the ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1993))
+    - Tags: [[pink]] 
+- box. What about the least successful? They probably don’t switch jobs or learn new skills because they are afraid of something—the work it will take, the unknown results. Fear can be crippling. It can be stifling. And, as it relates to your investments, it can prevent you from meeting your goals, or worse, from making the right decisions. So how do you overcome fear? By removing it from the equation. Trying to focus on the positive—winning the lottery will benefit me more than losing an auction will hurt me—is too difficult. Besides, the opposite of fear is not optimism, it’s logic, ([Location 1996](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=1996))
+    - Tags: [[pink]] 
+- and logic-based decisions often require assistance. ([Location 2000](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2000))
+    - Tags: [[pink]] 
+- But fear often has nothing to do with reality. ([Location 2015](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2015))
+    - Tags: [[pink]] 
+- Respected research firm Dalbar conducted a 10-year study1 on “destructive investor behavior” and concluded that most investors are “driven by emotions like fear and greed”; they succumbed to negative behavior like: Pouring money into top ([Location 2015](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2015))
+    - Tags: [[pink]] 
+- performers, expecting winning streaks to go on. Avoiding underperforming areas of the market, expecting recovery to never happen. Abandoning their investment plans and trying to time moves to the market. The results, according to Dalbar, are pretty striking. Between 1993 and 2012, the average stock return was 8.6 percent, while the ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2018))
+    - Tags: [[pink]] 
+- average stock fund investor earned 4.3 percent. The difference—the disparity between real-world performance and investor realization of gains—amounts to what Davis Advisors2 refers to as an “investor behavior penalty.” In other words, investors penalized their own performance through bad behavior, which was usually driven by fear or greed ([Location 2022](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2022))
+    - Tags: [[pink]] 
+- when we became fearful or afraid of something, we would seek out information to disprove our feelings of fear or question where our fear is coming from. As adults, it seems we have forgotten this process from our youth. We must remember to apply that same energy and persistence in challenging our deeply held fears of investing to help avoid its pitfalls or miss logical opportunities. And if you still aren’t ([Location 2032](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2032))
+    - Tags: [[pink]] 
+- convinced, I have a question for you: In the United States, what is more likely to cause your untimely demise: a shark attack or falling airplane parts? Well, if you’ve made it this far into the book, I assume you know the correct answer: falling airplane parts. According to psychologist Daniel Kahneman, author… ([Location 2036](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2036))
+    - Tags: [[pink]] 
+- airplane parts than by a shark attack.3 So why, then, aren’t we all constantly afraid of death by debris? Or why is it that we’ve all got that tingling in our spine whenever we step into the ocean? Fear—illogical, irrational fear. We’ve all seen Jaws and Soul Surfer. The mystique of shark attacks is great in this country, and… ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2040))
+    - Tags: [[pink]] 
+- and therefore perceive the danger as being much higher. Fear often has nothing to do with actual risk. Risk is a logical calculation, not an emotional one. Don’t make fear-based decisions with your investments. Instead, create or follow rules that mitigate risk while giving you a better chance at reward. In August 2011, the New York Times Magazine published a story by journalist… ([Location 2045](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2045))
+    - Tags: [[pink]] 
+- only one was set free. Do you think you can guess which one? Case 1 (heard at 8:50 A.M.): An Arab Israeli serving a 30-month sentence for fraud. Case 2 (heard at 3:10 P.M.): A Jewish Israeli serving a 16-month sentence for assault. Case 3 (heard at 4:… ([Location 2050](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2050))
+    - Tags: [[pink]] 
+- All the information you need to know to figure out which case resulted in a parole is contained in those brief case descriptions. But do you recognize it? If you follow the news, particularly the news about Israel, you probably have some preconceived notions based upon ethnicity or type of crime. If so, you might think a non-violent… ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2054))
+    - Tags: [[pink]] 
+- the cases involved fraud and only one was paroled. What about ethnicity? Do you assume that the Jewish prisoner would be more likely to get paroled than an Arab prisoner because of the complicated ethnic politics of the region? Both lines of thinking make sense, on the surface anyway. But the critical data reveals that which… ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2057))
+    - Tags: [[pink]] 
+- ethnicity of the prisoner, but rather the time of day. The prisoner that was paroled was Case 1—the first case heard in the day. But why is that? Decision fatigue is something we all face. In a world where we are constantly bombarded with information and data, a world where our lives are shaped not just by… ([Location 2060](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2060))
+    - Tags: [[pink]] 
+- every day. And the longer the day goes on, the more decisions we have to make. By the end of the day, we have made hundreds—if not thousands—of decisions, each based on a piece or pieces of data, all considered, all taken into account. And as the day, which was fresh and new in the morning, comes to a close, we are simply… ([Location 2064](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2064))
+    - Tags: [[pink]] 
+- watch whatever is on television; the reason small items like candy and trash magazines are placed at the register in the grocery store. By the time we get to that point in the shopping experience, we are tired of making considered decisions. We have spent time in the produce aisle, at the dairy case, the meat counter, and in the dry goods… ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2068))
+    - Tags: [[pink]] 
+- the counter, grabbing a candy bar seems fine—a no-brainer, literally. It’s the same reason the prisoner in the first case of the morning at that particular Israeli prison had the best shot at receiving parole. By the end of the day, the parole board had made hundreds of decisions—big and small—and it was bound to take the… ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2071))
+    - Tags: [[pink]] 
+- Ariely and Jiwoong Shin published the results of a study they conducted titled, “Keeping Doors Open: The Effect of Unavailability on the Incentives to Keep Options Viable.”5 The study, which was based on a computer game Ariely designed, created two groups of players. The website… ([Location 2074](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2074))
+    - Tags: [[pink]] 
+- participant into a room, and clicking inside the room gave the participant a certain amount of money. The amount of money varied randomly within some range, and that range depended on the room. At any time, the participant could also move to another room with one click.… ([Location 2079](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2079))
+    - Tags: [[pink]] 
+- room) and finding the best source of money (switching rooms). This was the “constant-availability” group. In the “decreased-availability” group, participants played a modified version of this game. In this version . . . there was an added potential cost of losing options. In the end . . . the… ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2081))
+    - Tags: [[pink]] 
+- options open, which leads to suboptimal outcomes. In the aforementioned study, Shin and Ariely also stated, “In a world where maintaining options has no cost, such a tendency would have been nonconsequential. However, we believe that in most day-to-day cases, there is substantial… ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2086))
+    - Tags: [[pink]] 
+- Decision fatigue is a major culprit in making poor investment choices. We are awash in information. We research and study options and, eventually, we get tired, complacent, and even a bit lazy. We take the path of least resistance, make ill-considered choices, and select investments impulsively. Just as the… ([Location 2090](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2090))
+    - Tags: [[pink]] 
+- value, so too is it designed to countermand decision fatigue. The five filters of the formula eliminate thousands of potential investments from consideration, allowing you to use your mental energy to make the right decisions. These filters, like a checklist, keep us focused on what really matters.… ([Location 2093](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2093))
+    - Tags: [[pink]] 
+- aimlessly around the plane, checking gauges at random, filling her capacity for processing data with meaningless distractions and creating the potential to miss the most important items that will keep her and her passengers safe. There’s comfort in that process, in the focus of a system. That comfort goes a long way to… ([Location 2095](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2095))
+    - Tags: [[pink]] 
+- and inevitably making the wrong decision because you are tired or because you want to have as many options as possible. Systems give us clarity and focus and may prevent us from making the wrong choice because of information overload or decision fatigue. ([Location 2098](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2098))
+    - Tags: [[pink]] 
+- For a business to pass this filter it must achieve a minimum return on invested capital (ROIC) to ensure that the company is earning more than ([Location 2127](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2127))
+    - Tags: [[pink]] 
+- its cost of capital (COC). I am interested in identifying businesses that generate ROIC greater than their current COC. I also then study their long-term ROIC results to ensure that the company in question has a knack for achieving ROIC greater than its COC over a 10-year cycle. The concept of ROIC is quite intuitive, as it is the percentage return an investor earns on his invested capital in the ([Location 2128](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2128))
+    - Tags: [[pink]] 
+- company. However, ROIC does not mean much unless you compare it to a company’s COC. If a company is earning 12 percent ROIC and its COC is 10 percent, it is said to be adding economic value. If a company’s COC is 9 percent and its ROIC is 7 percent, it is said to be destroying economic value because every dollar being invested is earning less than the required rate of return of its investors. This evaluation process is ([Location 2131](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2131))
+    - Tags: [[pink]] 
+- known as the economic value added approach, or EVA, among investment bankers and other business evaluators. ROIC > COC = Passes the third filter and moves on to filter 4. ROIC < COC = Fails the third filter and is disregarded. ([Location 2135](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2135))
+    - Tags: [[pink]] 
+- But the message is clear: a stock price ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2146))
+    - Tags: [[pink]] 
+- does not always reflect real economic value. Van Clieaf labels these kinds of companies “value myths” because on the surface they are producing gains for shareholders but underneath they are generating negative returns on their investments in plants, equipment, acquisitions or other items. ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2146))
+    - Tags: [[pink]] 
+- Remember: ROIC < COC = Fails the test and is disregarded. ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2159))
+    - Tags: [[pink]] 
+- But, too often, we confuse the cult of celebrity CEO personality with management. Vision is not the same thing as stewardship. Innovation is not the ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2166))
+    - Tags: [[pink]] 
+- same thing as good decision making. Just as I shy away from crowds when it comes to investing, I shy away from celebrity when it comes to assessing how well a company is managed. To confuse one for the other is to find yourself walking into a classic investing pitfall: the herding bias. If there’s one thing investors who follow the 52-Week Low formula hate, it’s a herd. They want to find opportunities where ([Location 2167](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2167))
+    - Tags: [[pink]] 
+- no one else is looking and take advantage of opportunities to invest in undervalued companies with great potential for growth. You can’t do that in the middle of a feeding frenzy. And if everyone you know is abuzz about a CEO, then his company might as well be a rodeo. Management matters in every case,… ([Location 2171](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2171))
+    - Tags: [[pink]] 
+- require investors to look at the long-term past performance and fundamental structures that will provide a solid foundation for growth. Management is a big part of that, and a big part of management is not only how efficiently a company produces a product or how innovative an offering is, but how… ([Location 2174](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2174))
+    - Tags: [[pink]] 
+- Warren Buffett, Morningstar, and others, is a calculation in which a company’s net operating profit is considered as a function of its invested capital. Pat Dorsey describes the value of ROIC this way: Finally, there’s return on invested capital (ROIC), which combines the best of… ([Location 2177](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2177))
+    - Tags: [[pink]] 
+- regardless of whether it is equity or debt. So, it incorporates debt—unlike ROA—but removes the distortion that can make highly leveraged companies look very profitable using ROE. It also uses a different definition of profits that helps remove any effects caused by a… ([Location 2180](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2180))
+    - Tags: [[pink]] 
+- close as possible to a number that represents the true efficiency of the underlying business. There are a number of ways to calculate ROIC, and the formula can be complicated, so it is not a readily available number like ROA and ROE. The upshot is that you should interpret ROIC… ([Location 2183](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2183))
+    - Tags: [[pink]] 
+- The equation looks like this: Net Operating Profit after Taxes (NOPAT)/Invested Capital (IC) = ROIC Why is this a good measurement of the quality of management? Well, because it shows foresight and restraint, good decision making, and a keen understanding that a company… ([Location 2187](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2187))
+    - Tags: [[pink]] 
+- another indicator of a strong competitive moat. Those companies that invest their money well are able to stay ahead of the competition. They are able to make investments that protect their positions, keeping them in front or isolated from others. It’s important to note that ROIC is not the same as a company’s… ([Location 2190](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2190))
+    - Tags: [[pink]] 
+- amount of profit a company generates with money shareholders have invested.3 That equation looks like this: ROE = Net Income/Shareholder’s Equity ROIC, while far from perfect, is a much better indicator of good management than the simple ROE calculation. That’s why I prefer it when… ([Location 2193](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2193))
+    - Tags: [[pink]] 
+- process, we’ve already identified companies with strong economics that allow for wide competitive moats. We’ve also identified companies that are worth taking the risk of investing in through their free cash flow yield calculations. ROIC helps us to understand not just the industry and the investing… ([Location 2198](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2198))
+    - Tags: [[pink]] 
+- his 1992 letter to shareholders, codified the importance of ROIC this way: Leaving the question of price aside, the best business to own is one that over an extended period can employ large amounts of incremental capital at very high rates of return. The worst business to… ([Location 2201](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2201))
+    - Tags: [[pink]] 
+- employ ever-greater amounts of capital at very low rates of return. Buffett reinforced his position on the importance of ROIC at the 1998 Berkshire Hathaway Annual Meeting, when he put it this way: “If you have a business that’s earning 20 percent to 25 percent on equity, time is your friend. But time is your… ([Location 2204](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2204))
+    - Tags: [[pink]] 
+- companies that create the most value over the long haul are the ones that can invest large amounts of incremental capital to create proportionately—or disproportionately—large returns. Companies with low ROIC tend to invest even more while making less. It’s relatively straightforward in concept, but ROIC reveals a lot more than simple financial performance. It is an indication of management consistency and good decision making. But it’s important that ROIC is looked at as a trend, not as a single-year metric, in order to provide insight into how a company will perform in the future. In this regard, it is a judgment tool, a way of sizing up a company mathematically for often unquantifiable traits, like strategy and intelligence of leadership. A Complicated Measurement There are complications when determining a company’s ROIC, though. It’s not a simple calculation, and there is a lot of judgment that goes into… ([Location 2208](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2208))
+    - Tags: [[pink]] 
+- a 10-year period to ensure that management has been quite effective in earning returns north of their cost of capital. Second, the reporting needed to determine ROIC is not standard. You can’t simply look at the balance sheet to get a sense of it. There’s art involved with the science of ROIC. You have to make judgments, which we will… ([Location 2219](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2219))
+    - Tags: [[pink]] 
+- determine ROIC: ROIC = (NOPAT)/(IC) Because NOPAT and IC are both nonstandard measurements, it can be difficult to calculate. This is where the judgment calls come in. NOPAT, the numerator, is fairly straightforward. But it’s worth a closer look. Morningstar… ([Location 2222](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2222))
+    - Tags: [[pink]] 
+- numerator is a nonstandard measure, meaning you will not find it on any standard financial statement. We have to calculate it ourselves. The name “net operating profit, after taxes” is fairly descriptive, but you can also think about NOPAT as simply net income with interest… ([Location 2228](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2228))
+    - Tags: [[pink]] 
+- would be without taking a company’s capital structure into consideration. NOPAT = (Operating Profit) × (1 − Tax Rate) You won’t find IC on a financial statement either. In part, this is because narrowing down capital expenditures and determining which are investments and which are simply the costs of doing… ([Location 2230](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2230))
+    - Tags: [[pink]] 
+- denominator, invested capital is yet another nonstandard, calculated measure not found on any financial statement. Invested capital tries to measure exactly how much capital is required to operate a business. It can be defined as such: IC = (Total… ([Location 2235](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2235))
+    - Tags: [[pink]] 
+- They go on to list examples of “non-interest-bearing current liabilities” like accounts payable. Money spent is not money invested. Paying bills is not an investment, it is an obligation that will not make more money. Deferred revenues and deferred taxes are also examples, though there is a lot of judgment that… ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2239))
+    - Tags: [[pink]] 
+- What we hope to determine is the strength of a company’s ROIC. Strong ROIC—in excess of 15 percent, according to Morningstar, over a number of years and clearly exceeding the cost of capital—indicates a strong moat in the form of good management. Despite popular excitement, this kind of good management is… ([Location 2242](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2242))
+    - Tags: [[pink]] 
+- percent threshold or that below the cost of capital—is an indication of one of a few things: Unstable management. A weak economic moat (poor competitive advantages that make it difficult for a company to maintain long-term growth). Debt that is eroding return. Understanding the… ([Location 2245](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2245))
+    - Tags: [[pink]] 
+- ROIC can help identify opportunities where other investors may not think to look and why it’s important to look at ROIC over the long term. Turning Back the Clock Let’s go back to 2008, the year of the market implosion. It was a time of great uncertainty. I probably don’t need to… ([Location 2249](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2249))
+    - Tags: [[pink]] 
+- something that can be underdescribed as volatile in those days. Any given day was bringing three-digit swings in the Dow and it seemed that America’s economic ship was being tossed and thrown by the storm surrounding the market and years from ever being righted. This was a time of both great peril and… ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2254))
+    - Tags: [[pink]] 
+- Two of the Big Three automakers were still reeling from having to drive to Congress hat in hand, and the mortgage market was in shambles. Bailouts and fiscal policy were hot-button political fodder. And yet, amid all this uncertainty, there were a few companies that stood out, stood above… ([Location 2257](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2257))
+    - Tags: [[pink]] 
+- In some circles, Silicon Valley seemed to be the last bastion of hope. And perhaps the brightest star among the shimmering galaxy was Google. It seemed the search giant was capable of anything. Google is so entrenched in the lead when it comes to search, it is easy to forget that the company did not invent the… ([Location 2260](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2260))
+    - Tags: [[pink]] 
+- company had the world captivated. Yahoo! was once synonymous with search. Long before Google’s initial public offering (IPO), Yahoo! had investors seeing the possibility in search. Now, it should be pointed out that not all search is the same. Search engines operate on algorithms that connect search terms to possible… ([Location 2263](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2263))
+    - Tags: [[pink]] 
+- second, these files are indexed, and recommendations are made based on relevance to the original query. Some algorithms are better than others. Some technology is better at that indexing than others. But this is not the story of technology; it is a story about management. Both Google and Yahoo! are in the same… ([Location 2266](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2266))
+    - Tags: [[pink]] 
+- particularly when viewed through the lens of ROIC, could not be more different. Let’s start with Yahoo! When the company went public in 1998, its ROIC was predictably low. Many companies, when they are getting up and running, have a hard time delivering ROIC because their models haven’t matured and… ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2270))
+    - Tags: [[pink]] 
+- the company’s ROIC was negative. They were losing money on the money they invested. This, in and of itself, is not all that concerning. What is concerning is that the trend never really reverses and that has as much to do with Yahoo!’s management as anything else. Yahoo’s IPO happened before it… ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2274))
+    - Tags: [[pink]] 
+- Yahoo quickly embarked on a course as an industry consolidator using its balance sheet to acquire new businesses in hopes of creating scale. Because the ROIC equation used relies on TTM net income versus debt and equity capital on the balance sheet at the end of a… ([Location 2278](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2278))
+    - Tags: [[pink]] 
+- earlier stage growth company, we’d expect to see initially low ROIC but an eventual rise as invested capital begins generating return. However, the problem is that Yahoo is unable to maintain ROIC anywhere above 10 percent on a sustained basis. Given that there are many attractive… ([Location 2280](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2280))
+    - Tags: [[pink]] 
+- investors would want to keep their money invested at Yahoo, which is continually reinvesting net income at such a low return. In fact, according to the same Seeking Alpha case study, Yahoo!’s ROIC peaked in 2005 at 20 percent but, in the decade between its IPO and the 2008 report, only managed to… ([Location 2283](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2283))
+    - Tags: [[pink]] 
+- The company waited until 2002, when it was already profitable, to do its IPO. It didn’t suffer from the sluggish start of other new companies. Its ROIC in 2002 was nearly 55 percent. Again, you probably want to ignore early figures and focus on trends. But Google’s worst year between 2002 and 2008 delivered a higher ROIC than Yahoo!’s… ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2287))
+    - Tags: [[pink]] 
+- its books, a remnant of its IPO. It has maintained an average ROIC over 15 percent to 18 percent for most of its existence. These ROIC figures serve as canaries in the coal mine as it relates to stock price, much as they did with respect to WorldCom and Enron. Again, from Seeking Alpha: Between 1998 and… ([Location 2290](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2290))
+    - Tags: [[pink]] 
+- investor exuberance over the company’s potential for outsized growth. This exuberance collapses as Yahoo finds itself unable to realize ROIC in excess of 5 percent over its first four years as a public company. While the company’s efforts seem to begin returning positively between 2003 and… ([Location 2294](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2294))
+    - Tags: [[pink]] 
+- poorly timed strategic initiatives take its toll. From 2003–2008, just as you’d expect from a business with a long run ROIC below its cost of capital the stock has simply tread water. Yahoo would have done better by shareholders by distributing annual income and… ([Location 2296](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2296))
+    - Tags: [[pink]] 
+- management has made poor decisions time and time again, wagering on bets that simply didn’t pay off. They weren’t able to deliver real value to shareholders, and it has left a once-promising Internet giant treading water. Look at that last sentence again: “Yahoo would have done better by shareholders by… ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2300))
+    - Tags: [[pink]] 
+- Essentially, that’s saying that management should not be trusted to invest capital on behalf of shareholders and instead should return the money so investors can make better decisions. That’s a tough pill for any company to swallow and stands in stark contrast to Google’s stock performance, which has trended… ([Location 2303](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2303))
+    - Tags: [[pink]] 
+- 15–18 percent ROIC every year since receiving IPO dollars, as with all retained earnings from the business. Google, like Yahoo, has never paid a dividend and thus shareholders have chosen to entrust management with re-investing profits. Google, however, has delivered and valuation has… ([Location 2307](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2307))
+    - Tags: [[pink]] 
+- note, however, that valuation has expanded faster than the business has generated return on its invested capital. Might this be a worrisome sign? In both the Yahoo and Google cases, we’ve seen that stock appreciation tends to lead and over shoot steady state ROIC, but we’ve also… ([Location 2310](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2310))
+    - Tags: [[pink]] 
+- reasonable. Google’s proven ability to generate positive ROIC year after year has created a rise in stock price. That rise in stock price is reflective of investor confidence that the company will make good decisions. Greater confidence, greater stock price, greater return—these are all things that have allowed Google to widen the competitive moat between it and Yahoo!. More money means more ([Location 2312](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2312))
+    - Tags: [[pink]] 
+- innovation, more refinement of its offerings, and the freedom and material resources to explore new programs and revenue streams. If you were investing in 2006 and looked at ROIC only for 2005, you would have seen Yahoo! at 20 percent and Google at 15 percent and thought Yahoo! was the better bet. You would have been wrong. Yahoo!’s ROIC in 2006 fell to just over 5 percent and continued to drop ([Location 2316](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2316))
+    - Tags: [[pink]] 
+- the next two years. This illustrates the importance of looking at trends. ROIC is a measurement of collective good decisions. You generate positive ROIC over the course of time, not in a flash. Good management is about consistency, not fame. And that consistency is what distinguishes a good, well-run company that is undervalued from a famous one that underperforms. In his updated white ([Location 2319](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2319))
+    - Tags: [[pink]] 
+- paper for the Harvard Business Review, Michael Porter succinctly describes the value of ROIC when measuring a company’s performance. Return on sales or the growth rate of profits fail to account for the capital required to compete in the industry,” Porter writes. “We utilize earnings before interest and taxes divided by average invested capital less cash as the measure of ROIC. ([Location 2323](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2323))
+    - Tags: [[pink]] 
+- This measure controls for idiosyncratic differences in capital structure and tax rates across companies and industries.6 In other words, ROIC doesn’t lie. While behemoths like WorldCom and Enron had investors fooled by their high stock prices, the ROIC of the two firms revealed warning signs of the truth that would eventually devastate the market, wipe out people’s savings, and ([Location 2327](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2327))
+    - Tags: [[pink]] 
+- leave a lasting scar on the investing world. ROIC is the story of a company’s real value. Not the cover story of magazines, not the alluring tale of rising stock prices, but the real story of a company’s ability to make good investment decisions that yield long-term value. Combining ROIC with the other four filters of the 52-Week Low help us to follow the legendary Warren Buffett’s rule number 1 of ([Location 2331](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2331))
+    - Tags: [[pink]] 
+- investing: Never lose money. The second rule? Never forget rule number 1. In order to do so, we need to separate potential investments in two groups: those that increase the risk of breaking rule number 1 and those that stand the best chance of decreasing it. That’s what the 52-Week Low is designed to do, and understanding ROIC is a big—though certainly not the only—part of making those considered ([Location 2334](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2334))
+    - Tags: [[pink]] 
+- decisions. ([Location 2337](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2337))
+    - Tags: [[pink]] 
+- Maybe this seems absurd, but, unfortunately, many investors behave as ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2360))
+    - Tags: [[pink]] 
+- if what is happening within the markets is completely new and unprecedented when, in fact, if you study financial history, you will find many common threads between the past bubbles and bursts. In a March 2011 GMO white paper, James Montier presented his “Seven Immutable Laws of Investing.” These seven principles, when taken as a whole, provide a nice basis for investing behavior that should ([Location 2360](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2360))
+    - Tags: [[pink]] 
+- lead to long-term gains and include: Always insist on a margin of safety. This time is never different. Be patient and wait for the fat pitch. Be contrarian. Risk is the permanent loss of capital, never a number. Be leery of leverage. Never invest in something you don’t understand. ([Location 2363](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2363))
+    - Tags: [[pink]] 
+- Pretty good advice, ([Location 2368](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2368))
+    - Tags: [[pink]] 
+- but the one that stood out was the second one: this time is never different. Montier quotes Sir John Templeton, who says “this time is different” are the four most dangerous words in investment. I believe he’s right. You don’t have to look too far back in history to know that it repeats itself, that markets become inflated and bubbles swell until they burst. The idea that a new bubble is somehow different than the old ones ([Location 2369](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2369))
+    - Tags: [[pink]] 
+- because it looks a little different is ludicrous. History repeats itself for good and for bad. ([Location 2372](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2372))
+    - Tags: [[pink]] 
+- But bubbles and bursts are only one way of looking at the idea that “this time is never different.” The negative way. There’s a positive comfort that comes from knowing that history is bound to repeat itself, which can be seen only by those with the ([Location 2379](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2379))
+    - Tags: [[pink]] 
+- discipline to look for it. That positive, as I see it, can be defined in a single word: value. Value, like bubbles, never changes. Value and value-based investment strategies are like the tortoises in the fabled race, and bubbles are the hare. Value investing means identifying undervalued and overlooked companies and investing in them for a finite amount of time, then selling and repeating the ([Location 2381](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2381))
+    - Tags: [[pink]] 
+- process. You may never make overnight billions, but you should not lose them either. You should make consistent returns over the long haul. When the bubble has burst and is sleeping by the side of the road, you’ll pass by and win the race. During the dot-com bubble, when companies with no intrinsic or inherent value were… ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2385))
+    - Tags: [[pink]] 
+- were pacing themselves with value investments. Even as the crowd and media were heralding in a new age of prosperity and declaring value dead, value investors marched along at a steady pace, leaving the hares in their tracks when the bubble burst. So while Templeton and Montier may view the phrase “this… ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2388))
+    - Tags: [[pink]] 
+- opportunity. This time is never different. Value never changes, and those tortoises with the discipline to stick to value should always win the race. “Simply hoping that bad things won’t happen again is not an investment strategy,” Montier quotes Templeton.1 “Pay attention to mistakes and learn from them.” In 1999… ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2391))
+    - Tags: [[pink]] 
+- saying about him. Berkshire Hathaway had reported small net increases per share for investors and had avoided the dot-com boom. Up and comers, hot shots, and day traders were proclaiming the changing of the guard. Gone was Buffett’s old guard approach to investing. Here was the high-tech, fast-moving,… ([Location 2396](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2396))
+    - Tags: [[pink]] 
+- letter to Berkshire Hathaway shareholders,2 he had this to say: The line separating investment and speculation, which is never bright and clear, becomes blurred still further when most market participants have recently enjoyed triumphs. Nothing sedates rationality like large… ([Location 2399](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2399))
+    - Tags: [[pink]] 
+- sensible people drift into behavior akin to that of Cinderella at the ball. They know that overstaying the festivities—that is, continuing to speculate in companies that have gigantic valuations relative to the cash they are likely to generate in the future—will eventually bring on… ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2403))
+    - Tags: [[pink]] 
+- one helluva party. Therefore, the giddy participants all plan to leave just seconds before midnight. There’s a problem, though: They are dancing in a… ([Location 2406](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2406))
+    - Tags: [[pink]] 
+- Or, as Buffett once said, “Look at market fluctuations as your friend rather than your enemy; profit from folly rather than participate in it. ([Location 2414](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2414))
+    - Tags: [[pink]] 
+- Extreme thinking helps me realize that I need to be mindful of a business’s balance sheet because it not a question of will an economic setback happen but when. Economic setbacks are inevitable for any business. Leverage can magnify business results for the good and for the bad. I am most concerned about planning for the bad. Bruce Berkowitz does his best to kill a company before he ([Location 2429](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2429))
+    - Tags: [[pink]] 
+- buys it. It is this process that helps Bruce identify all the various economic setbacks that should they happen could the business in question survive. “We look at companies, count the cash, and then try to kill the company,” he writes. “We spend a lot of time thinking about what could go wrong with a company . . . We try every which way to kill our best ideas. If we can’t kill it, maybe we’re on to something.”1 ([Location 2432](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2432))
+    - Tags: [[pink]] 
+- A company’s long-term debt to free cash flow ratio is an indication of its ability to survive and thrive during a downturn. Highly leveraged companies—those with long-term debt that greatly exceeds several years of their annual free cash flow—will find it crippling to service its debts during downturns. This second kind of company seems, on the surface, to be the ([Location 2451](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2451))
+    - Tags: [[pink]] 
+- kind most logical investors would avoid, but do they? A 2004 GMO white paper titled “The Case for Quality—The Danger of Junk” compares the way investors make decisions as it relates to highly leveraged companies to a trip to a casino or the purchase of a lottery ticket: Rational investors should demand… ([Location 2454](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2454))
+    - Tags: [[pink]] 
+- generally holds true at the asset class level, rather astonishingly, it completely breaks down at the stock level. In fact, it appears that investors overpay for higher risk stocks and underpay for less risky stocks. This pattern of high return for low risk exists both in small and large… ([Location 2458](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2458))
+    - Tags: [[pink]] 
+- us provides ample circumstantial evidence as to why investors might overpay for risky stocks. For example, if people are risk-averse, why do casinos exist and how do lottery tickets sell? In both of these cases the expected return on “investment” is negative, yet business for both is… ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2461))
+    - Tags: [[pink]] 
+- lottery tickets? Well, the simple answer is that rationality has nothing to do with it. It is the curse of the big win. Deep down, many of us believe we are going to be the one, the special one who has the winning ticket or wins the big jackpot. You can tell us the odds all you want, remind us that it is statistically more likely that you will be… ([Location 2465](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2465))
+    - Tags: [[pink]] 
+- pale in comparison to the sheer size of the lottery jackpot on the sign above the kiosk where you buy tickets. But the lottery and casinos have one built-in precautionary factor that protects those of us who eschew reason and buy in: at least in these situations, everyone is, theoretically, paying the same price to play… ([Location 2468](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2468))
+    - Tags: [[pink]] 
+- table bets are the same no matter how many people are sitting at the table. When you take a risk in the market, this is not the case. When those with big eyes for big prizes begin buying stocks, prices rise and become overinflated. Next thing you know, there is a herd of people all paying increasingly exorbitant prices for… ([Location 2472](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2472))
+    - Tags: [[pink]] 
+- to guide your investment choices. Look at the odds of the lottery win and walk away. Look at the size of the Vegas casinos and understand that these massive structures were not built by winners and choose, instead, to go see a show. Have a process in place for identifying good companies that are not overleveraged and avoid… ([Location 2475](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2475))
+    - Tags: [[pink]] 
+- 52-Week Low formula helps us do: Apply logic to identifying the companies that are prepared for downturns and avoid those that are less likely to survive and thrive in times of recovery. When it comes to debt, I’m hawkish. Warren Buffett, who once again appears as an influential thought leader in this book,… ([Location 2478](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2478))
+    - Tags: [[pink]] 
+- owner. If he were to purchase the company outright, assuming all its cash, earnings, and debt, he wants to see that the company could pay off all of its long-term obligations with cash and current earnings (no growth) in five years or less.3 This five-year threshold is also referenced in the book The New Buffettology, by Mary… ([Location 2481](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2481))
+    - Tags: [[pink]] 
+- Investments: His Ten Points of Light,” where it states: “Companies with a durable competitive advantage typically have long-term debt burdens of fewer than five times current net earnings.” I’m more aggressive than that, preferring instead to see a ratio of no more than 3, meaning that a company has the ability… ([Location 2485](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2485))
+    - Tags: [[pink]] 
+- be. I take an owner’s view of a company that I’m considering investing in, but I don’t behave like an owner. Because I’m not actually buying companies outright, I can take a short-term view. The list of 25 companies in the 52-Week Low formula is reviewed every six months, which means I can focus on the short-term impact of long-term… ([Location 2488](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2488))
+    - Tags: [[pink]] 
+- price is down and Wall Street’s enthusiasm is low, has a balance sheet that is iron clad, and it is able to maintain and grow operations based on existing free cash flow for the next sixth months. I am thus more aggressive in avoiding long-term leverage than even Buffett. This helps to ensure we are not buying a… ([Location 2491](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2491))
+    - Tags: [[pink]] 
+- continue to reach lower and lower values. This helps keep me from investing in what’s called a value trap or catching a falling knife, which means you run a high probability of permanent loss of capital.4 Unlike other metrics I’ve pointed out in this book, which required us to take a long, multiyear look at free cash flow… ([Location 2495](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2495))
+    - Tags: [[pink]] 
+- ratio is one I want to look at in a snapshot, the last reporting cycle. I’m less concerned with how much debt a company has carried over the years than I am with how much it has right now. If a company makes it to this filter, we already know there is a high probability it has a durable competitive advantage, free cash flow yield with a… ([Location 2499](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2499))
+    - Tags: [[pink]] 
+- consistent ROIC above its cost of capital. We understand the trends, so we can begin looking at the opportunity. Calculating Long-Term Debt to Free Cash Flow Unlike the calculations that go into determining the ROIC, which require a certain amount of conjecture and thought,… ([Location 2502](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2502))
+    - Tags: [[pink]] 
+- like this: (Total Long-Term Debt)/Free Cash Flow What the answer to this equation will tell us is how long it will take a company, assuming free cash flow remains constant, to pay off its existing debt. The lower the number, the better. Let’s look at how this works, once again using ice cream trucks. Truck A is… ([Location 2507](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2507))
+    - Tags: [[pink]] 
+- improvements to his truck, and, in order to do so, he recently took on $3,000 in debt in the form of a loan from the bank. Revenues have been pretty solid, and his free cash flow (FCF) is $1,500. Truck B is owned by Sam. Sam is relatively new to the business. As such, he has had to buy a lot—truck, ice cream, serving utensils, and cones… ([Location 2512](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2512))
+    - Tags: [[pink]] 
+- making some fancy ice cream. He does a lot of volume and is doing a nice job of keeping his operating expenses down. His FCF is $3,000—twice that of Gary’s FCF. Gary’s truck is small and established. Sam’s is the hottest thing in town. But how do… ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2515))
+    - Tags: [[pink]] 
+- Sam would be able to pay off his debt in 140 months. Sam’s truck may be positioning itself for greater long-term value by creating a clear point of differentiation from a business modeling perspective, but as investors and believers in the 52-Week Low formula, we are not trying to discover… ([Location 2522](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2522))
+    - Tags: [[pink]] 
+- comes to debt helps to protect our investments against short-term catastrophic failure. You may believe the preceding example is not found in the real world. As you will see soon within this chapter, there are many situations whereby two seemingly equal competitors are far from equal when… ([Location 2525](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2525))
+    - Tags: [[pink]] 
+- give a reader the impression that I’m against debt, and I suppose I am somewhat. A lot of debt concerns me when it comes to making intelligent choices about investing. But there is a distinction between how I view debt as an investor and how a CEO may view debt as it relates to his company. Debt is a… ([Location 2529](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2529))
+    - Tags: [[pink]] 
+- negative. Positive debt—your mortgage, for instance—is a sign of investment in the future. Other debt, like credit cards used to buy a cup of coffee and left to fester, gathering interest, is negative. The same goes with business. If a company takes on debt to expand its manufacturing capacity or to modernize its… ([Location 2533](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2533))
+    - Tags: [[pink]] 
+- debt just to keep the lights on, take notice and turn the other way. If you are an officer or employee of a company that takes on the former, it may give you a solid reason to believe that the company is positioning itself for greatness and expansion. If you work for the latter, sharpen up your resume. But this book is not about how to think and behave like an employee of a company because ([Location 2536](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2536))
+    - Tags: [[pink]] 
+- you are not. You don’t work for the companies in which you invest, so you cannot respond or consider issues as an employee might. You cannot be inspired by the visionary leadership of a CEO. You cannot take into account the game-changing innovation in the pipeline. You cannot be a fan or an emotional critic. You must be disinterested and data-centric. The sociologist Abraham Maslow—of Maslow ([Location 2540](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2540))
+    - Tags: [[pink]] 
+- Hierarchy of Needs fame—described the way we choose to respond to information or situations by saying that between stimulus and response, there is space. That space is the place where we consider the stimulus and formulate a response strategy. In our earliest days, that space was very small. We… ([Location 2543](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2543))
+    - Tags: [[pink]] 
+- Stimulus: A saber-toothed tiger is chasing you. Space: None Response: Run But modernity has widened that space for consideration, yet too often we don’t take advantage of it. We act by instinct or out of emotion, rather than logic. Investing is a place where we need to have guides and… ([Location 2546](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2546))
+    - Tags: [[pink]] 
+- need filters and processes in mind in order to avoid the “yeah, but” response to things like debt, as in: Stimulus: The company has taken on $2 billion in debt to support capital investments, which looks bad. Space: I believe in my gut in this CEO. Response:… ([Location 2550](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2550))
+    - Tags: [[pink]] 
+- The 52-Week Low formula is about eliminating the instinct to believe or feel when it comes to investing and replace it with sound logic that is dispassionate. Emotions, feelings, and, perhaps worst of all, inspiration clouds our judgment. It weakens our logical resolve. There are a lot of inspiring or famous or familiar companies… ([Location 2554](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2554))
+    - Tags: [[pink]] 
+- may not be right now, but someday. Don’t allow inspiration to cloud your judgment. Invest for value and results. If you need to be inspired, find a company or CEO you believe in and try to get a job. Of all the filters subject to inspiration clouding, this fourth one is the most vulnerable, because debt seems to be easily… ([Location 2558](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2558))
+    - Tags: [[pink]] 
+- stimulus and response to remember to think like an investor, not an employee or admirer. Long-Term Debt to Free Cash Flow: Head-to-Head To show how companies within the same industry—indeed, companies with nearly identical business models, offerings, and consumer… ([Location 2561](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2561))
+    - Tags: [[pink]] 
+- match-ups. One company is in a much better position from a long-term debt to free cash flow perspective. Do think you’ll be able to tell which one? How? Stock price? Familiarity? You might be surprised. Using snapshots of free cash flow and long-term debt from December 2013,5 I hope the following comparisons… ([Location 2565](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2565))
+    - Tags: [[pink]] 
+- health and how the data can be quite different among direct competitors and across two very disparate industries: heavy equipment and cosmetics. Bout 1: Heavy Equipment Cummins versus Caterpillar Cummins Inc. (CMI) and Caterpillar Inc. (CAT) are both in the business of making really big, powerful… ([Location 2570](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2570))
+    - Tags: [[pink]] 
+- or near building sites, chances are good you’ve seen their products. Caterpillar products in their distinctive yellow and black paint. Cummins may come barreling up to you in your rearview mirror on the vent badge of a semi Ram pick-up truck. Popularly, Caterpillar is the more familiar name, but Cummins certainly is well known among… ([Location 2574](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2574))
+    - Tags: [[pink]] 
+- have less in the way of long-term debt or burden. Remember back to earlier chapters about the fear of missing out. Fame, like it or not, does have an impact on the market. But this is a case where familiarity is wrong. Here’s how the companies stack up. Caterpillar is a much larger company from a revenue perspective, but there… ([Location 2578](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2578))
+    - Tags: [[pink]] 
+- terms of trailing 12 months (TTM) of revenue and FCF. Revenues TTM Cummins: $17.005 billion Caterpillar: $57.32 billion FCF TTM Cummins: $1.395 billion Caterpillar: $4.921 billion Caterpillar is over three times the size of… ([Location 2581](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2581))
+    - Tags: [[pink]] 
+- you believe is better positioned from a debt perspective? Both make similar equipment and, presumably, require similar capital investments for manufacturing. They have similar ratios of revenue to FCF. But Caterpillar brings in so much more revenue. It has to be the one I would invest in, right? Wrong.… ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2588))
+    - Tags: [[pink]] 
+- billion Caterpillar: $26.015 billion That is a stark contrast. Let’s do the calculations: Cummins: $1.731 billion (debt) divided by $1.395 billion (FCF) = 1.24 years or in less than 15 months. So, should Cummins decide to, they could pay off all of their… ([Location 2593](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2593))
+    - Tags: [[pink]] 
+- (debt) divided by $4.921 billion (FCF) = 5.29 years. So, should Caterpillar decide to pay off all of their long-term debt, it would take more than five years to do so. Cummins is in a much better position to manage in and thrive through an economic downturn. Bout 2… ([Location 2597](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2597))
+    - Tags: [[pink]] 
+- Profit margins tend to outpace other consumer packaged goods because of the perception of high switching costs among consumers, which results from huge amounts of brand loyalty. Try to convince a woman to change cosmetics brands, and you’ll see what I mean. And for decades, L’Oreal SA (LRLCY) and Revlon, Inc.… ([Location 2603](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2603))
+    - Tags: [[pink]] 
+- L’Oreal is a true industry leader, with more than $22.98 billion in revenue and a market cap valuation of $104.25 billion in December 2013. Revlon, a popular brand in and of itself, is a clear second fiddle, with a fraction of the revenue and 1 percent of the market cap valuation. Are you forming any… ([Location 2606](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2606))
+    - Tags: [[pink]] 
+- mean you have better debt positioning. Does that mean Revlon is actually in better shape than L’Oreal? Let’s see. FCF TTM L’Oreal: $3.57 billion Revlon: $68 million Now, if this example followed the Cummins-Caterpillar example, we would look at total debt and discover that… ([Location 2609](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2609))
+    - Tags: [[pink]] 
+- debt exceeds total cash, and that Revlon has comparatively little debt. Does it follow the same pattern? Long-Term Debt L’Oreal: $56.4 million Revlon: $1.228 billion The calculations: L’Oreal: $56.4 million (debt) divided by $3.57 billion (FCF) = 0.016 years or… ([Location 2614](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2614))
+    - Tags: [[pink]] 
+- debt, they could do so in less than a week. Revlon: $1.228 billion (debt) divided by $68 million (FCF) = 18.05 years. So, if Revlon wanted to pay-off their long-term debt, it would take them just over 18 years to do so. L’Oreal is clearly in a better position, thanks to its free cash… ([Location 2620](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2620))
+    - Tags: [[pink]] 
+- company is David and the other is Goliath, Goliath does not always lose (Table 9.1). Table 9.1 Other Examples of Free Cash Flow to Long-Term Debt Comparisons among Competing Companiesa 52-Week Low Fourth Filter Winners 52-Week Low Fourth Filter Losers < 3 years > 3 years Walgreens 1.45 years Rite Aid 14.49 years Cummins Engines 1.24 years Deere & Company 24.55 years Ritchie Brothers 2.85 years Caterpillar 5.29 years General Mills 2.66 years Copart 14.79… ([Location 2623](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2623))
+    - Tags: [[pink]] 
+- Disney 1.96 years Baker Hughes 5 years Advance Auto Parts 1.67 years Time Warner AutoZone 5.55 years 4.48 years L’Oreal 6 days Revlon 18.06 years Union Pacific 2.76 years Norfolk Southern 10.74 years aFrom S&P Capital IQ as of December 12, 2013. Summing It Up Understanding a company’s debt position and having rigid rules in place about how much… ([Location 2642](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2642))
+    - Tags: [[pink]] 
+- potential. Just like you were told to save for a rainy day when you were young, companies and industries don’t always know when the weather is going to get bad, and the better prepared and positioned they are, the more likely they are to be able to weather whatever comes their way. Think like an investor, not an… ([Location 2654](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2654))
+    - Tags: [[pink]] 
+- allow you to justify investing in a company that lacks a specific amount of long-term coverage with free cash flow. Remember to be hawkish because, as an investor, you can be. And, ultimately, because… ([Location 2657](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2657))
+    - Tags: [[pink]] 
+- When you adopt a value strategy like the 52-Week Low, there are a few things you need to become comfortable with quickly. Comfort in these areas will help you to identify value opportunities and will also help to keep you away from the market crowds that drive prices up. Those things you must get comfortable with are (in no particular order): Data is a decision-making tool, not ([Location 2676](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2676))
+    - Tags: [[pink]] 
+- sentiment or gut feelings. It’s hard for a company to hide from its reporting. Sometimes this means you will walk away from a quantitatively unstable company with positive popular and market sentiment. Other times, it will be the thing that helps you understand the real value of a company when sentiment has turned. ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2679))
+    - Tags: [[pink]] 
+- Trailing losses are or can be a good thing. I’ll cover this in more detail in another case study, but outperforming the market means looking where others aren’t, and most people turn away when performance has been bad. A value investor picks apart the carcass of an… ([Location 2681](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2681))
+    - Tags: [[pink]] 
+- They get excited to do this because finding signs of life and structural integrity is how we find value. You are an investor, not a consumer. Consumers make decisions based on opinion—theirs, their friends’, the prevailing wisdom of the neighborhood.… ([Location 2684](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2684))
+    - Tags: [[pink]] 
+- circle of friends or the culture in which you live. It’s easy to forget that consumers have only a small idea of the real value of a company in the marketplace. Investors look for intrinsic value, not lifestyle relevance. I highlight these three things at the beginning of… ([Location 2686](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2686))
+    - Tags: [[pink]] 
+- examples of companies that had been left for dead by the market. They are companies that I purchased as part of the October 2012 reset of the 52-Week Low strategy and companies that I think perfectly illustrate the way a disciplined, logical, data-centric approach to investing can and will help you… ([Location 2689](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2689))
+    - Tags: [[pink]] 
+- investor welcomes negative sentiment during the period of evaluation and inclusion process. If sentiment surrounding a company is positive, chances are good you will overpay for it. All three of these companies were in the headlines around the time of the reset. In all three cases, the headlines weren’… ([Location 2692](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2692))
+    - Tags: [[pink]] 
+- Week Low strategy and yielded tremendous results for my clients. Company 1: Best Buy There was a time, before Amazon and iTunes, when Best Buy seemed like the golden goose—only instead of laying golden eggs, it was selling gold records. The company was synonymous with personal… ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2695))
+    - Tags: [[pink]] 
+- Then came the iPod, the iPhone, and cultural shift that seemed to sound the death knell for this big box electronic behemoth. In the fall of 2012, when the world was reading the biography of Steve Jobs on its Kindles, sentiment toward Best Buy took a decidedly sour turn. And had the 52-Week Low… ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2700))
+    - Tags: [[pink]] 
+- the company. But let’s look at how the company stacked up against the five filters of the 52-Week Low. Filter 1: Durable Competitive Advantage Does the company have an advantage over digital retail? Absolutely. People who buy 60-inch plasma TVs and washers and driers online and pay… ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2702))
+    - Tags: [[pink]] 
+- and-mortar retailers, Best Buy had the advantage of scale and, believe it or not, had achieved a consistent ROIC in excess of its COC over a 10-year period. Filter 2: Free Cash Flow Yield FCF yield: 12.87 percent The company definitely provided a margin of safety as its FCF… ([Location 2706](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2706))
+    - Tags: [[pink]] 
+- Treasury bond, known as the risk-free rate. Filter 3: Return on Invested Capital ROIC: 21.42 percent The current ROIC being achieved was above its COC. Filter 4: Long-Term Debt to Free Cash Flow The long-term debt coverage (long-term debt/FCF) for Best Buy was… ([Location 2711](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2711))
+    - Tags: [[pink]] 
+- pay off all its debts in case of emergency. Filter 5: 52-Week Low Was Best Buy at or near its 52-Week Low in the fall of 2012? Absolutely. At the time it was added to the strategy, it was up only 3.4 percent over its 52-Week Low at $17.91. So, how did it do? Did… ([Location 2717](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2717))
+    - Tags: [[pink]] 
+- 9.1). Figure 9.1 Best Buy In one year’s time, the stock that had all but been abandoned by Wall Street had a 119.21 percent price return as of October 11, 2013, reaching $39.26. And what happened to popular sentiment? Well, you can guess, but let’s just say that a year after… ([Location 2722](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2722))
+    - Tags: [[pink]] 
+- to be decrying it, things had turned around. The sentiment was severely low when it was added to the strategy and was quite high when it was removed from the strategy. Company 2: Flir Sytems Unlike Best Buy, which holds a certain spot in the popular awareness, thermal imaging companies are… ([Location 2727](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2727))
+    - Tags: [[pink]] 
+- someone to skewer as an example of the way technology has changed our lives. But investor sentiment toward Flir Systems had certainly cooled in the fall of 2012, and it seemed like the market was walking away. Filter 1: Durable Competitive Advantage The company had consistently… ([Location 2732](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2732))
+    - Tags: [[pink]] 
+- sector. Filter 2: Free Cash Flow Yield FCF yield: 8.25 percent Not quite as dramatic as Best Buy, but still well worth the risk as compared to Treasury bonds (risk-free rate of 2.65 percent). Flir Systems was providing three times the free cash… ([Location 2736](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2736))
+    - Tags: [[pink]] 
+- ROIC: 15.82 percent The management team at Flir had consistently delivered ROIC in the teens, indicating quality decision making. Filter 4: Long-Term Debt to Free Cash Flow LTD coverage: −0.80× years The company had more than enough cash on hand to cover its… ([Location 2741](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2741))
+    - Tags: [[pink]] 
+- opportunity. Filter 5: 52-Week Low As of October 11, 2012, Flir Systems was 8 percent from its 52-Week Low at $19.79 per share. In just one year, Flir Systems delivered a 65.08 percent price return, reaching $32.67 on October 11, 2013 (… ([Location 2746](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2746))
+    - Tags: [[pink]] 
+- This was another company that passed the filters of the 52-Week Low strategy in the fall of 2012. Johnson & Johnson is one of the (if not the) largest and most profitable health care companies in the world, but investors had lost interest around the time of the strategy reset, creating an… ([Location 2756](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2756))
+    - Tags: [[pink]] 
+- Competitive Advantage This should go without saying. Johnson & Johnson has long been an industry leader, but I still confirmed its near-term and long-term fundamental metrics to ensure it truly was a company with durability. Filter 2: Free Cash Flow Yield FCF: 6.51 percent… ([Location 2759](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2759))
+    - Tags: [[pink]] 
+- not as great, and so the potential reward doesn’t need to be quite as high, though it had a multiplied upside over the Treasury bond (more than double the risk-free rate). Filter 3: Return on Invested Capital ROIC: 17.55 Consistency is king here. Johnson & Johnson has… ([Location 2764](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2764))
+    - Tags: [[pink]] 
+- Debt to Free Cash Flow LTD coverage: −0.20× years Not surprising, given the company’s size and history, but still noteworthy that Johnson & Johnson could, at this time, effectively write a check for its debt and still have money in the bank without using any… ([Location 2770](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2770))
+    - Tags: [[pink]] 
+- was trading 9.9 percent from its 52-Week Low at $67.99. Just one year later, on October 11, 2013, the stock closed at $89.45 per share at the close of business, a 31.56 percent price return (Figure 9.3). Figure 9.3 Johnson & Johnson All three of these stocks were evaluated for… ([Location 2775](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2775))
+    - Tags: [[pink]] 
+- Low strategy, and all three had a few things in common: Sentiment was bad, but it didn’t matter. These stocks were identified based on data, not headlines. All three, despite being in radically different sectors, were evaluated the same way. There were no free passes for popularity,… ([Location 2782](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2782))
+    - Tags: [[pink]] 
+- All three outperformed the market for the year they were in the strategy, and all three were sold when they no longer passed the filters when it was time to reset. Had you bought just a single share of each of the three companies on October 11, 2012, you would have spent $105.69. A year later, those shares would be worth $161.38, a ([Location 2785](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2785))
+    - Tags: [[pink]] 
+- gain of nearly 53 percent (Figure 9.4). Figure 9.4 Best Buy, Flir Systems, and Johnson & Johnson Of course, these were just three of the 25 stocks that made up the strategy that year, and not all of them performed as well. In fact, 20 of the 25 grew, and five lost value. This is important to note, not only because it reveals the fact that the “batting average” of the ([Location 2788](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2788))
+    - Tags: [[pink]] 
+- companies that make up the 52-Week Low every 6 to 12 months is between 70 percent and 80 percent in terms of those that grow compared to those that lose, but because it shows how wrong popular sentiment can be. When it comes to a proper investment strategy, it’s much better to make decisions based on what you can know, not just what you hear. ([Location 2795](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2795))
+    - Tags: [[pink]] 
+- Jacobian Inverse: If I have decided to build a plane and I’ve sunk $100 million into a $2 billion project, come hell or high water I ([Location 2817](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2817))
+    - Tags: [[pink]] 
+- going to build this plane, no matter what. Even if my closest competitor beats me to the market, charges less, and builds a better plane, I will still see it through; after all, I’ve already spent $100 million on it. I cannot be willing to look at my investment position with a fresh pair of eyes; rather, I will maintain the same course of action no matter what. If I want to make good investment decisions, I need to be objective and dispassionate. In ([Location 2818](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2818))
+    - Tags: [[pink]] 
+- order to ensure I don’t do that, I should make decisions based on emotional attachment, pride, and stubbornness. I am simply unwilling to let go and move on. Let’s walk through a scenario. Let’s say I’m an airplane manufacturer and I’ve decided to build the plane that will make the Dreamliner look like a… ([Location 2822](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2822))
+    - Tags: [[pink]] 
+- revenue from such a plane is roughly $2 billion. Airlines and oligarchs all over the world are clamoring for my new plane. A rough sketch was leaked on the Internet, and, overnight, the phones started ringing. The only problem? I have to build it. So I gather my engineers, aeronautics experts, and… ([Location 2825](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2825))
+    - Tags: [[pink]] 
+- everything—a floor reserved for parents flying with children, a pet hotel for travelers who can’t leave Fifi behind. We’re even exploring the logistics of an onboard health club (with a pool!). We’re halfway through the build when our chief financial officer knocks on my door with some tough news. We’re only halfway through the build, and… ([Location 2829](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2829))
+    - Tags: [[pink]] 
+- least another billion in capital. If you were me, what would you do? Do you continue on and create the vehicle that will change transcontinental travel forever? Or do you look at the numbers and walk away? Logic, and my own projections, would tell me that finishing the plane, no matter how wonderful, is a… ([Location 2832](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2832))
+    - Tags: [[pink]] 
+- mean to cave to ego and pride of creation, forging ahead to what is undoubtedly a losing proposition. My hope is that, if you’re reading this, you saw the way forward clearly. You knew that the only smart thing to do would be to walk away. With the airplane example, the right answer is obvious for a couple of reasons: (1) because… ([Location 2836](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2836))
+    - Tags: [[pink]] 
+- features of a person’s face, massive amounts of money make these kinds of choices easy; and (2) it wasn’t your money, it was mine. We are hardwired to remove ourselves and see the logical flaws of others. But when it comes to turning that magnifying glass back on our own lives, it gets clouded. Emotions, fear, social and peer… ([Location 2839](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2839))
+    - Tags: [[pink]] 
+- Investing and retirement planning are no different. We invest in funds and stocks with a certain expectation for return. And without having a clear and disciplined strategy in place, we will continue to pour money into those instruments with the hope that we will meet those initial expectations. In behavioral and investment… ([Location 2842](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2842))
+    - Tags: [[pink]] 
+- this: I invest A amount with the anticipation of a C return. I continue to invest, even though the return is only B. Wanting for that C return and afraid that my initial A investment will be for naught, I continue to… ([Location 2846](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2846))
+    - Tags: [[pink]] 
+- The point is this: In order to avoid chasing good money with bad in pursuit of something, it’s important to have a strategy and discipline in place that forces you to review progress and make… ([Location 2850](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2850))
+    - Tags: [[pink]] 
+- place to help make those decisions for you. This is a core tenet of the 52-Week Low formula, a rigid 6- and 12-month review process where we sit down and start over. Every 6 months, we identify the stocks that meet our criteria and start over. About 85 times out of 100, this will mean divesting of the stocks we bought 6… ([Location 2851](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2851))
+    - Tags: [[pink]] 
+- Low—taking our gains and building on them. We’re not building a super-plane here, we’re planning and providing for your future, and the last thing you need is a clouded lens. Two important forces in behavioral finance are the same forces that influence many of the decisions we make in life: pride and regret. Pride can fool us… ([Location 2855](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2855))
+    - Tags: [[pink]] 
+- Regret often blinds us to success because our expectations were somehow formed by… ([Location 2858](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2858))
+    - Tags: [[pink]] 
+- What is interesting about pride, regret, and the sunk cost basis is that you can have a gain on a stock but still be anchored on its highest price while you have owned it. ([Location 2871](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2871))
+    - Tags: [[pink]] 
+- The reference point should be the purchase price, which was $250,000, and not the all-time high of the investment. When it comes to investing, you must be at peace with the fact that rarely will you sell a stock at its all-time high and rarely will you buy a stock at its all-time low. “Could have been” is as dangerous as “might become” in investing. They are two sides of the ([Location 2875](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2875))
+    - Tags: [[pink]] 
+- same emotional coin. “Could have been” is regret. “Might become” is pride. Both are emotions—emotions that cloud our decision making ability. ([Location 2879](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2879))
+    - Tags: [[pink]] 
+- The head and the heart are incredible things, but they can keep people up at night or give them a false sense of comfort and stability. To be sure, a lot of money has been made in the markets over the years based on hunches, intuition, and pride. But just as much has ([Location 2883](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2883))
+    - Tags: [[pink]] 
+- probably been lost. Disciplined, systems-based investing is about eliminating pride and regret and making good decisions for pragmatic reasons. It takes focus and discipline to not ask yourself what could have been or what something might become. In the end, the only questions that will matter as it relates to your wealth are: What was it? And, what is it? Anything else is pride and regret. ([Location 2885](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2885))
+    - Tags: [[pink]] 
+- The fifth and final filter of the 52-Week Low strategy is designed to identify companies trading below their historic and recent high prices, companies with more sellers than buyers. Buying low and selling high is Economics 101 thinking, but it constantly amazes me how often this cardinal and basic ([Location 2899](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2899))
+    - Tags: [[pink]] 
+- rule is overlooked or that breaking it is so easily justified by investors and firms. The fact that this simple rule is so often broken reveals how cognitive biases and emotional influences work against our better judgment when it comes to investing. We see a company’s stock rising and we get a sense that we should be investing in it. We watch it rise, we watch people making money, and we want a piece of the action. ([Location 2901](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2901))
+    - Tags: [[pink]] 
+- We see Apple setting new company records and our knee-jerk reaction is to invest. We justify our actions. Everyone else seems to be making money there, so we can make money there. We see week after week of gains and believe this is the right time. We buy. It will continue to rise, right? It has to. It must continue to rise.… ([Location 2905](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2905))
+    - Tags: [[pink]] 
+- We believe it will continue to grow. We have faith in it. And that’s the problem. Investing your money should not be a matter of faith or belief. It should not be based on a feeling or a headline. If you have learned anything by this point in this book, I hope it is this: When it comes to investments, the only way to… ([Location 2907](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2907))
+    - Tags: [[pink]] 
+- known—not what is felt, assumed, or hoped for, but known. Strategies protect us from our lesser natures, those parts of us that want to follow a crowd, that believe in a trend, that keep us amid a sea of buyers in a seller’s market. Strategies and rigorous adherence to them eliminate the need to justify. If you have a process for… ([Location 2911](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2911))
+    - Tags: [[pink]] 
+- process is the justification. You can stop fretting about whether you should have made another decision and spend that energy doing something more productive. If you want to invest in Apple or another “hot” stock because you are curious about it, either as an academic exercise or because you are the kind of person who likes to sit down… ([Location 2914](https://readwise.io/to_kindle?action=open&asin=B00JKGGMDY&location=2914))
+    - Tags: [[pink]]
+

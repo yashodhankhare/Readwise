@@ -1,0 +1,110 @@
+---
+tags:
+  - readwise
+---
+
+# Alice's Adventures in Wonderland [Illustrated]
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51n%2BG5YL60L._SL200_.jpg)
+
+## Metadata
+- Author: [[Lewis Carroll, Peter Newell, Beasie Pease Guttman, John Tenniel, E. Gertrude Thompson, Brinsley Le F...]]
+- Full Title: Alice's Adventures in Wonderland [Illustrated]
+- Category: #books
+
+## Highlights
+- Alice was beginning to get very tired of ([Location 50](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=50))
+    - Tags: [[orange]] 
+- sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, 'and what is the use of a book,' thought Alice 'without pictures or conversation?' ([Location 51](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=51))
+    - Tags: [[orange]] 
+- For, you see, so many out-of-the-way things had happened lately, that Alice had begun to think that very few things indeed were really impossible. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=104))
+    - Tags: [[orange]] 
+- she had never forgotten that, if ([Location 114](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=114))
+    - Tags: [[orange]] 
+- you drink much from a bottle marked 'poison,' it is almost certain to disagree with you, sooner or later. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=114))
+    - Tags: [[orange]] 
+- She generally gave herself very good advice, (though she very seldom followed it), ([Location 128](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=128))
+    - Tags: [[orange]] 
+- Alice had got so much into the way of expecting nothing but out-of-the-way things to happen, that it seemed quite dull and stupid for life to go on in the common way. ([Location 137](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=137))
+    - Tags: [[orange]] 
+- 'Curiouser and curiouser!' cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); ([Location 145](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=145))
+    - Tags: [[orange]] 
+- 'Dear, dear! How queer everything is to-day! And yesterday things went on just as usual. I wonder if I've been changed in the night? Let me think: was I the same when I got up this morning? ([Location 170](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=170))
+    - Tags: [[orange]] 
+- I almost think I can remember feeling a little different. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=171))
+    - Tags: [[orange]] 
+- But if I'm not the same, the next question is, Who in the world am I? Ah, THAT'S the great puzzle!' ([Location 171](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=171))
+    - Tags: [[orange]] 
+- "Who am I then? Tell me that first, and then, if I like being that person, I'll come up: if not, I'll stay down here till I'm somebody else"—but, ([Location 194](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=194))
+    - Tags: [[orange]] 
+- 'It was much pleasanter at home,' thought poor Alice, 'when one wasn't always growing larger and smaller, and being ordered about by mice and rabbits. I almost wish I hadn't gone down that rabbit-hole—and yet—and yet—it's rather curious, you know, this sort of life! ([Location 388](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=388))
+    - Tags: [[orange]] 
+    - Note: Like the World Economy is in Alice's rabbit hole. It is in a burrow, there is no doubt about that. And that that does not mean anything for the price of stocks. Alice is trying to find her way out of the burrow and in the process bumps into the cat
+- Alice knew it was the Rabbit coming to look for her, and she trembled till she shook the house, quite forgetting that she was now about a thousand times as large as the Rabbit, and had no reason to be afraid of it. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=399))
+    - Tags: [[orange]] 
+- For some minutes it puffed away without speaking, but at last it unfolded its arms, took the hookah out of its mouth again, and said, 'So you think you're changed, do you?' ([Location 505](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=505))
+    - Tags: [[orange]] 
+- 'I'm afraid I am, sir,' said Alice; 'I can't remember things as I used—and I don't keep the same size for ten ([Location 507](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=507))
+    - Tags: [[orange]] 
+- minutes together!' ([Location 508](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=508))
+    - Tags: [[orange]] 
+- The Caterpillar was the first to speak. 'What size do you want to be?' it asked. 'Oh, I'm not particular as to size,' Alice hastily replied; 'only one doesn't like changing so often, you know.' 'I DON'T know,' said the Caterpillar. Alice said nothing: she had never been so much contradicted in her life before, and she felt that she was losing her temper. 'Are you content now?' said the Caterpillar. 'Well, I should like to be a LITTLE larger, sir, if you wouldn't mind,' said Alice: 'three inches is such a wretched height to be.' 'It is a very good height indeed!' said the Caterpillar angrily, rearing itself upright as it spoke (it was exactly three inches high). 'But I'm not used to it!' pleaded poor Alice in a piteous tone. And she thought of herself, 'I wish the creatures wouldn't be so easily offended!' 'You'll get used to it in time,' said the Caterpillar; and it put the hookah ([Location 563](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=563))
+    - Tags: [[orange]] 
+- into its mouth and began smoking again. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=573))
+    - Tags: [[orange]] 
+- 'Speak roughly to your little boy, And beat him when he sneezes: ([Location 699](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=699))
+    - Tags: [[orange]] 
+- He only does it to annoy, Because he knows it teases.' ([Location 702](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=702))
+    - Tags: [[orange]] 
+- 'If it had grown up,' she said to herself, 'it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.' ([Location 736](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=736))
+    - Tags: [[orange]] 
+- And she began thinking over other children she knew, who might do very well as pigs, and was just saying to herself, 'if one only knew ([Location 737](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=737))
+    - Tags: [[orange]] 
+- the right way to change them—' when she was a little startled by seeing the Cheshire Cat sitting on a bough of a tree a few yards off. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=738))
+    - Tags: [[orange]] 
+- The Cat only grinned when it saw Alice. It looked good-natured, she thought: still it had VERY long claws and a great many teeth, so she felt that it ought to be treated with respect. 'Cheshire Puss,' she began, rather timidly, as she did not at all know whether it would like the name: however, it only grinned a little wider. 'Come, it's pleased so far,' thought Alice, and she went on. 'Would you tell me, please, which way I ought to go from here?' 'That depends a good deal on where you want to get to,' said the Cat. ([Location 740](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=740))
+    - Tags: [[orange]] 
+- 'I don't much care where—' said Alice. 'Then it doesn't matter which way you go,' said the Cat. '—so long as I get SOMEWHERE,' Alice added as an explanation. 'Oh, you're sure to do that,' said the Cat, 'if you only walk long enough.' ([Location 745](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=745))
+    - Tags: [[orange]] 
+- Alice felt that this could not be denied, so she tried another question. 'What sort of people live about here?' 'In THAT direction,' the Cat said, waving its right paw round, 'lives a Hatter: and in THAT direction,' waving the other paw, 'lives a March Hare. Visit either you like: they're both mad.' 'But I don't want to go among ([Location 748](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=748))
+    - Tags: [[orange]] 
+- mad people,' Alice remarked. 'Oh, you can't help that,' said the Cat: 'we're all mad here. I'm mad. You're mad.' 'How do you know I'm mad?' said Alice. 'You must be,' said the Cat, 'or you wouldn't have come here.' Alice didn't think that proved it at all; however, she went on 'And how do you know that you're mad?' 'To begin with,' said the Cat, 'a dog's not mad. You grant that?' 'I suppose so,' said Alice. ([Location 752](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=752))
+    - Tags: [[orange]] 
+- 'Well, then,' the Cat went on, 'you see, a dog growls when it's angry, and wags its tail when it's pleased. Now I growl when I'm pleased, and wag my tail when I'm angry. Therefore I'm mad.' ([Location 759](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=759))
+    - Tags: [[orange]] 
+- 'Then you should say what you mean,' the March Hare went on. 'I do,' Alice hastily replied; 'at least—at least I mean what I say—that's the same thing, you know.' 'Not the same thing a bit!' said the Hatter. 'You might just as well say that "I see what I eat" is the same thing as "I eat what I see"!' ([Location 809](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=809))
+    - Tags: [[orange]] 
+    - Note: THIS IS FOR THE FEDERAL RESERVE
+- 'You're thinking about something, my dear, and that makes you forget to talk. I can't tell you just now what the moral of that is, but I shall remember it in a bit.' 'Perhaps it hasn't one,' Alice ventured to remark. 'Tut, tut, child!' said the Duchess. 'Everything's got a moral, if only you can find it.' ([Location 1087](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1087))
+    - Tags: [[orange]] 
+- 'and the moral of that is—"Oh, 'tis love, 'tis love, that makes the world go round!"' ([Location 1096](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1096))
+    - Tags: [[orange]] 
+- is—"Take care of the sense, and the sounds will take care of themselves."' ([Location 1099](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1099))
+    - Tags: [[orange]] 
+- 'How fond she is of finding morals in things!' ([Location 1100](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1100))
+    - Tags: [[orange]] 
+- is—"The more there is of mine, the less there is of yours."' ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1109))
+    - Tags: [[orange]] 
+- 'it's a vegetable. It doesn't look like one, but it is.' ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1111))
+    - Tags: [[orange]] 
+- 'I quite agree with you,' said the Duchess; 'and the moral of that is—"Be what you would seem to be"—or if you'd like it put more simply—"Never imagine yourself not to be otherwise than ([Location 1111](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1111))
+    - Tags: [[orange]] 
+- what it might appear to others that what you were or might have been was not otherwise than what you had been would have appeared to them to be otherwise."' ([Location 1113](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1113))
+    - Tags: [[orange]] 
+- 'And how many hours a day did you do lessons?' said Alice, in a hurry to change the subject. 'Ten hours the first day,' said the Mock Turtle: 'nine the next, and so on.' 'What a curious plan!' exclaimed Alice. ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1204))
+    - Tags: [[orange]] 
+- 'That's the reason they're called lessons,' the Gryphon remarked: 'because they lessen from day to day.' ([Location 1206](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1206))
+    - Tags: [[orange]] 
+- 'Wake up, Alice dear!' said her sister; 'Why, what a long sleep you've had!' 'Oh, I've had such a curious dream!' said Alice, and she told her sister, as well as she could remember them, all these strange Adventures of hers that you have just been reading about; and when she had finished, her sister kissed her, and said, 'It WAS a curious dream, dear, certainly: but now run in to your tea; it's getting late.' So Alice got up and ran off, thinking while she ran, as well she might, what a wonderful dream it had been. But her sister sat still just as she left her, ([Location 1638](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1638))
+    - Tags: [[orange]] 
+- leaning her head on her hand, watching the setting sun, and thinking of little Alice and all her wonderful Adventures, till she too began dreaming after a fashion, and this was her dream:— First, she dreamed of little Alice herself, and once again the tiny hands were clasped upon her knee, and the bright eager eyes were looking up into hers—she could hear the very tones of her voice, and see that queer little toss of her head to keep back the wandering hair that WOULD always get into her eyes—and still as she listened, or seemed to listen, the whole place around her became alive the strange creatures of her little ([Location 1643](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1643))
+    - Tags: [[orange]] 
+- sister's dream. The long grass rustled at her feet as the White Rabbit hurried by—the frightened Mouse splashed his way through the neighbouring pool—she could hear the rattle of the teacups as the March Hare and his friends shared their never-ending meal, and the shrill voice of the Queen ordering off her unfortunate guests to execution—once more the pig-baby was sneezing on the Duchess's knee, while plates and dishes crashed around it—once more the shriek of the… ([Location 1648](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1648))
+    - Tags: [[orange]] 
+- with the distant sobs of the miserable Mock Turtle. So she sat on, with closed eyes, and half believed herself in Wonderland, though she knew she had but to open them again, and all would change to dull reality—the grass would be only rustling in the wind, and the pool rippling to the waving of the reeds—the rattling teacups would change to tinkling sheep-bells, and the Queen's shrill cries to the voice of the shepherd boy—and the sneeze of the baby, the shriek of… ([Location 1652](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1652))
+    - Tags: [[orange]] 
+- the lowing of the cattle in the distance would take the place of the Mock Turtle's heavy sobs. Lastly, she pictured to herself how this same little sister of hers would, in the after-time, be herself a grown woman; and how she would keep, through all her riper years, the simple and loving heart of her childhood: and how she would gather about her other little children, and make THEIR eyes bright and eager with many a strange tale, perhaps even with the dream of Wonderland of… ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1657))
+    - Tags: [[orange]] 
+- her own child-life, and the happy… ([Location 1661](https://readwise.io/to_kindle?action=open&asin=B005LDC7IY&location=1661))
+    - Tags: [[orange]]
+

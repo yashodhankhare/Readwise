@@ -1,0 +1,134 @@
+---
+tags:
+  - readwise
+---
+
+# Pebbles of Perception
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51cvElYU7WL._SL200_.jpg)
+
+## Metadata
+- Author: [[Laurence Endersen]]
+- Full Title: Pebbles of Perception
+- Category: #books
+
+## Highlights
+- Chapter One: Is There a Better Question?   I keep six honest serving-men (They taught me all I knew); Their names are What and Why and When And How and Where and Who -          Rudyard Kipling ([Location 138](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=138))
+    - Tags: [[pink]] 
+- I was chatting about this recently with a friend who said that his mum used to retort, “Curiosity killed the cat, but information brought him ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=153))
+    - Tags: [[pink]] 
+- back.” My advice: forget about the cat and stay curious. Adopt the motto ABC: Always Be Curious.   Good Questions Trump Smart Answers We can be too quick to blurt out what we believe are the correct answers, when more value can be gained by searching for a better question. A questioning mentality is far more effective than a knowing mentality. Once we have declared an answer, our biases towards commitment and consistency cause us to defend our answer, wasting energy that would be better applied to exploring alternatives. A thoughtful colleague of mine sometimes responds to a question with: “I think a more useful question you might want to ask me is...”. His thought process shows an all too rare appreciation of why we need care in crafting our questions. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=154))
+    - Tags: [[pink]] 
+- Stay curious. Improve the quality of questions before getting to work on answers. Use more questions to see beyond the obvious answers. Improve group dynamics by ensuring there is enough attention given to asking the right questions. Be interested. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=202))
+    - Tags: [[pink]] 
+- Chapter Two: Lifelong Learning   By three methods we may learn wisdom: First, by reflection, which is noblest; second, by imitation, which is easiest; and third, by experience, which is the bitterest. -          Confucius ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=206))
+    - Tags: [[pink]] 
+- Why not make a conscious decision to learn something new every day? No matter how small the daily ([Location 230](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=230))
+    - Tags: [[pink]] 
+- learning, it is significant when aggregated over a lifetime. Resolving early in life to have a continuous learning mindset is not only more interesting than the passive alternative, it is also remarkably powerful. Choosing lifelong learning is one of the few good choices that can make a big difference in our lives, giving us an enormous advantage when practised over a long period of time. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=231))
+    - Tags: [[pink]] 
+- The process of thoughtful reflection makes our experiences more concrete, and helps with future recall and understanding. Reflecting about what we learned, how we felt, how we and others behaved, and what interests were at play, hardwires the learning in our brain and gives us a depth of context and relevance that would otherwise be absent. ([Location 236](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=236))
+    - Tags: [[pink]] 
+- An example that springs to mind is Warren Buffet’s explanation of compound interest (i.e., interest earned on interest), when he likened it to a snowball that gathers snow as it rolls down a hill. ([Location 269](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=269))
+    - Tags: [[pink]] 
+- Choose lifelong learning over flat-line learning. Savour experiences as opportunities to learn. Reflect on your experiences. Read regularly. Learn how to read for understanding. Know how to test whether you really understand something by demonstrating that you could teach it in simple terms with a clear analogy.   The best way to approach learning is with childlike curiosity and a questioning mindset. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=272))
+    - Tags: [[pink]] 
+- Chapter Three: Listening   One of the most beautiful qualities of true friendship is to understand and to be understood. - Seneca ([Location 278](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=278))
+    - Tags: [[pink]] 
+- W hen it comes to describing much of what currently passes for personal communication, the analogy of the crocodile is an apt one: all mouth and no ears. You may recall your parents telling you that you have two ears and one mouth for a reason. Yet many of us have never really learned to listen. As a distinctly social species this is quite a tragedy. Communication is arguably the most important life skill of all. The quality of human relations is in large part determined by the quality of communication. There are talkers and there are listeners, but we don’t learn much, if anything, while we are talking. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=283))
+    - Tags: [[pink]] 
+- Don’t be a crocodile, all mouth and no ears. Choose a learning lens over a lecturing lens. Be aware of the differences between your lenses and those of others. To truly listen to others is a gift to them. Give it with courtesy and humility. The payback is real understanding. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=348))
+    - Tags: [[pink]] 
+- Chapter Four: Incentives   The rabbit runs faster than the fox, because the rabbit is running for his life while the fox is only running for his dinner. - Richard Dawkins ([Location 352](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=352))
+    - Tags: [[pink]] 
+- the time to carefully consider the interests at hand. And we understand it even better when we consider how the situation might be different if the underlying interests were different. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=364))
+    - Tags: [[pink]] 
+- Paying people a substantial share of profits without having to bear losses is highly likely to result in excessive risk-taking. The “eat what you kill” culture is bound to compromise teamwork. In this respect the system is doing all its participants a disservice. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=372))
+    - Tags: [[pink]] 
+- incentives acknowledge recognition, public perception, and the value of pursuing work that we can be proud of. So yes, if we want to persuade, we should appeal to interests not reason. But when it comes to interests, appeal not just to net worth but also to self-worth. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=397))
+    - Tags: [[pink]] 
+- Managing Incentives On managing incentives there are two core principles worth remembering: We usually get the behaviour we reward; and It’s mad to incentivise behaviour that we don’t want. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=400))
+    - Tags: [[pink]] 
+- Incentives matter greatly – underestimate them at your peril. People will navigate the shortest path to the incentive. The curious among us will pay particular attention to incentives, monetary or otherwise. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=411))
+    - Tags: [[pink]] 
+- Chapter Five: Consider the Context   There is no such thing as the view from nowhere, or from everywhere for that matter. Our point of view biases our observation, consciously and unconsciously. You cannot understand the view without the point of view. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=414))
+    - Tags: [[pink]] 
+- W hen I was a teenager, I used to have arguments with a friend who refused to come to a firm view. His opinion was regularly couched in language like “it depends” or “we’ll see”. It drove me mad because I was much more likely to have a clear, black-or-white view. What I now realise is that I was quite likely to be wrong. Absolutes are rare birds. We should choose assessments over assertions. ([Location 420](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=420))
+    - Tags: [[pink]] 
+- Context Dependency and Absence Blindness Life is context-dependent. Scientists and statisticians understand this. They couch their conclusions in context-specific terms. Problems arise when people don’t leave room for ambiguity. Dogmatic behaviour is especially worrying. Absolutism is dangerous. Very few “answers” are right in all circumstances. Even criminal judicial systems seek proof beyond a reasonable doubt, not absolute certainty. A close cousin of context dependency is absence blindness. Humans are reasonably adept at examining and judging what is in front of them. We are excellent at comparing alternatives yet terrible at considering what’s missing. Presented with a choice between A, B, C and D, we get very busy on the relative merits of each rather than suggesting a context-appropriate E. Out of sight, out of mind. What’s missing is also context-dependent. And if, like me, your head is beginning to hurt a little right now, that’s because trying to consider both context relevance and what in that context we might be missing, does not come naturally. Understanding comes with consideration of both relevance and relevant absence. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=429))
+    - Tags: [[pink]] 
+- What are some practical suggestions for dealing with context dependency? 1.Always consider whether there is a better question. 2.Consider what might be missing. 3.For important decisions don’t think twice, think thrice. 4.Use checklists. ([Location 464](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=464))
+    - Tags: [[pink]] 
+- Develop your own decision making frameworks and keep decision journals. 6.Think like a scientist would. The focus of the ‘scientific method’ is on empirical and measurable evidence. 7.Consult others who have real and relevant experience. 8.Widen the diversity of your own experience.   We can also be more careful and deliberate in our choice of words. “I know” is not the same as “I believe”. Or, how about: “In my experience of similar situations, I have frequently found...” ([Location 470](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=470))
+    - Tags: [[pink]] 
+- Nothing occurs in isolation. Always consider the context and recognise that it: (a) is different for everyone, and (b) changes over time. Don’t be dogmatic. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=479))
+    - Tags: [[pink]] 
+- Chapter Six: Start by Considering the End and the Opposite   Eleanor Rigby, died in the church And was buried along with her name Nobody came. - Lennon & McCartney ([Location 487](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=487))
+    - Tags: [[pink]] 
+- Start by considering the end. Visualise both the road to personal fulfilment and the destination. Consider what behaviour would thwart that fulfilment and do the opposite. Thinking about the route to avoid helps reveal the more rewarding road. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=543))
+    - Tags: [[pink]] 
+- Chapter Seven: Emotional Intelligence   I want to know if you can be alone with yourself and if you truly like the company you keep in the empty moments - Extract from The Invitation by Oriah Mountain Dreamer ([Location 547](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=547))
+    - Tags: [[pink]] 
+- A combination of rational, conscious and respectful thinking is at the core of most traits associated with developing our emotional quotient. It is who and how we are that matters more than what we have and know. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=624))
+    - Tags: [[pink]] 
+- Chapter Eight: Fear   Gratitude looks to the past and love to the present: fear, avarice, lust and ambition look ahead. - C.S. Lewis ([Location 627](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=627))
+    - Tags: [[pink]] 
+- As the 13th century poet Rumi asked: “How will you ever be polished, if you are irritated by every rub?” ([Location 684](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=684))
+    - Tags: [[pink]] 
+- Thirdly, irrespective of what happens, we always have the capacity to choose our reaction. Our capacity to choose our response is evergreen and can’t be taken from us. It is always with us, and from it we can draw great strength. Even in the horrors of a concentration camp, Viktor Frankl saw proof that “everything can be taken away from a man but one thing: the last of the human freedoms – to choose one’s attitude in any given set of circumstances, to choose one’s way”. In the confines of the concentration camp, that ability to choose was clear ([Location 686](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=686))
+    - Tags: [[pink]] 
+- in the most basic things, in the prisoners who comforted others, giving away their last piece of bread.   So yes, there will be loss. But we should know that: -loss is natural and to be expected; -the consequences of loss will not be as bad as we imagine, especially if we are living full and varied lives; and -we never lose our capacity to learn, our capacity to love and, above all, our capacity to choose. ([Location 690](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=690))
+    - Tags: [[pink]] 
+- Fear is mostly a thought-based construct. It dissolves when we drop our comparisons and accept ourselves fully as we are, right now. Loss is as natural as birth. Choose real life over regret. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=702))
+    - Tags: [[pink]] 
+- Chapter Nine: Know Yourself, Be Yourself, Mind Yourself   I am not concerned with the driven or the sleepy mind but with one that is fully alert and free to express itself, for the mind shows its true nature only when it is free to play, free to be itself as fully as possible, just as a child will climb a tree under conditions of vigorous health, mental relaxation and the presence of an arboreal paradise. - Extract from Man’s Emerging Mind by N.J. Berrill ([Location 705](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=705))
+    - Tags: [[pink]] 
+- Chapter Ten: Be Kind to Your Parents   Be kind, for everyone you meet is fighting a harder battle. - Plato ([Location 803](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=803))
+    - Tags: [[pink]] 
+- Kindness is not just for strangers. ([Location 827](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=827))
+    - Tags: [[pink]] 
+- Chapter Eleven: Sales, Negotiation and Influence   I have always said that everyone is in sales. Maybe you don’t hold the title of salesperson, but if the business you are in requires you to deal with people, you, my friend, are in sales. - Zig Ziglar ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=829))
+    - Tags: [[pink]] 
+- The Science of Selling (or why “Friends Fish with Fearless Frank”) (i) Friends. A number of years ago I was managing a company and looking to hire a head of sales. What I didn’t ([Location 853](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=853))
+    - Tags: [[pink]] 
+- fully appreciate at the time was that the CEO is really the head of sales in every company, at least in the broadest sense. Leaving my personal blind spot aside, I continued my search for the right salesperson. When meeting candidates I took every opportunity to ask them what in their view makes a great salesperson. The best answer I got was from a young man who had built his career in some of the most hostile and least developed regions of the world. He told me that “sales is about making friends with people on the ground”. He innately understood that people like doing business with people whom they like and trust. If you want to increase your sales, make more friends. The “on-the-ground” part of the response was also insightful. As with many things, half of success is about showing up – and that means face-to-face.   (ii) Fish. Where is the best place to fish? Where the fish are. If you are going to sell, you may as well spend your time with those who are most likely to want to buy. Leave the long shots to others. One of my early mentors used to advise me to “find the MAN”, explaining that if I wanted to get a positive response I needed to speak to someone with the Money, the Authority and the Need to buy from me.   (iii) Fearless. The best salespeople see rejection as a way to learn, improve and work towards mastery of their profession. Resilience allows the fearless salesperson to accumulate many rejections without losing sight of the bigger picture. They have no fear of failure. ([Location 855](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=855))
+    - Tags: [[pink]] 
+- (iv) Frank. To make an honest sale you need to believe in yourself, and you need to believe in your product or service. You must genuinely believe that you are helping someone do what is right for them. Not selling, but helping people to buy. Getting to the position where you honestly believe that you have the right solution requires both preparation and a thorough understanding of the needs of the person you are trying to serve. To sum up, we can be frank when we bring honesty and belief to our thoughtful preparation. ([Location 868](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=868))
+    - Tags: [[pink]] 
+- The Science of Influence When it comes to the topic of influence the best thing I can do for readers is to suggest they read Cialdini’s Influence: The Psychology of Persuasion. In his enlightening book, Cialdini introduces six principles of influence. The ([Location 935](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=935))
+    - Tags: [[pink]] 
+- principles are very firmly grounded in human psychology.   Principle One: Reciprocation. When you give something to someone they feel obliged to give something back in return. If you want to receive, give first. The best salespeople use this all the time. They give value first.   Principle Two: Scarcity. People want what’s scarce. You should emphasise genuine scarcity whether in the form of unique features or limited editions. The luxury goods market is built on the foundations of scarcity. The diamond market is built on perceived scarcity.   Principle Three: Social Proof or Consensus. We are social animals. People do things if other people are doing them. Seeing people similar to us (or people we aspire to be like) promote products makes us think, “If it’s good for them, it must be good for us.” Books, songs and movies reach tipping points where people buy them because everyone else is buying them.   Principle Four: Authority. We have a psychological tendency to respect authority. This causes us to buy all sorts of “scientifically proven” products.   Principle Five: Consistency. Being inconsistent is considered undesirable. We go to great lengths to avoid inconsistency. Therefore to influence behaviour it is best to start from a common understanding and build slowly from there. Build on existing commitments. A powerful ([Location 938](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=938))
+    - Tags: [[pink]] 
+- question in keeping someone to a commitment is: “Do I have your word on it?”   Principle Six: Liking. We are far more likely to be influenced by our friends. If you want to increase your influence with someone else, strengthen your friendship with them.   An Additional Ingredient Those of good character add a critical further ingredient to their natural ability and their understanding of the science. That ingredient is integrity.   Good Character = Principled Sellers = Natural Ability + Science + Integrity   Principled sellers only sell a product or service that they believe in. They need to believe in themselves, their product or service and the company they represent. They would not seek to persuade others to do anything they would not do themselves, were the roles reversed. A principled seller should give people the same respect, service and care that they would reserve for a close relative, recognising that there is no limit to the quality one can add to a service. How might we distinguish the principled seller from the unsavoury one? One possible question: Would you sell this to your mother, assuming she had the need? ([Location 953](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=953))
+    - Tags: [[pink]] 
+- Chapter Twelve: Adversity   As soon as there is life there is danger. -          Ralph Waldo Emerson ([Location 971](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=971))
+    - Tags: [[pink]] 
+- Why do some people cope better than others when faced with adversity? Or consider a better question: How can we cope with adversity and perhaps even grow through adversity? I think there are three things that can help: Reflection on the nature of adversity, with a view to understanding; Recognition of when we personally face adversity, with a view to acceptance; and Re-writing our life story to account for the experience of adversity, with a view to personal growth.   Through reflection we seek to understand the nature of adversity, for what is understood is less frightening when it arrives. Primarily, we learn that adversity is a ([Location 992](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=992))
+    - Tags: [[pink]] 
+- natural part of life. It is naive to assume that it doesn’t exist, or that we won’t be hit by adversity’s arrow. When we observe the world around us, we see how much suffering people frequently deal with. Adversity can entail premature or disproportionate loss. ([Location 1001](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1001))
+    - Tags: [[pink]] 
+- Chapter Thirteen: Be a True Friend   Oh, the comfort, the inexpressible comfort, of feeling safe with a person, having neither to weigh thought nor measure words, but to pour them all right out, just as they are, chaff and grain together, knowing that a faithful hand will take and sift them, keep what is worth keeping, and then, with a breath of kindness, blow the rest away. - George Eliot (pen name of Mary Ann Evans) ([Location 1039](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1039))
+    - Tags: [[pink]] 
+- Chapter Fifteen: Choosing a Career   Nice work if you can get it. And you can get it if you try. - Ira Gershwin ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1145))
+    - Tags: [[pink]] 
+- Chapter Sixteen: The Ubiquity of Energy   If you want to find the secrets of the universe, think in terms of energy, frequency and vibration. - Nikola Tesla ([Location 1202](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1202))
+    - Tags: [[pink]] 
+- Chapter Seventeen: Experiences   The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. - Eleanor Roosevelt ([Location 1262](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1262))
+    - Tags: [[pink]] 
+- Chapter Nineteen: ([Location 1371](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1371))
+    - Tags: [[pink]] 
+- The One for Me   So that is marriage, Lily thought, a man and a woman looking at a girl throwing a ball. - Virginia Woolf ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1372))
+    - Tags: [[pink]] 
+- don’t expect to change your partner (or you will most likely end up changing partners). ([Location 1460](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1460))
+    - Tags: [[pink]] 
+- Chapter Twenty: Having Children   Writing books is the closest men ever come to childbearing. - Norman Mailer ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1465))
+    - Tags: [[pink]] 
+- Chapter Twenty-One: Compound Gratification   Money is of a prolific generating nature. Money can beget Money and its Offspring can beget more. - Benjamin Franklin ([Location 1549](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1549))
+    - Tags: [[pink]] 
+- Chapter Twenty-Two: Thinking   Don’t think twice, it’s alright. - Bob Dylan ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1655))
+    - Tags: [[pink]] 
+- Your fault, not mine (the “fundamental attribution” effect). There is a difference in the way we see the actions of others and our own actions. When others do things, we see their behaviour as a representation of their true nature rather than a reaction to our behaviour. So when someone else is hostile, we see it as part of their innate personality. When we are hostile we see it as a reaction to their hostility. We see what we do as a reaction to circumstances rather than as a problem with our nature. ([Location 1693](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1693))
+    - Tags: [[pink]] 
+- Chapter Twenty-Three: Full Circle   To Contemplation’s sober eye Such is the race of man: And they that creep, and they that fly, Shall end where they began. - Thomas Gray, from Ode on the Spring, written in 1748 ([Location 1745](https://readwise.io/to_kindle?action=open&asin=B00P55CTAE&location=1745))
+    - Tags: [[pink]]
+

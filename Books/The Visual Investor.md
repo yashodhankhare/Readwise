@@ -1,0 +1,48 @@
+---
+tags:
+  - readwise
+---
+
+# The Visual Investor
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41eHecuUTDL._SL200_.jpg)
+
+## Metadata
+- Author: [[John J. Murphy]]
+- Full Title: The Visual Investor
+- Category: #books
+
+## Highlights
+- I started out to make this a “visual” book. I wanted to show you a lot of pictures of markets that could tell a story on their own. As a result, you’re going to see a lot of charts. The charts I chose were taken from recent market data. They weren’t chosen to depict perfect textbook examples, but to show real-life examples of visual principles at work in the current market environment. I hope I’ve chosen wisely. Please keep in mind there’s only ([Location 277](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=277))
+    - Tags: [[pink]] 
+- one question you have to continually ask yourself: Is the market I’m looking at going up or down? If you can answer that, you’ll do okay. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=280))
+    - Tags: [[pink]] 
+- A stock either goes up or down. If it goes up, and you own it, that’s good. If it goes down, and you own it, that’s bad. You can talk all you want about what a stock should be doing or why it isn’t doing what it should be doing. You can talk about inflation, interest rates, earnings, and investor expectations. Ultimately, however, it comes down to the picture. Is the stock going up or down? Knowing the reasons behind a stock’s movement is interesting, but not critical. If your stock goes up on a given day, they won’t take the money away from you if you don’t know why it went up. And if you can explain why it went down, they won’t give you back your lost money. All that really matters is a picture, a simple line on a chart. The trick to visual investing is learning to tell the difference between what is going up and what is going down. The goal of this book is to help you tell that difference. ([Location 366](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=366))
+    - Tags: [[pink]] 
+- What matters isn’t always the actual news, but what the market was expecting and what it thinks of that news. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=409))
+    - Tags: [[pink]] 
+- The simplest way to understand the difference between the two approaches is to consider supply and demand. Simple economics tells us that when demand increases relative to supply, prices rise. When supply exceeds demand, prices fall. The same principle applies to stocks, bonds, currencies, and commodities. However, how does one tell what those supply and demand figures are? The ability to tell which is greater is obviously the key to price forecasting. The hard way is to actually study all of the supply and demand factors, individually and collectively, to determine which is greater. The easier way is to let the price itself tell us. If the price is rising, demand is greater. If the price is falling, supply is probably greater. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=417))
+    - Tags: [[pink]] 
+- Any failure to exceed a previous high is an early warning of a possible trend reversal. Any downside violation of a prior low is usually a confirmation that a trend reversal has in fact taken place ([Location 519](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=519))
+    - Tags: [[pink]] 
+- A major trend, as the name implies, refers to an important trend that lasts anywhere from six months to several years. When analysts speak of the major trend of the stock market, they are referring to the longer-term trend of the market, which is the most important to stock investors. The major trend is also called the primary trend. The second most important trend is the secondary, or intermediate, trend. This refers to a correction in the major trend that can last from one to six months. In other words, it is not long enough to qualify as a major trend, but too long to be considered a short-term trend. The third degree of trend is the short-term, or minor, trend. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=584))
+    - Tags: [[pink]] 
+- Weekly charts that cover at least five years are recommended to get a closer picture of the major trend. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=614))
+    - Tags: [[pink]] 
+- As a general rule, the further back in time that a support or resistance level was formed, the more significant it becomes. As a second rule, the more times a support or resistance level has been “tested,” the more important it becomes. ([Location 622](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=622))
+    - Tags: [[pink]] 
+- The simple trendline is possibly the most useful tool in the study of market trends. And you’ll be happy to know that it is extremely easy to draw. Chart analysts use ([Location 637](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=637))
+    - Tags: [[pink]] 
+- trendlines to determine the slope of a market trend and to help determine when that trend is changing. Although horizontal trendlines can be drawn on a chart, the most common usage refers to up trendlines and down trendlines. An up trendline is simply drawn under the rising reaction lows. A down trendline is drawn above the declining market peaks. Markets often rise or fall at a given slope. The trendline helps us to determine what that slope is. Once a valid trendline is drawn, markets will often bounce off it several times. For example, in an uptrend, markets will often pull back to the up trendline and bounce off it. Retests of up trendlines often present excellent buying opportunities (see Figure 2.13). Prices in a downtrend will often bounce back to the falling trendline, presenting a selling opportunity. Analysts often refer to trendline support and resistance. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=638))
+    - Tags: [[pink]] 
+- The most common way to draw a trendline is to make sure that it includes all of the price action. On a bar chart (where the price range is marked by a vertical bar), the up trendline is drawn in such a way that the trendline rests on the bottom of the bars. A down trendline touches the top of the price bars. Some analysts prefer to connect only the closing prices instead of the individual price bars. For longer-range trend analysis, it doesn’t make too ([Location 646](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=646))
+    - Tags: [[pink]] 
+- much difference. For shorter-term analysis, I prefer connecting the tops and bottoms of the individual price bars. It takes two points to draw a line. An up trendline can’t be drawn until two troughs are visible. Even then, the trendline is not necessarily a valid trendline. Prices should test the trendline, and bounce off it, to confirm that the trendline is valid. Preferably, prices should touch a trendline three times. (Sometimes, however, the market isn’t as accommodating as we would like and a trendline is touched only twice.) The more times a trendline is tested, the more significant it becomes. Figure 2.14 shows a long-term down trendline being touched three times. Most analysts draw several lines on their charts. Sometimes the original trendline proves to be incorrect, in which case a new trendline must be drawn. Another reason for having several trendlines is that they measure different trends. Some measure the short-term trend, some the longer trend. As with trends themselves, longer-term trendlines carry more significance than shorter-term trendlines ([Location 649](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=649))
+    - Tags: [[pink]] 
+- Channel lines are easily drawn on price charts and often help identify support and resistance levels. Markets will often trend between two parallel trendlines, one above ([Location 669](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=669))
+    - Tags: [[pink]] 
+- and one below the price action. During a downtrend, you must first draw a conventional down trendline along two market peaks. Then move to the bottom of the intervening trough and draw a line parallel to the declining trendline. You’ll wind up with two declining trendlines, one above the price action and one (the channel line) below (see Figure 2.15). A stock will often find support when it touches the lower channel line. To draw a rising channel (during an uptrend), you must first draw a conventional up trendline along two market lows. By moving to the peak between the two troughs, you can draw another rising trendline exactly parallel to the lower trendline—except that the channel line is rising above the price trend, while the conventional up trendline is below. It’s usually a good idea to know where rising channel lines are located, since markets will often stall at that level. While the channel technique doesn’t always work, it’s usually a good idea to know where the channel lines are located. A move above a rising channel line is a sign of market strength, while a decline below a falling channel line is a sign of market weakness. Some chart services refer to channel lines as parallel lines. ([Location 670](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=670))
+    - Tags: [[pink]] 
+- Usually a market will retrace a minimum one-third of its prior move. ([Location 694](https://readwise.io/to_kindle?action=open&asin=B001RIO2OO&location=694))
+    - Tags: [[pink]]
+

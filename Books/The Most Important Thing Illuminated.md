@@ -1,0 +1,676 @@
+---
+tags:
+  - readwise
+---
+
+# The Most Important Thing Illuminated
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51o6K-yhHcL._SL200_.jpg)
+
+## Metadata
+- Author: [[Howard Marks, Paul Johnson]]
+- Full Title: The Most Important Thing Illuminated
+- Category: #books
+
+## Highlights
+- Since that original memo, I’ve made a few adjustments in the things I consider “the most important,” but the fundamental notion is unchanged: they’re all important. Successful investing requires thoughtful attention to many separate aspects, all at the same time. Omit any one and the result is likely to be less than satisfactory. That is why I have built this book around the idea of the most important things—each is a brick in what I hope will be a solid wall, and none is dispensable. ([Location 92](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=92))
+    - Tags: [[pink]] 
+- In particular, you’ll find I spend more time discussing risk and how to limit it than how to achieve investment returns. To me, risk is the most interesting, challenging and essential aspect of investing. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=125))
+    - Tags: [[pink]] 
+- essential aspect of investing. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=126))
+- I like to say, “Experience is what you got ([Location 151](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=151))
+    - Tags: [[pink]] 
+- when you didn’t get what you wanted.” ([Location 151](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=151))
+    - Tags: [[pink]] 
+- Good times teach only bad lessons: that investing is easy, that you know its secrets, and that you needn’t worry about risk. The most valuable lessons are learned in tough times. ([Location 155](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=155))
+    - Tags: [[risk]] 
+- risk. The most valuable lessons are learned in tough times. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=156))
+    - Tags: [[pink]] 
+- SETH KLARMAN: This fact may be one of the most shocking statements in this book. During this period, investors were lulled to sleep, anticipating double-digit annual returns while completely losing sight of the risks. Seventeen years ought to qualify as long term—it is roughly half of a career—yet a career built only during this period would hardly have withstood the test of time. ([Location 166](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=166))
+    - Tags: [[favorite]] [[complacency]] [[risk]] 
+- SETH KLARMAN: Beating the market matters, but limiting risk matters just as much. Ultimately, investors have to ask themselves whether they are interested in relative or absolute returns. Losing 45 percent while the market drops 50 percent qualifies as market outperformance, but what a pyrrhic victory this would be for most of us. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=222))
+    - Tags: [[pink]] 
+- Remember, your goal in investing isn’t to earn average returns; you want to do better than average. Thus, your thinking has to be better than that of others—both more powerful and at a higher level. Since other investors may be smart, well-informed and highly computerized, you must find an edge they don’t have. You must think of something they haven’t thought of, see things they miss or bring insight they don’t possess. You have to react differently and behave differently. In short, being right may be a necessary condition for investment success, but it won’t be sufficient. You must be more right than others … which by definition means your thinking has to be different. PAUL JOHNSON: Marks’s comments in this paragraph are excellent. He successfully articulates the critical importance of second-level thinking to investment success. The short discussion that follows offers three excellent examples of the difference between first- and second-level thinking. What is second-level thinking?   •   First-level thinking says, “It’s a good company; let’s buy the stock.” Second-level thinking says, “It’s a good company, but everyone thinks it’s a great company, and it’s not. So the stock’s overrated and overpriced; let’s sell.” ([Location 245](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=245))
+    - Tags: [[pink]] 
+- First-level thinking is simplistic and superficial, and just about everyone can do ([Location 266](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=266))
+    - Tags: [[pink]] 
+- it (a bad sign for anything involving an attempt at superiority). All the first-level thinker needs is an opinion about the future, as in “The outlook for the company is favorable, meaning the stock will go up.” Second-level thinking is deep, complex and convoluted. The second-level thinker takes a great many things into account:   •   What is the range of likely future outcomes? •   Which outcome do I think will occur? •   What’s the probability I’m right? •   What does the consensus think? •   How does my expectation differ from the consensus? •   How does the current price for the asset comport with the consensus view of the future, and with mine? •   Is the consensus psychology that’s incorporated in the price too bullish or ([Location 267](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=267))
+    - Tags: [[pink]] 
+- bearish? •   What will happen to the asset’s price if the consensus turns out to be right, and what if I’m right? ([Location 277](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=277))
+    - Tags: [[pink]] 
+- All investors can’t beat the market since, collectively, they are the market. ([Location 295](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=295))
+    - Tags: [[pink]] 
+- You can’t do the same things others do and expect to outperform. … Unconventionality shouldn’t be a goal in itself, but rather a way of thinking. In order to distinguish yourself from others, it helps to have ideas that are different and to process those ideas differently. I conceptualize the situation as a simple 2-by-2 matrix: ([Location 309](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=309))
+    - Tags: [[pink]] 
+- In theory there’s no difference between theory and practice, but in practice there is. YOGI BERRA ([Location 334](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=334))
+    - Tags: [[pink]] 
+- The efficient market hypothesis states that ([Location 343](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=343))
+    - Tags: [[pink]] 
+- There are many participants in the markets, and they share roughly equal access to all relevant information. They are intelligent, objective, highly motivated and hardworking. Their analytical models are widely known and employed. •   Because of the collective efforts of these participants, information is reflected fully and immediately in the market price of each asset. And because market participants will move instantly to buy any asset that’s too cheap or sell one that’s too dear, assets are priced fairly in the absolute and relative to each other. •   Thus, market prices represent accurate estimates of assets’ intrinsic value, and no participant ([Location 344](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=344))
+    - Tags: [[pink]] 
+- can consistently identify and profit from instances when they are wrong. •   Assets therefore sell at prices from which they can be expected to deliver risk-adjusted returns that are “fair” relative to other assets. Riskier assets must offer higher returns in order to attract buyers. The market will set prices so that appears to be the case, but it won’t provide a “free lunch.” That is, there will be no incremental return that is not related to (and compensatory for) incremental risk. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=350))
+    - Tags: [[pink]] 
+- I agree that because investors work hard to evaluate every new piece of information, asset prices immediately reflect the consensus view of the information’s significance. I do not, however, believe the consensus view is necessarily correct. In January 2000, Yahoo sold at $237. In April 2001 it was at $11. Anyone who argues that the market was right both times has his or her head in the clouds; it has to have been wrong on at least one of those occasions. But that doesn’t mean many investors were able to detect and act on the market’s error. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=360))
+    - Tags: [[pink]] 
+- If ([Location 365](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=365))
+    - Tags: [[pink]] 
+- prices in efficient markets already reflect the consensus, then sharing the consensus view will make you likely to earn just an average return. To beat the market you must hold an idiosyncratic, or nonconsensus, view. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=365))
+    - Tags: [[pink]] 
+- The bottom line for me is that, although the more efficient markets often misvalue assets, it’s not easy for any one person—working with the same ([Location 371](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=371))
+    - Tags: [[pink]] 
+- information as everyone else and subject to the same psychological influences—to consistently hold views that are different from the consensus and closer to being correct. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=373))
+    - Tags: [[pink]] 
+- The most important upshot from the efficient market hypothesis is its conclusion that “you can’t beat the market.” Not only was this conclusion founded logically on the Chicago view of the market, but it was buttressed by studies of the performance of mutual funds. Very few of those funds have distinguished themselves through their results. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=383))
+    - Tags: [[pink]] 
+- The fact that the Warren Buffetts of this world attract as much attention as they do is an indication that consistent outperformers are exceptional. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=391))
+    - Tags: [[pink]] 
+- One of the greatest ramifications of the ([Location 392](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=392))
+    - Tags: [[pink]] 
+- Chicago theory has been the development of passive investment vehicles known as index funds. If most active portfolio managers making “active bets” on which securities to ([Location 393](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=393))
+    - Tags: [[pink]] 
+- overweight and underweight can’t beat the market, why pay the price—in the form of transaction costs and management fees—entailed in trying? With that question in mind, investors have put growing amounts in funds that simply invest a market-determined amount in each stock or bond in a market index. In this way, investors enjoy market returns at a fee of just a few hundredths of a percent per year. Everything moves in cycles, as I’ll ([Location 394](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=394))
+    - Tags: [[pink]] 
+- I don’t believe the notion of market efficiency deserves to be dismissed out of hand. In principle, it’s fair to conclude that if thousands of rational and numerate people gather information about an asset and evaluate it diligently and objectively, the asset’s price shouldn’t stray far from its intrinsic value. Mispricings shouldn’t be ([Location 418](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=418))
+    - Tags: [[pink]] 
+- regularly extant, meaning it should be hard to beat the market. In fact, some asset classes are quite efficient. In most of these:   •   the asset class is widely known and has a broad following; •   the class is socially acceptable, not controversial or taboo; •   the merits of the class are clear and comprehensible, at least on the surface; and •   information about the class and its components is distributed widely and evenly. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=421))
+    - Tags: [[pink]] 
+- an asset class deemed close to efficient at one point may become quite inefficient at another. European sovereign ([Location 429](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=429))
+    - Tags: [[pink]] 
+- debt is a current example of this. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=430))
+    - Tags: [[pink]] 
+- and how regularly can any one person detect those mispricings? Answer: Not often, and not dependably. But that is the essence of second-level thinking. Second-level thinkers know that, to achieve superior results, they have to have an edge in either information or analysis, or both. They are on the alert for instances of misperception. My son Andrew is a budding investor, and he comes up with lots of appealing investment ideas based on today’s facts and the outlook for tomorrow. But he’s been well trained. His first test is always the same: “And who doesn’t know that?” ([Location 444](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=444))
+    - Tags: [[pink]] 
+- In the vocabulary of the theory, second-level thinkers depend on inefficiency. The ([Location 450](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=450))
+    - Tags: [[pink]] 
+- term inefficiency came into widespread use over the last forty years as the counterpoint to the belief that investors can’t beat the market. To me, describing a market as inefficient is a high-flown way of saying the market is prone to mistakes that can be taken advantage of. Where might errors come from? Let’s consider the assumptions that underlie the theory of efficient markets:   •   There are many investors hard at work. •   They are intelligent, diligent, objective, motivated and well equipped. •   They all have access to the available information, and their access is roughly equal. •   They’re all open to buying, selling or shorting (i.e., betting against) every asset.   For those reasons, theory says that all ([Location 450](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=450))
+    - Tags: [[pink]] 
+- the available information will be smoothly and efficiently synthesized into prices and acted on whenever price/value discrepancies arise, so as to drive out those discrepancies. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=459))
+    - Tags: [[pink]] 
+- But it’s impossible to argue that market prices are always right. In fact, if you look at the four assumptions just listed, one stands out as particularly tenuous: objectivity. Human beings are not clinical computing machines. Rather, most people are driven by greed, fear, envy and other emotions that render objectivity impossible and open the door for significant mistakes. Likewise, what about the fourth assumption? Whereas investors are supposed to be open to any asset—and to both owning it and being short—the truth is very different. Most professionals are assigned to particular market niches, as in “I work in the equity department” or “I’m a ([Location 461](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=461))
+    - Tags: [[pink]] 
+- bond manager.” ([Location 466](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=466))
+    - Tags: [[pink]] 
+- To me, an inefficient market is one that is marked by at least one (and probably, as a result, by all) of the following characteristics: •   Market prices are often wrong. Because access to information and the analysis thereof are highly imperfect, market prices are often far above or far below intrinsic values. •   The risk-adjusted return on one asset class can be far out of line with those of other asset classes. Because assets are often valued at other-than-fair ([Location 475](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=475))
+    - Tags: [[pink]] 
+- prices, an asset class can deliver a risk-adjusted return that is significantly too high (a free lunch) or too low relative to other asset classes. •   Some investors can consistently outperform others. Because of the existence of (a) significant misvaluations and (b) differences among participants in terms of skill, insight and information access, it is possible for misvaluations to be identified and profited from with regularity. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=479))
+    - Tags: [[pink]] 
+- This last point is very important in terms of what it does and does not mean. Inefficient markets do not necessarily give their participants generous returns. Rather, it’s my view that they provide the raw material—mispricings—that can ([Location 484](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=484))
+    - Tags: [[pink]] 
+- allow some people to win and others to lose on the basis of differential skill. If prices can be very wrong, that means it’s possible to find bargains or overpay. For every person who gets a good buy in an inefficient market, someone else sells too cheap. One of the great sayings about poker is that “in every game there’s a fish. If you’ve played for 45 minutes and haven’t figured out who the fish is, then it’s you.” The same is certainly true of inefficient market investing. “WHAT’S IT ALL ABOUT, ALPHA?” JULY 11, 2001 ([Location 485](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=485))
+    - Tags: [[pink]] 
+- In the great debate over efficiency versus inefficiency, I have concluded that no ([Location 491](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=491))
+    - Tags: [[pink]] 
+- market is completely one or the other. It’s just a matter of degree. I wholeheartedly appreciate the opportunities that inefficiency can provide, but I also respect the concept of market efficiency, and I believe strongly that mainstream securities markets can be so efficient that it’s largely a waste of time to work at finding winners there. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=492))
+    - Tags: [[pink]] 
+- In the end, I’ve come to an interesting resolution: Efficiency is not so universal that we should give up on superior performance. At the same time, efficiency is what lawyers call a “rebuttable presumption”—something that should be presumed to be true until someone proves otherwise. Therefore, we should assume that efficiency will impede our achievement unless we have good reason to believe it won’t in the present case. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=501))
+    - Tags: [[pink]] 
+- Respect for efficiency says that before we embark on a course of action, we should ask some questions: have mistakes and mispricings been driven out through investors’ concerted efforts, or do they still ([Location 504](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=504))
+    - Tags: [[pink]] 
+- exist, and why? Think of it this way:   •   Why should a bargain exist despite the presence of thousands of investors who stand ready and willing to bid up the price of anything that’s too cheap? •   If the return appears so generous in proportion to the risk, might you be overlooking some hidden risk? •   Why would the seller of the asset be willing to part with it at a price from which it will give you an excessive return? •   Do you really know more about the asset than the seller does? •   If it’s such a great proposition, why hasn’t someone else snapped it up? ([Location 506](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=506))
+    - Tags: [[pink]] 
+- Something else to keep in mind: just because efficiencies exist today doesn’t ([Location 514](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=514))
+    - Tags: [[pink]] 
+- mean they’ll remain forever. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=515))
+    - Tags: [[pink]] 
+- Bottom line: Inefficiency is a necessary condition for superior investing. Attempting to outperform in a perfectly efficient market is like flipping a fair coin: the best you can hope for is fifty-fifty. For investors to get an edge, there have to be inefficiencies in the underlying process—imperfections, mispricings—to take advantage of. But let’s say there are. That alone is not a sufficient condition for outperformance. All that means is that prices aren’t always fair and mistakes are occurring: some assets are priced too low and some too high. You still have to be more insightful than others in order to regularly buy more of the former than the latter. Many of the best bargains at any point in time are found among the things other investors can’t or won’t do. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=515))
+    - Tags: [[blind spots]] [[perversity of risk]] [[counter-intuitve]] 
+- The key turning point in my investment management career came when I concluded that because the notion of market efficiency has relevance, I should limit my efforts to relatively inefficient markets where hard work and skill would pay off best. ([Location 530](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=530))
+    - Tags: [[pink]] 
+- The image here is of the efficient-market-believing finance professor who takes a walk with a student. “Isn’t that a $10 bill lying on the ground?” asks the student. “No, it can’t be a $10 bill,” answers the professor. “If it were, someone would have picked it up by now.” The professor walks away, and the student picks it up and has a beer. ([Location 543](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=543))
+    - Tags: [[emh]] 
+- hope. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=552))
+    - Tags: [[pink]] 
+- The ([Location 577](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=577))
+    - Tags: [[pink]] 
+- random walk hypothesis says a stock’s past price movements are of absolutely no help in predicting future movements. In other words, it’s a random process, like tossing a coin. We all know that even if a coin has come up heads ten times in a row, the probability of heads on the next throw is still fifty-fifty. Likewise, the hypothesis says, the fact that a stock’s price has risen for the last ten days tells you nothing about what it will do tomorrow. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=577))
+    - Tags: [[pink]] 
+- we are left with two approaches, both driven by fundamentals: value investing and growth investing. In a nutshell, value investors aim to come up with a security’s current intrinsic value and buy when the price is lower, and growth investors try to find securities whose value will increase rapidly in the future. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=596))
+    - Tags: [[pink]] 
+- The quest in value investing is for cheapness. Value investors typically look at financial metrics such as earnings, cash flow, dividends, hard assets and enterprise value and emphasize buying cheap on these bases. The primary goal of value investors, then, is to quantify the company’s current value and buy its securities when they can do so cheaply. Growth investing lies somewhere between the dull plodding of value investing and the adrenaline charge of momentum investing. Its goal is to identify companies with bright futures. That means by definition that there’s less emphasis on the company’s current attributes and more on its potential. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=617))
+    - Tags: [[pink]] 
+- •    Value investors buy stocks (even those whose intrinsic value may show little growth in the future) out of conviction that the current value is high relative to the current price. •    Growth investors buy stocks (even those whose current value is low relative to their current price) because they believe the value will grow fast enough in the future to produce substantial appreciation. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=623))
+    - Tags: [[pink]] 
+- Value investors buy stocks (even those whose intrinsic value may show little growth in the future) out of conviction that the current value is high relative to the current price. •    Growth investors buy stocks (even those whose current value is low relative to their current price) because they believe the value will grow fast enough in the future to produce substantial appreciation. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=624))
+    - Tags: [[pink]] 
+- Compared to value investing, growth investing centers around trying for big winners. If big winners weren’t in the offing, why put up with the uncertainty entailed in guessing at the future? There’s no question about it: it’s harder to see the future than the present. Thus, the batting average for growth investors should be lower, but the payoff for doing it well might be higher. The return for correctly predicting which companies will come up ([Location 668](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=668))
+    - Tags: [[pink]] 
+- with the best new drug, most powerful computer or best-selling movies should be substantial. In general, the upside potential for being right about growth is more dramatic, and the upside potential for being right about value is more consistent. Value is my approach. In my book, consistency trumps drama. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=671))
+    - Tags: [[pink]] 
+- There’s more. If you’ve settled on the value approach to investing and come up with an intrinsic value for a security or asset, the next important thing is to hold it firmly. That’s because in the world of investing, being correct about something isn’t at all synonymous with being proved correct right away. ([Location 679](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=679))
+    - Tags: [[pink]] 
+- It’s hard to consistently do the right thing as an investor. But it’s impossible to consistently do the right thing at the right time. The most we value investors can hope for is to be right about an asset’s value and buy when it’s available for less. ([Location 681](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=681))
+    - Tags: [[pink]] 
+- But doing so today certainly doesn’t mean you’re going to start making money tomorrow. ([Location 687](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=687))
+    - Tags: [[pink]] 
+- A firmly held view on value can help you cope with this disconnect. Let’s say you figure out that something’s worth 80 and have a chance to buy it for 60. Chances to buy well below actual value don’t come along every day, and you should welcome them. Warren Buffett describes them as “buying dollars for fifty cents.” So you buy it and you feel you’ve done a good thing. But don’t expect immediate success. In fact, you’ll often find that you’ve bought in the midst of a decline that continues. Pretty soon you’ll be looking at losses. And as one of the greatest investment adages reminds us, “Being too far ahead of your time is indistinguishable from being wrong.” So now that security worth 80 is priced at 50 instead of 60. What do you do? ([Location 694](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=694))
+    - Tags: [[pink]] 
+- My attempts to provide valuable annotations will concentrate on four important themes that run through the book; you’ll see reference to them in many places. The first is something most investors don’t think about enough: fear of looking wrong. Like participants in any field requiring the application of skill under challenging circumstances, superior investors’ batting averages will be well below 1.000 and marked by errors and slumps. Judgments that prove correct don’t necessarily do so promptly, so even the best investors look wrong a lot of the time. If you’re not okay with that, try ([Location 704](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=704))
+    - Tags: [[pink]] 
+- another field. ([Location 708](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=708))
+    - Tags: [[pink]] 
+- It works that way in most places, but far from always, it seems, in the world of investing. There, many people tend to fall further in love with the thing they’ve bought as its price rises, since they feel validated, and they like it less as the price falls, when they begin to doubt their decision to buy. This makes it very difficult to hold, and to buy more at lower prices (which investors call “averaging down”), especially if the decline proves to be extensive. If you ([Location 712](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=712))
+    - Tags: [[pink]] 
+- liked it at 60, you should like it more at 50 … and much more at 40 and 30. ([Location 716](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=716))
+    - Tags: [[pink]] 
+- An accurate opinion on valuation, loosely held, will be of limited help. An ([Location 730](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=730))
+    - Tags: [[pink]] 
+- incorrect opinion on valuation, strongly held, is far worse. This one statement shows how hard it is to get it all right. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=730))
+    - Tags: [[pink]] 
+- Value investors score their biggest gains when they buy an underpriced asset, average down unfailingly and have their analysis proved out. Thus, there are two essential ingredients for profit in a declining market: you have to have a view on intrinsic value, and you have to hold that view strongly enough to be able to hang in and buy even as price declines suggest that you’re wrong. Oh yes, there’s a third: you have to be right. ([Location 736](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=736))
+    - Tags: [[value investing]] 
+- average down unfailingly and have their analysis proved out. Thus, there are two essential ingredients for profit in a declining market: you have to have a view on intrinsic value, and you have to hold that view strongly enough to be able to hang in and buy even as price declines suggest that you’re wrong. Oh yes, there’s a third: you have to be right. ([Location 737](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=737))
+    - Tags: [[pink]] 
+- Let’s say you’ve become convinced of the efficacy of value investing and you’re able to come up with an estimate of intrinsic value for a stock or other asset. Let’s even say your estimate is right. You’re not done. In order to know what action to take, you have to look at the asset’s price relative to its value. Establishing a healthy relationship ([Location 744](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=744))
+    - Tags: [[pink]] 
+- between fundamentals—value—and price ([Location 746](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=746))
+    - Tags: [[pink]] 
+- is ([Location 747](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=747))
+    - Tags: [[pink]] 
+- at the core of successful investing. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=747))
+    - Tags: [[pink]] 
+- For a value investor, price has to be the starting point. It has been demonstrated time and time again that no asset is so good that it can’t become a bad investment if bought at too high a price. And there are few assets so bad that they can’t be a good investment when bought cheap enough. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=747))
+    - Tags: [[pink]] 
+- Bottom line: there’s no such thing ([Location 760](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=760))
+    - Tags: [[pink]] 
+- as a good or bad idea regardless of price! ([Location 761](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=761))
+    - Tags: [[pink]] 
+- If your estimate of intrinsic value is correct, over time an asset’s price should converge with its value. ([Location 785](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=785))
+    - Tags: [[temporal discounting]] [[emh]] 
+- Keeping this statement in mind, that the market eventually gets it right, is one of the most important things to remember when the market acts emotionally over the short term. ([Location 787](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=787))
+    - Tags: [[pink]] 
+- Believe me, there’s nothing better than buying from someone who has to sell regardless of price during a crash. Many of the best buys we’ve ever made occurred for that reason. A couple of observations are in order, however: ([Location 800](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=800))
+    - Tags: [[pink]] 
+- Since buying from a forced seller is the best thing in our world, being a forced seller is the worst. That means it’s essential to arrange your affairs so you’ll be able to hold on—and not sell—at the worst of times. This requires both long-term capital and strong psychological resources. ([Location 805](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=805))
+    - Tags: [[pink]] 
+- And that brings me to the second factor that exerts such a powerful influence ([Location 812](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=812))
+    - Tags: [[pink]] 
+- on price: psychology. It’s impossible to overstate how important this is. In fact, it’s so vital that several later chapters are devoted to discussing investor psychology and how to deal with its manifestations. ([Location 812](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=812))
+    - Tags: [[pink]] 
+- Investor psychology can cause a security to be priced just about anywhere in the short run, regardless of its fundamentals. ([Location 816](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=816))
+    - Tags: [[pink]] 
+- Once again, as Buffett would say, the best investment class would teach how to estimate value and then how to think about market prices. Merely understanding that prices can deviate wildly from value over the ([Location 818](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=818))
+    - Tags: [[pink]] 
+- short run is key. Understanding psychology so that you can take advantage of these deviations when they appear is the hard part. ([Location 819](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=819))
+    - Tags: [[pink]] 
+- The discipline that is most important is not accounting or economics, but psychology. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=822))
+    - Tags: [[pink]] 
+- Investing is a popularity contest, and the most dangerous thing is to buy something at the peak of its popularity. At that point, all favorable facts and opinions are already factored into its price, and no new buyers are left to emerge. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=825))
+    - Tags: [[keynes beauty contest]] 
+- HOWARD MARKS: The second key theme isn’t “the most important thing,” but “the riskiest things.” The book, preoccupied with risk as it is, describes a large number of things that make investing perilous. Pulling them together through these annotations should help you recognize them and thus avoid them. The biggest losers—be they Nifty-Fifty stocks in 1969, Internet stocks in 1999, or mortgage vehicles in 2006—had something in common: no one could find a flaw. There are lots of ways to describe this condition: “priced for perfection,” “on the pedestal of popularity,” and “nothing can go wrong.” Nothing’s perfect, however, and everything eventually turns out to have flaws. When you pay for perfection, you don’t get what you expected, and the high price you pay exposes you to risk of loss when reality ([Location 828](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=828))
+    - Tags: [[pink]] 
+- comes to light. This is truly one of the riskiest things. ([Location 834](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=834))
+    - Tags: [[pink]] 
+- The safest and most potentially profitable thing is to buy something when no one likes it. Given time, its popularity, and thus its price, can only go one way: up. ([Location 836](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=836))
+    - Tags: [[pink]] 
+- “The human side of investing” is the critical side. It’s certainly an area in which superior investors must excel, since financial analysis won’t guarantee superior performance if your reactions to developments are skewed by psychology just like those of others. Thus my third key theme relates to control over emotion and ego. Accomplishing this is ([Location 847](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=847))
+    - Tags: [[pink]] 
+- quite difficult, since everything in the investing environment conspires to make investors do the wrong thing at the wrong time. We’re all only human, so the challenge is to perform better than other investors even though we start with the same wiring. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=849))
+    - Tags: [[pink]] 
+- Buying something for less than its value. In my opinion, this is what it’s all ([Location 917](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=917))
+    - Tags: [[pink]] 
+- about—the most dependable way to make money. Buying at a discount from intrinsic value and having the asset’s price move toward its value doesn’t require serendipity; it just requires that market participants wake up to reality. When the market’s functioning properly, value exerts a magnetic pull on price. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=918))
+    - Tags: [[pink]] 
+- Fear of looking wrong: It comes as quite a shock to many new investors how long it can take for even correct judgments to work out. One of the most important roles of your strong view of intrinsic value is as a foundation ([Location 932](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=932))
+    - Tags: [[pink]] 
+- for conviction: to help you hang in until the market comes to agree with you and prices the asset where it should. ([Location 933](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=933))
+    - Tags: [[pink]] 
+- Risk means more things can happen than will happen. ELROY ([Location 939](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=939))
+    - Tags: [[pink]] 
+- Especially in good times, far too many people can be overheard saying, “Riskier investments provide higher returns. If you want to make more money, the answer is to take more risk.” But riskier investments absolutely cannot be counted on to deliver higher returns. Why not? It’s simple: if riskier investments reliably produced higher returns, they wouldn’t be riskier! ([Location 980](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=980))
+    - Tags: [[favorite]] [[counter-intuitve]] 
+- HOWARD MARKS: Investing requires us to deal with the future. If the future were knowable by all, investing wouldn’t be very challenging (or, consequently, very profitable). Because it’s not, my final key theme surrounds the importance of understanding uncertainty. The graphic above illustrates the essence of “riskier” investments. This isn’t an abstraction; riskier investments involve greater uncertainty regarding the outcome, as well as the increased likelihood of some painful ones. ([Location 993](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=993))
+    - Tags: [[pink]] 
+- Riskier investments are those for which the outcome is less certain. That is, the probability distribution of returns is wider. ([Location 998](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=998))
+    - Tags: [[pink]] 
+- The possibility of permanent loss is the risk I worry about, Oaktree worries about and every practical investor I know worries about. ([Location 1045](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1045))
+    - Tags: [[pink]] 
+- The riskiest things: The most dangerous investment conditions generally stem from psychology that’s too positive. For this reason, fundamentals don’t have to deteriorate in order for losses to occur; a downgrading of investor opinion will suffice. High prices often collapse of their own weight. ([Location 1095](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1095))
+    - Tags: [[psycho-logical]] 
+- An important question remains: how do they measure that risk? First, it clearly is nothing but a matter of opinion: hopefully an educated, skillful estimate of the future, but still just an estimate. Second, the standard for quantification is nonexistent. With any given investment, some people will think the risk is high and others will think it’s low. Some will state it as the probability of not making money, and some as the probability of losing a given fraction of their money (and so forth). Some will think of it as the risk of losing money over one year, and some as the risk of losing money over the entire holding period. Clearly, even if all the investors involved met in a room and showed their cards, they’d never agree on a single number representing an investment’s riskiness. And even if they could, that number wouldn’t likely be capable of being compared against another number, set by another group of investors, for another investment. This is one of the reasons why I say risk and the risk/return decision aren’t “machinable,” or capable of being turned over to a computer. ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1109))
+    - Tags: [[pink]] 
+- Third, risk is deceptive. Conventional considerations are easy to factor in, like the likelihood that normally recurring events will recur. But freakish, once-in-a-lifetime events are hard to quantify. The fact that an investment is susceptible to a particularly serious risk that will occur infrequently if at all—what I call the improbable disaster—means it can seem safer than it really is. ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1121))
+    - Tags: [[fooled by randomness]] [[non randomness of randomness]] 
+- The bottom line is that, looked at prospectively, much of risk is subjective, hidden and unquantifiable. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1124))
+    - Tags: [[risk]] 
+- Where does that leave us? If the risk of loss can’t be measured, quantified or even observed—and if it’s consigned to subjectivity—how can it be dealt with? Skillful investors can get a sense for the risk present in a given situation. They make that judgment primarily based on (a) the stability and dependability of value and (b) the relationship between price and value. Other things will enter into their thinking, but most will be subsumed under these two. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1125))
+    - Tags: [[pink]] 
+- A few years ago, while considering the difficulty of measuring risk prospectively, I realized that because of its latent, nonquantitative and subjective nature, the risk of an investment—defined as the likelihood of loss—can’t be measured in retrospect any more than it can a priori. Let’s say you make an investment that works out as expected. Does that mean it wasn’t risky? ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1144))
+    - Tags: [[pink]] 
+- If you think about it, the response to these questions is simple: The fact that something—in this case, loss—happened doesn’t mean it was bound to happen, and the fact that something didn’t happen doesn’t mean it was unlikely. Fooled by Randomness, by Nassim Nicholas Taleb, is the authority on this subject as far as I’m concerned, and in it he talks about the “alternative histories” that could have unfolded but didn’t. ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1150))
+    - Tags: [[fooled by randomness]] 
+- Most simply put, how often in our business are people right for the wrong reason? These are the people Nassim Nicholas Taleb calls “lucky idiots,” and in the short run it’s certainly hard to tell them from skilled investors. The point is that even after an investment has been closed out, it’s impossible to tell how much risk it entailed. Certainly the fact ([Location 1162](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1162))
+    - Tags: [[pink]] 
+- that an investment worked doesn’t mean it wasn’t risky, and vice versa. ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1166))
+    - Tags: [[pink]] 
+- Understanding uncertainty: Dimson’s formulation reminds us of a very simple concept: that many things are possible in the future. We can’t know which of the possibilities will occur, and this uncertainty contributes to the challenge of investing. “Single-scenario” investors ignore this fact, oversimplify the task, and need fortuitous outcomes to produce good results. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1176))
+    - Tags: [[pink]] 
+- Understanding uncertainty: The possibility of a variety of outcomes means we mustn’t think of the future in terms of a single result but rather as a range of possibilities. The best we can do is fashion a probability distribution that summarizes the possibilities and describes their relative likelihood. We must think about the full range, not just the ones that are most likely to materialize. Some of the greatest losses arise when investors ignore the improbable possibilities. ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1185))
+    - Tags: [[favorite]] [[probability]] 
+- “There’s a big difference between probability and outcome. Probable things fail to happen—and improbable things happen—all the time.” That’s one of the most important things you can know about investment risk. ([Location 1197](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1197))
+    - Tags: [[probabilistic thinking]] 
+- While on the subject of probability distributions, I want to take a moment to make special mention of the normal distribution. Obviously investors are required to make judgments about future events. To do that, we settle on a central value around which we think events are likely to cluster. This may be the mean or expected value (the outcome that on average is expected to occur), the median (the outcome with half the possibilities above and half below) or the mode (the single most likely outcome). But to cope with the future it’s not sufficient to have a central expectation; we have to have a sense for the other possible outcomes and their likelihood. We need a distribution that describes all of the possibilities. Most phenomena that cluster around a central value—for example, the heights of people—form the familiar bell-shaped curve, with the probability of a given observation peaking at the center and trailing off toward the extremes, or “tails.” There may be more men of five feet ten inches than any other height, somewhat fewer of five feet nine inches or five feet eleven inches, a lot less of five feet three inches or six feet five inches, and almost none of four feet eight inches or seven feet. Rather than enumerating the probability of each observation individually, standard distributions provide a convenient way to summarize the probabilities, such that a few statistics can tell you everything you have to know about the shape of things to come. The most common bell-shaped distribution is called the “normal” distribution. However, ([Location 1202](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1202))
+    - Tags: [[pink]] 
+- people often use the terms bell-shaped and normal interchangeably, and they’re not the same. The former is a general type of distribution, while the latter is a specific bell-shaped distribution with very definite statistical properties. Failure to distinguish between the two doubtless made an important contribution to the recent credit crisis. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1214))
+    - Tags: [[pink]] 
+- In the years leading up to the crisis, financial engineers, or “quants,” played a big part in creating and evaluating financial products such as derivatives and structured entities. In many cases they made the assumption that future events would be normally distributed. But the normal distribution assumes events in the distant tails will happen extremely infrequently, while the distribution of financial developments—shaped by humans, with their tendency to go to emotion-driven extremes of behavior—should probably be seen as having “fatter” tails. Thus, when widespread mortgage defaults began to occur, events thought to be unlikely befell mortgage-related vehicles on a regular basis. Investors in vehicles that had been constructed on the basis of normal distributions, without much allowance for “tail events” (some might borrow Nassim Nicholas Taleb’s term “black swans”), often saw the wheels come off. Now that investing has become so reliant on higher math, we have to be on… ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1217))
+    - Tags: [[pink]] 
+- Return alone—and especially return over short periods of time—says very little about the quality of investment decisions. Return has to be evaluated relative to the amount of risk taken to achieve it. And yet, risk cannot be measured. Certainly it cannot be gauged on the basis of what “everybody” says at a moment in time. Risk can be judged only by sophisticated, experienced second-level thinkers. ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1245))
+    - Tags: [[pink]] 
+- We hear a lot about “worst-case” projections, but they often turn out not to be negative enough. I tell my father’s story of the gambler who lost regularly. One day he heard about a race with only one horse in it, so he bet the rent money. Halfway around the track, the horse jumped over the fence and ran away. Invariably things can get worse than people expect. Maybe “worst-case” means “the worst we’ve seen in the past.” But that doesn’t mean things can’t be worse in the future. In 2007, many people’s worst-case assumptions were exceeded. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1261))
+    - Tags: [[lucretis problem]] 
+- People overestimate their ability to gauge risk and understand mechanisms they’ve never before seen in operation. In theory, one thing that distinguishes humans from other species is that we can figure out that something’s dangerous without experiencing it. We don’t have to burn ourselves to know we shouldn’t sit on a hot stove. But in bullish times, people tend not to perform this function. Rather than recognize risk ahead, they tend to ([Location 1270](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1270))
+    - Tags: [[pink]] 
+- overestimate their ability to understand how new financial inventions will work. ([Location 1273](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1273))
+    - Tags: [[pink]] 
+- HOWARD MARKS: Understanding uncertainty: Investing requires us to make decisions about the future. Usually we do so by assuming it will bear a resemblance to the past. But that’s far from saying outcomes will be distributed the same as always. Unusual and unlikely things can happen, and outcomes can occur in runs (and go to extremes) that are hard to predict. Underestimating uncertainty and its consequences is a big contributor to investor difficulty. ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1280))
+    - Tags: [[einstellung effect]] 
+- Risk means uncertainty about which outcome will occur and about the possibility of loss when the unfavorable ones do. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1295))
+    - Tags: [[pink]] 
+- HOWARD MARKS: The riskiest things: “There are few things as risky as the widespread belief that there’s no risk.” The opening words of this paragraph are valuable because they highlight an excellent example of the ways investors’ behavior creates the risks to which they are subjected. When they swallow worry-free beliefs, it truly is the riskiest thing. ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1345))
+    - Tags: [[risk management]] 
+- HOWARD MARKS: The riskiest things: A few times in my career, I’ve seen the rise of a belief that risk has been banished, cycles won’t occur any longer, or the laws of economics have been suspended. The experienced, risk-conscious investor takes this as a sign of great danger. ([Location 1357](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1357))
+    - Tags: [[pink]] 
+- Like opportunities to make money, the degree of risk present in a market derives from the behavior of the participants, not from securities, strategies and institutions. Regardless of what’s designed into market structures, risk will be low only if investors behave prudently. ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1380))
+    - Tags: [[pink]] 
+- Risk cannot be eliminated; it just gets transferred and spread. And developments that make the world look less risky usually are illusory, and thus in presenting a rosy picture they tend to make the world more risky. ([Location 1383](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1383))
+    - Tags: [[pink]] 
+- Investment risk comes primarily from too-high prices, and too-high prices often come from excessive optimism and inadequate skepticism and risk aversion. ([Location 1409](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1409))
+    - Tags: [[pink]] 
+- The reality of risk is much less simple and straightforward than the perception. People vastly overestimate their ability to recognize risk and underestimate what it takes to avoid it; thus, they accept risk unknowingly and in so doing contribute to its creation. That’s why it’s essential to apply uncommon, second-level thinking to the subject. Risk arises as investor behavior alters the market. Investors bid up assets, accelerating into the present appreciation that otherwise would have occurred in the future, and thus lowering prospective returns. And as their psychology strengthens and they become bolder and less worried, investors cease to demand adequate risk premiums. The ultimate irony lies in the fact that the reward for taking incremental risk shrinks as more people move to take it. Thus, the market is not a static arena in which investors operate. It is responsive, shaped by investors’ own behavior. Their increasing confidence creates more that they should worry about, just as their rising fear and risk aversion combine to widen risk premiums at the same time as they reduce risk. I call this the “perversity of risk.” ([Location 1491](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1491))
+    - Tags: [[pink]] 
+- The riskiest things: I’m very happy with the phrase “the perversity of risk.” When investors feel risk is high, their actions serve to reduce risk. But when investors believe risk is low, they create dangerous conditions. The market is dynamic rather than static, and it behaves in ways that are counterintuitive. ([Location 1503](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1503))
+    - Tags: [[pink]] 
+- “I wouldn’t buy that at any price—everyone knows it’s too risky.” That’s something I’ve heard a lot in my life, and it has given rise to the best investment opportunities I’ve participated in. … The truth is, the herd is wrong about risk at least as often as it is about return. A broad consensus that something’s… ([Location 1506](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1506))
+    - Tags: [[pink]] 
+- I’m firmly convinced that investment risk resides most where it is least perceived, and vice versa:   •    When everyone believes something is risky, their unwillingness to buy usually reduces its price to the point where it’s not risky at all. Broadly negative opinion can make it the least risky thing, since all optimism has been driven out of its price. •    And, of course, as demonstrated by the experience of Nifty Fifty investors, when everyone believes something embodies no risk, they usually bid it up to the point where it’s enormously risky. No risk is feared, and thus no reward for risk bearing—no “risk premium”—is demanded or provided. That can make the… ([Location 1511](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1511))
+    - Tags: [[pink]] 
+- But high quality assets can be risky, and low quality… ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1523))
+    - Tags: [[pink]] 
+- CHRISTOPHER DAVIS: I agree—there are a number of dangers that come from using a term like “quality.” First, investors tend to equate “high-quality asset” with “high-quality investment.” As a result, there’s an incorrect presumption or implication of less risk when taking on “quality” assets. As Marks rightly points out, quite often “high-quality” companies sell for high prices, making them poor investments. Second, “high quality” tends to be a phrase that incorporates a lot of hindsight bias or “halo effect.” Usually, people referring to a “high-quality” company are describing a company that has performed very well in the past. The future is often quite different. There is a long… ([Location 1525](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1525))
+    - Tags: [[pink]] 
+- Whatever few awards are presented for risk control, they’re never given out in good times. The reason is that risk is covert, invisible. Risk—the possibility of loss—is not observable. What is observable is loss, and loss generally happens only when risk collides with negative events. ([Location 1555](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1555))
+    - Tags: [[risk]] 
+- This is a very important point, so let me give you a couple of analogies to make sure it’s clear. Germs cause illness, but germs themselves are not illness. We might say illness is what results when germs take hold. Homes in California may or may not have construction flaws that would make them collapse during earthquakes. We find out only when earthquakes occur. Likewise, loss is what happens when risk meets adversity. Risk is the potential for loss if things go wrong. As long as things go well, loss does not arise. Risk gives rise to loss only when negative events occur in the environment. ([Location 1558](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1558))
+    - Tags: [[risk management]] 
+- Therefore, the absence of loss does not necessarily mean the portfolio was safely constructed. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1568))
+    - Tags: [[pink]] 
+- Likewise, an excellent investor may be one who—rather than reporting higher returns than others—achieves the same return but does so with less risk (or even achieves a slightly lower return with far less risk). Of course, when markets are stable or rising, we don’t get to find out how much risk a portfolio entailed. That’s what’s behind Warren Buffett’s observation that other than when the tide goes out, we can’t tell which swimmers are clothed and which are naked. ([Location 1596](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1596))
+    - Tags: [[risk]] 
+- It’s an outstanding accomplishment to ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1600))
+    - Tags: [[pink]] 
+- achieve the same return as the risk bearers and do so with less risk. But most of the time it’s a subtle, hidden accomplishment that can be appreciated only through sophisticated judgments. ([Location 1600](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1600))
+    - Tags: [[pink]] 
+- Bearing risk unknowingly can be a huge mistake, but it’s what those who buy the securities that are all the rage and most highly esteemed at a particular point in time—to which “nothing bad can possibly happen”—repeatedly do. On the other hand, the intelligent acceptance of recognized risk for profit underlies some of the wisest, most profitable investments—even though (or perhaps due to the fact that) most investors dismiss them as dangerous speculations. ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1611))
+    - Tags: [[pink]] 
+- I’ve said for years that risky assets can make for good investments if they’re cheap enough. The essential element is knowing when that’s the case. That’s it: the intelligent bearing of risk for profit, the best test for which is a record of repeated success over a long period of time. ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1633))
+    - Tags: [[perversity of risk]] 
+- Extreme volatility and loss surface only infrequently. And as time passes without that happening, it appears more and more likely that it’ll never happen—that assumptions regarding risk were too conservative. Thus, it becomes tempting to relax rules and increase leverage. And often this is done just before the risk finally rears its head. As Nassim Nicholas Taleb wrote in Fooled by Randomness: ([Location 1643](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1643))
+    - Tags: [[pink]] 
+- Reality is far more vicious than Russian roulette. First, it delivers the fatal bullet ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1646))
+    - Tags: [[pink]] 
+- rather infrequently, like a revolver that would have hundreds, even thousands of chambers instead of six. After a few dozen tries, one forgets about the existence of a bullet, under a numbing false sense of security. … Second, unlike a well-defined precise game like Russian roulette, where the risks are visible to anyone capable of multiplying and dividing by six, one does not observe the barrel of reality. … One is thus capable of unwittingly playing Russian roulette—and calling it by some alternative “low risk” name. ([Location 1647](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1647))
+    - Tags: [[pink]] 
+- This is the key question when it comes to assessing risk. ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1658))
+    - Tags: [[pink]] 
+- We could easily avoid all risk, and so could you. But we’d be assured of avoiding returns above the risk-free rate as well. Will Rogers said, “You’ve got to go out on a limb sometimes because that’s where the fruit is.” None of us is in this business to make4 percent. So even though the first tenet in Oaktree’s investment philosophy stresses “the importance of risk control,” this has nothing to do with risk avoidance. It’s by bearing risk when we’re well paid to do so—and especially by taking risks toward which others are averse in the extreme—that we strive to add value for our clients. When formulated that way, it’s obvious how big a part risk plays in our process. ([Location 1692](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1692))
+    - Tags: [[pink]] 
+- The road to long-term investment success runs through risk control more than through aggressiveness. Over a full career, most investors’ results will be determined more by how many losers they have, and how bad they are, than by the greatness of their winners. Skillful risk control is the mark of the superior investor. ([Location 1703](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1703))
+    - Tags: [[risk management]] 
+- I ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1712))
+    - Tags: [[pink]] 
+- think ([Location 1712](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1712))
+    - Tags: [[pink]] 
+- Rule number one: most things will prove to be cyclical. •   Rule number two: some of the greatest opportunities for gain and loss come when other people forget rule number ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1721))
+    - Tags: [[pink]] 
+- one. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1723))
+    - Tags: [[pink]] 
+- The basic reason for the cyclicality in our world is the involvement of humans. Mechanical things can go in a straight line. Time moves ahead continuously. So can a machine when it’s adequately powered. But processes in fields like history and economics involve people, and when people are involved, the results are variable and cyclical. The main reason for this, I think, is ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1726))
+    - Tags: [[pink]] 
+- that people are emotional and inconsistent, not steady and clinical. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1729))
+    - Tags: [[pink]] 
+- All of these things are capable of reversing in a second; one of my favorite cartoons features a TV commentator saying, “Everything that was good for the market yesterday is no good for it today.” The extremes of cycles result largely from people’s emotions and foibles, nonobjectivity and inconsistency. ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1736))
+    - Tags: [[fooled by randomness]] [[emotions]] 
+- Cycles are self-correcting, and their reversal is not necessarily dependent on exogenous events. They reverse (rather than going on forever) because trends create the reasons for their own reversal. Thus, I like to say success carries within itself the seeds of failure, and failure the seeds of success. ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1739))
+    - Tags: [[market cycles]] 
+- At the extreme, providers of capital finance borrowers and projects that aren’t worthy of being financed. As The ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1756))
+    - Tags: [[pink]] 
+- Economist said earlier this year, “the worst loans are made at the best of times.” ([Location 1757](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1757))
+    - Tags: [[pink]] 
+- This leads to capital destruction—that is, to investment of capital in projects where the cost of capital exceeds the return on capital, and eventually to cases where there is no return of capital. ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1763))
+    - Tags: [[pink]] 
+- In the financial world, if ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1788))
+    - Tags: [[pink]] 
+- you offer cheap money, they will borrow, buy and build—often without discipline, and with very negative consequences. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1788))
+    - Tags: [[pink]] 
+- Oh Yeah?, ([Location 1823](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1823))
+    - Tags: [[pink]] 
+- Ignoring cycles and extrapolating trends is one of the most dangerous things an investor can do. People often act as if companies that are doing well will do well forever, and investments that are outperforming will outperform forever, and vice versa. Instead, it’s the opposite that’s more likely to be true. ([Location 1843](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1843))
+    - Tags: [[pink]] 
+- HOWARD MARKS: The riskiest things: ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1846))
+    - Tags: [[pink]] 
+- When things are going well, extrapolation introduces great risk. Whether it’s company profitability, capital availability, price gains, or market liquidity, things that inevitably are bound to regress toward the mean are often counted on to improve forever. ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1847))
+    - Tags: [[regression to the mean]] [[extrapolation]] 
+- When things are going well and prices are high, investors rush to buy, forgetting all prudence. Then, when there’s chaos all around and assets are on the bargain counter, they lose all willingness to bear risk and rush to sell. And it will ever be so. ([Location 1856](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1856))
+    - Tags: [[pink]] 
+- In fact, I’ve recently boiled down the main risks in investing to two: the risk of losing money and the risk of missing opportunity. It’s possible to largely eliminate either one, but not both. In an ideal world, investors would balance these two concerns. But from time to time, at the extremes of the pendulum’s swing, one or the other predominates. ([Location 1900](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1900))
+    - Tags: [[pink]] 
+- Very early in my career, a veteran investor told me about the three stages of a bull market. Now I’ll share them with you.   •   The first, when a few forward-looking people begin to believe things will get better •   The second, when most investors realize improvement is actually taking place •   The third, when everyone concludes things will get better forever ([Location 1921](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1921))
+    - Tags: [[pink]] 
+- That’s why I love the old adage “What the wise man does in the beginning, the fool does in the end.” ([Location 1943](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1943))
+    - Tags: [[pink]] 
+- I came up with the flip side, the three stages of a bear market:   •    The first, when just a few thoughtful investors recognize that, despite the prevailing bullishness, things won’t always be rosy •    The second, when most investors recognize things are deteriorating •    The third, when everyone’s convinced things can only get worse ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=1952))
+    - Tags: [[pink]] 
+- HOWARD MARKS: Emotion and ego: Psychological influences have great power over investors. Most ([Location 2032](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2032))
+- succumb, permitting investor psychology to determine the swings of the market. When those forces push markets to extremes of bubble or crash, they create opportunities for superior investors to augment their results by refusing to hold at the highs and by insisting on buying at the lows. Resisting the inimical forces is an absolute requirement. ([Location 2033](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2033))
+- There can be few fields of human endeavor in which history counts for so little as in the world of finance. ([Location 2073](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2073))
+- Many of the mistakes I have made are the same ones that I had made before; they just look a little different each time—the same mistake slightly disguised. ([Location 2077](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2077))
+- When a market, an individual or an ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2081))
+- investment technique produces impressive returns for a while, it generally attracts excessive (and unquestioning) devotion. I call this solution du jour the “silver bullet.” Investors are always looking for it. Call it the holy grail or the free lunch, but everyone wants a ticket to riches without risk. Few people question whether it can exist or why it should be available to them. At the bottom line, hope springs eternal. ([Location 2081](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2081))
+- But the silver bullet doesn’t exist. No strategy can produce high rates of return without risk. And nobody has all the ([Location 2085](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2085))
+- As Warren Buffett told Congress on June 2, 2010, “Rising prices are a narcotic that affects the reasoning power up and down the line.” ([Location 2097](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2097))
+- The fourth psychological contributor to investor error is the tendency to conform to the view of the herd rather than resist—even when the herd’s view is clearly cockeyed. ([Location 2098](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2098))
+- Cassidy writes, “many people who don’t ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2107))
+- share the consensus view of the market start to feel left out. Eventually it reaches a stage where it appears the really crazy people are those not in the market.” ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2107))
+- Time and time again, the combination of pressure to conform and the desire to get rich causes people to drop their independence and ([Location 2109](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2109))
+- skepticism, overcome their innate risk aversion and believe things that don’t make sense. It happens so regularly that there must be something dependable at work, not a random influence. ([Location 2110](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2110))
+- In the world of investing, most people find it terribly hard to sit by and watch while others make more money than they do. ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2114))
+- HOWARD MARKS: Emotion and ego: A lot of the drive in investing is competitive. High returns can be unsatisfying if others do better, while low returns are often ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2117))
+- enough if others do worse. The tendency to compare results is one of the most invidious. The emphasis on relative returns over absolute returns shows how psychology can distort the process. ([Location 2118](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2118))
+- SETH KLARMAN: Even the best investors judge themselves on the basis of return. It would be hard to evaluate yourself on risk, ([Location 2123](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2123))
+    - Tags: [[counter-intuitve]] [[favorite]] 
+- since risk cannot be measured. Apparently, the risk-averse managers of this endowment were disappointed with their relative returns even though their risk-adjusted performance was likely excellent, as borne out by their performance over the following three years. This highlights just how hard it is to ([Location 2124](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2124))
+- maintain conviction over the long run when short-term performance is considered poor. ([Location 2126](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2126))
+- Fear of looking wrong: Assets become overpriced because of investor behavior that overrates their merit and carries them aloft. This process shouldn’t be expected to come to a halt when the price has risen to the “right” level or when you’ve sold it because you feel it’s priced too high. Usually, the ([Location 2165](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2165))
+- freight train rumbles on quite a bit further, and price judgments are much more likely to look wrong at first than right. Although understandable, this can be very hard to live with. ([Location 2167](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2167))
+- •   a strongly held sense of intrinsic value, JOEL GREENBLATT: Without this, an investor has no home base. A strong sense of intrinsic value is the only way to withstand the psychological influences that affect behavior. Those who can’t value companies or securities ([Location 2270](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2270))
+- a strongly held sense of intrinsic value, JOEL GREENBLATT: Without this, an investor has no home base. A strong sense of intrinsic value is the only way to withstand the psychological influences that affect behavior. Those who can’t value companies or securities ([Location 2271](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2271))
+- have no business investing and limited prospects (other than luck) for investing successfully. This sounds simple, but plenty of investors lack it. •   insistence on acting as you should when price diverges from value, •   enough conversance with past cycles—gained at first from reading and talking to veteran investors, and later through experience—to know that market excesses are ultimately punished, not rewarded, •   a thorough understanding of the insidious effect of psychology on the investing process at ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2274))
+- market extremes, •   a promise to remember that when things seem “too good to be true,” they usually are, •   willingness to look wrong while the market goes from misvalued to more misvalued (as it invariably will), and •   like-minded friends and colleagues from whom to gain support (and for you to support).   These things aren’t sure to do the job, but they can give you a fighting chance. ([Location 2280](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2280))
+- Without enough time to ride out the ([Location 2341](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2341))
+- extremes while waiting for reason to prevail, you’ll become that most typical of market victims: the six-foot-tall man who drowned crossing the stream that was five feet deep on average. ([Location 2341](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2341))
+- Contrarianism isn’t an approach that will make you money all of the time. Much of the time there aren’t great market excesses to bet against. JOEL GREENBLATT: I’ve put it this way: just because no one else will ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2356))
+- jump in front of a Mack truck barreling down the highway, doesn’t mean that you should! ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2359))
+- •   Even when an excess does develop, it’s important to remember that “overpriced” is incredibly different from “going down tomorrow.” •   Markets can be over- or underpriced and stay that way—or become more so—for years. •   It can be extremely painful when the trend is going against you. ([Location 2361](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2361))
+- when an excess does develop, it’s important to remember that “overpriced” is incredibly different from “going down tomorrow.” •   Markets can be over- or underpriced and stay that way—or become more so—for years. •   It can be extremely painful when the trend is going against you. ([Location 2362](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2362))
+- SETH KLARMAN: This is where it is particularly important to remember the teachings of Graham and Dodd. If you look to the ([Location 2367](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2367))
+- markets for a report card, owning a stock that declines every day will make you feel like a failure. But if you remember that you own a fractional interest in a business and that every day you are able to buy in at a greater discount to underlying value, you might just be able to maintain a cheerful disposition. This is exactly how Warren Buffett describes bargain hunting amid the ravages of the 1973 to 1974 bear market. •   It can appear at times that “everyone” has reached the conclusion that the herd is wrong. What I mean is that contrarianism itself ([Location 2368](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2368))
+- can appear to have become too popular, and thus contrarianism can be mistaken for herd behavior. •   Finally, it’s not enough to bet against the crowd. Given the difficulties associated with contrarianism just mentioned, the potentially profitable recognition of divergences from consensus thinking must be based on reason and analysis. You must do things not just because they’re the opposite of what the crowd is doing, but because you know why the crowd is wrong. Only then will you be able to hold firmly to your views and perhaps buy more as your ([Location 2373](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2373))
+- positions take on the appearance of mistakes and as losses accrue rather than gains. ([Location 2378](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2378))
+- What’s clear to the broad consensus of investors is almost always wrong. … The very coalescing of popular opinion behind an investment tends to eliminate its profit potential. … ([Location 2405](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2405))
+- Superior investors know—and buy—when the price of something is lower than it should be. And the price of an investment can be lower than it should be only when most people don’t see its merit. Yogi Berra is famous for having said, “Nobody goes to that restaurant anymore; it’s too crowded.” It’s just as nonsensical to say, “Everyone realizes that investment’s a bargain.” If everyone realizes it, they’ll buy, in which case the price will no longer be low. … Large amounts of money aren’t made by buying what everybody ([Location 2420](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2420))
+    - Tags: [[orange]] 
+- likes. They’re made by buying what everybody underestimates. ([Location 2425](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2425))
+    - Tags: [[orange]] 
+- There was an element of truth in this, of course: nothing was impossible. But in dealing with the future, we must think about two things: (a) what might happen and (b) the probability that it will happen. ([Location 2450](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2450))
+    - Tags: [[probabilistic thinking]] 
+- During the crisis, lots of bad things seemed possible, but that didn’t mean they were going to happen. In times of crisis, people fail to make that distinction. … ([Location 2452](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2452))
+    - Tags: [[orange]] 
+- Skepticism is what it takes to ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2466))
+    - Tags: [[orange]] 
+- look behind a balance sheet, the latest miracle of financial engineering or the can’t-miss story. … Only a skeptic can separate the things that sound good and are from the things that sound good and aren’t. The best investors I know exemplify this trait. It’s an absolute necessity. ([Location 2467](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2467))
+    - Tags: [[orange]] 
+- Lots of bad things happened to kick off the credit crisis that had been considered unlikely (if not impossible), and they happened at the same time, to investors who’d taken on significant leverage. So the easy explanation is that the people who were hurt in the credit crisis hadn’t been skeptical—or pessimistic—enough. But that triggered an ([Location 2469](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2469))
+    - Tags: [[orange]] 
+- epiphany: skepticism and pessimism aren’t synonymous. Skepticism calls for pessimism when optimism is excessive. But it also calls for optimism when pessimism is excessive. ([Location 2472](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2472))
+    - Tags: [[orange]] 
+- As the credit crisis reached a peak last week, … I found very few who were optimistic; most were pessimistic to some degree. No one applied skepticism, or said “that horror story’s unlikely to be true.” The one thing they weren’t doing last week was making aggressive bids for securities. So prices fell and fell—the old expression is “gapped down”—several points at a time. The key—as usual—was to become skeptical of what “everyone ([Location 2474](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2474))
+    - Tags: [[orange]] 
+- was saying and doing. The negative story may have looked compelling, but it’s the positive story—which few believed—that held, and still holds, the greater potential for profit. ([Location 2478](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2478))
+    - Tags: [[orange]] 
+- The one thing I’m sure of is that by the time the knife has stopped falling, the dust has settled and the ([Location 2500](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2500))
+    - Tags: [[orange]] 
+- uncertainty has been resolved, there’ll be no great bargains left. When buying something has become comfortable again, its price will no longer be so low that it’s a great bargain. ([Location 2501](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2501))
+    - Tags: [[orange]] 
+- Thus, a hugely profitable investment that doesn’t begin with discomfort is usually an oxymoron. ([Location 2506](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2506))
+    - Tags: [[orange]] 
+- It’s our job as contrarians to catch falling knives, hopefully with ([Location 2507](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2507))
+    - Tags: [[orange]] 
+- care and skill. That’s why the concept of intrinsic value is so important. If we hold a view of value that enables us to buy when everyone else is selling—and if our view turns out to be right—that’s the route to the greatest rewards earned with the least risk. ([Location 2508](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2508))
+    - Tags: [[orange]] 
+- The process of intelligently building a portfolio consists of buying the best investments, making room for them by selling lesser ones, and staying clear of the worst. The raw materials for the process consist of (a) a list of potential ([Location 2514](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2514))
+    - Tags: [[orange]] 
+- investments, (b) estimates of their intrinsic value, (c) a sense for how their prices compare with their intrinsic value, and (d) an understanding of the risks involved in each, and of the effect their inclusion would have on the portfolio being assembled. ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2515))
+    - Tags: [[orange]] 
+- A ([Location 2565](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2565))
+    - Tags: [[orange]] 
+- high-quality asset can constitute a good or bad buy, and a low-quality asset can constitute a good or bad buy. The tendency to mistake objective merit for investment opportunity, and the failure to distinguish between good assets and good buys, get most investors into trouble. ([Location 2565](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2565))
+    - Tags: [[orange]] 
+- So what is it that makes price low relative to value, and return high ([Location 2581](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2581))
+    - Tags: [[orange]] 
+    - Note: READ ALL THE REASONS
+- relative to risk? In other words, what makes something sell cheaper than it should? ([Location 2582](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2582))
+    - Tags: [[orange]] 
+- Unlike assets that become the subject of manias, potential bargains usually display some objective defect. An asset class may have weaknesses, a company may be a laggard in its industry, a balance sheet may be over-levered, or a security may afford its ([Location 2583](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2583))
+    - Tags: [[pink]] 
+- holders inadequate structural protection. •   Since the efficient-market process of setting fair prices requires the involvement of people who are analytical and objective, bargains usually are based on irrationality or incomplete understanding. Thus, bargains are often created when investors either fail to consider an asset fairly, or fail to look beneath the surface to understand it thoroughly, ([Location 2585](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2585))
+    - Tags: [[pink]] 
+- or fail to overcome some non-value-based tradition, bias or stricture. •   Unlike market darlings, the orphan asset is ignored or scorned. To the extent it’s mentioned at all by the media and at cocktail parties, it’s in unflattering terms. SETH KLARMAN: Generally, the greater the stigma or revulsion, the better the bargain. •   Usually its price has ([Location 2588](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2588))
+    - Tags: [[pink]] 
+- been falling, making the first-level thinker ask, “Who would want to own that?” (It bears repeating that most investors extrapolate past performance, expecting the continuation of trends rather than the far-more-dependable regression to the mean. First-level thinkers tend to view past price weakness as worrisome, not as a sign that the asset has gotten cheaper.) •   As a result, a ([Location 2595](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2595))
+    - Tags: [[pink]] 
+- bargain asset tends to be one that’s highly unpopular. Capital stays away from it or flees, and no one can think of a reason to own it. ([Location 2598](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2598))
+    - Tags: [[pink]] 
+- Fairly priced assets are never our objective, since it’s reasonable to conclude they’ll deliver just fair returns for the risk involved. And, of course, overpriced assets don’t do us any good. Our goal is to find underpriced assets. Where should we look for them? A good place to start is among things that are:   •   little known and not fully understood; •   fundamentally questionable on the surface; ([Location 2620](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2620))
+    - Tags: [[orange]] 
+- controversial, unseemly or scary; •   deemed inappropriate for “respectable” portfolios; •   unappreciated, unpopular and unloved; •   trailing a record of poor returns; and •   recently the subject of disinvestment, not accumulation. ([Location 2625](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2625))
+    - Tags: [[orange]] 
+- To boil it all down to just one sentence, I’d say the necessary condition for the existence of bargains is that perception has to be considerably worse than reality. That means the best opportunities are usually found ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2633))
+    - Tags: [[orange]] 
+- among things most others won’t do. After all, if everyone feels good about something and is glad to join in, it won’t be bargain-priced. ([Location 2634](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2634))
+    - Tags: [[orange]] 
+- The subsequent history of these bonds shows that (a) if nobody owns something, demand for it (and thus the price) can only go up and (b) by going from taboo to even just tolerated, it can perform quite well. ([Location 2659](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2659))
+    - Tags: [[orange]] 
+- Of course, given the way investors behave, whatever asset is considered the worst at a given point in time has a good likelihood of being the cheapest. ([Location 2664](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2664))
+    - Tags: [[orange]] 
+- Investment bargains needn’t have anything to do with high quality. In fact, things tend to be cheaper if low quality has scared people away. ([Location 2668](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2668))
+    - Tags: [[orange]] 
+- Patient opportunism—waiting for bargains—is often your best strategy. ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2695))
+    - Tags: [[orange]] 
+- So here’s a tip: You’ll do better if you wait for investments to come to you rather than go chasing after them. ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2700))
+    - Tags: [[do nothing]] 
+- At Oaktree, one of our mottos is “we don’t look for our investments; they find us.” ([Location 2703](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2703))
+    - Tags: [[orange]] 
+- JOEL GREENBLATT: This is one of the hardest things to master for professional investors: coming in each day for work and doing nothing. ([Location 2712](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2712))
+    - Tags: [[orange]] 
+- It’s essential for investment success that we recognize the condition of the market and decide on our actions accordingly. The other possibilities are (a) acting without ([Location 2715](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2715))
+    - Tags: [[orange]] 
+- recognizing the market’s status, (b) acting with indifference to its status and (c) believing we can somehow change its status. These are most unwise. It makes perfect sense that we must invest appropriately for the circumstances with which we’re presented. In fact, nothing else makes sense at all. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2716))
+    - Tags: [[orange]] 
+- SETH KLARMAN: Still, calibration is important. Set the bar too high and you might remain out of the ([Location 2747](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2747))
+    - Tags: [[orange]] 
+- market for a very long time. Set it too low and you will be fully invested almost immediately; it will be as though you had no standards at all. Experience and versatile thinking are the keys to such calibration. ([Location 2748](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2748))
+    - Tags: [[orange]] 
+- CHRISTOPHER DAVIS: The key is managing clients effectively—which almost always means lowering client expectations. ([Location 2756](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2756))
+    - Tags: [[orange]] 
+- A ([Location 2767](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2767))
+    - Tags: [[orange]] 
+- few years ago I came up with an allegory applicable to low-return environments. It was called “The Cat, the Tree, the Carrot and the Stick.” The cat is an investor, whose job it is to cope with the investment environment, of which the tree is part. The carrot—the incentive to accept increased risk—comes from the higher returns seemingly available from riskier investments. And the stick—the motivation to forsake safety—comes from the modest level of the prospective returns being offered on safer investments. The carrot lures the cat to higher ([Location 2767](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2767))
+    - Tags: [[orange]] 
+- branches—riskier strategies—in pursuit of its dinner (its targeted return), and the stick prods the cat up the tree, because it can’t get dinner while staying close to the ground. Together, the stick and the carrot can cause the cat to climb until it ultimately arrives high up in the tree, in a treacherous position. The critical observation is that the cat pursues high returns, even in a low-return environment, and bears the consequences—increased risk—although often unknowingly. Bond investors call this process “reaching for yield” or “reaching for return.” It has classically consisted of investing in riskier credits as the yields on safer ones decline, in order to ([Location 2772](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2772))
+    - Tags: [[orange]] 
+- access the returns to which investors were accustomed before the market rose. That same pattern of taking new and bigger risks in order to perpetuate return often repeats in a cyclical pattern. The motto of those who reach for return seems to be: “If you can’t get the return you need from safe investments, pursue it via risky investments.” ([Location 2777](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2777))
+    - Tags: [[orange]] 
+- Usually, would-be sellers balance the desire to get a good price with the desire to get the trade done soon. The beauty of forced sellers is that they have no choice. They ([Location 2866](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2866))
+    - Tags: [[orange]] 
+- have a gun at their heads and have to sell regardless of price. Those last three words—regardless of price—are the most beautiful in the world if you’re on the other side of the transaction. ([Location 2867](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2867))
+    - Tags: [[orange]] 
+- The key during a crisis is to be (a) insulated from the forces that require selling and (b) positioned to be a buyer instead. ([Location 2896](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2896))
+    - Tags: [[positioning]] 
+- JOHN KENNETH GALBRAITH ([Location 2906](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2906))
+    - Tags: [[orange]] 
+- It’s frightening to think that you might not know something, but more frightening to think that, by and large, the world is run by people who have faith that they know exactly what’s going on. AMOS TVERSKY There are two kinds of people who lose money: those who know nothing and those who know everything. HENRY ([Location 2907](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2907))
+    - Tags: [[orange]] 
+- I’m firmly convinced that (a) it’s hard to know what the macro future holds and (b) few people possess superior knowledge of these matters that can regularly be turned into an investing advantage. There are two caveats, however:   •   The more we concentrate on smaller-picture things, the more it’s possible to gain a knowledge advantage. With hard work and skill, we can consistently know ([Location 2914](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2914))
+    - Tags: [[orange]] 
+- First, were the ([Location 2936](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2936))
+    - Tags: [[pink]] 
+    - Note: READ ALL THE POINTS
+- Second, were the forecasts valuable? Predictions are most useful when they correctly anticipate change. If you predict that something won’t change and it doesn’t change, that prediction is unlikely to earn you much money. But accurately predicting change can be very profitable. ([Location 2939](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=2939))
+    - Tags: [[orange]] 
+- Understanding uncertainty: Risk and uncertainty aren’t the same as loss, but they create the potential for loss when things go wrong. Some of the biggest losses occur when overconfidence regarding predictive ability causes investors to underestimate the range of possibilities, the difficulty of predicting ([Location 3047](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3047))
+    - Tags: [[orange]] 
+- which one will materialize, and the consequences of a surprise. ([Location 3049](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3049))
+    - Tags: [[orange]] 
+- The first possibility is that rather than accept that cycles are unpredictable, we should redouble our efforts to predict the future, throwing added resources into the battle and betting increasingly on our conclusions. But a great deal of data, and all my experience, tell me that the only thing we can predict about cycles is their inevitability. ([Location 3085](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3085))
+    - Tags: [[fooled by randomness]] 
+- Further, superior results in investing come from knowing more than others, and it hasn’t been demonstrated to my satisfaction that a lot of people know more than the consensus about the timing and extent of future cycles. The second possibility is to accept that the future isn’t knowable, throw up our hands, and simply ignore cycles. Instead of trying to predict them, we could try to make good investments and hold them throughout. Since we can’t know when to hold more or less of them, or when our investment posture should become more aggressive or more defensive, we could ([Location 3087](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3087))
+    - Tags: [[orange]] 
+- simply invest with total disregard for cycles and their profound effect. This is the so-called buy-and-hold approach. ([Location 3091](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3091))
+    - Tags: [[orange]] 
+- There’s a third possibility, however, and in my opinion it’s the right one by a wide margin. Why not simply try to figure out where we stand in terms of each cycle and what that implies for our actions? ([Location 3093](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3093))
+    - Tags: [[market cycles]] 
+- In the world of investing, … nothing is as dependable as cycles. Fundamentals, psychology, prices and returns will rise and fall, presenting opportunities to make mistakes or to profit from the mistakes of others. They are the givens. ([Location 3094](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3094))
+    - Tags: [[orange]] 
+- We cannot know how far a trend will go, when it will turn, what will make it turn or how far things will then go in the opposite direction. But I’m confident that every trend will stop sooner or later. Nothing goes on forever. ([Location 3097](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3097))
+    - Tags: [[orange]] 
+- So what can we do about cycles? If we can’t know in advance how and when the turns will occur, how can we cope? On this, I am dogmatic: We may never know where we’re going, but we’d better have a good idea where we are. That is, even if we can’t predict the timing and extent of cyclical fluctuations, it’s essential that we ([Location 3099](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3099))
+    - Tags: [[orange]] 
+- strive to ascertain where we stand in cyclical terms and act accordingly. ([Location 3101](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3101))
+    - Tags: [[orange]] 
+- First, we must be alert to what’s going on. The philosopher ([Location 3117](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3117))
+    - Tags: [[orange]] 
+- Santayana said, “Those who cannot remember the past are condemned to repeat it.” ([Location 3118](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3118))
+    - Tags: [[history repeats]] 
+- As difficult as it is know the future, it’s really not that hard to understand the present. What we need to do is “take the market’s temperature.” If we are alert and perceptive, we can gauge the behavior of those around us and from that judge what we should do. ([Location 3120](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3120))
+    - Tags: [[orange]] 
+- The essential ingredient here is inference, one of my favorite words. Everyone sees what happens each day, as ([Location 3122](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3122))
+    - Tags: [[orange]] 
+- reported in the media. But how many people make an effort to understand what those everyday events say about the psyches of market participants, the investment climate, and thus what we should do in response? Simply ([Location 3123](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3123))
+    - Tags: [[orange]] 
+- put, we must strive to understand the implications of what’s going on around us. When others are recklessly confident and buying aggressively, we should be highly cautious; when others are frightened into inaction or panic selling, we should become aggressive. ([Location 3124](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3124))
+    - Tags: [[orange]] 
+- So look around, and ask yourself: Are investors optimistic or pessimistic? Do the media ([Location 3127](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3127))
+    - Tags: [[orange]] 
+- talking heads say the markets should be piled into or avoided? Are novel investment schemes readily accepted or dismissed out of hand? Are securities offerings and fund openings being treated as opportunities to get rich or possible pitfalls? Has the credit cycle rendered capital readily available or impossible to obtain? Are price/earnings ratios high or low in the context of history, and are yield spreads tight or generous? ([Location 3127](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3127))
+    - Tags: [[orange]] 
+- THE POOR MAN’S GUIDE TO MARKET ASSESSMENT ([Location 3222](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3222))
+    - Tags: [[orange]] 
+- Thus, randomness contributes to (or wrecks) investment records to a degree that few people appreciate fully. As a result, the dangers that lurk ([Location 3296](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3296))
+    - Tags: [[orange]] 
+- in thus-far-successful strategies often are underrated. ([Location 3296](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3296))
+    - Tags: [[orange]] 
+- Perhaps a good way to sum up Taleb’s views is by excerpting from a table in his book. He lists in the first column a number of things that easily can be mistaken for the things in the second column. ([Location 3297](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3297))
+    - Tags: [[orange]] 
+- Luck Skill Randomness Determinism Probability Certainty Belief, conjecture Knowledge, certitude Theory Reality Anecdote, coincidence Causality, law Survivorship bias Market outperformance Lucky idiot Skilled investor ([Location 3299](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3299))
+    - Tags: [[orange]] 
+- I think this dichotomization is sheer brilliance. We all know that when things go right, luck looks like skill. Coincidence looks like causality. A “lucky idiot” looks like a skilled investor. Of course, knowing that randomness can have this effect doesn’t make it easy to distinguish between lucky investors and skillful investors. ([Location 3304](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3304))
+    - Tags: [[orange]] 
+- SETH KLARMAN: This is why it is all-important to look not at investors’ track records but at what they are doing to achieve those records. Does it make sense? Does it appear replicable? Why haven’t competitive forces priced away any apparent market inefficiencies that enabled this investment success? ([Location 3308](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3308))
+    - Tags: [[orange]] 
+- A good decision is one that a logical, intelligent and informed person would have made under the circumstances as they appeared at the time, before the ([Location 3342](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3342))
+    - Tags: [[orange]] 
+- outcome was known. ([Location 3343](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3343))
+    - Tags: [[orange]] 
+- HOWARD MARKS: Fear of looking wrong: It’s counterintuitive but extremely important: given the randomness and variability at work in our environment, it’s often true that good decisions fail to work and bad decisions succeed. In particular, ([Location 3350](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3350))
+    - Tags: [[orange]] 
+- investors are “right for the wrong reason” (and vice versa) all the time. You mustn’t let this frustrate you and convince you your good decisions were mistakes (unless so many prove wrong that you have to consider that possibility). ([Location 3351](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3351))
+    - Tags: [[orange]] 
+- In the long run, there’s no reasonable alternative to believing that good decisions will lead to investment profits. In the short run, however, we must be stoic when they don’t. ([Location 3354](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3354))
+    - Tags: [[orange]] 
+- I find Taleb’s ideas novel and provocative. Once you realize the vast extent to which randomness can affect investment outcomes, you look at everything in a very different light. ([Location 3391](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3391))
+    - Tags: [[fooled by randomness]] 
+- HOWARD MARKS: Understanding uncertainty: People who think the future is knowable (and that ([Location 3397](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3397))
+    - Tags: [[orange]] 
+- they can know it) belong to what I call the “I know” school. They ignore the presence of uncertainty and act in ways that will increase profits if they’re right but expose them to increased losses if they’re wrong. Recognizing this, it’s important for all investors to figure out whether they know and act ([Location 3398](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3398))
+    - Tags: [[orange]] 
+- accordingly. ([Location 3400](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3400))
+    - Tags: [[orange]] 
+- JOEL GREENBLATT: For good investors, as the time horizon expands, which allows skill to come into play, the probability distribution of long-term ([Location 3421](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3421))
+    - Tags: [[orange]] 
+- returns should narrow. ([Location 3422](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3422))
+    - Tags: [[orange]] 
+- There are old investors, and there are bold investors, but there are no old bold investors. ([Location 3427](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3427))
+    - Tags: [[orange]] 
+- So I ask, “Which do you care about more, making money or avoiding losses?” The answer is… ([Location 3433](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3433))
+    - Tags: [[orange]] 
+- The problem is that you can’t simultaneously go all out… ([Location 3434](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3434))
+    - Tags: [[orange]] 
+- making and loss avoidance. Each investor has to take a position regarding these two goals, and usually that requires striking a reasonable balance. The decision should be made consciously and rationally.… ([Location 3434](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3434))
+    - Tags: [[orange]] 
+- The best way to put this decision into perspective is by thinking of it in terms of offense versus defense. And one of the best ways to consider this is through the metaphor of sports. To establish the groundwork for this discussion, I’ll refer to the… ([Location 3437](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3437))
+    - Tags: [[orange]] 
+- appeared in The Financial Analysts Journal in 1975. This may have been my first exposure to a direct analogy between investing and sports, and it was absolutely seminal regarding my emphasis on defensive investing. Charley’s article described the perceptive analysis of tennis contained in Extraordinary Tennis for the Ordinary Tennis Player by Dr. Simon Ramo, the “R” in TRW, once a conglomerate with products ranging from auto parts to credit reporting services. Ramo pointed out… ([Location 3439](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3439))
+    - Tags: [[orange]] 
+- fast-paced, well-placed shots that an opponent can’t return. Given anything other than an outright winner by an opponent, professional tennis players can make the shot they want almost all the time: hard or soft, deep or short, left or right, flat or with spin. Professional players aren’t troubled by the things that make the game challenging for amateurs: bad bounces; wind; sun in the eyes; limitations on speed, stamina and skill; or an opponent’s efforts to put the ball beyond reach.… ([Location 3444](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3444))
+    - Tags: [[orange]] 
+- do this so consistently that tennis statisticians keep track of the relatively rare exceptions under the heading “unforced errors.” But the tennis the rest of us play is a “loser’s game,” with the match going to the player who hits the fewest losers. The winner just keeps the ball in play until the loser hits it into the net or off the court. In other words, in amateur tennis, points aren’t won; they’re lost. I recognized in Ramo’s loss-avoidance strategy the version of tennis I try… ([Location 3449](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3449))
+    - Tags: [[orange]] 
+- high cost of trading led him to conclude that the pursuit of winners in the mainstream stock markets is unlikely to pay off for the investor. Instead, you should try to avoid hitting losers. I found this view of investing absolutely compelling. The choice between offense and defense investing should be based on how much the investor believes is within his or her control. In my view, investing entails a lot that isn’t. Professional tennis players can be quite sure that if they do A, B,… ([Location 3454](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3454))
+    - Tags: [[orange]] 
+- variables at work. But investing is full of bad bounces and unanticipated developments, and the dimensions of the court and the height of the net change all the time. The workings of economies and markets are highly imprecise and variable, and the thinking and behavior of the other players constantly alter the environment. Even if you do everything right, other investors can ignore your favorite stock; management can squander the company’s opportunities; government can… ([Location 3459](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3459))
+    - Tags: [[orange]] 
+- they really should go for winners. And they’d better, since if they serve up easy balls, their opponents will hit winners of their own and take points. In contrast, investment results are only partly within the investors’ control, and investors can make good money—and outlast their opponents—without trying tough shots. The bottom line is that even highly skilled investors can be guilty of mis-hits, and the overaggressive shot can easily lose them the match. Thus… ([Location 3463](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3463))
+    - Tags: [[orange]] 
+- No, I think investing is more like the “football” that’s played outside the United States—soccer. In soccer, the same eleven players are on the field for essentially the whole game. There isn’t an offensive squad and a defensive squad. The same people have ([Location 3488](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3488))
+    - Tags: [[orange]] 
+- to play both ways … have to be able to deal with all eventualities. Collectively, those eleven players must have the potential to score goals and stop the opposition from scoring more. ([Location 3490](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3490))
+    - Tags: [[orange]] 
+- That’s my view of investing. Few people (if any) have the ability to switch tactics to match market conditions on a timely basis. So investors should commit to an ([Location 3496](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3496))
+    - Tags: [[orange]] 
+- approach—hopefully ([Location 3497](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3497))
+    - Tags: [[orange]] 
+- one that will serve them through a variety of scenarios. They can be aggressive, hoping they’ll make a lot on the winners and not give it back on the losers. They can emphasize defense, hoping to keep up in good times and excel by losing less than others in bad times. Or they can balance offense and defense, largely giving up on tactical timing but aiming to win through superior security selection in both up and down markets. ([Location 3497](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3497))
+    - Tags: [[orange]] 
+- Oaktree portfolios are set up to outperform in bad times, and that’s when we think outperformance is essential. Clearly, if we can keep up in good times and outperform in bad times, we’ll have ([Location 3508](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3508))
+    - Tags: [[orange]] 
+- above-average results over full cycles with below-average volatility, and our clients will enjoy outperformance when others are suffering. ([Location 3510](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3510))
+    - Tags: [[orange]] 
+- That brings up something that I consider a great paradox: I don’t think many investment managers’ careers end because they fail to hit home ([Location 3627](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3627))
+    - Tags: [[orange]] 
+- runs. Rather, they end up out of the game because they strike out too often—not because they don’t have enough winners, but because they have too many losers. ([Location 3628](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3628))
+    - Tags: [[orange]] 
+- At Oaktree, on the other hand, we believe firmly that “if we avoid the losers, the winners will take care of themselves.” ([Location 3643](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3643))
+    - Tags: [[market-structure]] 
+- For example, mortgage derivatives had been designed and rated on the ([Location 3767](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3767))
+    - Tags: [[orange]] 
+- assumption that there couldn’t be a nationwide decline in home prices, since there never had been one (or at least not in the modern era of statistics). But then we had one of major proportions, and structures built on the assumption that it couldn’t happen were decimated. ([Location 3767](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3767))
+    - Tags: [[orange]] 
+- As an aside, it’s worth noting that the assumption that something can’t happen has the potential to make it happen, since people who believe it can’t happen will engage in risky behavior and thus alter the environment. Twenty or more years ago, the term mortgage lending was associated inextricably with the word ([Location 3769](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3769))
+    - Tags: [[orange]] 
+- conservative. Home buyers put down 20 to 30 percent of the purchase price; mortgage payments were limited to 25 percent of monthly income by tradition; houses were appraised carefully; and borrowers’ income and financial position had to be documented. But when the appetite for mortgage-backed securities rose in the past decade—in part because mortgages had always performed so dependably and it was agreed there couldn’t be a nationwide surge in mortgage defaults—many of these traditional norms went out the window. The consequences shouldn’t have come as a surprise. That brings me back ([Location 3772](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3772))
+    - Tags: [[orange]] 
+- to a dilemma we have to navigate. How much time and capital should an investor devote to protecting against the improbable disaster? We can insure against every extreme outcome; for example, against both deflation and hyperinflation. But doing so will be costly, and the cost will detract from investment returns when that protection turns out not to have been needed … and that’ll be most of the time. You could require your portfolio to do well in a rerun of 2008, but then you’d hold only Treasurys, cash and gold. Is that a viable strategy? Probably not. So the general rule is that it’s important to avoid ([Location 3776](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3776))
+    - Tags: [[orange]] 
+- pitfalls, but there must be a limit. And the limit is different for each investor. ([Location 3781](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3781))
+    - Tags: [[orange]] 
+- So failure of imagination consists in the first instance of not anticipating the possible ([Location 3789](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3789))
+    - Tags: [[orange]] 
+- extremeness of future events, and in the second instance of failing to understand the knock-on consequences of extreme events. ([Location 3790](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3790))
+    - Tags: [[orange]] 
+- In many ways, psychological forces are some of the most interesting sources of investment error. They can greatly influence security prices. When they cause some investors to take an extreme view that isn’t balanced out by others, these forces can make prices go way too high or way too low. This is the origin of bubbles and crashes. ([Location 3798](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3798))
+    - Tags: [[orange]] 
+- How are investors ([Location 3801](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3801))
+    - Tags: [[orange]] 
+- harmed by these forces?   •   By succumbing to them •   By participating unknowingly in markets that have been distorted by others’ succumbing •   By failing to take advantage when those distortions are present   Are these all the same thing? I don’t think so. Let’s dissect these three mistakes in the context of one of the most insidious psychological forces: greed. When greed goes to excess, security prices tend to be too high. That makes prospective return low and risk high. The assets in question represent mistakes waiting to produce loss … or to be ([Location 3801](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3801))
+    - Tags: [[orange]] 
+- taken advantage of. ([Location 3808](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=3808))
+    - Tags: [[orange]] 
+- What’s clear from these tables is that “beating the market” and “superior investing” can be far from synonymous—see ([Location 4096](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4096))
+    - Tags: [[orange]] 
+- years one and two in the third example. It’s not just your return that matters, but also what risk you took to get it. ([Location 4097](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4097))
+    - Tags: [[orange]] 
+- A two-by-two matrix tells the story. ([Location 4108](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4108))
+    - Tags: [[orange]] 
+- Here’s how I describe Oaktree’s performance aspirations: In good years in the market, it’s good enough to be average. Everyone makes money in the good years, and I have yet to hear anyone explain convincingly why it’s important to beat the market when the market does well. No, in the good years average is good enough. There is a time, however, when we consider it essential to beat the ([Location 4122](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4122))
+    - Tags: [[orange]] 
+- market, and that’s in the bad years. Our clients don’t expect to bear the full brunt of market losses when they occur, and neither do we. ([Location 4125](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4125))
+    - Tags: [[orange]] 
+- Thus, it’s our goal to do as well as the market when it does well and better than the market when it does poorly. At first blush that may sound like a modest goal, but it’s really quite ambitious. In order to stay up with the market when it does well, a portfolio has to incorporate good measures of beta and correlation with the market. But if we’re aided by beta and correlation on the way up, shouldn’t they be expected to hurt us on the way down? If we’re consistently able to ([Location 4127](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4127))
+    - Tags: [[orange]] 
+- decline less when the market declines and also participate fully when the market rises, this can be attributable to only one thing: alpha, or skill. That’s an example of value-added investing, and if demonstrated over a period of decades, it has to come from investment skill. ([Location 4131](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4131))
+    - Tags: [[orange]] 
+- Every investment effort should begin with a statement of what you’re trying to accomplish. The key questions are what your return goal is, how much risk you can tolerate, and how much liquidity you’re likely to require in the interim. ([Location 4145](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4145))
+    - Tags: [[orange]] 
+- we could say the bottom has been reached when the price arrives at that point. But since markets overshoot all the time—and price declines continue long after they should have stopped at fair value—there’s no way to know when the price has reached a level below which it won’t go. It’s essential to understand that “cheap” is far from synonymous with “not going to fall further.” I try to look at it logically. There are three times to buy an asset that has been declining: on the way down, at the bottom, or on the way up. I don’t believe we ever know when the bottom has been reached, and even if we did, there ([Location 4198](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4198))
+    - Tags: [[orange]] 
+- might not be much for sale there. If we wait until the bottom has been passed and the price has started to rise, the rising price often causes others to buy, just as it emboldens holders and discourages them from selling. Supply dries up and it becomes hard to buy in size. The would-be buyer finds it’s too late. That leaves buying on the way down, which we should be glad to do. The good news is that if we buy while the price is collapsing, that fact alone often causes others to hide behind the excuse that “it’s not our job to catch falling knives.” After all, it’s when knives are falling that the ([Location 4203](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4203))
+    - Tags: [[orange]] 
+- greatest bargains are available. There’s an important saying attributed to Voltaire: “The perfect is the enemy of the good.” This is especially applicable to investing, where insisting on participating only when conditions are perfect—for example, buying only at the bottom—can cause you to miss out on a lot. Perfection in investing is generally unobtainable; the best we can hope for is to make a lot of good investments and exclude most of the bad ones. How does Oaktree resolve the question of knowing when to buy? We give up on trying to attain perfection or ascertain when the ([Location 4208](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4208))
+    - Tags: [[orange]] 
+- bottom has been reached. Rather, if we think something is cheap, we buy. If it gets cheaper, we buy more. And if we commit all our capital, we assume we’ll be able to raise more. One of the six tenets of our investment philosophy calls for “disavowal of market timing.” Yet we expend a lot of effort to diagnose the market environment, and we certainly don’t invest regardless of what we think the environment implies for risk and return. Rather, our disinterest in market timing means—above all else—that if we find something attractive, we never say, “It’s cheap today, but we think it’ll ([Location 4213](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4213))
+    - Tags: [[orange]] 
+- be cheaper in six months, so we’ll wait.” It’s just not realistic to expect to be able to buy at the bottom. ([Location 4217](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4217))
+    - Tags: [[orange]] 
+- HOWARD MARKS: Understanding uncertainty: The sentence above does a good job of describing what it takes to deal with uncertainty: a feeling for the things that can happen, the relative likelihood of each, and whether an asset’s price (and thus the potential for gains from that price) provides adequate potential reward for bearing the ([Location 4358](https://readwise.io/to_kindle?action=open&asin=B007SWH6OQ&location=4358))
+    - Tags: [[orange]]
+

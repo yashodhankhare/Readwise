@@ -1,0 +1,214 @@
+---
+tags:
+  - readwise
+---
+
+# Do You Talk Funny? 7 Comedy Habits to Become a Better (And Funnier) Public Speaker
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41sCC2T0QPL._SL200_.jpg)
+
+## Metadata
+- Author: [[David Nihill]]
+- Full Title: Do You Talk Funny? 7 Comedy Habits to Become a Better (And Funnier) Public Speaker
+- Category: #books
+
+## Highlights
+- He contacted a booker friend, ([Location 190](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=190))
+    - Tags: [[pink]] 
+- bending the truth ever so slightly by telling him I was a very funny comedian visiting from Ireland. ([Location 190](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=190))
+    - Tags: [[pink]] 
+- dedicated myself to applying the Pareto Principle to my public speaking ability through standup comedy, which is to say that I set about figuring out the 20% of the actions that would deliver 80% of the results I wanted. ([Location 195](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=195))
+    - Tags: [[pink]] 
+- Why the focus on comedy? Beyond the demands of my comfort level, what made me so ([Location 200](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=200))
+    - Tags: [[pink]] 
+- sure that standup would help me become a better public speaker? Because science says so. “The brain doesn't pay attention to boring things,” notes John Medina, a biologist and author of the best-selling book Brain Rules. “Laughter triggers a dopamine release, which aids memory and information processing. It’s like a mental post-it note that tells your brain, remember this.” ([Location 200](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=200))
+    - Tags: [[pink]] 
+- Carmine Gallo is a news anchor turned author, columnist, and keynote speaker. In short, he’s a guy people actually want to listen to. He says humor is one of the nine key items in successful TED talks: "Humor is proven to increase the likelihood that your pitch or presentation will be successful, whether you’re ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=206))
+    - Tags: [[pink]] 
+- pitching to one person or speaking to thousands." It also "lowers defenses, making your audience more receptive to your message. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=208))
+    - Tags: [[pink]] 
+- "Stage time, stage time and stage time." These ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=214))
+    - Tags: [[pink]] 
+- are the three keys to public-speaking success according to Darren LeCroix, who brings incredible stories and captivating humor to conferences around the globe, even though he is the first to stress he was “born without a funny bone in his body.” Darren is a self-proclaimed “student of comedy” and touts himself as living proof that humor is a skill that can be learned. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=215))
+    - Tags: [[pink]] 
+- Most comedians will tell you it takes about seven years to make a living from comedy. Four hours a night for seven years means comedians invest roughly 1,428 hours of time each year to improving their craft. If stage time is the key to making it as a keynote, then ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=223))
+    - Tags: [[pink]] 
+- adhering to even a fraction of the standup comedian’s practice schedule is a smart move. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=225))
+    - Tags: [[pink]] 
+- And besides, some of the best ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=231))
+    - Tags: [[pink]] 
+- speeches in history have clocked in at less than 20 minutes. Abraham Lincoln's Gettysburg Address was 272 words and lasted two minutes. Winston Churchill’s “Blood, Toil, Tears and Sweat” speech was 688 words. The most powerful emotional expression two humans can say to each other is just three words: “I,” “love,” and “cake.” ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=231))
+    - Tags: [[pink]] 
+- It’s just as well, too, because most people switch off at around the ten-minute mark. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=234))
+    - Tags: [[pink]] 
+- As referenced in Brain Rules, studies by noted educator Wilbert McKeachie demonstrate that "typically, attention increases from the beginning of the lecture to ten minutes into the lecture and decreases after that point." This is why TED has shortened its earlier 18-minute format. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=234))
+    - Tags: [[pink]] 
+- They figured out that brevity is levity. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=237))
+    - Tags: [[pink]] 
+- Standup comedy, at its basic principles, is a combination of material (what you ([Location 237](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=237))
+    - Tags: [[pink]] 
+- say) and delivery (how you say it). It is no different than typical speeches or presentations. TV slots for new comedians tend to be under five minutes, which forces them to continuously refine and refine and refine again in order to get maximum impact from each word. There is a saying in comedy that “a tight five is better than a sloppy fifteen.” Yet business presentations worldwide fail to abide by the same ([Location 238](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=238))
+    - Tags: [[pink]] 
+- principle. Instead, there tends to be a lot of sloppy fifteens. Why? The necessary stage time, structure, and conscious editing in order to make maximum impact just aren’t there—most people don’t have to speak often enough to get it. Conversely, the speakers who deliver their talk most tend to be the best and most polished. They know where the laugh lines are, they know what phrasing works best, and they know their timing. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=241))
+    - Tags: [[pink]] 
+- Just like standup comedians. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=243))
+    - Tags: [[pink]] 
+- "If you’re getting chased by a lion, you don’t need to run faster than the lion, just the people running with you. Speaking with other people is similar: you don’t need to be perfect, you just need to be better than a few others. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=251))
+    - Tags: [[pink]] 
+- I broke the techniques down, applied the 80/20 Principle (thanks Pareto) and performed a series of experiments on yours truly to determine ([Location 258](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=258))
+    - Tags: [[pink]] 
+- the seven key principles, or habits that brought forth the biggest outcome. And I have explained them here. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=259))
+    - Tags: [[pink]] 
+- Our aim as public speakers is to be more memorable and have our audience spread our message for us. The best way to do this is by wrapping the information in a story. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=306))
+    - Tags: [[pink]] 
+- You are always telling a story. How you tell it makes all the difference. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=313))
+    - Tags: [[pink]] 
+- It does not take long ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=319))
+    - Tags: [[pink]] 
+- to find a compelling example. Airbnb went from a failing startup to a billion dollar business built on a compelling story that their founders have become masters of telling. Airbnb started in 2007 when Joe Gebbia and Brian Chesky, were struggling to pay ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=319))
+    - Tags: [[pink]] 
+- their rent. There was a design conference coming to San Francisco and the city’s hotels were fully booked, so they came up with the idea of renting out three airbeds on their living room floor and cooking breakfast for their guests. The site Airbedandbreakfast.com (later shortened to Airbnb) officially launched on August 11, 2008 and initially… ([Location 321](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=321))
+    - Tags: [[pink]] 
+- They fell back on their design schooling and created special edition breakfast cereals that capitalized on the presidential election, with presidential candidates Barack Obama and John McCain as the inspiration for “Obama O’s” (The Breakfast of Change) and “Cap’n McCains.” In two months, 800 boxes of cereal were sold at… ([Location 324](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=324))
+    - Tags: [[pink]] 
+- Paul Graham was impressed with Gebbia and Chesky’s hustle and decided to take on Airbnb in his YCombinator program (an American seed accelerator providing early stage funding and advice for startups,) even though he initially didn't like their idea. They went on to raise multiple rounds of investment with top-tier firms and… ([Location 327](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=327))
+    - Tags: [[pink]] 
+- The reasons why they started Airbnb combined with the fact that they kept the idea alive with breakfast cereal made a compelling and memorable story for Joe and Brian to tell. It showed their idea was a solution to a real problem, that they were passionate about it, and that they… ([Location 330](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=330))
+    - Tags: [[pink]] 
+- blogger, and very often-hilarious public speaker. He is the author of several notable marketing books, such as Purple Cow, Small is the New Big, and Permission Marketing, and his ideas have been referenced, regurgitated, and repackaged by just about everyone. He says: "Marketing is no longer about the stuff that you make, but about the… ([Location 333](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=333))
+    - Tags: [[pink]] 
+- can because customers will talk about your products and services on social media platforms and in real life. Products need stories to provide context and human emotion. They provide the beginning, middle and end." Airbnb gave people a great story that clearly explained who they were, defined the values they held, and directly addressed the… ([Location 336](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=336))
+    - Tags: [[pink]] 
+- Brian were striving to provide an experience, a home, and a sense of belonging that people don't get from traditional hotels. Their story also saved them a lot of marketing dollars as media and user attention spread their tale far and wide. The hotel industry had a new competitor and this competitor had creativity, passion, hustle, and a… ([Location 339](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=339))
+    - Tags: [[pink]] 
+- and your story. If you want people to remember what you say, tell a… ([Location 341](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=341))
+    - Tags: [[pink]] 
+- "Who wants what and what stops them? ([Location 350](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=350))
+    - Tags: [[pink]] 
+- This, according to Golden Globe-winning writer and ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=351))
+    - Tags: [[pink]] 
+- three-time Emmy nominee Bill Grundfest, is the secret sauce of all stories in its most simplified form. ([Location 351](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=351))
+    - Tags: [[pink]] 
+- What makes stories great is the detail we add in. Essentially, we need to put meat on the bones of our story and make sure to do the following: ([Location 352](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=352))
+    - Tags: [[pink]] 
+- Know where you want to end up (the punch line) from the outset. The last line should be the first line you write. Then work backwards towards your inciting incident and set up. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=372))
+    - Tags: [[pink]] 
+- Reference your opening lines/setup in the conclusion of your story. This is referred to as the Bookend Technique and it will give your story a feeling of completion or symmetry. We will examine this technique further in ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=377))
+    - Tags: [[pink]] 
+- Chapter 7. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=378))
+    - Tags: [[pink]] 
+- A story should make people care by including personal ([Location 385](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=385))
+    - Tags: [[pink]] 
+- experience that the audience can relate to themselves and to their own lives. The most powerful stories are not about the storyteller, they are about the person who is hearing the story. Most marketers and presenters forget this. ([Location 385](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=385))
+    - Tags: [[pink]] 
+- In his book, Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds, Carmine Gallo reminds us, “The funny thing about humor is that ([Location 388](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=388))
+    - Tags: [[pink]] 
+- you don’t need to tell a joke to get a laugh." It can be enough to simply not take yourself too seriously—or to be willing to be brutally honest. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=389))
+    - Tags: [[pink]] 
+- “A good storyteller is somebody who’s comfortable on his or her feet and is enough of a ham to get a ([Location 413](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=413))
+    - Tags: [[pink]] 
+- charge out of the response of a crowd, that surge of electricity that goes back and forth between you and an audience. If that does not turn you on you won’t be a good storyteller. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=414))
+    - Tags: [[pink]] 
+- I was a bag of jelly by this point, but kept my nerves in check by remembering one of the greatest things about storytelling: the story is yours. You know it better than anyone. You don't have to train yourself to remember it. You ([Location 430](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=430))
+    - Tags: [[pink]] 
+- have told it before to friends, family or colleagues, at work, a dinner party or some informal setting. You have done this before. ([Location 432](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=432))
+    - Tags: [[pink]] 
+- Be forewarned: Stories are told, not read. We love how the storyteller connects with the audience when there is no PAGE between them! Please know your story “by heart” but ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=440))
+    - Tags: [[pink]] 
+- not by rote memorization. No notes, paper or cheat sheets allowed on stage. Have some stakes. Stakes are essential in live storytelling. What do you stand to gain or lose? Why is what happens in the story important to you? If you can’t answer this, then think of a different story. A story without stakes is an essay and is best experienced on the page, not the stage. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=441))
+    - Tags: [[pink]] 
+- Start in the action. Have a great first line that sets up the stakes or grabs attention. No: “So I was thinking about climbing this mountain. But then I watched a little TV and made a snack and took a nap and my mom called and vented about her psoriasis then I did a little laundry (a whites load) (I lost another sock, darn it!) and then I thought about it again and decided I’d climb the mountain the next morning.” ([Location 446](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=446))
+    - Tags: [[pink]] 
+- Yes: “The mountain loomed before me. I had my hunting knife, some trail mix, and snow boots. I had to make it to the little cabin and start a fire before sundown or freeze to death for sure.” Steer clear of meandering endings. They kill a story! Your last line should be clear in your head before you start. Yes, bring the audience along with you as you contemplate what transpires in your story, but remember, ([Location 450](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=450))
+    - Tags: [[pink]] 
+- you are driving the story, and must know the final destination. Keep your hands on the wheel! Know your story well enough so you can have fun! Watching you panic to think of the next memorized line is harrowing for the audience. Make an outline, memorize your bullet points and play with the details. Enjoy yourself. Imagine you are at a dinner party, not a deposition. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=454))
+    - Tags: [[pink]] 
+- My story still had one big advantage over the other nine on that windy San Francisco night. It was funnier. The Moth won't tell you that your story has to be funny, but those that incorporate some humor always do very well. I have now won a number of storytelling nights and performed alongside some of the biggest names nationally, and humor always plays as big a part in my stories as it does in my victories. ([Location 458](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=458))
+    - Tags: [[pink]] 
+- Those who use humor connect deeper, build better relationships, increase personal productivity, earn more, motivate more effectively, get referred more, are more memorable, stand out, and have more fun! ([Location 517](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=517))
+- "I will not make age an issue of this campaign. I am not going to ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=520))
+- exploit, for political purposes, my opponent's youth and inexperience," Ronald Reagan said during the 1984 presidential debates when asked if, at 73, he was too old to be President. The line, a timeless example of Reagan's sense of humor, even roused a laugh from Democratic opponent, Walter Mondale. The Republican actor-turned-statesman and famed storyteller won re-election in the most lopsided victory in the history of American presidential politics. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=520))
+- We are wired to love laughter. Our brains make this so by releasing dopamine. Dopamine feels awesome, so by making your audience laugh during your presentation or speaking event, you can actually make your audience feel good, giving your speech a natural endorphin-fueled evolutionary advantage over those who opted for a typical, boring business presentation. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=524))
+- “The human race has only one really effective weapon and that is laughter.” — Mark Twain ([Location 528](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=528))
+- The Joke Funnel means we start as wide as we can to make it relatable and relevant to the audience, then we get specific. In other words, we make the story ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=545))
+- relevant to everybody with a general topic, and then we make it relevant to us by connecting it to our own personal story. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=546))
+- Entertaining or not, if a speaker finds himself muddied in the details, he’ll likely have lost his audience by the time he gets to the funny part. ([Location 558](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=558))
+- The root of every good joke really is the surprise element, the punch line. And the punch line often releases an intentionally built-up tension.   A great example of this tension comes from the book Good to Great by Jim Collins. In this book, Jim details a speech delivered by the ex-CEO of Kimberly-Clark, Darwin Smith, a man described by CNN as one of the 10 greatest company leaders of all time. Smith stood up and commenced his talk by saying, “Okay. I want everybody to rise and ([Location 576](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=576))
+- give a moment of silence.”  Everybody looked around confused, wondering who had died. They looked down uncomfortably and stared at their shoes in silence. Darwin allowed this process to continue for a period of time. Then he looked down at the group and said in the somber tone, “That was a moment of silence for Procter and Gamble.”  The place went bananas. At the time, Procter and Gamble was Kimberly-Clark’s biggest competitor. Intentionally building up the tension created the laughter ([Location 580](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=580))
+- that followed, which was essentially a nervous release of energy. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=584))
+- The punch line shatters the intentionally built-up interest and expectation. According to Corporate Humorist John Kindle, "A funny line is sometimes said to be like a train wreck. You know where the train (your train of thought) has been, you think you know where it's going, but then you're surprised when it goes off track." ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=584))
+- At ([Location 595](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=595))
+    - Note: See this TED TALK
+- It took our speaker about 1:30 to get to the funny when it could have taken approximately 40 seconds or less. In a world where you are competing with hyper connectivity, ever-decreasing attention spans and reducing time slots, this is a lot. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=662))
+- ESL ([Location 664](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=664))
+    - Note: ESL STANDS FOR ENGLIS AS A SECOND LANGUAGE
+- The main takeaways from this section are that we need to take our stories, work to extract the main funny item and feed that into a joke structure. This is going to be a process we’re going to repeat over and over again as we prepare to build humor items into our presentations and speaking. ([Location 666](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=666))
+- Everyone knows that comedy is essentially a combination of what you say and how you say it, your material and your delivery. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=723))
+    - Tags: [[pink]] 
+- The often-unmentioned third element is how you write it. The same can be said for public speaking. Every great presentation, like every great joke, is first crafted with a pen, pencil or keypad. Mastering the skill of writing, therefore, will improve your public speaking ability no matter how naturally ungifted you are. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=724))
+    - Tags: [[pink]] 
+- Work in references to the local area where possible: ([Location 732](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=732))
+    - Tags: [[pink]] 
+- Make sure you set the scene: ([Location 743](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=743))
+    - Tags: [[pink]] 
+- A great piece of advice given to me by one of the San Francisco Bay Area's top comedians, Reggie Steele, is to write as if you are describing something to a blind person. It’s a piece of advice he learned literally when a number of blind people came to one of his shows. He wanted to make sure they could relate to his ([Location 745](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=745))
+    - Tags: [[pink]] 
+- story and follow every aspect of it from the words alone and not just his usual animated style. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=747))
+    - Tags: [[pink]] 
+- Add attitude to your writing and presentations: ([Location 748](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=748))
+    - Tags: [[pink]] 
+- Make sure you give clear takeaways: ([Location 751](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=751))
+    - Tags: [[pink]] 
+- Use callbacks: ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=759))
+    - Tags: [[pink]] 
+- Use current media references ([Location 774](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=774))
+    - Tags: [[pink]] 
+- where possible: ([Location 774](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=774))
+    - Tags: [[pink]] 
+- Try to incorporate act ([Location 780](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=780))
+    - Tags: [[pink]] 
+- outs or use of different voices where possible: ([Location 780](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=780))
+    - Tags: [[pink]] 
+- Always write in the present tense: ([Location 789](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=789))
+    - Tags: [[pink]] 
+- Use inherently funny words: ([Location 793](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=793))
+    - Tags: [[pink]] 
+- Remember, “brevity is levity”: ([Location 804](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=804))
+    - Tags: [[pink]] 
+- Use the rule of 3: ([Location 808](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=808))
+    - Tags: [[pink]] 
+- The Rule of 3 at its most basic, establishes a pattern then ends with something unexpected. This derailment, a break away from the pattern created by the first two items, builds tension, and creates surprise usually resulting in loud laughter. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=829))
+    - Tags: [[pink]] 
+- “My girlfriend is ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=847))
+    - Tags: [[pink]] 
+- always driving me crazy about going to Napa. I gave in and brought her. It turns out she doesn’t even like auto parts.” With the first two parts of this joke I am creating the image of California’s wine country, conjuring up images of couples spending time drinking wine in this famous wine region. Napa, of course, is also a chain of automotive service centers—the last place in the world my girlfriend would want to go. ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=847))
+    - Tags: [[pink]] 
+- Use funny images and video: ([Location 854](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=854))
+    - Tags: [[pink]] 
+- “Spectacular achievement is always preceded by unspectacular preparation.” ― Robert H. Schuller ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=905))
+    - Tags: [[pink]] 
+- “Give me six hours to chop down a tree and I will spend the first four sharpening the axe.” ― Abraham Lincoln ([Location 907](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=907))
+    - Tags: [[pink]] 
+- Recognize that modern day audiences have ever-decreasing attention spans. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=945))
+    - Tags: [[pink]] 
+- “To improve, we must watch ourselves fail, and learn from our mistakes.” —Joshua Foer ([Location 959](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=959))
+    - Tags: [[pink]] 
+- Know what to do with your hands: ([Location 960](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=960))
+    - Tags: [[pink]] 
+- You need to practice your material exactly as you wish to deliver it. If you practice at home in a seated position it’s going to feel strange when you go on stage and have to perform standing. Hold something to mimic the microphone that will be in your hand. A great tip given to me by a comedian was to practice with a bottle in each hand. And whatever you do, don’t look at your feet. Focus on something right in front of you as if ([Location 961](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=961))
+    - Tags: [[pink]] 
+- you’re talking to the audience. You want to build the habit of looking ahead with your face up and smiling as you’re presenting. These little things can make a big difference in building the right habits. ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=963))
+    - Tags: [[pink]] 
+- Over-preparation is the best way (if not the only way) to be able to overcome anything that may go haywire during your presentation. Murphy’s Law states ([Location 972](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=972))
+    - Tags: [[pink]] 
+- that what can go wrong will go wrong. Murphy’s Law of Public Speaking states that what can go wrong will be 10x worse and go viral. ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=973))
+    - Tags: [[pink]] 
+- Don’t forget your lines: ([Location 993](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=993))
+    - Tags: [[pink]] 
+- Avoid stage fright: ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=1040))
+    - Tags: [[pink]] 
+- The thought of negative consequences triggers glands to secrete the hormone ACTH. This hormone results in the release of adrenaline into your blood and that’s what causes these uncomfortable feelings. This is essentially your body’s most alert and heightened state. It means you’re ready. You want to focus on ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=1046))
+    - Tags: [[pink]] 
+- embracing this feeling. When you feel it, be happy. It means your body is in its peak condition to face a challenging or worrying situation. ([Location 1048](https://readwise.io/to_kindle?action=open&asin=B00S4F493C&location=1048))
+    - Tags: [[pink]]
+

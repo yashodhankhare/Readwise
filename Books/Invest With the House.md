@@ -1,0 +1,130 @@
+---
+tags:
+  - readwise
+---
+
+# Invest With the House
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/511V%2B992xxL._SL200_.jpg)
+
+## Metadata
+- Author: [[Meb Faber]]
+- Full Title: Invest With the House
+- Category: #books
+
+## Highlights
+- Under SEC rules, any professional fund manager with more than $100 million in US-listed assets must report stock holdings. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=139))
+    - Tags: [[pink]] 
+- 3. Why shouldn’t I just pick the top stock? Isn’t that a manager’s best idea? We have found that the top pick is ([Location 403](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=403))
+    - Tags: [[pink]] 
+- usually the worst performer out of the top ten holdings, and we discuss this topic more in depth later in the book. By the time the position becomes the largest holding, it is often due to appreciation and not necessarily conviction. ([Location 404](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=404))
+    - Tags: [[pink]] 
+- He searches for companies selling at a discount of 40 percent or more relative to future earnings. He likes contrarian bets and companies or sectors that are out of favor but in which he discerns future opportunity. He bases his picks on a combination of financial research and direct contact with management, which he ([Location 521](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=521))
+    - Tags: [[pink]] 
+- considers crucial. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=523))
+    - Tags: [[pink]] 
+- Specifically, it tends to invest in businesses with price/earnings and price/book ratios below the market, but with dividend ([Location 599](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=599))
+    - Tags: [[pink]] 
+- yields that are substantially above the market. Barrow Hanley has always emphasized the importance of dividends. ([Location 600](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=600))
+    - Tags: [[pink]] 
+- “In capital markets, price is set by the most panicked seller at the end of a trading day. Value, which is determined by cash flows and ([Location 619](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=619))
+    - Tags: [[pink]] 
+- assets, is not. In this environment, the chaos is so extreme, the panic selling so urgent, that there is almost no possibility that sellers are acting on superior information. Indeed, in situation after situation, it seems clear that fundamentals do not ([Location 620](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=620))
+    - Tags: [[pink]] 
+- factor into their decision making at all.” Seth Klarman ([Location 622](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=622))
+    - Tags: [[pink]] 
+- “Investing is the intersection of economics and psychology,” Klarman said. “The economics—the valuation of the business—is not that hard. The psychology—how much do you buy, do you buy it at this price, do you wait for a lower price, what do you do when it looks like the world might end—those things are harder. Knowing ([Location 637](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=637))
+    - Tags: [[pink]] 
+- whether you stand there, buy more, or something legitimately has gone wrong and you need to sell, those are harder things. That you learn with experience. You learn by having the right psychological makeup.” ([Location 639](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=639))
+    - Tags: [[pink]] 
+- “There are two types of people who buy stocks,” he says. “Those who buy them because they think they will go up and those who buy them because the value of the company is greater than the price of the stock. We have always put ourselves into the second group and have never been too good at doing things the first way.” ([Location 747](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=747))
+    - Tags: [[pink]] 
+- “The key to success in investing is low expectations,” he once said. “My goal is to find businesses I can hold onto forever.” ([Location 888](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=888))
+    - Tags: [[pink]] 
+- What I like is solving the puzzles. I think that what you are dealing with here is incomplete information. You’ve got little bits of things. You have facts. ([Location 901](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=901))
+    - Tags: [[pink]] 
+- You have analysis. You have numbers. You have people’s motivations. And you try to put this together into a puzzle or decode the puzzle in a way that allows you to have a way better than average opportunity to do well if you solve ([Location 902](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=902))
+    - Tags: [[pink]] 
+- the puzzle correctly, and that’s the best part of the business.” ([Location 904](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=904))
+    - Tags: [[pink]] 
+- A ([Location 906](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=906))
+    - Tags: [[pink]] 
+- s an ace poker player (he has won millions in high-stakes tournaments and donated his take to charity), David Einhorn knows how to read the table—when to go all in on a hand he trusts and when to bet against a ([Location 906](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=906))
+    - Tags: [[pink]] 
+- bluffing opponent. He plays the stock market in much the same way. ([Location 908](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=908))
+    - Tags: [[pink]] 
+- An Einhorn short generates major headlines and can have the power to move a stock’s price. Companies on the receiving end of one of his short plays are said to be “Einhorned,” a term he joked about in a 2012 conference with the line, “Apparently now I’m a verb.” He was once investigated by the SEC for market manipulation after discussing his short position against finance firm ([Location 912](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=912))
+    - Tags: [[pink]] 
+- Allied Capital; his comments at a 2002 conference about his short generated so much activity in the stock that trading was temporarily suspended. It took years to resolve, but Einhorn was eventually vindicated and the company taken to task by the SEC. Allied was subsequently bought out and taken private, and Einhorn wrote a book about the experience, Fooling Some of the People Some of the Time. There have been a ([Location 915](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=915))
+    - Tags: [[pink]] 
+- number of other high-profile campaigns against companies since then. He argued that Lehman Brothers was using suspicious accounting and overly risky practices; the company collapsed in 2008 during the economic meltdown. He presented a 100-page attack on Green Mountain Coffee Roasters in 2012 and delivered a sixty-six-page presentation in 2014 explaining his short against Athena Health. That presentation concluded ([Location 920](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=920))
+    - Tags: [[pink]] 
+- with a vintage line from Einhorn: “We believe that there are serious risks to this business model that are being mostly ignored by bullish investors and sell-side analysts.” 12 That comment belies the ferocity with which Einhorn often pursues his prey. A profile in the New York Daily News quoted an unnamed source in describing how Einhorn works: “He does deals where he rips your face off. If he had a fin, he’d be swimming in the ([Location 923](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=923))
+    - Tags: [[pink]] 
+- ocean.” ([Location 928](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=928))
+    - Tags: [[pink]] 
+- “I never could understand why anybody would buy a company and pay huge multiples for it. You need a lot of luck to be able to justify such prices, because markets are competitive. If ([Location 951](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=951))
+    - Tags: [[pink]] 
+- you have a good product, you will attract competition.” ([Location 952](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=952))
+    - Tags: [[pink]] 
+- Josef Lakonishok knows what you’re thinking. He knows how and why you invest, why you pay too much for stocks going nowhere, why you hang onto losers, why you ignore undervalued gems.… ([Location 954](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=954))
+    - Tags: [[pink]] 
+- A university professor turned investment advisor,… ([Location 956](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=956))
+    - Tags: [[pink]] 
+- behavioral research, put it together with that of two other professors, and formed LSV Asset Management in 1994, a quantitative value equity shop that… ([Location 957](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=957))
+    - Tags: [[pink]] 
+- Like other value investors, Lakonishok likes companies toiling in the shadow of hot momentum stocks. Where he differs is how he goes about sourcing his picks. Lakonishok… ([Location 959](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=959))
+    - Tags: [[pink]] 
+- theories of investment behavior with more traditional screens for spotting companies whose cheap current prices belie their… ([Location 960](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=960))
+    - Tags: [[pink]] 
+- The LSV website lays out its thinking: “The basic premise on which our investment philosophy is based is that superior results can be achieved by systematically… ([Location 962](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=962))
+    - Tags: [[pink]] 
+- weaknesses that influence the decisions of many investors.” Lakonishok is so wedded to his quantitative approach that he sees little need to do the more mundane legwork that many of his value investing peers practice. If his screens tell him a company is worth owning, he sees no reason to pay the… ([Location 963](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=963))
+    - Tags: [[pink]] 
+- analysts.” The other thing he doesn’t do is run a highly concentrated portfolio. As of the first quarter of 2014, LSV held 905 positions, and while financials represented the largest sector at 25 percent, there were also… ([Location 967](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=967))
+    - Tags: [[pink]] 
+- Lakonishok spent years doing academic research into behavioral finance… ([Location 971](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=971))
+    - Tags: [[pink]] 
+- investors tend to rely too much on the past when trying to predict the future, they overpay for good companies, they ignore statistics, and they develop mindsets about companies that affect their decisions. By playing off those tendencies, LSV avoids overpriced companies and trolls for promising bargains: “I always… ([Location 972](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=972))
+    - Tags: [[pink]] 
+- doing well for a prolonged time period, as did Cisco, Microsoft, etc., investors extrapolate past performance too far into the future and push prices up too high. Eventually… ([Location 975](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=975))
+    - Tags: [[pink]] 
+- It isn’t a foolproof system, but it is effective enough to have attracted a loyal following to Lakonishok’s theories. In his 2001 book, Investment Titans -… ([Location 976](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=976))
+    - Tags: [[pink]] 
+- Street, Jonathan Burton selected Lakonishok as one of nine profiled market gurus. Interestingly, Lakonishok never worked on Wall Street, moving directly from the classroom to his firm. Lakonishok holds BA and MBA degrees from Tel Aviv University, as well as an MS and PhD in Business Administration from… ([Location 978](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=978))
+    - Tags: [[pink]] 
+- William G. Karnes Professor of Finance at the College of Commerce & Business Administration at the University of… ([Location 981](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=981))
+    - Tags: [[pink]] 
+- Warren Buffett said, “The worst sort of business is one that grows rapidly, requires significant capital to engender the growth, and then earns little or no money. Think airlines.” ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1024))
+    - Tags: [[pink]] 
+- One change that Goldfarb has brought is a greater emphasis on corporate management. “We’re betting more on the jockey and a little less on the horse,” he said in 2011. Unfortunately, the firm has been in the press for another reason lately, and this is a large concentrated stock ([Location 1114](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1114))
+    - Tags: [[pink]] 
+- position that has been tanking. We have talked in this book about how it can pay to invest alongside stock pickers who are consistent winners. That’s true—except when it’s not. Even the best players sometimes bet on losers, and sometimes they all seem to do it on the same stock. Here, then is a cautionary tale about crowded trades: stocks that get an unusually high level of hedge fund attention. Hedge fund darlings ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1118))
+    - Tags: [[pink]] 
+- can be dangerous. Case in Point: Valeant Pharmaceuticals International (VRX), one of the hottest recent trades among an unusually large number of hedge fund managers, several of whom we profiled in this book. Valeant has been a major contributor to Sequoia’s returns and was the largest holding in the portfolio as of the start of 2014. Some other fund managers, like Bill Ackman of Pershing Square and Jeff ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1121))
+    - Tags: [[pink]] 
+- Ubben of ValueAct, built particularly large and concentrated positions in VRX, which was great when the stock was on the rise but disastrous when it crashed. Anyone who tried to piggyback on Ackman or one of the other managers who built large positions in the stock but got the timing wrong could have suffered mightily. VRX traded at about $126 in November, 2014 and peaked at $262 in August, 2015, ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1124))
+    - Tags: [[pink]] 
+- doubling in value. Then VRX got caught up in a controversy over its drug pricing that brought unwanted attention from Congress and federal officials. Other questions about the company’s business prospects arose. VRX tanked. By November, 2015, the stock was trading around $70. A lot of managers got out as the stock fell. As my friend Stan Altshuler, the chief research officer at financial firm Novus, pointed out in an ([Location 1127](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1127))
+    - Tags: [[pink]] 
+- analysis of activity in the stock, hedge funds were mostly selling VRX in the third quarter of 2015 as the price collapsed. But that broad retreat wasn’t revealed until they filed with the SEC, which was mid-November, 45 days after the end of the quarter. Altshuler estimated 73 hedge funds sold out their positions in VRX in the quarter and another 19 reduced their positions. VRX continued crashing in October and early ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1130))
+    - Tags: [[pink]] 
+- November, losing another $100 per share in value. But not all sold out, and in fact a number increased their positions in the third quarter of 2015, including star traders like Viking Global, Lone Pine, and Maverick. Ackman was still so confident in the company that he announced he had purchased an additional two million shares in October, when the stock had fallen to around $80. Whether Ackman and the others who ([Location 1133](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1133))
+    - Tags: [[pink]] 
+- added to their positions will eventually profit from the trade—only time will tell. But the moral for investors who try to piggyback on star hedge fund managers was clear: beware of crowded trades in hot companies, particularly when those stocks have already become one of the largest positions in a manager’s portfolio. ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1136))
+    - Tags: [[pink]] 
+- Below we condense the 200+ page book into less than ten bullets: ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1522))
+    - Tags: [[pink]] 
+- It is very simple to track holdings of institutional fund managers using the 13F filings submitted quarterly to the SEC. Following a subset of fund managers can lead to new investment ideas. Additionally, investment portfolios can be constructed tracking a hedge fund’s long portfolio performance without many of the traditional drawbacks of allocating to private funds. ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1522))
+    - Tags: [[pink]] 
+- Because value managers have long-term holding periods and low turnover, the forty-five-day delay in reported holdings should not be a significant drawback. Case studies are presented examining twenty value investors. Backtested results are presented for the portfolios since 2000. Results indicate that by tracking and rebalancing portfolios quarterly, an investor can effectively replicate the long holdings of value hedge funds without paying the high hedge fund fees. Following the top value hedge funds can result in excess returns with in-line volatility compared with the equity and hedge fund indices. An investor could invest in multiple managers to create his or her own fund of funds. ([Location 1525](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1525))
+    - Tags: [[pink]] 
+- Additional applications include constructing hedged portfolios, leveraged portfolios, and sector portfolios. ([Location 1531](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=1531))
+    - Tags: [[pink]] 
+- “My father ([Location 2276](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=2276))
+    - Tags: [[pink]] 
+- tells me the reason I generate the returns I do is that I see things other people don’t see. But that’s not exactly the case. I spend my time trying to figure out what the person selling stock to me is afraid of. If I can understand what he’s afraid of ([Location 2276](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=2276))
+    - Tags: [[pink]] 
+- and it’s either irrational or overdone, that’s where you can find opportunity.” Jeffrey Ubben ([Location 2277](https://readwise.io/to_kindle?action=open&asin=B01A3L1VEO&location=2277))
+    - Tags: [[pink]]
+

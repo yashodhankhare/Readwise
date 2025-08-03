@@ -1,0 +1,208 @@
+---
+tags:
+  - readwise
+---
+
+# Sources of Power
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41zMPxksQcL._SL200_.jpg)
+
+## Metadata
+- Author: [[Gary A. Klein]]
+- Full Title: Sources of Power
+- Category: #books
+
+## Highlights
+- The conventional sources of power include deductive logical thinking, analysis of probabilities, and statistical methods.3 Yet the sources of ([Location 119](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=119))
+    - Tags: [[pink]] 
+- power that are needed in natural settings are usually not analytical at all-the power of intuition, mental simulation, metaphor, and storytelling. The power of intuition enables us to size up a situation quickly. The power of mental simulation lets us imagine how a course of action might be carried out. The power of metaphor lets us draw on our experience by suggesting parallels between the current situation and something else we ([Location 119](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=119))
+    - Tags: [[pink]] 
+- have come across. The power of storytelling helps us consolidate our experiences to make them available in the future, either to ourselves or to others. These areas have not… ([Location 122](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=122))
+    - Tags: [[pink]] 
+- Features of Naturalistic Decision-Making SettingsThis book examines some recent findings that have… ([Location 123](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=123))
+    - Tags: [[pink]] 
+- naturalistic decision making. It also describes how research can be done outside the laboratory setting by studying realistic tasks and experienced people working under typical conditions. Features that help define a naturalistic decision-making setting are time pressure, high stakes, experienced decision makers, inadequate information (information… ([Location 124](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=124))
+    - Tags: [[pink]] 
+- learning, context (e.g., higher-level goals, stress), dynamic conditions, and team coordination (… ([Location 126](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=126))
+    - Tags: [[pink]] 
+- Naturalistic decision making is… ([Location 130](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=130))
+    - Tags: [[pink]] 
+- with high stakes. When a fireground commander makes a poor decision, lives can be lost. When a design engineer makes a poor decision, hundreds of thousands of dollars can be lost.We are interested in experienced decision makers since only those who know something about the domain would usually be making high-stakes choices. Furthermore, we… ([Location 130](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=130))
+    - Tags: [[pink]] 
+- commanders we studied had an average of twenty-three years of experience as firefighters, and the chess masters we studied had played thousands of games. In contrast, in most laboratory studies, experience is considered a complicating factor. Subjects who know something about the task may have preconceived notions… ([Location 132](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=132))
+    - Tags: [[pink]] 
+- subjects are given totally novel tasks to make sure all of them start with the same level of experience: zero.We want to know how people carry on even when faced with uncertainty because of inadequate information that may be missing, ambiguous, or unreliable-either because of errors in transmission or deception by an… ([Location 135](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=135))
+    - Tags: [[pink]] [[pattern-recognition]] [[earned-secrets]] 
+- have to make difficult choices, we do not fully understand what we want to accomplish. For instance, when fireground commanders are called out to a blaze, they do not know what type of outcome they will be trying to reach: a fire needs to be extinguished, or the fire is so big that the best thing to do is to prevent it from spreading further, or they need to begin with search and… ([Location 137](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=137))
+    - Tags: [[pink]] [[earned-secrets]] 
+- more resources, or the situation does not warrant extra resources and they can let the fire burn itself out. In contrast, laboratory studies concentrate on tasks with well-defined goals, since the achievement of a well-defined goal is easy to measure. With an ill-defined goal, you are never sure if the decision was right.Naturalistic decision making is concerned with poorly… ([Location 140](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=140))
+    - Tags: [[pink]] [[earned-secrets]] [[pattern-recognition]] 
+- distinct from problem solving and do not require subjects to invent or modify procedures.Cue learning refers to the need to perceive patterns and make distinctions. In laboratory studies we can present unambiguous stimuli: "If you choose option A, you have a 20 percent chance of winning $100,000, whereas option B gives you a 100 percent chance of winning $15,000.… ([Location 142](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=142))
+    - Tags: [[pink]] [[earned-secrets]] [[pattern-recognition]] 
+- who notices that one of the horses in a race does better in the mud, examines the track that is slightly moist from an early morning drizzle, and tries to judge if the track is sufficiently moist to make a difference.Most tasks are performed within a larger context that includes higher-level goals and different tasks with their own requirements, and this must… ([Location 145](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=145))
+    - Tags: [[pink]] [[earned-secrets]] [[pattern-recognition]] 
+- lighting, constant interruptions, and other stressors.Dynamic conditions (that is, a changing situation) are an important feature of naturalistic decision making. New information may be received, or old information invalidated, and the goals can become radically transformed. In our research with fireground commanders, we estimated that the… ([Location 148](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=148))
+    - Tags: [[pink]] [[earned-secrets]] [[pattern-recognition]] 
+- the same thing. Some changes were minor; they were elaborations on what the commanders already knew. Some were major, requiring a shift in the way the commanders understood the situation.Finally, we want to know how people working in teams make decisions. For most of the domains we have studied, teams are involved: a fireground… ([Location 150](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=150))
+    - Tags: [[pink]] [[earned-secrets]] [[pattern-recognition]] 
+- other helicopters, or a three-person airline cockpit crew. Rarely do we find a single decision maker, such as a chess player, who does not have to coordinate with anyone else.The field of naturalistic decision making tries to understand how these features come into play. This book focuses on what we have learned about the way people think and… ([Location 152](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=152))
+    - Tags: [[pink]] [[earned-secrets]] [[pattern-recognition]] 
+- themselves, what they offer us, and where they fall short or get us in trouble. And it describes some ways of using these sources of power, whether for… ([Location 155](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=155))
+    - Tags: [[pink]] [[pattern-recognition]] [[mindfulness]] [[earned-secrets]] 
+- In our first study of firefighters, my research team and I developed our methods and our basic model of naturalistic decision making. We came to this task in 1984, when the federal government issued a published notice asking for written… ([Location 159](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=159))
+    - Tags: [[pink]] 
+- pressure. The request came from the U.S.Army Research Institute for the Behavioral and Social Sciences, which is in charge of studying the human side of the battlefield equation. The notice was sent out through a new program for small research companies such as my own. The entire description of what the army wanted was covered in a single paragraph:Topic Description: Commanders,… ([Location 161](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=161))
+    - Tags: [[pink]] 
+- severe time stress. Uncertainties may be associated with missing, incomplete, or ambiguous information, or with future outcomes that are unknown. Research is needed to: (1) better understand the cognitive processes (e.g., memory, judgment, or problem solving) of the decisionmaker under such conditions, and (2) suggest approaches for supporting the cognitive processes so that the overall quality of timeliness of decisions made under uncertainty and time stress are enhanced.My… ([Location 163](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=163))
+    - Tags: [[pink]] 
+- 4. Two-option hypothesis. We hypothesized that under time pressure, the commanders could not think of lots and lots of options. Instead, they would have to consider only two options: one that was intuitively the favorite, and the other to serve as a comparison to show why the favorite was better. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=185))
+    - Tags: [[pink]] 
+- 4. In the two-option hypothesis, we thought that under time pressure, the commanders would be making decisions by reducing ([Location 201](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=201))
+    - Tags: [[pink]] 
+- the option set down to two: a favorite and a comparison. This is what Peer Soelberg (1967) found in a study of job-seeking behavior.Soelberg's course on decision making at the MIT Sloan School of Management taught students how to perform the classical decision analysis method we can call the rational choice strategy. The decision maker… ([Location 201](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=201))
+    - Tags: [[pink]] 
+- 3.Weights each evaluation dimension.4.Does the rating.5.Picks the option with the highest score.For his Ph.D. dissertation, Soelberg studied the decision strategies his students used to perform a natural task: selecting their jobs as they finished their degrees. He assumed that they would rely on the… ([Location 204](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=204))
+    - Tags: [[pink]] 
+- systematic thinking. Instead they would make a gut choice. By interviewing his students, Soelberg found he could identify their favorite job choice and predict their ultimate choice with 87 percent accuracy-up to three weeks before the students themselves announced their choice.Soelberg had trained his students to use rational methods, yet… ([Location 206](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=206))
+    - Tags: [[pink]] 
+- Soelberg was also a good observer, and he tried to capture the students' actual decision strategies.What did the students do during this time? If asked, they would deny that they had made a decision yet. For them, a decision was just what Soelberg had taught: a deliberated choice between two or more options. To feel that they had made such a… ([Location 208](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=208))
+    - Tags: [[pink]] 
+- other candidate as a comparison, and then tried to show that their favorite was as good as or better than the comparison candidate on each evaluation dimension. Once they had shown this to their satisfaction (even if it meant fudging a little or finding ways to beef up their favorite), then they would announce as their decision the gut favorite that Soelberg had identified much earlier. They were not actually making a decision; they were constructing a justification.We hypothesized that the fireground commanders would behave in the same way. We thought this hypothesis-that instead of considering lots of options they would consider only two-was daring. Actually, it was conservative. The… ([Location 211](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=211))
+    - Tags: [[pink]] 
+- with a fireground commander, even before the real interviews. We asked the commander to tell us about some difficult decisions he had made."I don't make decisions," he announced to his startled listeners. "I don't remember when I've ever made a decision."For researchers starting a study of decision making, this was unhappy news. Even… ([Location 216](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=216))
+    - Tags: [[pink]] 
+- Surely there are decisions during a fire-decisions about whether to call a second alarm, where to send his crews, how to contain the fire.He agreed that there were options, yet it was usually obvious what to do in any given situation. We soon realized that he was defining the making of a decision in the same way as Soelberg's students-generating a… ([Location 218](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=218))
+    - Tags: [[pink]] 
+- two or more options at the same time, usually by comparing the strengths and weaknesses of each, comparative evaluation. He insisted that he never did it. There just was no time. The structure would burn down by the time he finished listing all the options, let alone evaluating them.Because Soelberg's theory was one of my favorites, we kept asking questions… ([Location 221](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=221))
+    - Tags: [[pink]] 
+- People who are good at what they do relish the chance to explain it to an… ([Location 235](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=235))
+    - Tags: [[pink]] 
+- The commanders' secret was that their experience let them see a situation, even a nonroutine one, as an example of a prototype, so they knew the typical course of action right ([Location 284](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=284))
+    - Tags: [[pink]] 
+- away. Their experience let them identify a reasonable reaction as the first one they considered, so they did not bother thinking of others. They were not being perverse. They were being skillful. We now call this strategy recognition-primed decision making. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=285))
+    - Tags: [[pink]] 
+- Now it seemed that it was the experts who could generate a single course of action, while novices needed to compare different approaches. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=338))
+    - Tags: [[pink]] 
+- From this episode we learn that there are times for deliberating about options. Usually these are times when experience is inadequate and logical thinking is a substitute for recognizing a situation as typical. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=377))
+    - Tags: [[pink]] 
+- Defining the Recognition-Primed Decision Model ([Location 387](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=387))
+    - Tags: [[pink]] 
+- Key PointsWe can summarize the key features of the ([Location 440](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=440))
+    - Tags: [[pink]] 
+- RPD model in comparison to the standard advice given to decision makers. The RPD model claims that with experienced decision makers:•The focus is on the way they assess the situation and judge it familiar, not on comparing options.•Courses of action can be quickly evaluated by imagining how they will be carried out, not by formal analysis and comparison.•Decision makers usually look for the first workable option they can find, not the best option.•Since the first option ([Location 441](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=441))
+    - Tags: [[pink]] 
+- they consider is usually workable, they do not have to generate a large set of options to be sure they get a good one.•They generate and evaluate options one at a time and do not bother comparing the advantages and disadvantages of alternatives.•By imagining the option being carried out, they can spot weaknesses and find ways to avoid these, thereby making the option stronger. Conventional models just select the best, without seeing how it can be improved.•The emphasis is on ([Location 443](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=443))
+    - Tags: [[pink]] 
+- being poised to act rather than being paralyzed until all the evaluations have been completed. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=446))
+    - Tags: [[pink]] 
+- Intuition depends on the use of experience to recognize key patterns that indicate the dynamics of the situation. ([Location 447](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=447))
+    - Tags: [[pink]] 
+- Therefore, intuition has a strange reputation. Skilled decision makers know that they can depend on their intuition, but at the same time they may feel uncomfortable trusting a source of power that seems °o accidental.'Bechara, Damasio, Tranel, and Damasio (1997) found that intuition has a basis ([Location 448](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=448))
+    - Tags: [[pink]] 
+- in biology. They compared patients who were brain damaged to a group of normal subjects. The brain-damaged subjects lacked intuition, an emotional reaction to anticipated consequences of good and bad decisions. In the normal subjects, this system seemed to be activated long before they were consciously aware that they had made a decision. ([Location 450](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=450))
+    - Tags: [[pink]] 
+- The Sixth SenseIt is a simple house fire in a one-story house in a residential neighborhood. The fire is in the back, in the kitchen area. The lieutenant leads his hose crew into the building, to the back, to spray water on the fire, but the fire just roars back at them."Odd," he thinks. The water should have more of an impact. They try dousing it again, and get the same results. They retreat a few steps to regroup.Then the lieutenant starts to feel as if something is not right. ([Location 457](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=457))
+    - Tags: [[pink]] 
+- He doesn't have any clues; he just doesn't feel right about being in that house, so he orders his men out of the building-a perfectly standard building with nothing out of the ordinary.As soon as his men leave the building, the floor where they had been standing collapses. Had they still been inside, they would have plunged into the fire below."A sixth sense," he assured us, and part of the makeup of every skilled commander. Some ([Location 460](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=460))
+    - Tags: [[pink]] 
+- close questioning revealed the following facts:•He had no suspicion that there was a basement in the house.•He did not suspect that the seat of the fire was in the basement, directly underneath the living room where he and his men were standing when he gave his order to evacuate.•But he was already wondering why the fire did not react as expected.•The living room was hotter than he would have expected for a small fire in the kitchen of a single-family home. ([Location 463](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=463))
+    - Tags: [[pink]] 
+- •It was very quiet. Fires are noisy, and for a fire with this much heat, he would have expected a great deal of noise.The whole pattern did not fit right. His expectations were violated, and he realized he did not quite know what was going on. That was why he ordered his men out of the building. With hindsight, the reasons for the mismatch were clear. Because the fire was under him and not in the kitchen, it was not affected by ([Location 465](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=465))
+    - Tags: [[pink]] 
+- his crew's attack, the rising heat was much greater than he had expected, and the floor acted like a baffle to muffle the noise, resulting in a hot but quiet environment.This incident helped us understand how commanders make decisions by recognizing when a typical situation is developing. In this case, the events were not typical, and… ([Location 468](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=468))
+    - Tags: [[pink]] 
+- on. By showing us what happenswhen the cues do not fit together, this case clarified how much firefighters rely on a recognition… ([Location 470](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=470))
+    - Tags: [[pink]] 
+    - Note: Same is the case in the markets. If things don't seem to be working out, cut your positions and run
+- The commander's experience had provided him with a firm set of patterns. He was accustomed to sizing up a situation by having it match one of these patterns. He may not have been able to articulate the patterns or describe their features, but he was relying… ([Location 474](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=474))
+    - Tags: [[pink]] 
+- had the situation scoped out. Nevertheless, he did not seem to be aware of how he was using his experience because he was not doing it consciously or deliberately. He did not realize there were other ways he could have sized the situation up. He could see what was going on in front of his eyes but not what was going on behind them, so he… ([Location 476](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=476))
+    - Tags: [[pink]] 
+- without knowing how we do the… ([Location 479](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=479))
+    - Tags: [[pink]] 
+- Many people think of intuition as an inborn trait-something we are born with. I am not aware of any evidence showing that some people are blessed with intuition, and others are not. My claim in this chapter is… ([Location 482](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=482))
+    - Tags: [[pink]] 
+- surprised that the commander in this case was not aware of the way he used his experience. Rather than giving him specific facts from memory, the experience affected the way he saw the situation. Another reason that he could not describe his use of experience was thathe was reacting to things that were not happening rather than to things… ([Location 484](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=484))
+    - Tags: [[pink]] 
+- drawing on his memory for any specific previous experience. A large set of similar incidents… ([Location 487](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=487))
+    - Tags: [[pink]] 
+- These are reasons why decision makers have trouble describing their intuition. Even researchers have problems with this concept. For example, in 1978, Lee Beach and Terry Mitchell presented a contingency model of… ([Location 487](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=487))
+    - Tags: [[pink]] 
+- uses will change depending on the context of the decision task. Sometimes people use the rigorous analytical methods; sometimes they rely on nonanalytical methods. Beach and Mitchell had no trouble explaining what they meant by rigorous analytical methods, and they could point to a number of techniques being studied at the… ([Location 489](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=489))
+    - Tags: [[pink]] 
+- they came up short. They suggested things like "gut feeling," and tossing a coin, and even going "eeney meeny miney moe."Now we can say that at least some aspects of intuition come from the ability to use experience to recognize situations and know how to handle them. Described in this way, intuition does not sound very mysterious.2… ([Location 491](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=491))
+    - Tags: [[pink]] 
+- important source of power for all of us. Nevertheless, we have trouble observing ourselves use experience in this way, and we definitely have trouble explaining the basis of our judgments when someone else asks us to defend them. Therefore, intuition has a bad reputation compared with a judgment that comes from careful analysis of all the… ([Location 493](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=493))
+    - Tags: [[pink]] 
+- to all of the antecedent conditions. In fact, research by Wilson and Schooler (1991) shows that people do worse at some decision tasks when they are asked to perform analyses of the reasons for their preferences or to evaluate all the attributes of the choices.Intuition is not infallible. Our experience will sometimes mislead… ([Location 495](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=495))
+    - Tags: [[pink]] 
+- driving around in an unfamiliar city, and you see some landmark, perhaps a gas station, and you say, "Oh, now I know where we are," and (despite the protests of your spouse, who has the map) make a fateful turn and wind up on an unescapable entrance ramp to the highwayyou had been trying to avoid. As you face the prospect of being sent miles out of… ([Location 498](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=498))
+    - Tags: [[pink]] 
+- one: "I thought I recognized it, but I guess I was wrong."The fireground commanders we studied were aware that they could misperceive a situation. Even the commander who thought he had ESP did not make a habit of counting on it. The commanders rely on their expectancies as one safeguard. If they read a situation correctly, the… ([Location 501](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=501))
+    - Tags: [[pink]] 
+    - Note: Note, it is essential that the events match what your intuitive feeling is. Else your intuition is driving you astray.
+- experience to notice… ([Location 503](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=503))
+    - Tags: [[pink]] 
+- Firefighters are not the only ones who confuse intuition and experience with ESP.… ([Location 506](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=506))
+    - Tags: [[pink]] 
+- In this example, as in the previous one, it is the mismatch or anomaly that the decision maker noticed. Perhaps such instances are difficult to articulate because they depend on a deviation from a pattern rather than the recognition of a prototype. ([Location 578](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=578))
+    - Tags: [[pink]] 
+- That was even more interesting: expertise that the person clearly has but cannot describe. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=589))
+    - Tags: [[pink]] 
+- the idea of using fantasy as a source of power is as embarrassing as the idea of using intuition as a source of power. He was using the term fantasy to refer to a heuristic strategy decision researchers call mental simulation, that is, the ability to imagine people and objects consciously and to transform those people and objects through several transitions, ([Location 656](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=656))
+    - Tags: [[pink]] 
+- finally picturing them in a different way than at the start. This process is not just building a static snapshot. Rather, it is building a sequence of snapshots to play out and to observe what occurs.Here is a simple exercise that calls for mental simulation. Figure 5.1 shows two pictures: a truck on the ground-the initial state-and a truck in the air supported by a column of concrete blocks-the target state. Can you think of a way that you, ([Location 658](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=658))
+    - Tags: [[pink]] 
+- working alone, can get that truck up in the air on a column of blocks? You need to do this all by yourself, using an inexhaustible pile of concrete blocks and a jack, the only machine you are permitted.Figure 5.1Truck levitationOne way to imagine the task is shown in figure 5.2. You begin ([Location 661](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=661))
+    - Tags: [[pink]] 
+- with the initial state. Then you jack up the right rear tire, slip a set of blocks underneath that tire, remove the jack, and use it on the left rear tire. You repeat the process until all the tires have been raised. You build a pile of blocks underneath the center of the truck. Then you (carefully) remove all of the blocks supporting each tire so that you wind up with the target state.This is an action sequence because you are changing from one ([Location 663](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=663))
+    - Tags: [[pink]] 
+- state to another, bridging the gap between the initial state and the target state. Some people do this with visual imagery, perhaps what is shown in figure 5.2. Others claim that they figure it out logically without ever using visual images. ([Location 666](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=666))
+    - Tags: [[pink]] 
+- Mental simulation about the past can be used to explain the present. It can also be used for predicting the future from the present.Beth Crandall and I have been interested in mental simulation for ([Location 733](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=733))
+    - Tags: [[pink]] 
+- several years because the process seems so central to decision making and because we keep finding it in expert performance.We found that as early as 1946 Adriaan de Groot had studied the mental simulation of chess masters. Two decision researchers, Kahneman and Tversky (1982), had written a paper on the simulation heuristic, based on laboratory studies. They described how a person might build a simulation to explain how something might ([Location 734](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=734))
+    - Tags: [[pink]] 
+- happen; if the simulation required too many unlikely events, the person would judge it to be implausible.2With funding from the Army Research Institute, Beth and I did an exploratory study on mental simulation to learn more about its nature. Our idea was to gather and examine a set of cases to see if there were any regularities. For… ([Location 737](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=737))
+    - Tags: [[pink]] 
+- rescue), and we also included cases from other sources, such as the Libyan airliner incident, as well as examples from a book by Charles Perrow, Normal Accidents (1984), which gives the details behind a variety of disasters and breakdowns. In addition, we performed some informal interviews and asked the people in our company to volunteer… ([Location 739](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=739))
+    - Tags: [[pink]] 
+- differences. Then we tried to code them for features such as time pressure, experience level of the person, use of visual versus nonvisual simulations, and so on. We dropped about 20 percent of the cases because the description did not clearly show how the mental simulation was being used. We could imagine how the person might have been using… ([Location 741](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=741))
+    - Tags: [[pink]] 
+- person's fantasies or our own. That left us with seventy-nine cases.These cases showed the same patterns (Klein and Crandall 1995). The people were constructing mental simulations almost the way you build a machine: "Here is the starting point. Then this kicks in, which changes that, and then this other thing happens, and you… ([Location 744](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=744))
+    - Tags: [[pink]] 
+- rescue, the fireground commander imagined how they would lower the ladder belt down, then lift the woman up by an inch, slide the belt under her, buckle it, then lift it up. For the car rescue, the commander imagined how they would lift off the roof, climb in the car, support the man's neck, slide him away from the steering column, grab hold of… ([Location 746](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=746))
+    - Tags: [[pink]] 
+- mental simulations were not very elaborate. Each seemed to rely on just a few factors-rarely more than three. It would be like designing a machine that had only three moving parts. Perhaps the limits of our working memory had to be taken into account. Also, there was another regularity: the mental simulations seemed to play out for around six different… ([Location 749](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=749))
+    - Tags: [[pink]] 
+- working memory. If you cannot keep track of endless transitions, it is better to make sure the mental simulation can be completed in approximately six steps.This is the "parts requirement" for building a mental simulation: a maximum of three moving parts. The design specification is that the mental simulation… ([Location 751](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=751))
+    - Tags: [[pink]] 
+- construct mental simulations for solving problems and making decisions. We have to assemble the… ([Location 754](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=754))
+    - Tags: [[pink]] 
+- So this is another challenge in building a mental simulation. We search for a way to keep the transitions flowing smoothly by building a simulation… ([Location 767](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=767))
+    - Tags: [[pink]] 
+- Considering all these factors, the job of building a mental… ([Location 768](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=768))
+    - Tags: [[pink]] 
+- seems easy. The person assembling a mental simulation needs to have a lot of familiarity with the task and needs to be able to think at the right level of abstraction. If the simulation is too detailed, it can chew up memory space. If it is too abstract, it does not provide much help.We came across a few cases where people could… ([Location 769](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=769))
+    - Tags: [[pink]] 
+- simulation of how a genuine commercial airline pilot would take so many risks.Because of this failure, the generals concluded that the airplane was not a legitimate airliner. Cases like this gave us some idea about how experience is needed to build a mental simulation.We wanted to study how people failed to build a mental simulation, so we tried… ([Location 771](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=771))
+    - Tags: [[pink]] 
+- came to study the Polish… ([Location 774](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=774))
+    - Tags: [[pink]] 
+- The example of the Polish economy shows how difficult it is to construct a useful mental simulation. But once it is constructed, it is impressive. We do this all the time in areas about which we are knowledgeable. We do it to imagine how a supervisor will react, or how to repair a car, or to explain the way a ([Location 818](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=818))
+    - Tags: [[pink]] 
+- neighbor has been behaving. We do it without giving much thought to what an important source of power we have in our ability to construct mental simulations on demand. In technical fields, people may spend hundreds of thousands of dollars, and sometimes over a million dollars, to build computer simulations of complex phenomena. The computer is needed to keep track of all the variables and the interactions and all the different ([Location 820](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=820))
+    - Tags: [[pink]] 
+- pathways that are possible. The programs are not as limited by memory capacity as we are. However, these programs are extremely specialized. They run simulations only in the single area for which they have been programmed. In contrast, you and I carry around a multipurpose mental simulator that adapts to all kinds of different problems and requires virtually no reprogramming time. True, it has a limited memory capacity, but its versatility is astounding. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=822))
+    - Tags: [[pink]] 
+- The cases Beth and I reviewed fit into two major categories: the person was trying to explain what had ([Location 831](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=831))
+    - Tags: [[pink]] 
+- happened in the past, or trying to imagine what was going to happen in the future. We developed models of each that were variants of the generic model. Incidentally, we coded the seventy-nine incidents of mental simulation independently and found that we could reliably code the incidents into the same categories. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=831))
+    - Tags: [[pink]] 
+- How Mental Simulations Can Fail ([Location 882](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=882))
+    - Tags: [[pink]] 
+- I do not count it as a ([Location 914](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=914))
+    - Tags: [[pink]] 
+- weakness of mental simulations that they are sometimes wrong. My estimate is that most of the time they are fairly accurate. Besides, they are a means of generating explanations, not for generating proofs.I do count it as a weakness of mental simulations that we become too confident in the ones we construct. One reason for problems such as de minimus explanations that discard disconfirming evidence is that once we have built a mental ([Location 914](https://readwise.io/to_kindle?action=open&asin=B002V1I69S&location=914))
+    - Tags: [[pink]]
+

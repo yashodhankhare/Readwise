@@ -1,0 +1,716 @@
+---
+tags:
+  - readwise
+---
+
+# Beat the Crowd
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/510HuYZCLAL._SL200_.jpg)
+
+## Metadata
+- Author: [[Ken Fisher and Elisabeth Dellinger]]
+- Full Title: Beat the Crowd
+- Category: #books
+
+## Highlights
+- In investing, the crowd is wrong much more often than right. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=315))
+    - Tags: [[orange]] 
+- Yogi Berra once quipped, “Baseball is 90% mental, the other half is physical.” Might apply to investing! ([Location 324](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=324))
+    - Tags: [[orange]] 
+- Problem is, “everyone else” is as crowd-like as “ ([Location 340](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=340))
+    - Tags: [[orange]] 
+- TGH spares no one forever. Even true ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=372))
+    - Tags: [[orange]] 
+- contrarians get whacked. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=372))
+    - Tags: [[orange]] 
+- No approach works all the time, including assuming the crowd is wrong. Sometimes, they’re right! The market usually doesn’t do what everyone expects, but there are always exceptions. If TGH didn’t let the crowd be right sometimes, there wouldn’t be a crowd! ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=373))
+    - Tags: [[orange]] 
+- Stocks wouldn’t have anyone to fool, and fooling folks is one of the market’s greatest pleasures. ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=377))
+    - Tags: [[orange]] 
+- People must be right sometimes, must feel good sometimes, or we’d never have a herd. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=378))
+    - Tags: [[orange]] 
+- They would just give up. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=378))
+    - Tags: [[orange]] 
+- The occasional rightness fosters false confidence, reinforcing the crowd’s wisdom. It is plausible deniability for TGH. It is how TGH repeatedly sucks the ([Location 379](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=379))
+    - Tags: [[orange]] 
+- crowd in, makes them ignore negatives, then doles out maximum pain and suffering. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=380))
+    - Tags: [[orange]] 
+- Markets often let the crowd look right temporarily, before turning on them. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=384))
+    - Tags: [[orange]] 
+- Corrections—sharp drops of –10% to –20% over a few weeks or months—come any time, for any reason or even no reason. ([Location 389](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=389))
+    - Tags: [[orange]] 
+- but most folks don’t bother differentiating between fundamental rightness ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=392))
+    - Tags: [[orange]] 
+- and happenstance. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=392))
+    - Tags: [[orange]] 
+- The goal is simply being right more often than wrong, as ([Location 394](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=394))
+    - Tags: [[orange]] 
+- opposed to looking right at first but ultimately being wrong more often than not. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=394))
+    - Tags: [[orange]] 
+- Very well-read, bright people who pay close attention to the market often make pretty bad investing decisions! There is usually one simple reason for this: They inadvertently get sucked into consensus views. ([Location 398](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=398))
+    - Tags: [[orange]] 
+- Many doctors, lawyers and engineers are ([Location 403](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=403))
+    - Tags: [[orange]] 
+- prone to this. Not because there is anything wrong with them as people. It isn’t their fault! But their professional training leads them there. In their professional lives, they use a rules-based methodology, and there, it works. But in ([Location 404](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=404))
+    - Tags: [[orange]] 
+- For doctors to recommend a treatment, they need scientific proof it works—trials and controlled tests. They apply the same methodology to investing, looking for “rules” that have been back-tested and “proven” to work. Most ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=405))
+    - Tags: [[orange]] 
+- lawyers are logicians by trade and nature—they expect markets to follow rules, processes and simple logic. Most engineers, too. They expect markets to be linear and rational, just like the systems they build and work with daily. Rules-based investors usually use similar logic and reach similar conclusions. They use the same patterns, the same if-then assumptions. They end up expecting similar things, and it morphs into a consensus viewpoint. It usually ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=407))
+    - Tags: [[orange]] 
+- appears very logical! But markets often defy logic, as we’ll soon see. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=411))
+    - Tags: [[orange]] 
+- Markets price in the consensus pretty quickly and do something else. That “something else” is what the true contrarian wants to figure out. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=416))
+    - Tags: [[orange]] 
+- The playbook also doesn’t pass a basic logic test—one of the true contrarian’s favorite tools, as we’ll see in Chapter 4. It includes familiar adages, like “buy on the dips”—when stocks are on sale, snap ’em up at a bargain! But that’s also when the playbook would tell you to “cut your losses”—get out of that dog before it goes to zero, and ([Location 421](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=421))
+    - Tags: [[orange]] 
+- get into something that’s actually going up. One page tells you to “let your profits run”—if it’s going up, stay in! It’ll keep going! Yet the next page tells you to “take some profits off the table.” Which do you choose? Both sound intuitive! If a stock is running, you want to let it run. But you know it could easily run off a cliff, plummeting with legs churning like Wile E. Coyote, so pocketing some of those gains seems wise! The playbook doesn’t tell you which play to run. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=424))
+    - Tags: [[orange]] 
+- If most believe something will happen in markets, the contrarian simply believes something else will. ([Location 476](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=476))
+    - Tags: [[orange]] 
+- Understanding how markets discount known information helps you narrow the range of possibilities. ([Location 527](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=527))
+    - Tags: [[orange]] 
+- They forget the simple truths: Cycles always turn. Markets rise more often than not. As long as capitalism exists, businesses will find ways to profit and grow. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=547))
+    - Tags: [[orange]] 
+- Simply being right more often than wrong is huge and exceptional. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=561))
+    - Tags: [[orange]] 
+- As Meir and I found, when the media swings, individuals swing with them. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=579))
+    - Tags: [[orange]] 
+- Armed with the knowledge that Wall Street pros are wronger stronger and longer—more often than not—we can game them. ([Location 592](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=592))
+    - Tags: [[orange]] 
+- Wall Street’s fascination with calendar-year return forecasts is largely foolish. Calendar-year returns don’t matter. It’s true! ([Location 602](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=602))
+    - Tags: [[orange]] 
+- Market cycles are what matter, and market cycles don’t care about calendars. ([Location 603](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=603))
+    - Tags: [[orange]] 
+- Wall Street pros aren’t the only ones fascinated with calendars—firms are, too! My father, ([Location 621](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=621))
+    - Tags: [[pink]] 
+- Phil Fisher, always complained about this. He saw himself more as a business analyst than a stock market analyst, and he’d say publicly traded firms are way too ([Location 622](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=622))
+    - Tags: [[pink]] 
+- focused on this year’s or next year’s earnings per share, always thinking in calendar years! If they were private, he said, they’d think much longer term. If they had the chance to make an investment with a sky-high return over 20 years, they’d care less about up-front costs, business cycles and the reality of short-term losses. They’d care much more about the total return at the end of those 20 years, net of all those occasional big losses. When a business starts a plant, the project bleeds cash—planning, architecture and construction drain capital. Businesses hyper-focused on calendar-year earnings might not take the plunge, regardless of how much it could enhance growth and earnings down the line. So how’d we get so taken with calendars? We bred it into ourselves centuries ago. It all ties back to our agricultural roots, where the calendar really does matter. Weather patterns are seasonal, harvest time comes every year, and in the nineteenth century, one year’s results mattered. Whether we’re talking farming, ranching or logging and milling, harvest time is harvest time. It comes once a year. Go back to the dawn of markets, and most American employment was in agriculture. Manufacturing was tiny, and service was scant. You had merchants and banks, but not the huge service industries of today. Agriculture dominated and so did its mindset—so we applied calendars to everything with rigor. Survival depended on it. It evolved into our core. Those who didn’t failed to pass their genes on. Breaking free of Wall Street’s love of calendars helps you think differently. Calendar-year returns aren’t important. Whether a bull market lasts two years or 10 years, that’s important! Returns in each of those calendar years, not so much. The overall return, net of all the corrections and pullbacks, is what gets you to your goals. If you measured market returns in rolling 14-month periods instead of rolling 12-month segments, it would be just as valid. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=623))
+    - Tags: [[pink]] 
+- Fundamentalists all look at the same Federal Reserve policies, economic pluses and minuses, interest rates, valuations and politics, and they all make the same assumptions about what’s good and ([Location 649](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=649))
+    - Tags: [[pink]] 
+- what’s bad for stocks—and most are pretty, well, conventional, one way or another. They all have the same tendency to mean-revert—betting on the long-term average by assuming small or down years follow big years. The technical analysts all use the same charts, patterns and rule sets. It’s all the same widely known information the rest of the herd chews over daily. ([Location 650](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=650))
+    - Tags: [[pink]] 
+- Dow Theorists follow Dow Theory. Those following Robert Shiller share the same broad interpretation of the wonky smoothed 10-year price-to-earnings (P/E) ratio he ([Location 653](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=653))
+    - Tags: [[pink]] 
+- spearheaded (aka CAPE—Cyclically Adjusted P/E). ([Location 654](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=654))
+    - Tags: [[pink]] 
+- As a result, everything the pros agree on is priced. Their expectations for how events and developments will impact stocks? Priced! Perceived risks discussed in reports and articles? Priced! Market reality is exceedingly unlikely to occur as they expect. Even if certain events follow their predictions to a T, the market reaction probably won’t. Contrarians get this. They know most investors will share the pros’ expectations. The media reports ([Location 655](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=655))
+    - Tags: [[pink]] 
+- professional forecasts far and wide, and that influences most folks’ outlooks. Investing-as-a-science folks will often agree with the gurus who use similar methodology, logic and theory. Technicians usually side with the pros who use the same chart patterns and rules. Contrarians also know the curmudgeons will expect the opposite direction. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=659))
+    - Tags: [[pink]] 
+- How the Contrarian Uses Professional Forecasts Contrarians know the bulk of professional forecasts are priced. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=662))
+    - Tags: [[pink]] 
+- Won’t happen. But what, exactly, is priced? The actual number? If the consensus says 6%, would TGH hit them with 8%? ([Location 664](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=664))
+    - Tags: [[pink]] 
+- It might. But probably not! Wouldn’t be nearly fun enough! Here’s the secret: The actual number isn’t so important. Markets look more at the general bucket. A 6% forecast is really just a prediction for returns somewhere in the low to mid-single digits. The difference between a 6% and 8% forecast largely is without meaning. If that’s where the bulk of professional forecasts fall, that ([Location 665](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=665))
+    - Tags: [[pink]] 
+- your clue the market probably won’t land in that bucket. It might! TGH might decide to attack the curmudgeon anti-herd instead of the main herd—it has before (we’ll get to that). But more often than not, the market will end up doing something very different than what the bulk of professional forecasters expect. ([Location 668](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=668))
+    - Tags: [[pink]] 
+- Once you identify the direction and magnitude the crowd expects, you know what probably won’t happen. ([Location 684](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=684))
+    - Tags: [[pink]] 
+- Markets move on probabilities, not possibilities. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=702))
+    - Tags: [[pink]] 
+- Not that most predicted that in 1987. When the year started, pros were uniformly bullish. Stocks were up about 150% in four years, and many forecasters extrapolated those returns forward—up, up and away! As I wrote in Forbes that January, sentiment was so high that my carpenter, John, was predicting a big up year. Why? Heard it on TV! He wasn’t the only ([Location 722](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=722))
+    - Tags: [[pink]] 
+- one. As I detailed in my June 1987 column, many investors were flipping from fear to greed, as the “extraordinary bull market has disoriented many folks ([Location 724](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=724))
+    - Tags: [[pink]] 
+- investment expectations.”2 We’d reached the stage where, as Bernard Baruch put it, “beggars and shoeshine boys, barbers and beauticians can tell you how to get rich.” Euphoria! ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=725))
+    - Tags: [[pink]] 
+- When something doesn’t work for a while, folks forget it, and it regains its mojo. I call this the “elephant in the room”—the thing that’s always there, always has been there, but isn’t always seen. ([Location 751](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=751))
+    - Tags: [[pink]] 
+- If an elephant is in your living room, that’s a big ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=753))
+    - Tags: [[pink]] 
+- deal! When you first see it, you probably fall over! It’s an elephant! But after a while, if he stays, you might get used to him. Elephants are gray, so he probably blends in. You walk by and don’t notice. That gives him power to surprise you again if he starts moving. It’s the same with markets. If investors become too aware of something, whether it’s a trick or a risk, it loses surprise power. It’s just there, part of the long-term backdrop, nothing special. But once folks forget, it packs a punch ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=753))
+    - Tags: [[pink]] 
+- again. ([Location 757](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=757))
+    - Tags: [[pink]] 
+- correlation without causation! ([Location 807](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=807))
+    - Tags: [[pink]] 
+- They look about 3 to 30 months ahead and look hardest 12 to 18 months ahead. ([Location 959](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=959))
+    - Tags: [[pink]] 
+- If we knew for a fact, with perfect 20/20 vision, the world would end on December 31, 2020, stocks wouldn’t start pricing it until about 2018 at the earliest. That’s the market’s version of 20/20 vision. Further out than about 30 months is to the market a blur not to be believed. It simply disbelieves. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=960))
+    - Tags: [[pink]] 
+- Their eyes naturally drift to what seems important to their pressing reader but isn’t important to markets. The too-near and too-far. ([Location 971](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=971))
+    - Tags: [[pink]] 
+- Open any financial paper or website, and you’ll see: The stories will nearly all fall into two categories. The super-short-term and the ultra-long-term. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=975))
+    - Tags: [[pink]] 
+- You get the forecasts and the warnings. Then you get the talking heads arguing over the forecasts. It’s all static. All of it! ([Location 1008](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1008))
+    - Tags: [[pink]] 
+- “It must be important if I keep reading about it. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1011))
+    - Tags: [[pink]] 
+- If you read a few dozen times that something is critically important for markets or the economy, it’s near-impossible not to believe. The repetition is too powerful. This is why you don’t need to take a survey or hold elaborate focus groups to figure out what is on most investors’ minds. ([Location 1012](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1012))
+    - Tags: [[pink]] 
+- The media performs that service for you almost for free. Again, go to any financial publication’s website now. (You can put the ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1014))
+    - Tags: [[pink]] 
+- book down for a second. It’s ok. I’ll wait.) My bet is nearly everything they claim will influence the broad market is either myopic or super-long-term. Go to any investor conference, and the Q&A concentrates on whatever has been big in the media or documented in the last month—and hence already priced—or the super-long-term (we’re too indebted, society is going to hell, Social Security is bankrupt). ([Location 1015](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1015))
+    - Tags: [[pink]] 
+- Markets have already dealt with all those short-term issues and ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1019))
+    - Tags: [[pink]] 
+- couldn’t be bothered with the long-term ones. Any number of things could happen between now and then to make those long-term forecasts look downright silly, no matter how wise they might seem now. (More on this in Chapter 4.) ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1019))
+    - Tags: [[pink]] 
+- One such short-term media obsession is what I call “Dracula around the corner”: some big, evil, scary thing with superpowers that promises a future of death and destruction, just lurking there ready to bite. A ticking time bomb about ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1023))
+    - Tags: [[pink]] 
+- to blow. Now, don’t get me wrong. If Dracula were in your house, that’d be bad. Bloodsucking and all like that. But if he’s really there, sooner or later he must show himself. Otherwise, he’s just a ghost story. Ghost stories can scare you—and sometimes markets briefly!—but they can’t bite you. ([Location 1025](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1025))
+    - Tags: [[pink]] 
+- Two, during the one modern pandemic that did pack a punch—1918’s Spanish flu, which infected ([Location 1095](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1095))
+    - Tags: [[pink]] 
+- about a third of the world’s population and killed roughly 100 million—stocks rose nicely, ([Location 1096](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1096))
+    - Tags: [[pink]] 
+- amazing and hard for most to believe as that is! ([Location 1097](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1097))
+    - Tags: [[pink]] 
+- Normal economic expansions have normal but meaningless volatility within them. The masses often debate whether a certain statistic is good or bad, whether a dip is a blip or a trend, but it isn’t about which side is right and which is wrong. The debate is entirely noise. Static. Meaningless noise. You can just tune it all out. One of contrarians’ biggest ([Location 1112](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1112))
+    - Tags: [[pink]] 
+- strengths—and advantages—is their ability to filter out the noise and keep things simple. Simplicity is power. One, it’s usually right. Two, it keeps you sane. Getting hung up on any and every economic data release will drive you crazy—and get you nowhere. Fast. Even—and especially—GDP. ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1115))
+    - Tags: [[pink]] 
+- What is it? The Leading Economic Index, better known as LEI. It’s simple and usually magical. ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1160))
+    - Tags: [[pink]] 
+- But the Leading Credit Index and interest rate spread are consistent and forward-looking. ([Location 1249](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1249))
+    - Tags: [[pink]] 
+- Economies aren’t spaceships. If the pundits predict something based on liftoff, escape velocity, momentum or gravity, you can discount it. Laws of physics don’t apply to markets—only the laws of supply and demand. So when headlines fret about economies losing steam, just ([Location 1258](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1258))
+    - Tags: [[pink]] 
+- look at LEI—LEI is all about supply and demand! ([Location 1259](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1259))
+    - Tags: [[pink]] 
+- LEI works internationally, too. Each country’s LEI components are different—no two economies are exactly alike, so no two countries’ leading indicators are twins. China ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1263))
+    - Tags: [[pink]] 
+- has a command economy where the government dictates credit growth, so China’s LEI doesn’t include the yield curve spread; it wouldn’t make sense. Credit conditions are harder to pin down in India, so India’s LEI uses M3 money supply growth instead of a Leading Credit Index. But the many decades of lessons and analysis that underpin the US LEI inform the foreign LEIs, too. ([Location 1264](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1264))
+    - Tags: [[pink]] 
+- Not what you get if France is really sick. There, too, LEI was right. France grew. Not so sick! ([Location 1286](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1286))
+    - Tags: [[pink]] 
+- By now, it’s probably pretty clear to you this issue has nothing to do with where stocks go. It has to do with how markets function. Interesting! Related to investing! But not anything that would impact whether a bull becomes a bear. Hyperbolic claims of a rigged market are just noise—it’s fine to have an opinion! But you don’t need to get caught up in the debate ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1306))
+    - Tags: [[pink]] 
+- over market impact. ([Location 1309](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1309))
+    - Tags: [[pink]] 
+- I mentioned earlier that when the media makes ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1337))
+    - Tags: [[pink]] 
+- sweeping claims, you should demand supporting evidence—and then go look for it yourself. Usually, market history is a great way to do this! Even if you don’t have a fancy stock market database, you can find old S&P 500 returns ([Location 1337](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1337))
+    - Tags: [[pink]] 
+- pretty easily. Yahoo! Finance has daily S&P 500 Price Index returns back to 1950—publicly available and free for your use. Whenever the media says such and such is horrible for markets, think of times when such and such happened before, and ([Location 1339](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1339))
+    - Tags: [[pink]] 
+- look up what markets did then. History never repeats perfectly! But as Mark Twain said, it sure as heck rhymes, and it is a marvelous way to determine the probability of a certain event impacting markets. Often what’s convention and the ([Location 1340](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1340))
+    - Tags: [[pink]] 
+- media says happens simply never does. ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1342))
+    - Tags: [[pink]] 
+- Anti-herd contrarians might think, “Sell the fear, buy the bullets,” but short-term timing is a fool’s errand. There’s no guarantee fear triggers a drop. It didn’t when folks ([Location 1357](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1357))
+    - Tags: [[pink]] 
+- feared America would bomb Syria in 2013 or when Russia invaded Ukraine in March 2014. Re-entry is also difficult to time. Sometimes markets rise when shots are first fired, sometimes weeks later. Even if you do time it well, transaction costs and taxes might offset your savings. More often than not, you’re best off waiting it out. ([Location 1359](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1359))
+    - Tags: [[pink]] 
+- It takes a huge war, with major powers facing off against each other across a global theater, for capital markets to suffer heavy enough losses to cause a bear market. When you know that, ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1387))
+    - Tags: [[pink]] 
+- determining whether a conflict can sink stocks is easy. Just ask yourself: How likely is it that this becomes World War III? It will always be possible—anything is possible always! But possible isn’t probable. Only if you have a mountain of ([Location 1388](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1388))
+    - Tags: [[pink]] 
+- evidence suggesting a skirmish will become a global eruption should you act. ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1390))
+    - Tags: [[pink]] 
+- Everything we’ve covered in this chapter has something in common besides myopia: They’re all cud. Issues investors chew and rechew, sometimes for years. ([Location 1397](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1397))
+    - Tags: [[pink]] 
+- Think about what cud is: a mass of semidegraded food a cow regurgitates and then chews over and over for comfort. It has little nutritional value. It can’t do much of anything for them. They mostly just cud it for fun—like gum for cows, only they don ([Location 1399](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1399))
+    - Tags: [[pink]] 
+- blow bubbles. News cud is the same. ([Location 1401](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1401))
+    - Tags: [[pink]] 
+- It doesn’t drive stock returns. Stewing over it doesn’t help investors make better decisions. Folks chew and rechew it because the media hypes it—bad news sells!—but it has no nutritional value for investors. Markets are too efficient! Again, if something is widely known, it’s either wrong or powerless to move stocks. The longer a fear circulates—the more cud-like it becomes—the more you can know for sure it is already priced in. ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1402))
+    - Tags: [[pink]] 
+- Markets don’t mind a slower-growing China! But the cud-chewing continues. ([Location 1413](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1413))
+    - Tags: [[pink]] 
+- The eurozone debt crisis was terrible for many but was also big-time cud. Headlines started chewing in late 2009, when Greece started wobbling. For all of 2010 and 2011, folks feared Greece, then Ireland, then Portugal, then Italy and Spain would default, splinter the euro and send the world into chaos. When Greece actually did default in ([Location 1414](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1414))
+    - Tags: [[pink]] 
+- February 2012, fears were so baked in, markets didn’t blink. When Greece defaulted a second time late that year, almost no one noticed! Meanwhile, euro collapse fears morphed to fears the bloc’s recession would go deeper and global. ([Location 1417](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1417))
+    - Tags: [[pink]] 
+- When that didn’t happen and the eurozone started recovering mid-2013, slow-growth fears took over. In 2014, fear flipped to a “lost decade” of deflation and shrinking nominal GDP. ([Location 1418](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1418))
+    - Tags: [[pink]] 
+- The specific fears ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1420))
+    - Tags: [[pink]] 
+- morphed for five years, but the underlying issue didn’t. Whether folks feared a collapsing currency, deepening recession, sluggish growth or deflation doompocalypse, they really feared Continental Europe would be a black hole in the world economy. They’ve chewed on this for five-plus years, and stocks overall rose the whole time. Have the cud chewers been right about some things? Sure! They were right about Greece! They were right about recession! Right about ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1420))
+    - Tags: [[pink]] 
+- just enough to drive confirmation bias. But their deeper fears were already priced in, so these small negatives didn’t knock stocks. You should see all this cud for what it is: priced-in pointlessness. Even if you think the crowd is right about whatever bad thing will happen, efficient markets have probably already discounted that outcome. This is why an 18-month recession in Continental Europe couldn’t sink stocks globally. And as we’ll see in Chapter 6, it’s why stocks barely ([Location 1424](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1424))
+    - Tags: [[pink]] 
+- blinked at the Affordable Care Act. But we aren’t ready to talk politics yet. We’re still just getting to know each other! And we haven’t even covered cud-like far-future fears that hoodwink investors! Time to turn to Chapter ([Location 1428](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1428))
+    - Tags: [[pink]] 
+- 4, the second part of our financial media user’s manual. ([Location 1430](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1430))
+    - Tags: [[pink]] 
+- Countless things change between ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1479))
+    - Tags: [[pink]] 
+- ages 5 and 30, and no five-year-old can know what their adult life will look like. They can imagine! But real life usually goes differently in ways we can’t predict. Kids can know what’ll probably happen in a rough way over the next two years or so of their life—what grade they’ll be in, what teachers they’ll probably have, how old they’ll be, what milestones they’ll hit. But not much further out. A nine-year-old might expect to end up at the local high school, but what if their parents move? Or another school opens? We have to live life, ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1480))
+    - Tags: [[pink]] 
+- experience the changes firsthand, and see how it goes. Same for markets. We can’t know the far future today! Too much change to fathom! Stocks know it, and they don’t look more than about 30 months ahead. Anything further out is sheer guesswork—possibilities, not probabilities, and markets move on probabilities. ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1484))
+    - Tags: [[pink]] 
+- This will sound Pollyannaish and dismissive, but it’s true: If whatever big, bad, terrible thing the media warns about won’t happen materially in the next approximate 30 months, it doesn’t matter for stocks. ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1493))
+    - Tags: [[pink]] 
+- This doesn’t mean you shouldn’t consider possibilities. Thinking about them—seeing what the crowd is saying, and considering what ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1496))
+    - Tags: [[pink]] 
+- they’re overlooking or not imagining—can help you figure out whether the long-term picture is really so dire, and that can help you sleep at night. All good! But for your investing decisions, you need only assess what is most likely to happen over the next 30 months. ([Location 1497](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1497))
+    - Tags: [[pink]] 
+- For over a decade now, folks have obsessed over the Baby Boomers. What happens when they all retire? Who will be left to buy stocks? Who knows? Not me! Not you! Not the famous champions of Boomer doom and gloom! We can’t know—none of us—because it’s all too far out. Sure, the first Boomers turned 65 in 2011. But the last of them won’t get there until 2029. No one can see that far into the future. The average Boomer retirement is still far out. Stocks know this and don’t even bother trying—not in the next 30 months is good enough for ([Location 1509](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1509))
+    - Tags: [[pink]] 
+- markets! But thanks to efficient markets, we can be darned sure about this: Boomers’ retirement won’t move markets. It will play out too slowly—over an entire generation!—and nothing about it is a surprise. Markets have known when Boomers will retire since they were born—that’s not foresight, just math. Fears started circulating about a decade before the first Boomers turned 65. They’ve been retiring in earnest for more than four years, and that doesn’t count the many who took early ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1513))
+    - Tags: [[pink]] 
+- retirement. The world hasn’t ended. To presume markets won’t discount things like this is to insult The Great Humiliator (TGH). Never smart! ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1517))
+    - Tags: [[pink]] 
+- Why? One, it’s not in the next 30 months! Two, these fears don’t pass a basic logic test—one of a ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1535))
+    - Tags: [[pink]] 
+- contrarian’s favorite tools, as I mentioned in Chapter 1. If a claim or forecast is based on a bad assumption, it’s bunk. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1536))
+    - Tags: [[pink]] 
+- Why would the future ever look exactly like the past? ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1539))
+    - Tags: [[pink]] 
+- Most of this is based on total outstanding debt—either as a percentage of GDP or as just a gigantic absolute number. Trillions upon trillions of dollars America owes the world. The debt doom-mongers say our government is spending and borrowing us into oblivion, saddling our children and their children and their children with debt they’ll never be able to repay. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1711))
+    - Tags: [[pink]] 
+- Children and children’s children? That’s not in the next 30 months. ([Location 1714](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1714))
+    - Tags: [[pink]] 
+- This probably sounds too dismissive, so let’s go through the proof. Always demand evidence! ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1715))
+    - Tags: [[pink]] 
+- Probably not. There is no evidence in history that debt at 106% of GDP leads to poor economic performance, default or stock market mayhem. America had more than that in the aftermath of World War II. We were fine. Britain had more than twice that amount during much of the industrial revolution—fine there, too. The empire flourished. No bankruptcy there! (Of course, they got to rape, loot and pillage, which may have buoyed the “animal spirits” in ways that no longer apply.) Japan has ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1720))
+    - Tags: [[pink]] 
+- double that as I type this. Now, the Japanese economy isn’t the greatest, but it isn’t due to debt—it’s more tied to their bizarrely nineteenth-century mercantilistic take on capitalism. ([Location 1723](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1723))
+    - Tags: [[pink]] 
+- Besides, total debt—whether at an absolute level or as a percentage of the economy—is a pretty arbitrary number. Tells you nothing about solvency. Think about your mortgage. You might have hundreds of thousands, even millions of dollars in mortgage debt! Big numbers! But those big ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1726))
+    - Tags: [[pink]] 
+- numbers don’t matter—what matters is that monthly mortgage payment. Can you afford it? Yes? Then you can afford that big number over time. ([Location 1728](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1728))
+    - Tags: [[pink]] 
+- Same with America. Just the same! ([Location 1730](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1730))
+    - Tags: [[pink]] 
+- For debt to become a problem, interest rates would need to rise to ([Location 1745](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1745))
+    - Tags: [[pink]] 
+- nosebleed levels and stay there for years. Rates directly matter for the federal government only at issuance—the primary market. ([Location 1745](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1745))
+    - Tags: [[pink]] 
+- Countries rarely have to pay off debt. They just have to manage it—pay interest and roll over maturing bonds (issue new debt to pay off existing bondholders). ([Location 1787](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1787))
+    - Tags: [[pink]] 
+- Debt “causes” inflation only if you monetize it. Could it happen? Maybe! But not in the next 30 months. ([Location 1801](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1801))
+    - Tags: [[pink]] 
+- It might! But not in the next 30 months! ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1815))
+    - Tags: [[pink]] 
+- Moore’s Law: The theory that the number of transistors you can fit on a microprocessor doubles about every two years. Intel founder Gordon Moore ([Location 1818](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1818))
+    - Tags: [[pink]] 
+- hypothesized this in 1965, and so far, it has held true far longer than anyone ever envisioned decades back. Moore’s law is why technology has become exponentially more powerful, smaller and awesomer over time; it’s why your smartphone does way more than an Apple IIe or an old IBM PC. ([Location 1819](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1819))
+    - Tags: [[pink]] 
+- Koomey’s Law: The theory that energy efficiency in computing doubles every year and a half or so—it takes less battery power to perform the same computations. This, too, has ([Location 1821](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1821))
+    - Tags: [[pink]] 
+- made devices smaller, more powerful and longer-lasting. It’s why your smartphone keeps a charge longer than your old flip phone, even though it’s smaller and does things your flip phone never dreamed of. (If flip phones dream. Maybe they dream of electric sheep.) Kryder’s Law: The theory that the amount of data you can fit in one inch of disk drive doubles every 13 months. This is why smartphones a fraction of the size of a 10-year-old laptop can store vastly more information. ([Location 1823](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1823))
+    - Tags: [[pink]] 
+- The Shannon-Hartley Theorem: The theory that as long as you can create channels with greater bandwidth—which is theoretically limitless—you can transmit information more clearly and faster. Decades from now, fiber optics will look slow. ([Location 1827](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1827))
+    - Tags: [[pink]] 
+- Then, too, as long as America is where the tech companies are, America will be where innovation happens. Most inventions don’t happen at the firms making the processors, batteries, hard disks and wires made possible by those four rules. Innovation comes from the creative users who figure out new ways to use these gizmos. These inventive users tend to flourish near where these components are created. It’s like the adjacency effect in science—the ([Location 1832](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1832))
+    - Tags: [[pink]] 
+- optical phenomenon where two close-together objects affect each other in ways they otherwise wouldn’t. It’s like the very recently discovered fourth state of water. Beyond solid, liquid and gas. Look it up. I’m not kidding. It’s EZ. (EZ water; EZ stands for exclusion zone.) Same with technology! Nearness counts. You get the former employee at a semiconductor firm who has lunch with a nanotechnology geek and dreams up a contact lens that takes pictures. ([Location 1836](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1836))
+    - Tags: [[pink]] 
+- So the other herd argues consensus science is just wrong—just because everyone says something is true ([Location 1861](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1861))
+    - Tags: [[pink]] 
+- doesn’t mean it’s right. If the science herd were always right, they say, we’d still think the world was flat. In science, too, being right can mean being lonely. This might make you, as a budding contrarian investor, prone to side with the “global warming isn’t real” crowd. ([Location 1862](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1862))
+    - Tags: [[pink]] 
+- Be careful—that’s bias talking! Allow your sympathies to drift to either side, and you let ideology seep in, and that’s dangerous. Contrarians shun bias. But sometimes, many times, consensus is right. After all, is gravity real or not? ([Location 1864](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1864))
+    - Tags: [[pink]] 
+- So, how should the contrarian think about global warming? Here’s an easy three-step process: Remember you aren’t a scientist. Unless you are a scientist—then you can skip to step two. Otherwise, you are not a scientist and therefore not an expert, and you don’t know anything that hasn’t already been discussed ad nauseam by the scientific crowd—you don’t know anything markets aren’t already aware of. Accept that no one knows which side of the debate is right, ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1866))
+    - Tags: [[pink]] 
+- because neither side has seen the scientific method through—they hypothesize, observe, analyze and deduce, but they lack a control group. The warmists can show rising temperatures and carbon emissions till the cows come home, but they will never have a counterfactual. Same goes for the anti-warmists. None of it proves anything. Accept that it doesn’t matter which side is right. Because even if the warmists turn out to be correct, even they admit the ([Location 1871](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1871))
+    - Tags: [[pink]] 
+- world won’t turn into a full-time natural disaster with ceaseless flooding and droughts in the near future. That potential is all very, very far-future. Not in the next 30 months! ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1875))
+    - Tags: [[pink]] 
+- Stocks don’t really care who has wealth as long as whoever has it keeps bidding prices higher. ([Location 1891](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1891))
+    - Tags: [[pink]] 
+- Those who argue inequality is (a) real and (b) a problem rely mostly on a study by Emmanuel Saez and Thomas Piketty, which claims to show that the highest earners take home an ever-larger share of US income.9 ([Location 1895](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1895))
+    - Tags: [[pink]] 
+- From this angle, it becomes clear this is a sociological debate. Higher divorce rates and more single parents are political issues. Nothing a contrarian should think about in investing. And of course, who do you suspect has higher income on average: drug addicts or non–drug addicts? Sociology. ([Location 1913](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1913))
+    - Tags: [[pink]] 
+- Everyone is making more. Some folks are just making a lot more. Another study, whose authors include the very same Emmanuel Saez, shows social mobility is the same today as it was 50 years ago—opportunities are the ([Location 1917](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1917))
+    - Tags: [[pink]] 
+- same!11 Only the payout for success is bigger. Shouldn’t that provide more incentive? Who knows? ([Location 1919](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1919))
+    - Tags: [[pink]] 
+- As long as Bill Gates’ billions don’t prevent any other American from striking it rich, widening inequality doesn’t matter. Might there one day be a ceiling? Could Congress legislate America into a fixed pie where Bill’s big slice means the rest of us get less? Maybe! But not in the next 30 months. ([Location 1921](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1921))
+    - Tags: [[pink]] 
+- What happens to America if foreign countries start completing transactions in their own ([Location 1926](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1926))
+    - Tags: [[pink]] 
+- currencies? Will the dollar suffer if it’s no longer the king of foreign exchange reserves? Who knows! But it won’t happen in the next 30 months. ([Location 1926](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1926))
+    - Tags: [[pink]] 
+- If you take just one thing from these last two chapters, it should be this: When you read the news, watch CNBC or listen to the chatter at your favorite watering hole, and they’re yammering on about something big and bad, always remember the relatively efficient market. As a contrarian, your best friend is the relatively efficient market. Know it. Love it. Remember it. ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1979))
+    - Tags: [[pink]] 
+- Send it a birthday card. ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1982))
+    - Tags: [[pink]] 
+- The market is your weapon against media hysteria. Because you know how quickly markets work, you know all those short-term data and developments decried as instant doom are priced in. You’ve seen how quickly markets move on surprising earnings reports and economic releases—microseconds. You’ve seen how markets yawn when news isn’t a surprise—they already expected it, and expectations are pre-priced. And because you know markets only look about 30 months out, you ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1982))
+    - Tags: [[pink]] 
+- know all those annoying, noisy academic ideological and sociological debates don’t matter for markets right now. Maybe they do matter 20, 30, 40 or more years from now! Or maybe life changes in unimaginable ways and makes all those straight-line forecasts null and void. Or maybe sociological and weather-related issues never become actual economic concerns. But you can’t know any of that exactly today, and neither can markets. So for now, you can just breathe easy! If you can push it beyond the next 30 months, you ([Location 1986](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=1986))
+    - Tags: [[pink]] 
+- When everyone stares at something, and they chatter endlessly about their opinions and expectations, it can’t surprise. But if folks stare at one thing, they overlook something else. That something else may be the proverbial elephant in the living room—some huge truth that, for whatever reason, everyone ignores or forgets. Spot the elephant, and you can get an edge. ([Location 2033](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2033))
+    - Tags: [[pink]] 
+- Or they brush you off because they’re too busy looking for Dracula around the corner. Or they think the elephant is too boring. ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2040))
+    - Tags: [[pink]] 
+- The latest headlines are way more exciting! So what is the elephant? Simple: Walter Matthau and Jack Lemmon in 1993. Stay with me here. If you turned back time and asked your best buddies what they thought about Jack and Walter in early 1993, they’d probably say, “Those old guys? Lemmon was good in Some Like It Hot, and Walter was a riot in The Odd Couple, but I haven’t seen ’em in ages. They still at it?” If you then told your pals that Jack and ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2040))
+    - Tags: [[pink]] 
+- Walter would headline one of the year’s biggest comedy hits—with Ann-Margret their leading lady—they’d have called the men in white coats to take you away. Those old geezers? Leads in a blockbuster romantic comedy? Get real! Could never happen! ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2046))
+    - Tags: [[pink]] 
+- Old market volatility is going away. Old corrections. Old bear markets and their causes. Old tricks of the trade. All gone. ([Location 2073](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2073))
+    - Tags: [[pink]] 
+- Let’s do another one: 1981! If you were alive then, you know President Reagan was shot. You know the shooter was John Hinckley Jr., and he had a crush on Jodie Foster, the actress. You may also remember MTV was born, Natalie Wood died, and Prince ([Location 2074](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2074))
+    - Tags: [[pink]] 
+- Charles and Lady Di got hitched. Even if you don’t remember “Bette Davis Eyes” was the number-one single, you can probably hum a few bars. But do you remember the capital gains tax hike? Do you remember markets did fine? And do you recall which parts of the market did best? Of course not. Our brains don’t work that way. ([Location 2076](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2076))
+    - Tags: [[pink]] 
+- Reliable truisms that aren’t priced! They should be, in theory, because they were once widely known. But they aren’t, because they’re forgotten and unseen. Humans’ terrible economic memories empower elephants. ([Location 2080](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2080))
+    - Tags: [[pink]] 
+- You can see this for yourself—Cornell University’s digitized version of the entire book is available online at the Internet Archive (https://archive.org). The magic chart is on page 162.4 ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2206))
+    - Tags: [[pink]] 
+- By the time former San Francisco Federal Reserve Bank economist Larry Butler published “Recession?—A Market View” in December 1978, it was widely accepted that inverted yield ([Location 2213](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2213))
+    - Tags: [[pink]] 
+- curves (short-term rates higher than long-term rates) were a “classic recessionary” feature.6 The yield curve gained popularity throughout the 1980s, and by 1989, economists James Stock and Mark Watson were lobbying for its inclusion in the LEI. ([Location 2214](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2214))
+    - Tags: [[pink]] 
+- term rates are their revenues, and the spread is their gross operating profit margin (net interest margin in industry vernacular). When the yield curve is steeper—long rates are way higher than short rates—lending is more profitable. Banks lend more, the quantity of money rises, and growth magic happens. When the yield curve is flatter, lending is less profitable, and banks lend only to the safest bets—low payout, so low risk. That slows money creation and velocity (how fast money changes hands), usually slowing growth. When the curve ([Location 2220](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2220))
+    - Tags: [[pink]] 
+- inverts—short rates exceed long rates—lending isn’t profitable, credit seizes and growth eventually grinds to a halt. ([Location 2224](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2224))
+    - Tags: [[pink]] 
+- So for decades, almost everyone accepted that steep yield curves are good, flat yield curves are blah and inverted curves are dangerous. Yet in late spring and summer 2013, when long-term rates rose and the flat yield curve steepened, folks freaked out! They forgot about the yield curve! Instead they viewed higher rates as risky, fearing they’d dent demand for loans and tank the money supply. From May 22—the ([Location 2225](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2225))
+    - Tags: [[pink]] 
+- day Ben Bernanke first warned quantitative easing (QE) would end soon—through year end, 10-year Treasury yields rose and the yield curve steepened. Magical! Yet most folks dreaded the rise. Without even realizing it, they hated a huge fundamental driver of faster economic growth. That made the yield curve an elephant! If you looked past the headlines and just believed in the yield curve in 2013—as I reminded folks in the Forbes snippet in the below box—you’d see the elephant. The magical truth that always just worked and ([Location 2228](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2228))
+    - Tags: [[pink]] 
+- everyone forgot. It was still there, still working. Ten-year yields rose a full percentage point between May 22 and year end, steepening the yield curve. The S&P 500 rose 13.1% over the same period. ([Location 2233](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2233))
+    - Tags: [[pink]] 
+- When Elephants Attack We’ve chronicled some friendly elephants, but some elephants aren’t nice. Risks can be elephants, too! A charging elephant is even scarier than a charging bear. ([Location 2317](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2317))
+    - Tags: [[pink]] 
+- The risky elephant mirrors the nice elephant. Nice elephants are good things everyone knew, then forgot. Mean elephants are risks everyone knew, then forgot. ([Location 2320](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2320))
+    - Tags: [[pink]] 
+- Market history shows world wars kill bull markets. It is a fact! Yet it gets distorted by many high school ([Location 2394](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2394))
+    - Tags: [[pink]] 
+- history textbooks claiming World War II was bullish! Millions of Americans grow up believing the “guns and butter” economy was the only reason we emerged from the Great Depression. Folks see the bull market beginning in 1942, fully three years before Allied victory, and forget the market’s reaction to Hitler’s aggression early on. Terrible as we know war is on a human level, textbooks might lull America into complacency. ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2395))
+    - Tags: [[pink]] 
+- didn’t make any of this up. The philosophy dates at least to French economist Frédéric Bastiat’s 1850 essay, That Which Is Seen and That Which Is Not Seen, which explored the unseen consequences of government spending. Part I, “The Broken Window,” is a parable about a shopkeeper whose son breaks a window. The shopkeeper is peeved—that window costs six francs to ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2461))
+    - Tags: [[pink]] 
+- fix! “But on the bright side,” say the neighbors, “you’ll keep the glazier employed. ([Location 2465](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2465))
+    - Tags: [[pink]] 
+- The neighbors see the broken window as a positive—stimulus for glassmakers! Their reasoning is easy to buy, because we see the glazier fix the window and get paid. This is the “seen” effect of the broken window. Looking only at the “seen” is too myopic! So Bastiat explored the “unseen.” The six francs spent on the… ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2466))
+    - Tags: [[pink]] 
+- shoemaker or the bookseller would have put those six francs to better use than the glazier? “The Broken Window” was a rebuttal to a French politician who claimed burning down the entire city of Paris would boost France’s economy because rebuilding would create demand and jobs, but it works most anywhere. You can apply it to World War II spending—and the widely held belief that postwar rebuilding was a… ([Location 2470](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2470))
+    - Tags: [[pink]] 
+- Bastiat’s conclusion: “Society loses the value of things which are uselessly destroyed . . . To break, to spoil, to waste, is not to encourage national labor; or, more briefly, destruction is not profit.”18 Often true whether physical property or personal opportunities are destroyed. On the other hand, sometimes we demolish buildings, bridges and more to build… ([Location 2474](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2474))
+    - Tags: [[pink]] 
+- “The Broken Window” is an elephant, too. It… ([Location 2478](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2478))
+    - Tags: [[pink]] 
+- widely read. Henry Hazlitt updated it in his classic, Economics in One Lesson (Harper & Brothers, 1946). The broken-window fallacy, as it is now known, is a classroom staple. But few think of it when disaster strikes or government programs are launched. Most focus on the seen—few fathom the unseen.… ([Location 2479](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2479))
+    - Tags: [[pink]] 
+- It Can’t Be an Elephant If … Even if something sounds sensible, if everyone is… ([Location 2483](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2483))
+    - Tags: [[pink]] 
+- can’t be an elephant. Remember, we’re looking for the pre–Grumpy Old Men Jack Lemmon and Walter Matthau—not Brad Pitt and George Clooney. Unless you’re reading this in 2035, and Brad and George are has-been… ([Location 2485](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2485))
+    - Tags: [[pink]] 
+- don’t want the A-list celebrity. If Wall Street loves something, no matter how strong the logic, it can’t be an elephant. Here’s an example: “disruptive… ([Location 2487](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2487))
+    - Tags: [[pink]] 
+- refers to innovations that transform (or disrupt)… ([Location 2489](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2489))
+    - Tags: [[pink]] 
+- displacing old technologies. Think the Internet, PC, cell phone, smartphone, robotics, 3-D printing and hydraulic fracturing. When a new firm comes along with a sexy new technology, pundits pile on the bandwagon, telling investors to get in on the Next Big Thing before it’s too late. It is happening right now in 3-D printing—where specialized printers read a three-dimensional design (usually from a CAD program) and form the… ([Location 2490](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2490))
+    - Tags: [[pink]] 
+- them together. Pundits champion the firms manufacturing the printers, assuming the pure-play investment is best. You see similar… ([Location 2494](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2494))
+    - Tags: [[pink]] 
+- These are the real disruptors—the inventive folks using new technology to take on industries. Netflix didn’t invent DVDs or streaming. Reed Hastings just figured out how to use them to drive Blockbuster out of business. Uber and Lyft didn’t invent smartphones or apps. They spun off those existing technologies to turn taxi service on its head. Steve Jobs didn’t invent the mobile phone. He and the Apple engineers just collided cell phones with microprocessors, touchscreens, tempered glass, flash memory, a ([Location 2502](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2502))
+    - Tags: [[pink]] 
+- camera and powerful software. In 3-D printing, the inventive users are the industrial firms using the new technology to slash production costs. Or the medical device firms 3-D printing heart valves. Look past the headline technology, find the inventive users, and you’ll find some elephants. ([Location 2506](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2506))
+    - Tags: [[pink]] 
+- Step 1: Ditch Your Biases ([Location 2583](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2583))
+    - Tags: [[pink]] 
+    - Note: Read the entire section
+- Only markets like it because when political risk ([Location 2727](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2727))
+    - Tags: [[pink]] 
+- aversion falls, risk aversion falls. ([Location 2728](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2728))
+    - Tags: [[pink]] 
+- Great as gridlock is, few fathom its market benefits. Gridlock is the elephant in the room! Markets thrive on gridlock, but not because a magic gridlock switch flips in investors’ minds. It is more of a non-realization realization that radical new laws aren’t passing. The absence of a negative is a positive. Everyone sees gridlock. Most just can’t see that doing nothing does a lot for stocks. ([Location 2733](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2733))
+    - Tags: [[pink]] 
+- It is often said bull markets climb a wall of worry—Abe’s Japan is sliding down the slope of lost hope. ([Location 2803](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2803))
+    - Tags: [[pink]] 
+- Markets start digesting new laws when the proposal enters public conversation. The initial discussion, draft legislation, multiple rounds of Congressional debate and amendments—and all the media chatter—let markets price the wide-ranging opinions and likely outcomes. Every pundit who discovers a potential winner or loser does stocks a favor, letting ([Location 2810](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2810))
+    - Tags: [[pink]] 
+- them discount the potential fallout. When you know something bad is coming, and you can brace for it, it is easier to deal with than a surprise. The longer the discovery period, the less jarring the actual law’s impact tends to be. Conversely, short discovery periods can bite hard. ([Location 2812](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2812))
+    - Tags: [[pink]] 
+- Consider stocks’ reaction… ([Location 2815](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2815))
+    - Tags: [[pink]] 
+- recent history’s worst laws: The “Act to protect investors by improving the accuracy and reliability of corporate disclosures made pursuant to the securities laws, and for other purposes,” better known as Sarbanes-Oxley or Sarbox. The name sounds great, but it was Congress’s overreaction to the Enron accounting scandal. Sarbox tried to improve corporate governance and transparency by doing things like… ([Location 2816](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2816))
+    - Tags: [[pink]] 
+- companies. Nasty stuff! Sarbox moved fast. The draft bill was introduced February 14, 2002, after about six weeks of Senate hearings on Enron and other perceived ills of corporate America. House committee debate lasted two months—short by DC standards. The final version hit the full House April 16 and passed April 24. The Senate passed its stricter version July 15. Congress set out to reconcile the two bills July… ([Location 2819](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2819))
+    - Tags: [[pink]] 
+- due to a last-minute sticky situation involving President Bush and personal loans from corporations to board members, he suddenly shifted his support to the Senate version, the law we have today. And, with the WorldCom scandal breaking during the legislative process, most provisions were given more teeth behind closed doors. President Bush signed the law July 30, and it took effect that day. No… ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2824))
+    - Tags: [[pink]] 
+- much worse. Between April 16 and July 25, the S&P 500 fell –25.4%.9 The bear market lasted another two and a half months. But a bull market began October 9—even though Sarbox was big and bad, cyclical factors overruled it. The existence of big rules doesn’t keep stocks from rising. Markets can adapt, and they adapted to Sarbox. The initial shock hurts markets. Then life goes on. Few fathomed this when… ([Location 2828](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2828))
+    - Tags: [[pink]] 
+- Sarbox hamstrung all of corporate America! The ACA was big, but tamer—it created winners and losers in health care, and incrementally raised investment taxes and businesses’ costs. But many investors saw it as the devil, half a step from socialism. When it passed in March 2010, folks feared it would sink stocks. Fears resurged repeatedly for years. Yet, as much as folks hated the law, stocks did fine. Why? It was… ([Location 2832](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2832))
+    - Tags: [[pink]] 
+- national conversation way back in 2008’s Presidential campaign. Not as the ACA! But John McCain and Barack Obama both promised big health care reform. After Obama won, markets knew they’d get his version. He outsourced it to Congress, which spent over a year writing, debating, rewriting and neutering the legislation. It passed on a Sunday, March 21, 2010. Stocks rose the next day. A correction ran from April 15… ([Location 2836](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2836))
+    - Tags: [[pink]] 
+- Health Care stocks didn’t do great in 2010—they underperformed through early 2011—but that’s normal when a law radically alters an industry’s foundation. Some segments of Health Care, like managed care facilities, had to overhaul their business models. Just normal. Health Care stocks still rose! Just less than the overall market. ACA fears resurged repeatedly for four years, but stocks fared… ([Location 2840](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2840))
+    - Tags: [[pink]] 
+- Court affirmed most of the ACA’s constitutionality on June 28, 2012. Stocks marched higher. The 2012 Presidential election was widely seen as a referendum on the ACA, and Obama’s victory the law’s final affirmation. Stocks fell a bit the two weeks after the election, then turned higher—and Health Care outperformed. In July 2013, when Obama delayed the hotly contested employer mandate for one year, stocks yawned—not… ([Location 2845](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2845))
+    - Tags: [[pink]] 
+- out they couldn’t keep their plans, contrary to Obama’s promises, their anger didn’t sink stocks. Neither did the investment income tax tweaks that took effect in 2013. Markets rose throughout the botched rollout in late 2013 and early 2014. All these negatives were priced. And here is the kicker: From early 2011 on, throughout all the eyeball-grabbing events above, US Health Care stocks beat the S&P 500 (Figure 6.1). And why… ([Location 2848](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2848))
+    - Tags: [[pink]] 
+- During the 2008 Presidential campaign, there were 44.7 million uninsured people, 14.9% of the population.10 Obama claimed his health care reform plan would insure about 35 million of them. Well, one year in, he overshot. Most sources estimate that the net reduction in the nominal uninsured population from 2013 is between 7 and 10 million, but this is somewhat skewed by population growth. Private and government estimates both show the percentage of uninsured folks in 2014 declining to levels a bit below 2008. Health ([Location 2858](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2858))
+    - Tags: [[pink]] 
+- and Human Services and the Centers for Disease Control and Prevention (CDC) put it at 13.1%; Gallup polls say 13.4%.11 Either way, that 35 million increase didn’t happen. Why is this important? With the ACA, folks first feared and priced the cost of subsidizing insurance for 35 million folks, and markets couldn’t quickly discover the likelihood of sky-high costs. As Nancy Pelosi ([Location 2863](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2863))
+    - Tags: [[pink]] 
+- infamously quipped, Congress had to pass the ACA for anyone (including them) to find out what was in it. Markets initially digested that much bigger outcome, then gradually came to realize the ACA wouldn’t work as intended. In the end, it cost about 10% to 15% of what folks initially assumed, for a 10% to 15% increase in the insured population. There are… ([Location 2867](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2867))
+    - Tags: [[pink]] 
+- million folks who weren’t insured before but are now—maybe 1.1% of the total US population.12 If someone had said in 2008 that insurance premiums would rise 4% to cover 1.1% of the population, the world might have looked at it differently. If someone says, we’re creating a new program for 35 million people, that’s huge! For 3.5 million, it’s much smaller.… ([Location 2871](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2871))
+    - Tags: [[pink]] 
+- would. Instead of massive subsidies to cover 10% of the population, we’re talking about 1%. For the 99%, the piece of the cost to cover the 1% is much lower. This smaller-than-expected outcome gave markets relief. I think. Maybe I’m wrong. There was an elephant in the ACA, but it wasn’t market-related. In all the hubbub, folks forgot Obama’s goal was to take… ([Location 2875](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2875))
+    - Tags: [[pink]] 
+- aggressive marketing, coverage improved just modestly—evidence government programs don’t work. That’s the elephant. In this day and age, and few fathom this, it is nearly… ([Location 2878](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2878))
+    - Tags: [[pink]] 
+- arteriosclerosis. The ACA’s ultimate fecklessness stared us in the face from day one. Think of it this way: Wal-Mart’s global empire wasn’t built in a day—Sam Walton started small, with… ([Location 2880](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2880))
+    - Tags: [[pink]] 
+- trial and error and organic growth to build an efficient, massive marketplace. If it took a genius businessman like Walton decades, how could the government implement the massive infrastructure of the ACA in three years without a hitch? The outcome was always going to be huge up-front cost, clunky rollout and limited benefits. Markets don’t… ([Location 2882](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2882))
+    - Tags: [[pink]] 
+- factor. And the bill didn’t sink us—like we chronicled in Chapter 4, we don’t have a debt problem. Not a market risk—just a political problem and more fodder in the big versus small government debate. And one that will likely come back as the liberals who championed the ACA find out there are still over 40 million uninsured folks—the people they wanted to help weren’t… ([Location 2886](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2886))
+    - Tags: [[pink]] 
+- snort insurance. Who knows—and not in the next 30 months! But it won’t end. The king is… ([Location 2892](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2892))
+    - Tags: [[pink]] 
+- What really rankles stocks are the ([Location 2916](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2916))
+    - Tags: [[pink]] 
+- unintended consequences few see—Bastiat’s shoemaker missing out on a six-franc sale because the shopkeeper’s son broke a window. Downstream unintended consequences that will catch folks by surprise. These can rear their ugly heads years after the law is passed—this is when “not in the next 30 months” meets “now.” Take Sarbox again. As we explored in Chapter 1, 2008’s panic happened because hyper-aggressive asset write-downs wiped about 2 ([Location 2916](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2916))
+    - Tags: [[pink]] 
+- trillion from America’s banking systems. The mark-to-market accounting rule was the direct culprit—a secondary regulatory change, not Congress’s handiwork (perhaps more dangerous, which we’ll get to shortly). But you have to wonder, would banks have slashed their balance sheets so ruthlessly if CEOs and CFOs weren’t criminally and civilly liable for bogus… ([Location 2920](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2920))
+    - Tags: [[pink]] 
+- roughly 300 billion in actual loan losses?13 Consider: In 1990, then Fed Chairman Alan Greenspan wrote a letter to Securities and Exchange Commission (SEC) Commissioner Richard Breeden suggesting that mark-to-market accounting for illiquid bank loans was wrongheaded because bankers could get aggressive with valuing assets with no ready market, based on sheer… ([Location 2924](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2924))
+    - Tags: [[pink]] 
+- way no one—at least no one publicly documented beforehand—saw coming. Seeing these things takes imagination. It also requires you to go against the grain and move past the chatter—true contrarian stuff. When it comes to laws, the crowd focuses on the immediate seen consequences. Will the ACA whack growth? Will tax hikes hit spending? These are… ([Location 2929](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2929))
+    - Tags: [[pink]] 
+- training your brain to imagine what others can’t. Here’s an example. Europe’s parliament just cracked down on bankers’ bonuses. They decided bankers’ exorbitant bonuses caused the financial crisis by encouraging risky behavior that brought down the entire system. Wrongheaded, but politicians always need a scapegoat, and bankers are an… ([Location 2932](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2932))
+    - Tags: [[pink]] 
+- grow up to be bankers. So they passed a rule capping bonuses at 100% of annual salary—200% if shareholders approve. They believe this will crisis-proof their system because bankers will no longer have a monetary incentive to make risky bets. This is wrong, obviously—crisis-proof is a fairy tale. Worse, it introduces negatives. Some get plenty of headlines.… ([Location 2935](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2935))
+    - Tags: [[pink]] 
+- sector as firms fled the stupid rule, eroding the economy. A tad overstated, perhaps—banks need a European hub, and Britain’s competitive advantage is huge—but fair enough. (The court, predictably, is unsympathetic.) Widely discussed, though—the market has probably dealt with it. There is another high-potential negative, though perhaps years… ([Location 2939](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2939))
+    - Tags: [[pink]] 
+- keep salaries low, giving them more flexibility to get lean in tough times. But banks aren’t so dumb. They need top talent! If they make everyone take pay cuts, talent will flee to other industries. So they’ll amp up salaries and pay smaller bonuses, keeping total compensation roughly the same. Here’s the problem: Salaries are a fixed cost. The next time trouble hits and revenues dive,… ([Location 2943](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2943))
+    - Tags: [[pink]] 
+- losses and fail. This is a fundamental negative for banks somewhere down the line. Not in the next 30 months! Not for current markets. But someday. It is an elephant that will remain… ([Location 2947](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2947))
+    - Tags: [[pink]] 
+- oriented… ([Location 2948](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=2948))
+    - Tags: [[pink]] 
+- I have one more story for you before we kiss politics good-bye and move to more polite topics. There is one more source of unseen political risk. Risk doesn’t come just from laws and rules! Politicians’ non-rulemaking actions have consequences, too. Actions send messages—sometimes terrible ones that turn into ticking time bombs. The Obama administration created a big time bomb in the ([Location 3015](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3015))
+    - Tags: [[pink]] 
+- wake of the 2008 crisis—one every savvy investor should know and learn from. Politicians have one purpose in life: getting elected. Most don’t think past “Will this get me votes?” when making decisions. If their voting public thinks a business or industry is a villain, politicians are all too happy to crucify it. After 2008’s panic, people decided banks were villains. Evil rent-seekers that forced loans on naïve folks who didn’t qualify, knowingly packaged ([Location 3018](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3018))
+    - Tags: [[pink]] 
+- bad loans into toxic securities, defrauded Fannie Mae and Freddie Mac into buying them, gleefully foreclosed on innocent people when housing crashed, and made off with hundreds of billions in taxpayer money. The public demanded their pound of flesh, and pandering politicians delivered five. They didn’t care that the popular narrative was ridiculously false—only votes mattered! From 2010 through August 2014, the government slapped over 125 ([Location 3023](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3023))
+    - Tags: [[pink]] 
+- billion in crisis-related legal fines on the six largest banks. Probably more by the time you read this. Not important by itself (except to them). JPMorgan Chase and Bank of America account for over 100 billion or 80% of the total. Trouble is, most of the lawsuits and charges weren’t really against them. They were against the firms JPMorgan and Bank of America bought during the crisis. Those acquisitions did Washington a favor. If this is how the ([Location 3026](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3026))
+    - Tags: [[pink]] 
+- government “thanks” banks who help by buying failing banks in a crisis, it sends a message: Don’t help us again. Pretty amazingly dumb phenomenon. This cuts against over a century of crisis management tradition. Healthy big banks have long helped during financial crises. They lend to or buy failing banks and guarantee customers’ deposits, helping prevent bank runs. When they buy, they assume the liabilities, but they also get the assets (on the cheap) and the ([Location 3030](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3030))
+    - Tags: [[pink]] 
+- customers. This isn’t charity—it makes business sense in the long run. But we’ve done it every crisis (and some in between). JP Morgan—the man and his bank—rode to the rescue during the Panic of 1893, engineering and guaranteeing the government bonds sold to repatriate gold from foreign investors and replenish reserves. He effectively spent his own money to bail out the US Treasury. He did it again in the Panic of 1907, serving as lender of last resort ([Location 3034](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3034))
+    - Tags: [[pink]] 
+- (that was pre–Federal Reserve). If he determined cash-crunched banks were fundamentally solvent, with solid assets and workable business models, he arranged funding. He cobbled a coalition of strong banks that pooled money to keep struggling ones alive. When brokerage firm Moore and Schley became insolvent after it couldn’t repay over 6 million (a lot then) in loans backed by shares of the Tennessee Coal, Iron and Railroad Company (TCI), ([Location 3038](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3038))
+    - Tags: [[pink]] 
+- Morgan arranged for US Steel (which he controlled) to buy the stock and ultimately buy TCI. Moore and Schley was saved. He also bailed out New York City, helping save the New York Stock Exchange. North Carolina National Bank (NCNB) was the savior during our infamous savings and loan crisis (when more banks and money value of banks failed than in the 2007–2009 recession), buying the failed First Republic Bank in 1988. NCNB bought several other ([Location 3041](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3041))
+    - Tags: [[pink]] 
+- failing lenders in Texas and nationally over the next several years. Never heard of NCNB? Or forgot the name? That’s because through a series of mergers it became NationsBank, which bought Bank of America in 1998 and took on the name. For all intents and purposes, today’s Bank of America is the same institution that helped the FDIC time and again in the late… ([Location 3044](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3044))
+    - Tags: [[pink]] 
+- CEO Hugh McColl Jr.’s right-hand man in 1988, running NCNB Texas National Bank—the entity resulting from the First Republic business. He learned the art of buying failing banks firsthand, and he put it to use in 2008, buying the failing mortgage lender Countrywide and flailing Merrill Lynch. Meanwhile, JPMorgan Chase CEO Jamie Dimon (who was mentored by… ([Location 3049](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3049))
+    - Tags: [[pink]] 
+- of Bear Stearns at the Fed’s behest in March 2008. When Washington Mutual (WaMu) failed in September, JPMorgan Chase bought it as a favor to the FDIC. Imagine, for a moment, life without these purchases (or Wells Fargo’s purchase of Wachovia). Chaos! Markets started panicking when Bear Stearns appeared to go under—they stabilized and rallied when JPMorgan stepped in. The WaMu purchase saved the FDIC from paying on insured deposits—a huge expense, considering WaMu had an estimated 165 billion in deposits when it failed.15 Bank of America’s purchase of Merrill Lynch granted the brokerage house access to the Fed’s emergency discount window, keeping it alive and likely sparing huge taxpayer expense. People think the… ([Location 3052](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3052))
+    - Tags: [[pink]] 
+- This is how the system is supposed to work. You want the private sector to handle this stuff. The private sector does it way better than the government ever could. We saw how that worked when the Federal Reserve and Treasury killed Lehman Brothers after finagling the JPMorgan/Bear merger and effectively nationalizing Fannie Mae, Freddie Mac and American International Group (AIG). They arbitrarily picked winners… ([Location 3061](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3061))
+    - Tags: [[pink]] 
+- us. JPMorgan and Bank of America kept things running, kept customers relatively secure and probably prevented a much deeper panic. The government should have thrown a parade. Instead it turned on the white knights. The feds sued Bank of America for Countrywide’s alleged mortgage fraud. They charged and fined JPMorgan for Bear’s and WaMu’s dirty deeds. All for political gain! There… ([Location 3064](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3064))
+    - Tags: [[pink]] 
+- help!” didn’t get hurt much. Goldman Sachs paid just 900 million in fines. Morgan Stanley paid 1.9 billion. Those that didn’t step in and help didn’t get hurt much. But the good guys got whacked. By hurting the helpers, the government sent a super-strong message: “Don’t help us bail anyone out ever again.” The good guys heard it. I’ll let Jamie Dimon speak for himself: “Let’s get this… ([Location 3069](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3069))
+    - Tags: [[pink]] 
+- Bear Stearns again knowing what I know today? It’s real close.”17 You can believe Bank of America feels the same. Wells Fargo—lucky to escape with just 9 billion in fines—is watching. The next time a big bank goes under, the government could find itself isolated. We’ll all pay a price for politicians’ greed and popularity quest. This is more likely to exacerbate a bear market than cause one.… ([Location 3074](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3074))
+    - Tags: [[pink]] 
+- Politicians might not be the most dangerous people in America—most aren’t deranged axe murders. But they’re among investors’ worst enemies. The more you know your enemy, the easier it is to beat him. I’ve told you these stories and chronicled these risks not to scare you—just to help you know your enemy. Now you know his tricks and weapons, and you’re ready for the fight! Which means we’re… ([Location 3080](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3080))
+    - Tags: [[pink]] 
+- Does an MBA help you be a better investor? What about a CFA? Are finance professors great investors? In fields like medicine, engineering and law, education is critical. But investing is a different game. Some of the greatest investors had little or no formal training. And some of the greatest thinkers and theorists were absolutely terrible investors. I call this the Peter Bernstein ([Location 3145](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3145))
+    - Tags: [[pink]] 
+- Effect. Bernstein, who was a giant in the field of professional investment thinking and ideas and was a great guy, wrote a fascinating book, Capital Ideas (John Wiley & Sons, 2005), ([Location 3148](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3148))
+    - Tags: [[pink]] 
+    - Note: BUY THIS BOOK
+- Investing is something you learn more by doing than by reading. ([Location 3154](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3154))
+    - Tags: [[pink]] 
+- Just like baseball! Done-done it Yogi Berra didn’t go to baseball class when he was a kid. He just played street ball. You can go to investing school if you want, and that isn’t necessarily bad, but textbook theory by itself won’t get you anywhere but back to school—too detached from the real world. Success comes from learning from your mistakes. Understanding your ([Location 3155](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3155))
+    - Tags: [[pink]] 
+- behavioral tendencies so you can overcome your own biggest enemies, your emotions and biases. (More on that in Chapter 9.) Studying the real-world real-time with real money. Sometimes reality will match theory! But it often won ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3158))
+    - Tags: [[pink]] 
+- Whether or not you’re a market expert on paper, chances are you’ll ([Location 3165](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3165))
+    - Tags: [[pink]] 
+- benefit from knowing: Why textbook theory and rules “everyone knows” usually don’t work in the real world Whether you should believe long-held “rules” about valuations, small-cap stocks and more Why Federal Reserve policy doesn’t make sense—and might not ever again! ([Location 3166](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3166))
+    - Tags: [[pink]] 
+- The Efficient Markets Hypothesis is another basic. The theory itself—popularized by Eugene Fama in the 1970s—isn’t perfect. The underlying assumption that widely known information is discounted is fine. It’s the basis for much of this book! But Fama’s hypothesis doesn’t always work in the real world—a shortcoming most academic theory shares. While markets are efficient in the long run, in the short term they can be pretty darned irrational. Why? Data isn’t all stocks price in. As we saw in ([Location 3190](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3190))
+    - Tags: [[pink]] 
+- Chapters 2 and 6, expectations and opinions get priced in, too! That’s how contrarians have opportunities to game the crowd! ([Location 3194](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3194))
+    - Tags: [[pink]] 
+- In recoveries, stocks bounce first—they pre-price rebounding growth and earnings. As a result, P/Es are often high early in bull markets. Two, it assumes past returns predict the future—always and everywhere untrue. ([Location 3237](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3237))
+    - Tags: [[pink]] 
+- As Ben Graham said, in the short term, the market is a voting machine; people buy and sell on emotion, and feelings are often irrational. But in the long run, the market is a weighing machine, discounting future fundamentals. ([Location 3241](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3241))
+    - Tags: [[pink]] 
+- P/Es can help you see sentiment, but no P/E by itself is inherently too high or too low. P/Es often stay high for years as bull markets mature—normal as sentiment brightens. Some argue the long- ([Location 3247](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3247))
+    - Tags: [[pink]] 
+- term average P/E is fair value, but stocks don’t always mean-revert. Sometimes they do. My opinion is that more often than not they don’t. Doing so would be much too easy to game for TGH’s tastes. The average P/E comes from hundreds of data points high and low. It is a blend of extremes, not a gravitational force. ([Location 3249](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3249))
+    - Tags: [[pink]] 
+- The CAPEd Crusader Is No Superhero ([Location 3264](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3264))
+    - Tags: [[pink]] 
+    - Note: READ THIS
+- if small cap is so darned superior, why the heck do people ever own big cap? A tip: When questions like that pop ([Location 3345](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3345))
+    - Tags: [[pink]] 
+- into your brain, that’s your independent-thinking contrarian instinct taking over. Don’t ignore it—follow it! ([Location 3347](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3347))
+    - Tags: [[pink]] 
+- Small cap’s long-term average return does beat big cap. No argument there! But averages are made of extremes. Small cap simply has a handful of years, a small minority, where it trounces big cap. It isn’t superior. Every category, correctly calculated, has its time in the spotlight. Big cap takes center stage plenty. The reality: In most years between 1926 and 2013, large cap beat small cap. Small companies usually fly ([Location 3348](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3348))
+    - Tags: [[pink]] 
+- highest during the first third or so of a bull market. Big cap typically leads the rest of the time. ([Location 3351](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3351))
+    - Tags: [[pink]] 
+- Most of history, big cap slightly beats small cap. ([Location 3359](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3359))
+    - Tags: [[pink]] 
+- Which is truly superior? The category that’s spectacular every now and then, or the one that does best most of the time? Probably depends on who you are and what you are really going to do. ([Location 3403](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3403))
+    - Tags: [[pink]] 
+- For most of us, however, the answer is probably neither! Again, no category is inherently superior—this goes for country, region, sector, size, style or any other breakdown the powers that be might cook up. The leaders and laggards trade off often ([Location 3405](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3405))
+    - Tags: [[pink]] 
+- and irregularly. If you’re good at timing these, good for you. Great for you! But history is also crystal clear that most investors regardless of intent or background buy these categories high and sell them low, timing it terribly—even when they don’t see themselves as timing. ([Location 3407](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3407))
+    - Tags: [[pink]] 
+- Small caps are simply a leveraged play off the bottom of a bear market. That’s it! They get hammered hard in big bear markets, so they over-bounce in the recovery. Sometimes small cap’s heyday lasts a few years, sometimes it fizzles fast. If you can time this perfectly every time, you’ll win huge—but if you can do that, you don’t need to be reading this ([Location 3410](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3410))
+    - Tags: [[pink]] 
+- book. ([Location 3412](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3412))
+    - Tags: [[pink]] 
+- The capital asset pricing model (CAPM) is a popular, age-old model that fails the faulty input test. It sprang up in the early 1960s as a way to compute a stock’s expected future returns. Its theoretical underpinning sounds fine—it assumes the more volatile stocks should reward investors with higher potential upside than the broad market as compensation for the excess risk taken. Basic intuition would tell you the same! But your real-world experience would also tell you the stock could fall hard, too. ([Location 3430](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3430))
+    - Tags: [[pink]] 
+- Many economic theories are true only if “ceteris paribus” (all else is constant or equal). But in real life, nothing is ([Location 3523](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3523))
+    - Tags: [[pink]] 
+- constant and all else is never equal. The real world is full of changing variables. Theory doesn’t get you far. ([Location 3524](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3524))
+    - Tags: [[pink]] 
+- The Federal Reserve is Exhibit A. For the first 60 years or so of the Fed’s existence, bankers were in charge—real-world people who understood the ([Location 3526](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3526))
+    - Tags: [[pink]] 
+- relationship between the yield curve and the quantity of money. They were in the business of lending for a profit, and they understood incentives. But post-Greenspan, we keep getting pure ivory tower economists (we had some before Greenspan, too, and they weren’t so hot either). Smart people with good pedigrees but zero practical experience. They’re good on paper, but they’re too steeped in theory and models. They don’t know all else is never constant or equal in the real world because they never worked in the real ([Location 3527](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3527))
+    - Tags: [[pink]] 
+- world! Their policies don’t work because they’re based on theory, not reality. Janet Yellen has zippo real-world experience and she is today’s central banker norm, not the exception. She is like the PhD boxer who knows all about it with no experience in the ring. ([Location 3531](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3531))
+    - Tags: [[pink]] 
+- We chronicled one example back in Chapter 5—quantitative easing (QE). QE came straight from demand-side academic theory, assuming that lowering long-term rates would boost demand for loans, which would stimulate lending. Fine theory! But it assumed supply ([Location 3533](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3533))
+    - Tags: [[pink]] 
+- would be constant and thus ignored the variables that influence supply—banks’ cost of money and lending revenues. QE ignored profit motive. The Fed never considered whether lowering long-term rates while short-term rates were fixed near zero would make lending less profitable and therefore less attractive for bankers. They never considered whether weak profit potential would discourage banks from lending, crushing credit growth no matter how eager borrowers were. But Ben Bernanke was never a banker. Being a ([Location 3535](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3535))
+    - Tags: [[pink]] 
+- banker is way too grubby for the world’s desire for a non-real-world central banker. ([Location 3539](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3539))
+    - Tags: [[pink]] 
+- Bernanke’s ivory tower limitations also showed themselves in 2008. In academia, he made his name as a scholar of the Great Depression. When crisis struck, pundits assured us Bernanke the Depression expert would be a safe pair of hands. But he was the opposite! He skipped over the tried-and-true, real-world-tested crisis management weapons in the Fed’s arsenal. Because as a non-real-world expert, he presumed they wouldn’t work. As a Depression ([Location 3540](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3540))
+    - Tags: [[pink]] 
+- scholar, he should have known what worked and what didn’t work. But he skipped the what-works and went straight for the unconventional. He had grandiose theories to test in practice—a true hammer looking for a nail. In retrospect, this doesn’t surprise. Bernanke long admired FDR for a similar approach to fighting the Depression. As he wrote in 1999: “Roosevelt’s specific policy actions were, I think, less important than his willingness to be aggressive—in short, to do whatever was necessary to get the ([Location 3544](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3544))
+    - Tags: [[pink]] 
+- country moving again. Many of his policies did not work as intended, but in the end FDR deserves great credit for having the courage to abandon failed paradigms and to do what needed to be done.”13 In other words, don’t just do no harm—first do something, anything. So Bernanke did exactly what he admired in FDR—experimented and showed a willingness to be aggressive, without getting actual results. He skipped battle-tested tricks and launched an alphabet soup of liquidity facilities and, eventually, QE. Despite ([Location 3547](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3547))
+    - Tags: [[pink]] 
+- all that cash supposedly sloshing around the financial system, credit froze, lending zeroed and broad money creation by traditional measures of M2 and M4 didn’t happen. Why? He skipped the oldest trick in the book! The Fed controls two rates—the discount rate, which applies to banks borrowing straight from the Fed, and the fed-funds target rate, which applies when banks lend to each other. For most of its history, when the Fed needed to pump liquidity into the system during a crisis, it would drop the discount rate below the fed-funds ([Location 3552](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3552))
+    - Tags: [[pink]] 
+- rate. That way, banks could borrow cheaply from the Fed, lend at slightly higher rates to each other and pocket the spread. That small safe profit was an incentive for banks to keep money moving. But in 2008, Bernanke’s Fed flipped history. They did the opposite! They set the discount rate 25 basis points above the fed-funds rate and kept it there all year. They couldn’t understand the harm this did because they… ([Location 3556](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3556))
+    - Tags: [[pink]] 
+- they’re bad people. Most just never ran banks or businesses. There were exceptions. Elizabeth Duke, a Federal Open Market Committee (FOMC) Governor during the crisis, had over three decades of banking experience—including over 20 years as an executive—before President Bush appointed her to the Fed in 2007. She voiced real-world concerns from a banker’s viewpoint throughout 2008, explaining how planned… ([Location 3561](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3561))
+    - Tags: [[pink]] 
+- (though not until the December 2008 meeting). The others, though, largely went from academia to central banking. Regional Fed presidents collected anecdotal evidence from banks and businesses in their districts, but they couldn’t put themselves in those business owners’ or bankers’ shoes. We got more proof in 2014, when Ben Bernanke humbly revealed he couldn’t refinance his… ([Location 3565](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3565))
+    - Tags: [[pink]] 
+- book deal and six-figure public appearance fee. He took the blame, admitting stricter regulations on mortgage lending made credit too tight. He didn’t mention the yield curve, though. He didn’t seem to realize the bank was probably making a risk/reward decision. They didn’t see him as Ben Bernanke, king of the astronomical book deal and six-figure public appearance fee. To banks, he was Ben Bernanke, newly employed at a nonprofit think tank, no longer earning the… ([Location 3569](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3569))
+    - Tags: [[pink]] 
+- slim. But that’s real-world stuff,… ([Location 3573](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3573))
+    - Tags: [[pink]] 
+- The animal kingdom figured this out long ago. Mama mountain ([Location 3580](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3580))
+    - Tags: [[pink]] 
+- lions don’t send their cubs to mountain lion school where they read books on hunting. Mama just takes them out herself! They watch her a few times, see how she stalks her prey and makes the kill, and then they start doing it. If you ever have the chance to observe this training, you’d see the cubs out front and the mom following at a distance, watching them work. She watches their mistakes, watches them learn by doing, and if they can’t get it, she shows them how again. It’s remarkable to see. ([Location 3580](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3580))
+    - Tags: [[pink]] 
+- The key to market staying power methodology is to be right but not too popular—like my dieting advice. There are endless dieting books. Some have been huge sellers. I lost over 100 pounds years ago and kept it off with my own magic diet that will never be popular and is analogous to market techniques that won’t be discounted. How to lose weight? Never eat anything you like, and you won’t overeat, and the pounds ripple off! Almost no ([Location 3678](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3678))
+    - Tags: [[pink]] 
+- one will ever do that. Or buy a book about it. ([Location 3681](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3681))
+    - Tags: [[pink]] 
+- The big bestseller of 2014, Thomas Piketty’s Capital in the Twenty-First Century (Harvard University Press), is a prime example. He argues income inequality is widening, putting economies at great long-term risk, but his aim is to goad governments into punitive taxes on the wealthy and high earners. ([Location 3696](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3696))
+    - Tags: [[pink]] 
+- Best Books on the Stock Market: An Analytical Bibliography, by Sheldon Zerden, published in 1972 by RR Bowker. ([Location 3719](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3719))
+    - Tags: [[pink]] 
+    - Note: CHECK THIS
+- A New Radical’s Guide to Economic Reality, Angus Black, 1970 ([Location 3892](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3892))
+    - Tags: [[pink]] 
+- Business Cycles will show you how Wall Street and Main Street are intertwined—never one versus the other, always working in tandem. ([Location 3948](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=3948))
+    - Tags: [[pink]] 
+- You’ll meet colorful personalities like William Jennings Bryan, champion of the Free Silver movement and, ([Location 4181](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4181))
+    - Tags: [[pink]] 
+- believe it or not, the lion in L. Frank Baum’s original monetary allegory disguised as children’s book, The Wizard of Oz—all detailed in my 2006 book, The Only Three Questions That Count. ([Location 4182](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4182))
+    - Tags: [[pink]] 
+- There is an entire field devoted to this. Behavioral finance, one of my ([Location 4316](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4316))
+    - Tags: [[pink]] 
+- favorite areas of market research. Behavioral finance, correctly applied, is all about finding ways our brains and feelings trick us into making the wrong moves most of the time. Its goal is to help us all control the emotional impulses and biases that bring bad investment decisions. Behavioral finance is our weapon against our inner Jesse Livermore. ([Location 4317](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4317))
+    - Tags: [[pink]] 
+- At least, that’s what behavioral finance is supposed to be about. In recent years, the field has shifted from “how to control yourself” to “how to beat the market.” “Behavioral finance funds” claim to gain an edge by identifying and exploiting mass behavioral errors, ([Location 4319](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4319))
+    - Tags: [[pink]] 
+- and they charge a premium for their supposed specialization. More power to them for trying to game the crowd, but this isn’t behavioral finance! Behavioral finance is supposed to be about identifying your own cognitive errors and fighting the urge to repeat them, not exploiting others’ mental goofs. Assuming others are stupid is usually arrogant, sometimes simply stupid, and usually not the best basis for a bet. ([Location 4321](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4321))
+    - Tags: [[pink]] 
+- Prospect theory amounts to investors feeling the pain of loss about two and a half times as much as they appreciate an equivalent gain, also known as “myopic loss aversion.” The loss is more painful, so it feels more real. ([Location 4354](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4354))
+    - Tags: [[pink]] 
+- This disconnect is at the heart of most behavioral errors. The desire to ([Location 4356](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4356))
+    - Tags: [[pink]] 
+- avoid further losses after a downswing leads folks to sell low—stopping the bleeding feels better than hanging on and waiting for a potential rebound regardless of a high likelihood. Prospect theory explains why folks react suddenly and irrationally to volatility by selling, even though patiently holding may be the better move long-term. We’re all wired to put more effort into avoiding losses than into making gains. Others piled on, building on Kahneman and Tversky’s findings to explain the psychology behind all sorts of repeatedly bad decisions, all to help investors battle their inherent self-destructive ([Location 4357](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4357))
+    - Tags: [[pink]] 
+- destructive tendencies. A field was born. ([Location 4361](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4361))
+    - Tags: [[pink]] 
+- Look when value leads. Often during a bear market, when everyone’s running scared. Value usually keeps the baton for the bull’s first third or half, when most folks remain gun-shy from bear-market terror. Then growth takes over and usually runs through the end of the bull market. ([Location 4448](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4448))
+    - Tags: [[pink]] 
+- Behavioral finance can help you identify this tipping point. It usually ([Location 4453](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4453))
+    - Tags: [[pink]] 
+- comes around the time value gets popular. The higher value flies, the more folks notice. Recency bias—assuming what’s hot stays hot—makes them forget leadership’s history of flipping. Greed breeds heat chasing. Pundits start pumping the “next big value play,” convinced finding the right undervalued firms is the ticket to late bull market success. When this starts happening, that’s when it’s time to start turning toward growth. It’s unloved, unwanted, ignored—the same traits the perma-value crowd believes propel value forever and always. Many are simply too caught up in their own biases to see better ([Location 4454](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4454))
+    - Tags: [[pink]] 
+- opportunities elsewhere. ([Location 4458](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4458))
+    - Tags: [[pink]] 
+- Value stocks are a behavioral darling and do have their time. But sometimes, buying cheap stocks itself becomes popular, and buying low-valuation stocks doesn’t work. That last sentence probably made Ben Graham roll over in his grave, but it’s true. High-P/E stocks have their day in the sun, too. Ironically, the one-style-is-best behavioralists commit a big behavioral error: They let bias drive decision making. A better application of behavioral finance would entail identifying bias, turning it off, and being open to ([Location 4464](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4464))
+    - Tags: [[pink]] 
+- unfathomable facts. This sentiment tipping point is the thing for the contrarian to be aware of. The trick is identifying it. ([Location 4468](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4468))
+    - Tags: [[pink]] 
+- The Great Humiliator (TGH) makes everyone look wrong at times, sometimes for long stretches. Get used to it and over it. When that happens, the key is staying disciplined and searching for evidence your rationale was wrong. ([Location 4516](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4516))
+    - Tags: [[pink]] 
+- If it was, correct your course. If it wasn’t, just be patient—TGH will try to tempt you to react and flip back into what’s hot right then. Often the ticket to buying high and selling low. ([Location 4518](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4518))
+    - Tags: [[pink]] 
+- When sectors lead bear markets down as Tech did in 2000 and Financials did in 2008, investors typically punish them long after the bear market ends—call it fighting the last war. ([Location 4566](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4566))
+    - Tags: [[pink]] 
+- Simply picking pummeled ([Location 4648](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4648))
+    - Tags: [[pink]] 
+- companies the financial community hates won’t guarantee you pick a winner. Some companies never recover. They close or spend years clinging on through successive bankruptcies and periodic losses. Management never figures out how to right the ship and return to the glory days of phenomenal growth. That’s where fundamental analysis comes in. Behavioral finance can help you find potential opportunities! But it’s only half the battle. Once you have the opportunity set, it’s time to weigh the company’s actual potential. Do managers have a growthy mindset, seeing problems as potential ([Location 4648](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4648))
+    - Tags: [[pink]] 
+- opportunities to improve? Do they have a competitive advantage? Happy employees? Stringent financial controls and a willingness to cut costs when necessary? Do they understand changes in their own market and demonstrate the ability to capitalize with new products and services? The more you can answer “yes,” the better the potential. ([Location 4653](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4653))
+    - Tags: [[pink]] 
+- The original application of behavioral finance has become a fundamentally contrarian viewpoint and overlooked elephant in the room: using behavioral finance to discover and control the emotional impulses and biases that render bad investment decisions. Your biggest enemy is yourself, and behavioral finance is your defense. ([Location 4761](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4761))
+    - Tags: [[pink]] 
+- We spent eight chapters learning how to game the crowd, but it won’t ([Location 4764](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4764))
+    - Tags: [[pink]] 
+- do you any good if you can’t control yourself. Seeing what you envision as errors in others is easy! Seeing errors in yourself is harder. If you can’t see where your own impulses and beliefs go wrong, you have a blind spot that can prevent you from seeing the crowd right, too. ([Location 4764](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4764))
+    - Tags: [[pink]] 
+- Confirmation bias is why seasonal myths like “Sell in May” and “So goes January” persist. Folks latch onto the numbers that back them up and ignore the counterpoints—which happen to outweigh the supporting ([Location 4783](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4783))
+    - Tags: [[pink]] 
+- data. Confirmation bias also gave us “Don’t fight the Fed,” the adage saying rate cuts are good for stocks and rate hikes are bad. Easily debunked when you consider central banks usually cut rates during bear markets and hike during bulls! But mythmakers ignore that and twist data to support their claims—lying with statistics! Always bad. ([Location 4784](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4784))
+    - Tags: [[pink]] 
+- It is both a blessing and a curse that my Forbes columns provide a public written record of all my market calls and many scores of stock picks. Blessing because it gives a transparent track record to check—I don’t believe in hypotheticals and unsupported claims, and neither should you. But if I let pride do the talking, it’s a curse, because when I’m wrong, it’s like letting the entire world see my bad report card. We actually do report cards annually in Forbes, usually in the January or February column. What we got right, what we got wrong, and the occasional whoopsadaisy mea culpa. Here is one such snippet, ([Location 4815](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4815))
+    - Tags: [[pink]] 
+- from my February 27, 2012, column, “Hit the Refresh Button.” I share it with you so we can all get in the spirit of admitting wrongness! It’s good for the mind and soul. “In 2011 my 63 investment recommendations lagged the S&P 500 for the fourth time in the 16 years Forbes has done a formal accounting of columnists’ picks. Equal amounts invested in each of my 2011 stocks would have caused you a 6% loss. That same money put into the S&P 500 would have broken even. Many of my recommendations were of foreign stocks, and they had a lousy year. My worst pick was Aixtron, a ([Location 4819](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4819))
+    - Tags: [[pink]] 
+- German semiconductor company I recommended in July. That stock nose-dived 63%. My best stock was Bristol-Myers Squibb, up 44% since late February 2011. I recommend you hold on to all of my 2011 picks for 2012. ([Location 4824](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4824))
+    - Tags: [[pink]] 
+- You get the drift. ([Location 4835](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4835))
+    - Tags: [[pink]] 
+    - Note: YOU CAN USE THESE WORDS
+- As I said in The Only Three Questions That Count, the real ticket to long-term success is embracing regret and wrongness. Don’t shun it—hold on to ([Location 4844](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4844))
+    - Tags: [[pink]] 
+- it! Learn! Figure out where you went wrong, and think how to do it better next time! We did this at my firm after 2008. We realized we went wrong in underestimating how secondary regulatory changes like the mark-to-market accounting rule can make small problems snowball. So our Research department beefed up regulatory and legislative monitoring, scanning every rule globally for potential unintended consequences. These poor guys read every page of Dodd-Frank, similar European Union regulations, global bank capital standards, you name it. All in the name of learning, applying, improving. ([Location 4845](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4845))
+    - Tags: [[pink]] 
+- So, if something goes wrong, and you find yourself shifting blame to someone else, ask yourself: “Is that fair? Or do I need to be like Michael Jackson and start with the man in the mirror? ([Location 4850](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4850))
+    - Tags: [[pink]] 
+- There are many more errors I could include here, but I’ll leave you with just one more: order preference. In the movie Airplane II, there is a scene where William Shatner is trying to keep a lunar space station from descending into sheer chaos as a runaway shuttle approaches at breakneck speed (don’t ask—just watch it). One officer approaches him with a disturbing development: “Sir, these lights keep blinking out of ([Location 4852](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4852))
+    - Tags: [[pink]] 
+- sequence, sir. What should we do about it, sir?” Shatner commands: “Get them to blink in sequence.” Order preference is our innate need for the lights to blink in sequence. In investing, that means we want every stock we own to be up. When we fire up our account online, we want an entire column of green arrows and unrealized gains—no red, no losses. This leads us to ignore the whole, over-focus on the parts, and do some dumb things to keep our stocks pristine and green. Like selling something just because it’s down, continually chasing your tail in a fruitless attempt to pick only winners. Shunning diversification ([Location 4855](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4855))
+    - Tags: [[pink]] 
+- and over-concentrating in what’s hot. These and other similar pitfalls increase risk and, very often, detract from returns. To fight it, keep perspective: Even when the entire market is up, some stocks will do horribly. But a few stinkers don’t bring down the average—as true in a diversified portfolio as it is in the S&P 500. To use a hackneyed truism, the whole is greater than the sum of the parts. If your whole portfolio isn’t performing as you expect, take a good hard look! But if the whole is doing fine, it doesn’t matter if a few stocks and companies are in the red—you probably have some ([Location 4860](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4860))
+    - Tags: [[pink]] 
+- astronomical winners that cancel them out. Don’t overthink either extreme—no pride accumulation! Just focus on the totality. ([Location 4865](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4865))
+    - Tags: [[pink]] 
+- The Tao Jones Averages—a classic from 1984 (Penguin). ([Location 4870](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4870))
+    - Tags: [[pink]] 
+    - Note: BUY THIS BOOK
+- Kathryn Schulz’s Being Wrong ([Location 4871](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4871))
+    - Tags: [[pink]] 
+- (Ecco/HarperCollins, 2010) isn’t explicitly about behavioral finance, but you’ll learn all about how and why your brain tricks you—and how to learn from wrongness. A timeless lesson! ([Location 4871](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4871))
+    - Tags: [[pink]] 
+    - Note: BUY THIS BOOK
+- Through it all, however, one thing hasn’t changed: This new media still understands the age-old truth, bad news sells best. ([Location 4921](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4921))
+    - Tags: [[pink]] 
+- If it bleeds, it leads. ([Location 4926](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4926))
+    - Tags: [[pink]] 
+- Falling stocks and dismal data get top billing. ([Location 4929](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4929))
+    - Tags: [[pink]] 
+- No one would watch a newscast or read a paper covering all that’s good and right with the world—we want to know the bad, the risks, and prepare. Pollyanna doesn’t sell papers—fear does! ([Location 4930](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=4930))
+    - Tags: [[pink]] 
+- Peak Oil now looks like 1894’s peak horse manure. Again. ([Location 5055](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=5055))
+    - Tags: [[pink]] 
+- In Technology (and Capitalism) We Trust ([Location 5072](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=5072))
+    - Tags: [[pink]] 
+- Think back to the techie trends we outlined back in Chapter 4—Moore’s Law, which says microprocessing power roughly doubles every two years. Koomey’s Law, which posits the same for energy efficiency in computing. Kryder’s Law, which holds that data storage doubles every 13 months. The Shannon-Hartley Theorem, which says communication speed ([Location 5079](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=5079))
+    - Tags: [[pink]] 
+- potential is limitless. Inventive users of these technologies constantly collide and compound them into wonderful, life-altering products. ([Location 5081](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=5081))
+    - Tags: [[pink]] 
+- Parting Thoughts ([Location 5100](https://readwise.io/to_kindle?action=open&asin=B00SZ635DU&location=5100))
+    - Tags: [[pink]] 
+    - Note: READ THIS
+
