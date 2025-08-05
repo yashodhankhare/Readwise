@@ -1,0 +1,214 @@
+---
+tags:
+  - readwise
+---
+
+# The Warren Buffetts Next Door
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51uijGe1WRL._SL200_.jpg)
+
+## Metadata
+- Author: [[Matthew Schifrin]]
+- Full Title: The Warren Buffetts Next Door
+- Category: #books
+
+## Highlights
+- There is no one way to achieve success. Each of these people has developed his own particular approach. • They do share two characteristics: hard work and iron discipline. They don’t rely on tips from TV talking heads, friends, or acquaintances. They spend hours digging, and digging hard. They use the Web. While they take in reams of information from the Web and elsewhere, they make up their own minds. ([Location 123](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=123))
+    - Tags: [[pink]] 
+- Everyone likes to think he or she is disciplined. But most investors give in to their emotions when the market seems to be rising relentlessly or plunging sickeningly. • These next-door Buffetts make mistakes—but they actually learn from them. • Every one of them has suffered a searing market setback. Even investor John Navin, who had successfully avoided devastating losses during the 2008 and early 2009 market meltdown, missed the subsequent market upsurge. ([Location 127](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=127))
+    - Tags: [[pink]] 
+- My hope is that you will read about my 10 Warren Buffetts Next Door and realize that the only real prerequisite to becoming a good investor is committing the time to do so. In other words, invest in yourself. You can achieve great investment returns, meet your financial goals, and beat the professional investors you would otherwise entrust your capital to. For many of us it’s not a choice, but a necessity. ([Location 253](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=253))
+    - Tags: [[pink]] 
+- Tangible asset value, real earnings, and debt levels are what Rees obsesses about. Just as he did during his vagabond days, he wants to know the bare minimums for a company’s survival so he can determine the risk he faces investing in a stock. Chris Rees wants to know the downside—the worst case. And if a stock is selling at 50 percent of what he reckons its value is, then he buys. Rees’s motto is taken right from the pages of Warren Buffett’s playbook. Simply, “Don’t lose money.” ([Location 288](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=288))
+    - Tags: [[pink]] 
+- Simplicity is also a virtue for Rees, and when it comes to investing, Rees’s objective is to have only 10 stocks in his portfolio at any one time. ([Location 298](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=298))
+    - Tags: [[pink]] 
+- “My basic philosophy is that I don’t believe successful investing is about finding stuff that goes up. I think it’s about finding stuff that’s not going to go down.” To this end Rees is obsessive about determining a company’s tangible asset value, also known as its tangible book value. In conversation he sometimes refers to it as liquidation value. Tangible asset value is defined as a company’s assets minus its liabilities. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=316))
+    - Tags: [[pink]] 
+- In general, Rees is looking for companies that are selling at a price that is significantly lower than his estimation of its tangible asset value per share. ([Location 321](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=321))
+    - Tags: [[pink]] 
+- Rees cautions investors not to confuse his tangible asset value with the book value figures that are commonly quoted on dozens of web sites, including Yahoo Finance. Book value can be inflated by intangibles like goodwill or obsolete inventory. “Book value is too dodgy, squishy,” says Rees. ([Location 324](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=324))
+    - Tags: [[pink]] 
+- The next thing Rees looks at when investigating a potential stock to buy is its balance sheet, or debt levels. “I don’t like debt. I don’t want anything to do with debt,” he says. “Any business, any CEO who loads up on debt, I’m not interested.” Rees mostly focuses on a company’s debt-to-equity ratio, which he says shouldn’t exceed 50 percent. The last thing Rees looks at in his relatively simple strategy is earnings. “The company has got to be profitable or I have to see a pathway to profitability.” Rees often looks for turnarounds and other special situations. Thus if Rees likes the long-term prospects of a company that will lose money for the next several quarters, before ([Location 327](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=327))
+    - Tags: [[pink]] 
+- turning profitable, Rees will discount its tangible asset value by a multiple of its losses. ([Location 332](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=332))
+    - Tags: [[pink]] 
+- Buy Rules • Find companies with low debt, less than 50 percent of equity. • Focus on tangible asset value (also known as tangible book value) and be mindful of intangibles that can inflate asset values. • Look at realistic forward earnings potential. Sell Rules • Take profits if the stockholding approaches your estimated fair value. • Sell if market-, sector-, or company-specific risk increases. • Sell if the stock becomes overweighted in the portfolio. • Sell if you find a better, lower-risk investment. • Take profits if you can lower your overall portfolio risk by reallocating capital. ([Location 441](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=441))
+    - Tags: [[pink]] 
+- To be sure, Krebs has never given up buying and holding straight equities, especially high yield dividend stocks and trusts. However, he now enhances this strategy by selling options with three goals in mind—to generate income, to buy into stocks he likes at bargain prices, and to manage his equity risk. Or as he flippantly advises other ValueForum members, “Sell some options, have fun, and make some money.” At first, Krebs focused almost exclusively on a strategy known as covered call writing. Covered call writing is one of the least risky of all options strategies because it allows investors the chance to generate income from stocks they would otherwise have sitting in their portfolios. In options jargon being “covered” means that you have possession of the underlying securities needed if the option is ever exercised. As Krebs puts it, covered call writing is profitable 80 percent of the time. Say, for example, Krebs has a long-term holding of 1,000 shares of IBM (NYSE: IBM) that he purchased at $100 per share. Total invested, ([Location 552](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=552))
+    - Tags: [[pink]] 
+- $100,000. Krebs’s goal for his long-term portfolio holdings of IBM might be to use options to generate at least 8 percent in additional income above and beyond the dividends his stock might pay. So Krebs would typically seek out call options that are far “out-of-the-money,” meaning that they are at strike prices higher than IBM’s current price and are thus unlikely to be exercised. If IBM’s stock tends to trade in a range of say $90 and $110, then Krebs would look to sell 10 call option contracts, each representing the right to buy 100 shares, at a strike price of $115 and an expiration three months out. That would give the buyer of these options the right to buy Krebs’s 1,000 shares of IBM from him at a price of $115. If the quoted options price were $3, each contract would be worth $300 and 10 would be worth $3,000. Since Krebs is selling these calls he would receive $3,000 deposited in his brokerage account. If Krebs is correct and IBM’s price doesn’t climb above $115, or more than 15 percent in the ensuing three months, those call options he sold would expire worthless, and Krebs would profit by the $3,000 premium he received. He would ([Location 560](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=560))
+    - Tags: [[pink]] 
+- then try to repeat this every three months, adjusting his pricing accordingly. If he can do this successfully, he can generate $12,000 or 12 percent in extra income on that $100,000 in IBM stock that is otherwise sitting in his portfolio. If Krebs is wrong and IBM soars, the investor he sold his options to will exercise his right to buy Krebs’s 1,000 shares of IBM, and Krebs will be closed out of his position at a price of $115,000. Krebs would get to keep the $3,000 he initially received for selling the calls. His gain would be $18,000 or 18 percent. The only losing scenario in covered call writing is if IBM’s shares fall below Krebs’s $100 purchase price, but then again Krebs’s losses are cushioned by the $3,000 or $3 per share premium he got. Thus Krebs doesn’t start to lose money until IBM falls below $97 per share. Another option strategy that Krebs likes to employ he calls naked… ([Location 569](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=569))
+    - Tags: [[pink]] 
+- options writer or seller does not have a position in the underlying… ([Location 578](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=578))
+    - Tags: [[pink]] 
+- Say Krebs is bullish on gold and he wants to buy shares of Yamana Gold (NYSE: AUY), currently trading at $13. Krebs ideally would like to get the shares cheaper, say at $11.50. He could call his broker and put in a good-till canceled limit order for the stock at $11.50, hoping that it will fall in price to that level. Or he could sell ([Location 584](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=584))
+    - Tags: [[pink]] 
+- put options for Yamana with a strike price of $12, which might be trading at $0.50 a share. Thus if Yamana’s stock price drops below $12 Krebs will be forced to purchase the underlying stock from the person he sold his “naked” puts to but his cost will be $12 minus the $0.50 per share he received as a premium. Therefore he would own the stock at his goal price of $11.50. Now if Yamana didn’t fall below $12 or went up, Krebs keeps the $0.50 per share premium in income he got for selling the options in the first place. Using these two core options strategies, Krebs seeks to earn from 1.5 percent to 3 percent in extra income from his stock portfolio each month, augmenting the total return he gets. Indeed, Krebs admits that he typically has positions in 50 to 200 options contracts at any given time. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=587))
+    - Tags: [[pink]] 
+- Eventually Krebs joined ValueForum.com, an online stock community created in 2003 for investors like him who were sharing ideas on certain inactive Yahoo stock message boards. Initially ([Location 647](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=647))
+    - Tags: [[pink]] 
+- “If I am happy owning a stock that is yielding 10 percent, why not see if I can write puts underneath it (out of the money) and pick up another 10 percent in premium income,” says Krebs. “I always focus on the worst-case scenario. In this case, it would mean owning more of the stock at a cheaper price. It’s sort of like putting in a stink bid and being paid to wait while I do this.” ([Location 659](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=659))
+    - Tags: [[pink]] 
+- Make sure you aren’t trying to impose your ego on the market. According to Krebs this important rule has a corollary that says avoid at all costs taking a large loss on any single security. When fundamental investors buy stocks, they do so, according to Krebs, with two currencies. One is in the form of the hard dollars they spend to buy their shares and the other is in the form of emotional currency. After all, most serious individual investors spend a good deal of time researching a stock, believing in its story and expecting that they will be rewarded when they are proven correct. “You are putting your emotional opinion on the line as much as you are spending the money,” says Krebs. But what if the market just doesn’t agree with you, regardless of all the effort you have put into your research and the stock continues to go down? Krebs says investors need to swallow their pride and sell. He also warns of an even greater sin. Never double down and add to your holdings using the argument “The sellers are fools! I’ve done my research on this. The stock is even cheaper now!” ([Location 675](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=675))
+    - Tags: [[pink]] 
+- Krebs says that some professional value investors use this “nerves of steel” approach to buy stocks as they sink but says it is best left to the pros. “In a general sense, I would much, much rather be purchasing stocks as they go up,” says Krebs. ([Location 683](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=683))
+    - Tags: [[pink]] 
+- • Sell when the 20-day moving average crosses below the 50-day moving average. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=698))
+    - Tags: [[pink]] 
+- Don’t be lulled by a stock’s dividend payment. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=719))
+    - Tags: [[pink]] 
+- Don’t be afraid to concentrate your portfolio. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=724))
+    - Tags: [[pink]] 
+- Strategy Tip Krebs prefers selling naked puts (naked short puts) to covered call writing on stocks in his portfolio. “Most people don’t realize that from a risk/reward standpoint selling a naked put is the same as buying the stock and covering it by selling a call against it (covered calls). The difference is that you don’t have to supply the money to buy the stock unless your put is exercised.” ([Location 729](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=729))
+    - Tags: [[pink]] 
+- Always look to buy back cheap options. ([Location 737](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=737))
+    - Tags: [[pink]] 
+- Strategy Tip Investors have long been advised by the financial press that falling stocks create the best bargains, and some are tempted to buy more stock as the price falls. Krebs warns against doubling down and almost always buys into rising stocks. He says trying to catch falling knives is best left to hedge funds and other professional investors. ([Location 798](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=798))
+    - Tags: [[pink]] 
+- The Big Loss is one from which you cannot easily recover. Most investors on ValueForum have a nest egg that they have been building on for years, and they work hard trying to make it grow. The one thing that is generally unacceptable is to incur a Big Loss that will take years of work to recover. Most of us are not in a position to begin building that nest egg from scratch or even building one-half to one-third of that nest egg over again. Most of us can with reasonable risk expect to return 10-20 percent in good market years, but in search of extraordinary gains (30-60 percent) we are usually putting ourselves in a position for a potential Big Loss. Like the old journeyman, we need to take time to look at our investments and our budget situations often and wonder what it would be like to lose a large portion of it. We should objectively look at each investment and determine if under some extraordinary circumstance a Big Loss could occur. This is especially true using options, margin, and leverage. Look at each investment and listen for that little voice that says, “I have taken much too much risk here with too much of my money.” If you hear it, do not then override it with your analytical intellect that says, “It’s okay. I have looked at all the charts and the data and the analysts’ expectations, I ‘know’ it could not possibly result in a Big Loss.” Especially if you have been on a long winning run and your pride has convinced you there is no problem. Heed the little voice and take some risk off the table. Step away from the whirring saw blades of the market and take a break. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=822))
+    - Tags: [[pink]] 
+- If this vicious recession has a silver lining at all, it might be that as we struggle through it and come out the other side we will get back to simpler and more profound ways to reach fulfillment: Loving times with family and friends Sharing and giving to one another Finding some good books to read and share ([Location 845](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=845))
+    - Tags: [[pink]] 
+- Strengthening our faith and helping others Investing our time into our children Stop wasting our resources (time, talent, money) on meaningless things Spending more time with people and less with the LCD monitor Inviting the neighbor over for dinner, instead of envying his new car ([Location 848](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=848))
+    - Tags: [[pink]] 
+- Value traps are bargain stocks that never get out of the bargain basement. Oftentimes they sink lower. Determining the difference between a truly undervalued stock and a value trap is the key to successful contrarian investing. ([Location 898](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=898))
+    - Tags: [[pink]] 
+- Strategy Tip Management earnings calls are freely available on company web sites, Yahoo Finance, and Google Finance. Koza burns them to CDs and listens to them in his car. ([Location 934](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=934))
+    - Tags: [[pink]] 
+- Look for short-term market “disconnects.” ([Location 1070](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1070))
+    - Tags: [[pink]] 
+- Successful investing requires a major time commitment to stock research. ([Location 1074](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1074))
+    - Tags: [[pink]] 
+- Don’t accept company figures when analyzing a stock. ([Location 1083](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1083))
+    - Tags: [[pink]] 
+- Avoid value traps. ([Location 1087](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1087))
+    - Tags: [[pink]] 
+- Sell when the ratio of intrinsic value to price falls below 1.25. ([Location 1091](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1091))
+    - Tags: [[pink]] 
+- Another factor he uses is based on the theories of Joseph D. Piotroski, a former University of Chicago accounting professor who published Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers in 2000. Kai discovered this paper on a well-known academic web site he trolls called Social Science Research Network, or SSRN.com. Piotroski’s paper talks of a nine-point scoring system for finding winning value stocks. One of Piotroski’s most important factors is finding low ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1239))
+    - Tags: [[pink]] 
+- price-to-book ratio stocks. However, given that many firms with low price-to-book ratios are often distressed, Piotroski also evaluates balance sheet strength return on assets and cash flow. Buying those companies that passed Piotroski’s rigorous test and shorting those that didn’t would have produced a 23 percent average annual return for the two decades between 1976 and 1996. Petainen incorporates some of Piotroski’s tests into his own quantitative formula. ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1243))
+    - Tags: [[pink]] 
+- Petainen has developed 11 variables he screens for before he buys stocks for his portfolios. ([Location 1255](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1255))
+    - Tags: [[pink]] 
+- • Find stocks that have smart money, value, growth, and quality attributes. ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1358))
+    - Tags: [[pink]] 
+- Avoid story stocks. ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1374))
+    - Tags: [[pink]] 
+- Develop a sell discipline and stick to it. As a rule, Kai Petainen will typically sell any stock that drops more than 20 percent from his purchase price. He also has a strict discipline of ([Location 1381](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1381))
+    - Tags: [[pink]] 
+- selling any stock that doesn’t make his top 50 screen. Kai does admit that this method doesn’t always seem logical. Sometimes stocks fall off his top-50 list, and he sells them, and then a few months later they turn up among the top 20 of his screen (his buy list). He buys them back even if their share prices have not changed significantly. If one of his top picks drops 10 percent and it is still showing up on his screen, he sometimes buys more if he has cash available. ([Location 1382](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1382))
+    - Tags: [[pink]] 
+- Don’t follow the flavor of the moment investing style. ([Location 1387](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1387))
+    - Tags: [[pink]] 
+- Don’t data mine excessively. ([Location 1396](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1396))
+    - Tags: [[pink]] 
+- People sometimes say that the type of vehicle a man drives tells you a lot about his personality. In Hill’s case it also gives you some insight into his very successful investment style. Alan Hill is an outstanding investor because he has been able to successfully blend what he calls “Steady-Eddy” conservative yield-oriented picks with high-risk, high-octane microcap stocks—kind of like owning a reliable Toyota and a flashy road racer at the same time. ([Location 1458](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1458))
+    - Tags: [[pink]] 
+- Strategy Tip While “lurking” on message boards is common, Hill says that contributing good information is key if you want to make lasting connections to the other smart online investors. Hill’s recommendations on ValueForum have improved his standing and expanded his network. ([Location 1520](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1520))
+    - Tags: [[pink]] 
+- Go where the money and growth are. ([Location 1638](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1638))
+    - Tags: [[pink]] 
+- • Do your homework! Read, read, and then follow up on the leads you get. ([Location 1640](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1640))
+    - Tags: [[pink]] 
+- You can’t cherry pick Chinese and other risky stocks. So diversify. ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1646))
+    - Tags: [[pink]] 
+- Minimize your mistakes. ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1649))
+    - Tags: [[pink]] 
+- Pay attention to taxes! ([Location 1654](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1654))
+    - Tags: [[pink]] 
+- One book that Weyland says greatly affected his approach to stock picking is The Psychology of Judgment and Decision Making by Scott Plous, PhD. The book analyzes how our inherent biases undermine our ability to weigh alternatives rationally and objectively. This clouds our decision making. The book explains and analyzes heuristics and exposes common traps decision makers face. ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1831))
+    - Tags: [[pink]] 
+- Strategy Tip The Financial Industry Regulatory Authority (FINRA) requires brokers to report short interest or the number of shares “sold short” in a ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1835))
+    - Tags: [[pink]] 
+- given stock. Looking at short interest relative to average volume gives investors an idea of negative sentiment in a company. Jack Weyland monitors this ratio on all his investments. ([Location 1836](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1836))
+    - Tags: [[pink]] 
+- • Seek out promising companies that are undervalued because of temporary setbacks or hiccups. ([Location 1921](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1921))
+    - Tags: [[pink]] 
+- Seek entry points in stocks after sellers have dried up and signs of accumulation are beginning. ([Location 1925](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1925))
+    - Tags: [[pink]] 
+- Look for companies that serve an unmet medical or health care need. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1930))
+    - Tags: [[pink]] 
+- Avoid companies with high short interest. ([Location 1935](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1935))
+    - Tags: [[pink]] 
+- If the market appears to be overbought, hedge your portfolio. ([Location 1940](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1940))
+    - Tags: [[pink]] 
+- Diversify but don’t overdo it. ([Location 1942](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1942))
+    - Tags: [[pink]] 
+- • Try to invest without emotion or bias no matter how promising or likeable a company or its treatments are. ([Location 1948](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1948))
+    - Tags: [[pink]] 
+- Avoid the sunk cost effect. Cut your losses and move on. ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=1952))
+    - Tags: [[pink]] 
+- Find stocks that are being ignored by Wall Street. ([Location 2124](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2124))
+    - Tags: [[pink]] 
+- Seek out companies with strong business models, preferably monopolies, duopolies, or oligopolies. ([Location 2143](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2143))
+    - Tags: [[pink]] 
+- Says McDuff,“MasterCard is my preferred play for growth in global commerce. The company has more than 750 million accounts globally, and half of its total revenues come from outside the United States. The company is one of the two major global credit card processors. ([Location 2147](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2147))
+    - Tags: [[pink]] 
+- I consider MasterCard to have duopoly profit margins.” A look at MasterCard’s profitability ratios reveal operating margins of more than 40 percent versus 6 percent for American Express and 10 percent for credit card bank CapitalOne Financial. In addition, MasterCard (and Visa) carry less direct credit card default risk because it’s their bank partners (like CapitalOne and JPMorgan Chase) and owners of securitized pools of credit card receivables that are at risk. McDuff adds that the economies of scale enjoyed by the Visa-MasterCard duopoly make it virtually impossible for competitors to compete on price. Indeed, the biggest potential threat to their dominance over the last few years has been eBay’s online payment system, PayPal, which charges merchants lower fees. However, PayPal’s growth has actually added to the coffers of MasterCard and Visa. PayPal’s parent eBay clearly states in its annual report that “If PayPal were unable to accept credit cards, its business would be seriously damaged.” “We are moving toward a cashless society, and we are becoming globally mobile, and we need access to currency. Besides credit and debit, the ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2149))
+    - Tags: [[pink]] 
+- next big market that I think MasterCard and Visa can dominate is the money transfer business,” says McDuff. “There is no reason why I shouldn’t be able to go into a convenience store or a Wal-Mart, punch in my PIN number and send money instantly to a relative in Asia.” ([Location 2158](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2158))
+    - Tags: [[pink]] 
+- Focus on enterprise value/EBITDA rather than price/earnings ratios. ([Location 2160](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2160))
+    - Tags: [[pink]] 
+- Enterprise value is defined as a company’s equity market capitalization plus its debt and preferred stock outstanding minus cash. ([Location 2163](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2163))
+    - Tags: [[pink]] 
+- Beware of false confidences like “Invest in What You Know.” ([Location 2172](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2172))
+    - Tags: [[pink]] 
+- Before Randy McDuff pulls the trigger on a stock he has been eyeing, he writes an 1,000-plus word analysis explaining his thesis. This helps him to confirm his facts and focus his reasoning. He posts some of his reports on Marketocracy.com and has also put others on ValueInvestorsClub.com, an exclusive value investor web site (see Chapter 11). ([Location 2243](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2243))
+    - Tags: [[pink]] 
+- Strategy Tip Since many stocks Swann invests in trade on Canadian exchanges, Swann often uses the Canadian equivalent of the SEC web site called SEDAR.com for company filings. Company web sites are also a great source for disclosure documents. ([Location 2350](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2350))
+    - Tags: [[pink]] 
+- Don’t invest in gold stocks—especially junior miners—unless you are prepared for extreme volatility and losses. ([Location 2506](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2506))
+    - Tags: [[pink]] 
+- Do your own due diligence before committing significant amounts of capital. ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2515))
+    - Tags: [[pink]] 
+- Avoid leverage and set aside cash. ([Location 2519](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2519))
+    - Tags: [[pink]] 
+- Ride the coattails of smart people. ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2523))
+    - Tags: [[pink]] 
+- Only invest in things you understand. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2531))
+    - Tags: [[pink]] 
+- Seek out special situations. ([Location 2533](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2533))
+    - Tags: [[pink]] 
+- Cut your losers when they fail to execute. ([Location 2536](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2536))
+    - Tags: [[pink]] 
+- Do as I Do, Not as I Say ([Location 2644](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2644))
+    - Tags: [[pink]] 
+- Strategy Tip Level II quotes give traders real-time access to market makers’ bids and offer prices. For Uyehara they offer demand and supply insights into who and what might be driving a stock’s price action. He gets in-depth market quotes through his Power E*Trade Pro account. ([Location 2661](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2661))
+    - Tags: [[pink]] 
+- Strategy Tip Relative strength is a technical measure of how a particular stock’s price is trending relative to the sector it belongs to. An RSI or relative strength index of 70 or higher means a stock is overbought and below 30 is oversold. ([Location 2680](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2680))
+    - Tags: [[pink]] 
+- Above all, be flexible. ([Location 2750](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2750))
+    - Tags: [[pink]] 
+- Listen to what the market is telling you. ([Location 2758](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2758))
+    - Tags: [[pink]] 
+- Sell Rule: “Don’t get too greedy.” ([Location 2767](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2767))
+    - Tags: [[pink]] 
+- Strategy Tip Fibonacci series are a sequence of numbers first created by Leonardo Fibonacci in 1202. Each number in the series is the sum of the two numbers preceding it. Fibonacci sequences are said to appear in nature like in flower pedals, but stock chartists like Navin use them to determine support and resistance levels for stock prices. ([Location 2889](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2889))
+    - Tags: [[pink]] 
+- Strategy Tip R.N. Elliott believed that markets had well-defined waves that could be used to predict ([Location 2907](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2907))
+    - Tags: [[pink]] 
+- market direction. In the late 1930s he developed his Wave Principle, which states that stock prices are governed by cycles based on Fibonacci series. ([Location 2909](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2909))
+    - Tags: [[pink]] 
+- Strategy Tip There are dozens of web sites devoted to educating investors in technical analysis. Navin recommends StockCharts.com, which also has excellent tools for charting. Another good site for creating charts is FreeStockCharts.com. ([Location 2928](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=2928))
+    - Tags: [[pink]] 
+- Buy stocks at support levels and sell stocks at resistance levels. ([Location 3041](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3041))
+    - Tags: [[pink]] 
+- Pay attention to moving averages. ([Location 3045](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3045))
+    - Tags: [[pink]] 
+- Use sentiment indicators as contrarian tools. ([Location 3050](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3050))
+    - Tags: [[pink]] 
+- Follow Elliott Wave Theory. ([Location 3053](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3053))
+    - Tags: [[pink]] 
+- Avoid story stocks. ([Location 3056](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3056))
+    - Tags: [[pink]] 
+- Don’t mess with double short ETFs or if there’s too much fine print, avoid it. ([Location 3058](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3058))
+    - Tags: [[pink]] 
+- Use stop losses when stocks sink 5 percent below your purchase price. ([Location 3064](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3064))
+    - Tags: [[pink]] 
+- Regarding profits: If your trade produces a 25 percent gain, sell one-third of your position. At 50 percent gain, sell another one-third. ([Location 3067](https://readwise.io/to_kindle?action=open&asin=B0046ZRFZ8&location=3067))
+    - Tags: [[pink]]
+

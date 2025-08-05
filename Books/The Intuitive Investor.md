@@ -1,0 +1,414 @@
+---
+tags:
+  - readwise
+---
+
+# The Intuitive Investor
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41KfvLpnxXL._SL200_.jpg)
+
+## Metadata
+- Author: [[Jason Apollo Voss]]
+- Full Title: The Intuitive Investor
+- Category: #books
+
+## Highlights
+- To be clear, the right brain is understood to be the portion of ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=206))
+    - Tags: [[pink]] 
+- the mind that handles organic, multi-dimensional, creative, and intuitive processes. Whereas, it is understood and accepted that the left brain is the portion of the mind responsible for linear and analytical processes. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=206))
+    - Tags: [[pink]] 
+- Anxiety about these bad things stands in the way of your ability to clearly access your creativity and intuition and leads to too much mental noise. In turn, this diminishes your ability to make prescient, timely, and accurate intuitive decisions. I will specifically teach you techniques for not only how to mitigate your anxieties, but also how to take advantage of them. ([Location 250](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=250))
+    - Tags: [[pink]] 
+- Because creativity and intuition are often ephemeral I have carefully structured this book to provide it with a firm grounding. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=277))
+    - Tags: [[pink]] 
+- The Underlying Assumptions ([Location 354](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=354))
+    - Tags: [[pink]] 
+- The Four Principles of the Intuitive Investor ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=375))
+    - Tags: [[pink]] 
+- In short, investing is about separating great investment probabilities from investment possibilities. ([Location 391](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=391))
+    - Tags: [[pink]] 
+- There are several traditional definitions of investing. ([Location 407](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=407))
+    - Tags: [[pink]] 
+- The following is from the American Heritage Dictionary:4  in•vest [(in-věst’)]; verb. 1. To commit (money or capital) in order to gain a financial return: “invested their savings in stocks and ([Location 408](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=408))
+    - Tags: [[pink]] 
+- bonds.” 2. a. To spend or devote for future advantage or benefit: “invested much time and energy in getting a good education.” b. To devote morally or psychologically, as to a purpose; commit: “Men of your generation are invested in what they do, women in what you are” (Shana Alexander). Alternatively you have from the Investopedia5 the following: Investing: The act of committing money or capital to an ([Location 410](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=410))
+    - Tags: [[pink]] 
+- endeavor (a business, project, real estate, etc.) with the expectation of obtaining an additional income or profit. Investing also can include the amount of time you put into the study of a prospective company, especially since time is money. These definitions are fine. But they assume a context that makes them too limiting. And that just does not serve the purpose of unlocking your whole brain for greater investment success. Theses definitions assume that investing is solely about money and capital. ([Location 415](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=415))
+    - Tags: [[pink]] 
+- This is the understanding that most people have about investing. But let’s explore a different definition that reveals the full power of investing as both a science and an art. Investing is: 1. Making a decision 2. Consciously making choices so that the benefits of those choices exceed the costs of those choices 3. Consciously expending energy (i.e., resources) so that the benefits of the expended energy exceed the costs of the expended energy ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=419))
+    - Tags: [[pink]] 
+- The definition of “investing” is expanded beyond the realms of money and capital because the skills you are exploring are used in all of your life. This is because life is a continuous flow of decisions. And decisions are subject to analysis and scrutiny, as well as your creativity and intuition. In short, decisions/investments are best when you are fully conscious, and that means that you are utilizing your mind’s full powers. You constantly make investment decisions even if you are not conscious that you are. Please have this new definition of ([Location 424](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=424))
+    - Tags: [[pink]] 
+- investing in mind as we proceed. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=428))
+    - Tags: [[pink]] 
+- The most important investment skill is understanding information. ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=439))
+    - Tags: [[pink]] 
+- Having bad information ≠ bad investment choices. Having good information ≠ good investment choices. Understanding bad information = avoiding bad investment choices. Understanding good information = good investment choices. ([Location 445](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=445))
+    - Tags: [[pink]] 
+- Investing Is As Much About Intuition As It Is Analysis Understanding information is the most important investment skill. But unfortunately, most investors suffer from the opposite situation: a misunderstanding of information. Specifically, one of the most important of all investing secrets is that: ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=456))
+    - Tags: [[pink]] 
+- There is no such thing as a future fact. ([Location 459](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=459))
+    - Tags: [[pink]] 
+- “You may learn all about the sun, all about the atmosphere, all about the rotation of the earth, and still miss the radiance of the ([Location 482](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=482))
+    - Tags: [[pink]] 
+- sunset.” —ALFRED NORTH WHITEHEAD, English mathematician and philosopher ([Location 483](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=483))
+    - Tags: [[pink]] 
+- Your descriptions of things ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=510))
+    - Tags: [[pink]] 
+- are ALWAYS going to be an approximation of reality and not the reality itself. ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=510))
+    - Tags: [[pink]] 
+- This is because they rely upon linearity for understanding information from what is a non-linear, organic, multidimensional world. ([Location 545](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=545))
+    - Tags: [[pink]] 
+- Likewise, just because there is not a scientific theory to describe something does not mean that it does not exist. ([Location 551](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=551))
+    - Tags: [[pink]] 
+- In my years of successful ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=564))
+    - Tags: [[pink]] 
+- experience as a professional investor it is the use of the right brain where most of the real money is to be made. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=564))
+    - Tags: [[pink]] 
+- This isn’t because the right brain is superior to the left brain. It is because most investors overlook the power of their right brain to solve investment problems and to provide them with actionable information. ([Location 565](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=565))
+    - Tags: [[pink]] 
+- Behavioral Finance has as its purpose highlighting the limitations of the right brain, in order to refine the left brain. I will be talking about the exact opposite problem: the limitations of the left brain with the goal of higher refinement of the right brain. Behavioral finance is a subject well worth exploring, but its many axioms and prescriptions have largely been developed to answer questions in which an exact and quantifiable answer is possible. But as previously discussed: there is no such thing as a future fact. Behavioral finance cannot ([Location 572](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=572))
+    - Tags: [[pink]] 
+- answer the truly important questions confronting you as an investor. An example of such a question is: Why is this business worth my money? Because you are dealing with the future when you make investment decisions, behavioral finance cannot help you entirely because of its limitations. ([Location 576](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=576))
+    - Tags: [[pink]] 
+- The right brain also does a good job of serving as a bridge between intuitive insight and the analytical structuring that turns intuition into money. If numbers and words are the currency of the left brain, then ([Location 582](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=582))
+    - Tags: [[pink]] 
+- feelings are the currency of the right brain. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=583))
+    - Tags: [[pink]] 
+- Feelings are the actual physical sensations you receive as information when you use your five senses. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=585))
+    - Tags: [[pink]] 
+- But feelings also are the sensations you receive as information from your intuition. Each person has, what I will call, a feeling-self that allows ([Location 586](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=586))
+    - Tags: [[pink]] 
+- one to attune to extremely subtle, non-sensory information. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=587))
+    - Tags: [[pink]] 
+- It is the feeling-self that receives intuitive information: ([Location 595](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=595))
+    - Tags: [[pink]] 
+- In investing this could be the character of the management team ([Location 595](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=595))
+    - Tags: [[pink]] 
+- in charge of a business, the essential timing of an investment purchase or sale, or the future prospects for a company’s products. ([Location 596](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=596))
+    - Tags: [[pink]] 
+- So the secret to tapping into your intuition is to strip away the noise of our emotions to get at the clear, true signal of the feeling-sense that intuition provides. ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=633))
+    - Tags: [[pink]] 
+- In truth, the right brain and the ([Location 636](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=636))
+    - Tags: [[pink]] 
+- left brain are equal in importance. The goal is to strive to make your right brain the equal of your left brain: to let it become a critically important part of your complete investment repertoire. ([Location 636](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=636))
+    - Tags: [[pink]] 
+- The sum of the two distinct aspects of your brain is greater than the sum of its parts. When the two halves are functioning in concert it results in a synergistic display of intelligent and prudent investment decisions whose results can be fantastic. Yet if you use a grand cosmic scale to weigh the amount of literature dedicated to the analytical aspects of your mind relative to the ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=638))
+    - Tags: [[pink]] 
+- creative/intuitive aspects of your mind, I am certain a gross imbalance will occur in favor of the analytical. After all, most of you have heard of “financial analysts,” but how many of you have heard of “financial intuitionists?” So there is some catching up to do. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=640))
+    - Tags: [[pink]] 
+- The Intuitive Investor and You: Self-Assessment ([Location 642](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=642))
+    - Tags: [[pink]] 
+- REVIEW ([Location 680](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=680))
+    - Tags: [[pink]] 
+- Investing induces, even in the most seasoned investors, moments of chaos, panic, and disorder. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=699))
+    - Tags: [[pink]] 
+- The fact is that few things in life are more difficult than investing. ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=700))
+    - Tags: [[pink]] [[favorite]] 
+- There is obtuse and impenetrable ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=700))
+    - Tags: [[pink]] 
+- jargon. There is a constant news flow about the world and about your investments. There is a continual need to reevaluate. There are difficult decisions to be made. Investing is often disorienting and spawns many intense moments that are utterly mystifying. This is especially true when you tackle new investment problems whose prospective solutions do not respond to your old ways of doing things. But how do you transform your emotions of chaos, panic, and disorder into potent tools? Where do you begin in your understanding of ([Location 700](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=700))
+    - Tags: [[pink]] 
+- information? ([Location 704](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=704))
+    - Tags: [[pink]] 
+- Because the universe is infinite, it also means that you are a part of It. If you are not a part of It, then the universe is not infinite. Principle I means that you are not separate from the universe. And that provides the natural bridge ([Location 739](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=739))
+    - Tags: [[pink]] 
+- leading to the other large part of the essence of the first principle—everything is interconnected. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=741))
+    - Tags: [[pink]] 
+- Because the universe is infinite you need tools that help you to be in alignment with that vast and bewildering landscape, namely boundary identification and ([Location 752](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=752))
+    - Tags: [[pink]] 
+- exploration. Principle I, Infinity, asks you to be as free of boundaries as possible. For example, in order to wrap the mind around a bewildering event like September 11, 2001, an understanding of personal strengths and limitations is needed. What is more, an understanding of the interconnections of the daunting flow of information is needed—otherwise there is paralysis and an inability to make critical, timely decisions. ([Location 753](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=753))
+    - Tags: [[pink]] 
+- “Only as you do know yourself can your brain serve you as a sharp and efficient tool. ([Location 756](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=756))
+    - Tags: [[pink]] 
+- Know your own failings, passions, and prejudices so you can separate them from what you see.” —BERNARD BARUCH, American ([Location 757](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=757))
+    - Tags: [[pink]] 
+- Financier, Investor (1870–1965) ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=759))
+    - Tags: [[pink]] 
+- For intuition to work fully-fledged, emotions have to be consciously controlled. Otherwise emotions introduce projected prejudice into the signal we receive from our intuitive sense. While emotions do obscure the valuable information that comes to us via our intuition, unlike the typical thinking in the investment world, we do not want to be free of ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=759))
+    - Tags: [[pink]] 
+- our emotions. ([Location 762](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=762))
+    - Tags: [[pink]] 
+- The Gift of Ignorance: Separating the Unknown ([Location 766](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=766))
+    - Tags: [[pink]] 
+- from the Known ([Location 766](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=766))
+    - Tags: [[pink]] 
+- Moments of general investment ignorance are always large money-making opportunities. ([Location 775](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=775))
+    - Tags: [[pink]] 
+- This is because many other investors confronted with the same situation are also experiencing the same strong emotions caused by feeling ignorance that you are, and they are running from those emotions. ([Location 775](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=775))
+    - Tags: [[pink]] 
+- Their choice to punt is your potential gold mine if you can overcome your emotions surrounding ignorance and turn your emotions into advantage. ([Location 777](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=777))
+    - Tags: [[pink]] 
+- That moment where you recognize you feel ignorant is an extraordinarily valuable gift because you have an unambiguous sense of the limitations of what you know. Furthermore, if you have consciousness in that moment then you also have an unambiguous sense of your limitations in how to apply what you know to solve the investment problem at hand. Noticing the ([Location 778](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=778))
+    - Tags: [[pink]] 
+- limits of your knowledge then allows you to place yourself on a mental map that includes all of what you know and all of what you do not know. Best of all, ignorance has an obvious and simple remedy: increase your knowledge. ([Location 780](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=780))
+    - Tags: [[pink]] 
+- The steps to turning your feeling of ignorance into a powerful investment tool: 1. Conscious recognition of when you feel ignorant. 2. Overcome your emotional response 3. Expand yourself by ending the ignorance; if necessary ([Location 782](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=782))
+    - Tags: [[pink]] 
+- repeat steps 1-3 4. Move forward ([Location 785](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=785))
+    - Tags: [[pink]] 
+- CONSCIOUS RECOGNITION The essential key is to notice when you feel ignorant. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=786))
+    - Tags: [[pink]] 
+- You move from having the experience of your emotions to being the observer of your emotions. ([Location 802](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=802))
+    - Tags: [[pink]] 
+- Anxiety is an unconscious manifestation of old emotional traumas, whereas fear is a natural and essential intuitive feeling from deep within yourself ([Location 863](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=863))
+    - Tags: [[pink]] 
+- that serves as a warning of an impending threat that could potentially be harmful to you. The emotion of anxiety is among the most self-destructive in investing. Anxiety can paralyze and lead to catatonic indecision. Yet investing demands that timely, lucid decisions are made even in the presence of discomfort. Worst of all, anxiety is one of the most powerful obstructions to a healthy intuition. ([Location 864](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=864))
+    - Tags: [[pink]] 
+- So a primary difference between anxiety and fear is that new difficult situations, for which you have no natural learned response, ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=905))
+    - Tags: [[pink]] 
+- usually trigger actual fear. ([Location 905](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=905))
+    - Tags: [[pink]] 
+- Whereas, if you have dealt with a similar fearful situation in the past for which you have an automatic, conditioned response, then this is most likely anxiety. But the reason that the brain constructed these defensive mechanisms, experienced as anxiety, is that the source of our intuition is deeply sensitive and is easily wounded. We all have experienced emotional trauma. These past events wounded our feeling selves so defenses were purposely and usefully erected to prevent further damage. The trick is to gain conscious control over ([Location 906](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=906))
+    - Tags: [[pink]] 
+- when these defenses are up and when they are down and also to evaluate whether or not they are still necessary. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=909))
+    - Tags: [[pink]] 
+- Unconscious anxiety does not serve you. Anxiety is the blur of emotion that makes your thinking hazy and prevents you from dismantling old, reflexive, restrictive emotional responses. Anxiety prevents you from growing as a person and as an investor. Fear serves you. It lets you know that you need to pay attention—that the fish is out of its water. So when you are experiencing ([Location 910](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=910))
+    - Tags: [[pink]] 
+- what feels like fear, you must stop and ask yourself if this is in response to a new, difficult, and threatening situation. Or is your response similar to many other similar situations in your past? If this is a new situation, you have to honor your feeling of fear. If you find your response to the situation to be the result of an old pattern, then proceed to the next step. ([Location 913](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=913))
+    - Tags: [[pink]] 
+- Instead you choose to transform your emotions into thoughts. ([Location 918](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=918))
+    - Tags: [[pink]] 
+- So when you experience anxiety, calm down by assuring yourself that you are safe and that you are not in immediate harm. ([Location 920](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=920))
+    - Tags: [[pink]] 
+- With this breathing room, you now change your anxiety from an emotion into a thought. This may take some practice, but it is possible. ([Location 921](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=921))
+    - Tags: [[pink]] 
+- This allows you to switch from the experiencer of your emotions to the observer of your emotions. ([Location 926](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=926))
+    - Tags: [[pink]] 
+- But the overwhelming majority of the time what masquerades as fear is anxiety. Additionally, those anxieties are an emotional response created in the past when you felt vulnerable and incapable in a situation. ([Location 933](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=933))
+    - Tags: [[pink]] 
+- Rejection of paradoxes and emphasis on absolute answers is a sure sign of being too left-brain centric and results in poor decision making. The mental frustration felt when ([Location 1157](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1157))
+    - Tags: [[pink]] 
+- confronted with paradoxes is resolved when ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1158))
+    - Tags: [[pink]] 
+- absolute answers are not pursued, but when answers with probabilities are allowed for instead. ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1159))
+    - Tags: [[pink]] 
+- So an acute awareness on your part that the financial markets’ perceived ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1209))
+    - Tags: [[pink]] 
+- returns ≥ actual risks = a selling opportunity for an investment because those perceived returns are likely delusional. ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1209))
+    - Tags: [[pink]] 
+- In these instances where your awareness that the financial markets’ perceived risks ≥ actual returns = a buying opportunity because investors’ anxieties are likely overblown. ([Location 1211](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1211))
+    - Tags: [[pink]] 
+- Additionally, too much of an emphasis on the past is likely to be an indication of too much of an emphasis on the left brain and its anal retention—there are always more facts to analyze. Obsession with the past is also a very strong indication of either or both the emotions of ignorance and fear being present; nothing that occurred in the past will definitively answer what will happen in the future. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1217))
+    - Tags: [[pink]] 
+- Conversely, too much of an emphasis on the future is likely an indication of too much emphasis ([Location 1220](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1220))
+    - Tags: [[pink]] 
+- on the right brain and its susceptibility to outright fantasy. Obsession with the future is a very strong indication of too much emotion in your analysis—most likely too much enthusiasm. ([Location 1220](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1220))
+    - Tags: [[pink]] 
+- Context can also mean “point of view.” To illustrate this, let’s use a classic example from the movie Annie Hall when Alvy Singer and Annie Hall are both visiting their ([Location 1304](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1304))
+    - Tags: [[pink]] 
+- therapists:16 Alvy Singer’s Therapist: “How often do you sleep together?” Annie Hall’s Therapist: “Do you have sex often?” Alvy Singer: [lamenting] “Hardly ever. Maybe three times a week.” Annie Hall: [annoyed] “Constantly. I’d say three times a week.” Who is right in the above example? The facts are the same for both Alvy Singer and Annie Hall however, the context/point of ([Location 1305](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1305))
+    - Tags: [[pink]] 
+- view is radically different and consequently, the meaning is totally different. So when confronted with facts, and especially the opinions that they support, you must ask yourself: Is the context correct? If the context is not correct then it usually means there is bias or an attempt to mislead in the information. Yikes! ([Location 1310](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1310))
+    - Tags: [[pink]] 
+- INVESTMENT ([Location 1333](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1333))
+    - Tags: [[pink]] 
+- APPLICATIONS 1. Knowing that you have to establish context to begin understanding information suggests the permanent first step for analysis: choosing what feels important to you. 2. Understanding the importance of congruency between questions and answers, and contexts and analysis, means that you avoid situations when the feeling of accord is not present. In turn, you are less fooled by data that has been manipulated. ([Location 1333](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1333))
+    - Tags: [[pink]] 
+- To this end the Seven Essential Investor Behaviors are introduced. Adherence to these Behaviors ([Location 1868](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1868))
+    - Tags: [[pink]] 
+- provides a ready-made, potent structure for the investor’s right brain. ([Location 1868](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1868))
+    - Tags: [[pink]] 
+- Next the Intuitive Investor Tool Kit is given. The three tools are Your Cousin Vinny, the Investment Thesis, and the Lessons Learned List. Each tool uniquely addresses each moment of the life of an investment: before buying, while holding, and after selling. ([Location 1869](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1869))
+    - Tags: [[pink]] 
+- Seven Essential Investor Attitudes ([Location 1872](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1872))
+    - Tags: [[pink]] 
+- The essence of the third Principle, Harmonizing, is understanding. ([Location 1893](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1893))
+    - Tags: [[pink]] 
+- Attitude is the orientation of a mind relative to its direction of motion. ([Location 1936](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1936))
+    - Tags: [[pink]] 
+- Attitude 1: Focus on Risks Before Opportunities ([Location 1938](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1938))
+    - Tags: [[pink]] 
+- Money moves very fast, and minds move even faster. ([Location 1959](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1959))
+    - Tags: [[pink]] 
+- If I am uncomfortable with even one major risk in a prospective investment, I do ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1976))
+    - Tags: [[pink]] 
+- not invest. ([Location 1976](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1976))
+    - Tags: [[pink]] 
+- Please remember, that all rules have exceptions (Principle II, Paradox, at work) so use your wisdom in assessing when to apply this rule: focus on the risks of investing before the opportunities for investing. ([Location 1978](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1978))
+    - Tags: [[pink]] 
+- The same business risks tend to repeat themselves over and over again predictably resulting in investment losses. ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1982))
+    - Tags: [[pink]] 
+- Focusing on risk before opportunity helps you to preserve the capital you already have. ([Location 1983](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1983))
+    - Tags: [[pink]] 
+- It has been my ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1984))
+    - Tags: [[pink]] 
+- experience that investment returns often happen slowly and over many years, whereas investment losses usually happen extraordinarily rapidly. ([Location 1984](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1984))
+    - Tags: [[pink]] 
+- So preservation of your capital is more important than growth of your capital. ([Location 1985](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1985))
+    - Tags: [[pink]] 
+- They feel that even the speed of a fruit fly’s wings around your apple next summer is determinable with their formulae and initial conditions! These folks are known as determinists. ([Location 1996](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=1996))
+    - Tags: [[pink]] 
+- When you describe the universe (that is, creating models/formulas/theories/approximations) it is important to “maximize the ignorance” of any such equation. ([Location 2002](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2002))
+    - Tags: [[pink]] 
+- While most people like the idea of reducing the world and investing down to mathematical certainty, the fact is that this can never be done. ([Location 2017](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2017))
+    - Tags: [[pink]] 
+- Determinism is just another variation of that perennial human desire: a need for certainty. ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2018))
+    - Tags: [[pink]] 
+- Yet the future remains disgustingly uncertain. To be investors (believers in the future) ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2018))
+    - Tags: [[pink]] 
+- you must become comfortable with uncertainty. ([Location 2019](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2019))
+    - Tags: [[pink]] 
+- Determinists we are not! Investors have the attitude that the future is unknown and you act accordingly. Investors are comfortable with uncertainty. ([Location 2019](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2019))
+    - Tags: [[pink]] 
+- What the heck did Murray Gell-Mann mean by “maximize the ignorance”? ([Location 2020](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2020))
+    - Tags: [[pink]] 
+- Maximizing the ignorance is another way of saying: minimize the B.S. ([Location 2023](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2023))
+    - Tags: [[pink]] 
+- Comfort with uncertainty helps to eliminate anxiety so in the long run you make better investment decisions. ([Location 2031](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2031))
+    - Tags: [[pink]] 
+- If you are comfortable with uncertainty then you are more likely to invest. Only by investing can future investment benefits be realized. 3. Being comfortable with uncertainty eliminates the “heaping data” problem. Too much data is a sign of too much left-brained thinking and anxiety. Too much data can confuse rather than illuminate investment ([Location 2032](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2032))
+    - Tags: [[pink]] 
+- analysis. Comfort with uncertainty leads to you being more decisive. Ultimately, decisiveness also helps to eliminate problems associated with poor timing. ([Location 2035](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2035))
+    - Tags: [[pink]] 
+- Attitude 3: A Good Decision Is Most Often ≥ the “Perfect” Decision ([Location 2036](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2036))
+    - Tags: [[pink]] 
+- To become better investors you must realize that a “good” decision is most often greater than, or equal to (≥), the “perfect” decision. Pursuits of perfection are very expensive and a sign of ([Location 2037](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2037))
+    - Tags: [[pink]] 
+- the left-brain’s absolutist thinking. That perfection is expensive is practically a law of nature. Consider the following example from environmental economics. Imagine you have a polluted river needing to be cleaned up. You have a clean-up budget of $100 million. It takes roughly 10% of the money to get the river 90% clean. It takes the remaining 90% of the money to get the river 99% clean. The costs of cleanup skyrocket rapidly. Perfection is expensive. Another example: ([Location 2038](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2038))
+    - Tags: [[pink]] 
+- Think of the training needed to become an expert athlete. Most can reach the 90th percentile by investing two years of our lives to get there. However, to get to the level of skilled professionals, the 99th percentile, takes around twenty years, or ten times as much time. Perfection is expensive! ([Location 2042](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2042))
+    - Tags: [[pink]] 
+- When making a decision to buy or not buy an investment, it is important that your attitude is to focus on making a good decision, and not the perfect decision. ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2044))
+    - Tags: [[pink]] 
+- This thinking is relativistic in nature and strongly ([Location 2045](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2045))
+    - Tags: [[pink]] 
+- in accord with right-brain thinking. ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2046))
+    - Tags: [[pink]] 
+- Since it’s impossible to know the perfect decision ahead of time the consistent investment strategy for the ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2049))
+    - Tags: [[pink]] 
+- Intuitive Investor is to come up with a set of possible decisions. ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2049))
+    - Tags: [[pink]] 
+- Because each of your analyses are likely intelligent, all of your possible decisions are likely good decisions. Thus, a bad decision is unlikely. If you insist on searching for the “perfect” decision you will likely both expend many resources and become paralyzed and unable to make a decision. There is a time and place for the “perfect” decision, but only very rarely. ([Location 2050](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2050))
+    - Tags: [[pink]] 
+- Attitude 4: Forgive Yourself for Not Being Perfect ([Location 2059](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2059))
+    - Tags: [[pink]] 
+- Accepting your mistakes as inevitable removes the left brain’s absolutist perfection pressures. This leads to greater decisiveness. 2. Forgiving yourself for not being perfect gives you the ability to exit the emotional space that ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2071))
+    - Tags: [[pink]] 
+- distorts thinking and intuition. In turn this allows you to learn from your mistakes. ([Location 2073](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2073))
+    - Tags: [[pink]] 
+- After my divorce I was dating again and very interested in a woman. I felt that I was in love. Frustratingly, the woman does not share my affection. I talk with ([Location 2113](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2113))
+    - Tags: [[pink]] 
+- my good friend Angela B. who says, “You need to learn the rule of 2.5.” Puzzled, I say, “What the heck is the rule of 2.5?” Angela says, “There are 2.5 billion women on the planet, why does it have to be this one? “Hmmm,” I say. ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2114))
+    - Tags: [[pink]] 
+- Take for example the following quote from the economist, Aaron ([Location 2129](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2129))
+    - Tags: [[pink]] 
+- Levenstein: ([Location 2130](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2130))
+    - Tags: [[pink]] 
+- “Statistics are like a bikini: What they reveal is suggestive, but what they conceal is vital.” ([Location 2130](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2130))
+    - Tags: [[pink]] 
+- Clearly, Mr. Levenstein is someone with such an expert understanding of statistics, that when he sees a woman in a bikini, he also sees how it relates to statistics. This is one of the hallmarks of the right brain. So a clue to someone who has an excellent right brain is someone who uses analogy well. You can use this to evaluate the management of a ([Location 2132](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2132))
+    - Tags: [[pink]] 
+- prospective investment. Unfortunately analogy is also a source of manipulation of information and consequently, of investors. Two important things to remember about analogy:24 1. No analogy is perfect. There is always at least one difference between two things being compared. If they were identical then there wouldn’t be two things to compare. 2. There is always some similarity ([Location 2134](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2134))
+    - Tags: [[pink]] 
+- between any two objects, no matter how different. ([Location 2138](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2138))
+    - Tags: [[pink]] 
+- This doesn’t mean investors have responsibility ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2356))
+    - Tags: [[pink]] 
+- for everything in the world, but it does mean responsibility for the power investors have and how they wield it. ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2356))
+    - Tags: [[pink]] 
+- “The difference between an investment analyst and an investor is that the analyst aims ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2376))
+    - Tags: [[pink]] 
+- the gun and the investor pulls the trigger.” ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2376))
+    - Tags: [[pink]] 
+- To clearly see the truth of the universe external to oneself, investors must know the honest internal truth about themselves; otherwise there ([Location 2409](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2409))
+    - Tags: [[pink]] 
+- are distortions. Unfortunately, distortions lead to inaccurate assessments of the information landscape. Those inaccurate assessments lead to mistakes and in turn, those mistakes lead to losing money. ([Location 2410](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2410))
+    - Tags: [[pink]] 
+- Additionally, if investors are not honest with ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2412))
+    - Tags: [[pink]] 
+- themselves then they are likely to make the same investment mistakes over and over again. Worst of all, investors not knowing their own truth obscures their ability to discern the truth around them. ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2412))
+    - Tags: [[pink]] 
+- Intelligence is intellectual maturity. By maturity, I mean a fully seasoned intelligence, characterizing one capable of adapting to most situations and solving new problems. There are three major components of intelligence; namely: ([Location 2457](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2457))
+    - Tags: [[pink]] 
+- 1. knowledge 2. memory 3. creativity ([Location 2459](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2459))
+    - Tags: [[pink]] 
+- You need to have a good understanding of the difference between intelligence and wisdom ([Location 2479](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2479))
+    - Tags: [[pink]] 
+- to properly nurture both. But the difficulty in discriminating between the two is that wisdom is mostly a nebulous topic. You know wisdom when you see it but most people probably cannot be relied upon for a solid definition. Most think that wisdom is a subset of intelligence. The hole in this logic is that it means only intelligent people are wise. But everyone has known someone simple who is full of wisdom. Similarly, I have known many intelligent executives who have done very unwise things that resulted in the ruining of their ([Location 2479](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2479))
+    - Tags: [[pink]] 
+- careers, the loss of tremendous wealth, and in their imprisonment (e.g., Jeff Skilling of Enron, Dennis Kozlowski of Tyco and Bernie Ebbers of Worldcom). Intelligence and wisdom are not the same thing—not even close. Earlier I said that wisdom is emotional maturity. What this really means is having conscious awareness of your emotions to minimize their distorting effects. I define wisdom as: the degree to which you are in accord with reality. ([Location 2483](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2483))
+    - Tags: [[pink]] 
+- Here’s my favorite quote about courage. It comes from the movie Three Kings. The scene is just prior to the characters involved going into battle to rescue a captured comrade: Conrad Vig (CV): “Wait, hold on a minute, I wanna go over this plan one more time.” Archie Gates (AG): “You’re scared, right?” CV: “Maybe.” AG: “The way this works is, you do the thing you’re scared sh*tless of, and you ([Location 2576](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2576))
+    - Tags: [[pink]] 
+- get the courage after you do it. Not before you do it.” CV: “That’s a dumb-ass way to work. It should be the other way around.” AG: “I know, [but] that’s the way it works.” ([Location 2581](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2581))
+    - Tags: [[pink]] 
+- Do the investments you have judged perform as you expect them to perform? ([Location 2636](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2636))
+    - Tags: [[pink]] 
+- “Assuming There Is a Why” pulls all of the preceding Seven Essential Investor Behaviors together. Imagine you want to understand an investment before purchase: 1. Your first behavior is responsibility. Before making the investment you take responsibility for your decision to: begin your ([Location 2652](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2652))
+    - Tags: [[pink]] 
+- investigative process; analyze the prospective investment; eventually invest, or not invest. 2. Assuming you analyze the investment candidate then it’s critical that you are honest with yourself about your analytical limitations, investment goals and reasons for selecting an investment. 3. In your analysis and purchase decision you use both your intelligence and your wisdom to make an effective choice. This includes using your knowledge; ([Location 2655](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2655))
+    - Tags: [[pink]] 
+- accumulating more knowledge; being creative in your analysis; tuning into your feelings (as opposed to emotions) to discover the truth of the investment situation; remaining non-attached as you investigate your facts and feelings; and using your intuition to assess the future prospects of the investment. 4. You avoid any prejudices you may have and with the accumulated facts, and your creative and intuitive insights, you judge the ([Location 2659](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2659))
+    - Tags: [[pink]] 
+- investment. 5. Then you muster your courage to either invest or not to invest. 6. After your decision you have conviction that your choice is a good one. 7. All of these behaviors are components of the “why” of why you end up investing. ([Location 2662](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2662))
+    - Tags: [[pink]] 
+- YOUR COUSIN VINNY Imagine your cousin Vincent approaches you to invest in a coffee shop that is for sale in your hometown. Importantly, Vinny wants you to put up all of the money to purchase the business. So you will be providing all of the cash equity. In return Vinny offers all of his knowledge and labor to run the coffee shop—this is the sweat equity. ([Location 2731](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2731))
+    - Tags: [[pink]] 
+- What are the questions you need to ask Vinny before you are comfortable giving him your hard won dollars for the java shop? You grew up in a capitalist culture and have many years of experience as a consumer. This means you also have a wealth of knowledge to draw on when evaluating the quality of Vincent’s coffee shop idea. Because this is one of the most critical exercises of the entire book, you should really do the exercise. Twenty questions is the minimum number of questions allowed. ([Location 2734](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2734))
+    - Tags: [[pink]] 
+- Write your questions for Vinny down in your notebook right now. Now compare your questions with my list of potentially relevant questions: ([Location 2738](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2738))
+    - Tags: [[pink]] 
+- While this list of questions to ask of your cousin Vinny is very long, it is representative of the important issues confronting most businesses. Feel free to use it going forward in evaluating other investment opportunities. How’d you do? Was there a lot of overlap between your list and mine? Are you surprised at how many of the pertinent issues you understood and listed? How many of the issues you identified ([Location 2816](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2816))
+    - Tags: [[pink]] 
+- did not show up on my list? Do not discount these issues as they came from you personally and therefore they are very important in your personal evaluation of an investment. The “Your Cousin Vinny” exercise is the exact mindset you need as you analyze a business for investment. Over the years I have done this exercise many times with family members, friends, stock brokers and audiences of investors, and no one has ever failed to identify the important issues of a prospective ([Location 2819](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2819))
+    - Tags: [[pink]] 
+- investment. Let me reiterate that point: audiences have never failed to identify the most pressing issues of a prospective investment. More importantly my audiences have also never, ever, come up with questions such as: “What is the moving average price of coffee shops sold over the last 270 days?” or “… ([Location 2823](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2823))
+    - Tags: [[pink]] 
+- “What are analysts/talking heads saying about coffee houses?” You recognize these sorts of questions, don’t you? These are the types of questions typically asked regarding potential stock market purchases. Interestingly, these sorts of questions don’t come up when I ask: “What are the questions you need to ask Vinny before you are comfortable giving… ([Location 2828](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2828))
+    - Tags: [[pink]] 
+- asked because “Your Cousin Vinny” is the perfect context for evaluating a business for investment. The context is that of an iffy family member wanting to buy a local business. This immediately emphasizes that: You are investing in a business, not a piece of paper (a stock). There is a real chance of loss if you aren’t… ([Location 2832](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2832))
+    - Tags: [[pink]] 
+- You have the innate knowledge necessary to analyze investments. In other words, there is a profound sense of ownership when the question of investing is asked in this context. Most importantly, once you take the magic word “stock” out of the question, and say “java shop” then everyone identifies the relevant issues. Investors invest in businesses, not in stocks, bonds,… ([Location 2837](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2837))
+    - Tags: [[pink]] 
+- business among many. So what is it about the word “stock” that causes people to go all loopy and to forget themselves, and to cast their intelligence and wisdom out the window? I feel it has to do with the collective unconscious wherein resides the notion that stocks are equated with huge fortunes won, similar to the winnings from lotteries or in gambling. This is crazy. The only difference… ([Location 2842](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2842))
+    - Tags: [[pink]] 
+- market transaction like the stock market, is liquidity. Liquidity is the ability to buy or sell your interest very quickly and at a fair price. This is the real and only magic of the stock market (or bond market or options market or commodities market or …). What the… ([Location 2845](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2845))
+    - Tags: [[pink]] 
+- After you have become comfortable with the business issues identified in your… ([Location 2849](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2849))
+    - Tags: [[pink]] 
+- yourself whether or not this is a good business. But, and this is a big but, good businesses do not necessarily make good investments. The only difference… ([Location 2849](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2849))
+    - Tags: [[pink]] 
+- is… ([Location 2851](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2851))
+    - Tags: [[pink]] 
+- The Investment Thesis is the contractual document you write that outlines the relationship between you and your investment. Just like all contracts The Investment Thesis provides the grounds for evaluating the relationship in an objective, legal-like ([Location 2920](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2920))
+    - Tags: [[pink]] 
+- fashion. Because you are the only witness to this agreement you must respect the Investment Thesis with sanctity. This means that if an investment violates the Investment Thesis that you have created then you will agree to sell it, rather than rationalizing a continued reason to own it. The Investment Thesis provides the perfect context for evaluating your ongoing relationship with an investment while you hold it. Before you can write an investment thesis you need to have evaluated a prospective ([Location 2921](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2921))
+    - Tags: [[pink]] 
+- investment first. However, if you are not currently considering an investment, use an investment that you either made in the past or an investment you currently own. Most importantly, before writing an investment thesis make sure that you are feeling grounded and not charged with emotions. In particular, you want to be free of elation, fear, or disgust about a prospective… ([Location 2925](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2925))
+    - Tags: [[pink]] 
+- objective, non-attached mindset. This serves as the basis for evaluating potentially emotionally charged issues surrounding your investment. Examples include bad news about the business, a rapid decline in the value of shares of stock in the business’s industry, and a violation of your Investment… ([Location 2929](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2929))
+    - Tags: [[pink]] 
+- “mission drift.” This is where bad news is rationalized away by an investor. Referring back to the Investment Thesis ensures that no such rationalization can take place. The knowledge you have accumulated about the business is fresh in your mind. This ensures that you do not forget any… ([Location 2932](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2932))
+    - Tags: [[pink]] 
+- As time goes on the Investment Thesis will represent the minimum amount of knowledge you have about the business as you will be… ([Location 2935](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2935))
+    - Tags: [[pink]] 
+- Now write down in your notebook the name of the investment and the current date at the top of the document (see the Appendix for a sample investment thesis). Next record your investment… ([Location 2937](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2937))
+    - Tags: [[pink]] 
+- own this business? Alternatively, how long do you expect this business to contribute desirable returns to your portfolio? Write down the strengths of the business—more is better than less at this point. For each strength you record, also include an estimate for how long you feel each strength might be in place. For example, if you feel that the business has a dominate product,… ([Location 2938](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2938))
+    - Tags: [[pink]] 
+- imagine ways in which the strengths could be overcome by competition or pure chance. Now write down the weaknesses of the business—more is better than less. For each weakness include an estimate for how long you believe each of the weaknesses might be in place. Play “devil’s advocate” and imagine ways that the weaknesses could be overcome by management efforts or pure chance. The… ([Location 2942](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2942))
+    - Tags: [[pink]] 
+- ignorant. Alternatively, what aspects of the business would you like to understand better? Also write down the things about the business that you feel anxious about. Now write down a brief list of “The reasons I feel like buying this investment.” The list must be brief because restricting the list to brevity ensures that you will only list the most important issues. In your notebook, make a… ([Location 2945](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2945))
+    - Tags: [[pink]] 
+- up with a short list of “the things that might cause me to sell the investment immediately.” Next write down the price you feel is reasonable to pay for an interest in the business. Now evaluate your investment thesis. How do you feel about this business? Are you comfortable? If not, what things make you feel uncomfortable? Do you need more information? If so, where will… ([Location 2949](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2949))
+    - Tags: [[pink]] 
+- the business, especially relative to the price you feel is worth paying? If you buy an interest in the business, record on your investment thesis the following: The price you paid for the investment next to your estimate of a price that is reasonable to pay. The date of your purchase next to your estimated investment time horizon. Your investment thesis is a living document so you must update the thesis to reflect new and pertinent information that affects any aspect of the thesis that is already written down. Importantly: this does not give you the power to radically change the thesis as artificial support for your emotional connection to an investment!! INVESTMENT APPLICATIONS What Else Do I Need To… ([Location 2953](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2953))
+    - Tags: [[pink]] 
+- else your emotions are getting in the way of you being decisive. These are the very issues addressed in chapter three, “The Infinite… ([Location 2962](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=2962))
+    - Tags: [[pink]] 
+- Context for Understanding Information After Selling: The Lessons Learned List ([Location 3001](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=3001))
+    - Tags: [[pink]] 
+- EXERCISE: CREATING “THE LESSONS LEARNED LIST” ([Location 3015](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=3015))
+    - Tags: [[pink]] 
+- Unequivocally stated, my religion is the ([Location 3173](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=3173))
+    - Tags: [[pink]] 
+- collection of my experiences. ([Location 3173](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=3173))
+    - Tags: [[pink]] 
+- That is all I am asking you: believe in your ([Location 3177](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=3177))
+    - Tags: [[pink]] 
+- experiences. ([Location 3177](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=3177))
+    - Tags: [[pink]] 
+- The secret to the power you seek is to harmonize with that which you wish to become and you shall become it.43 ([Location 3320](https://readwise.io/to_kindle?action=open&asin=B00AJQYDXU&location=3320))
+    - Tags: [[pink]]
+

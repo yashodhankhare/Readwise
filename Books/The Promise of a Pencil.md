@@ -1,0 +1,356 @@
+---
+tags:
+  - readwise
+---
+
+# The Promise of a Pencil
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/515Yr7yPVBL._SL200_.jpg)
+
+## Metadata
+- Author: [[Adam Braun]]
+- Full Title: The Promise of a Pencil
+- Category: #books
+
+## Highlights
+- I believe that where you start in life should not dictate where you finish. ([Location 108](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=108))
+    - Tags: [[pink]] 
+- This is the story about what happens when you acknowledge that there’s ([Location 116](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=116))
+    - Tags: [[pink]] 
+- more for you to become, and that you don’t have to have enormous resources to make a difference in the world. It’s a story about what can unfold when inspiration strikes and you realize that the rewards of living a purposeful life are rich and lasting. It’s the story of my life (although I have changed the names of several people at their request), but it’s a story that can belong to anyone. Each of the thirty chapters in this book ([Location 117](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=117))
+    - Tags: [[pink]] 
+- is titled with a mantra. These mantras have served as my guideposts as I’ve faced decisions both large and small. They have become my essential truths. I’ve written them with the hope that they will be carried forward, shared with others, and adopted in ways that help you on your own journey as well. Each story stands on its own, but taken together they create a roadmap that I hope will enable you to turn your own ([Location 120](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=120))
+    - Tags: [[pink]] 
+- dreams into reality. If one of these stories ignites something within you, listen to that restless feeling that your head may tell you to ignore but your heart will tell you to pursue. The biggest difference between the person who lives his or her dreams and the person who aspires is the decision to convert that first spark of motivation into immediate action. Take the first small step, then chase the footprints you aspire to leave ([Location 123](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=123))
+    - Tags: [[pink]] 
+- behind. Every person has a revolution beating within his or her chest. I hope that this book helps you find yours. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=126))
+    - Tags: [[pink]] 
+- WHY BE NORMAL ([Location 128](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=128))
+    - Tags: [[pink]] 
+- Every night before we went out to parties in middle and high school, my dad would say, “Remember Dad’s Rules.” ([Location 161](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=161))
+    - Tags: [[pink]] 
+- Dad’s Rules meant “Don’t do anything that you wouldn’t do if Dad were watching. Choose your actions as if Dad were next to you the whole time.” ([Location 161](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=161))
+    - Tags: [[pink]] 
+- These expectations of excellence became the tent poles that formed our values, and our values then guided the choices we made. They served as a constant reminder that to achieve exceptional things, you must… ([Location 163](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=163))
+    - Tags: [[pink]] 
+- what others may think. My dad even went so far as to order license plates that read YBNML, which my scared middle school friends always assumed meant “why be an animal.” The… ([Location 165](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=165))
+    - Tags: [[pink]] 
+- My dad’s intensity and belief in the power of nonconformity no doubt were born from his parents’… ([Location 167](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=167))
+    - Tags: [[pink]] 
+- fourteen, my grandmother Eva (known to us as Ma) and twenty-seven family members including her mother and twelve-year-old sister were forced from their home in Hungary and placed in a ghetto with the other Jews from their town. From there, they were transported in cattle cars to the most feared of concentration camps, Auschwitz.… ([Location 168](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=168))
+    - Tags: [[pink]] 
+- or right. Ma’s entire family was ordered to go left, but because she was of working age, the doctor insisted that she walk to the right. As a scared young girl, she cried and refused to leave her mother and sister’s side. The Nazi guards beat her until she was unconscious. When she woke up, she pleaded with the other camp prisoners to tell her… ([Location 171](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=171))
+    - Tags: [[pink]] 
+- family were sent to the gas chambers, killed, and cremated the day of their arrival in Auschwitz. After six months in the camp, surviving brutal conditions and watching countless others die next to her each day, Ma was transported to a new concentration camp. In her words, “Bergen-Belsen camp was even worse than Auschwitz. You were only there… ([Location 174](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=174))
+    - Tags: [[pink]] 
+- and the belief that she needed to survive to make sure he had at least one other family member kept her spirit strong enough to go on each day. That sense of purpose enabled her to survive through conditions in which many others perished. After she spent eight months in Bergen-Belsen, the war ended and British GIs… ([Location 177](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=177))
+    - Tags: [[pink]] 
+- ultimately saved her life because others fed her slowly enough to allow her stomach to readjust to solid foods. She had nearly starved to death, and she would not allow that fate for her grandchildren. Later she became almost obsessed with watching us eat. She often spent days preparing chicken-noodle soup, brisket, ice-cream sandwiches,… ([Location 180](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=180))
+    - Tags: [[pink]] 
+- finished, another whopping portion appeared. “There’s dessert too, my angels,” she would say, nodding with approval. Once recovered, Ma took that long-awaited ride back to Hungary to find her father. While others reunited with loved ones in tears of joy, she found herself alone at the train station in Budapest. Her father… ([Location 183](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=183))
+    - Tags: [[pink]] 
+- she phoned the only other relative she thought might be alive, her uncle, and he offered to take her in. A few years later, Ma’s uncle offered to introduce her to a friend of his, Joseph, who was also a Holocaust survivor. He had lived through a year at the Dachau concentration camp, where both of his younger brothers and his… ([Location 186](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=186))
+    - Tags: [[pink]] 
+- loss, they created a profound bond. Joseph Braun soon asked Eva to marry him, and after they were married, she gave birth to a girl and a boy. The boy, Ervin Braun, is my father. When the Hungarian Revolution broke out in 1956, they planned an escape across international borders to the safety of the United States. My grandfather (… ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=188))
+    - Tags: [[pink]] 
+- night and then returning to gather his mother, sisters, wife, and children. After they stowed away in a packed boat of immigrants, traveling thirteen days across the Atlantic Ocean to arrive in New York City, my father and his family spent their first nights on American soil in a Jewish refugee camp. With the assistance of a… ([Location 191](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=191))
+    - Tags: [[pink]] 
+- grandfather worked as a dental technician making fake teeth, and my grandmother worked in a sweatshop. For ten years she worked for just $1 per day, knitting garments in horrific conditions so that her… ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=194))
+    - Tags: [[pink]] 
+- My mother’s favorite word is integrity, as it’s the quality she was raised to value most. ([Location 205](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=205))
+    - Tags: [[pink]] 
+- GET OUT OF YOUR COMFORT ZONE ([Location 255](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=255))
+    - Tags: [[pink]] 
+- I began to ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=305))
+    - Tags: [[pink]] 
+- see that success in life isn’t about conforming to the expectations of others, but about achieving personal fulfillment. ([Location 305](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=305))
+    - Tags: [[pink]] 
+- True self-discovery begins where your comfort zone ends, ([Location 323](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=323))
+    - Tags: [[pink]] 
+- KNOW THAT YOU HAVE A PURPOSE ([Location 325](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=325))
+    - Tags: [[pink]] 
+- Adversity bonds people more often than it breaks them. ([Location 437](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=437))
+    - Tags: [[pink]] 
+- Out of catastrophe emerged clarity. ([Location 445](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=445))
+    - Tags: [[pink]] 
+- EVERY PENCIL HOLDS A PROMISE ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=449))
+    - Tags: [[pink]] 
+- Before I got on the ship, I had decided I would ask one child per country, “If you could have anything in the world, what would you want most?” ([Location 455](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=455))
+    - Tags: [[pink]] 
+- Listening intensely is a far more valuable skill than speaking immensely. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=469))
+    - Tags: [[pink]] 
+- realized that even big waves start with small ripples. This is my thing, I thought. Rather than offering money or nothing at ([Location 515](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=515))
+    - Tags: [[pink]] 
+- all, I’m going to give kids pencils and pens as I travel. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=516))
+    - Tags: [[pink]] 
+- DO THE SMALL THINGS THAT MAKE OTHERS FEEL BIG ([Location 556](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=556))
+    - Tags: [[pink]] 
+- Purpose can manifest from so many different ([Location 618](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=618))
+    - Tags: [[pink]] 
+- places, but it most often appears through the small things that enable us to feel connected to a broader whole. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=618))
+    - Tags: [[pink]] 
+- TOURISTS SEE, TRAVELERS SEEK ([Location 623](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=623))
+    - Tags: [[pink]] 
+- but when your faith is tested you simply have to believe that there will be light ahead and continue moving forward. ([Location 672](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=672))
+    - Tags: [[pink]] 
+- At the greatest levels of affluence, and the deepest levels of poverty, parents share the same desire for their children to have a better future. The willingness to sacrifice their own well-being for the betterment of their ([Location 752](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=752))
+    - Tags: [[pink]] 
+- children is the common thread I witnessed across mothers and fathers from vastly different cultures. ([Location 754](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=754))
+    - Tags: [[pink]] 
+- ASKING FOR PERMISSION IS ASKING FOR DENIAL ([Location 763](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=763))
+    - Tags: [[pink]] 
+- “There actually will be times in life when you should choose money over experience,” he said with a stern voice, “but make that choice when the ([Location 811](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=811))
+    - Tags: [[pink]] 
+- margin is much bigger, when the margin is millions of dollars, not thousands. Although fifty thousand dollars is a lot of money to you right now, in the grand scheme of things, experience will be much more ([Location 812](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=812))
+    - Tags: [[pink]] 
+- valuable in the long run.” ([Location 813](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=813))
+    - Tags: [[pink]] 
+- I wish I was more interested in this work, but it’s just not for me. Find your ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=829))
+    - Tags: [[pink]] 
+- passion, and you’ll find your strength. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=830))
+    - Tags: [[pink]] 
+- Asking for permission opens the door for denial, and in this instance I would not be denied. The willingness to aggressively go after what I wanted most had become the other personality trait that I was known for at the company, so she was aware that I would do whatever it took to get on the case. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=859))
+    - Tags: [[pink]] 
+- EMBRACE THE LIGHTNING MOMENTS ([Location 867](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=867))
+    - Tags: [[pink]] 
+- People think big ideas suddenly appear on their own, but they’re actually the product of many small, intersecting moments and realizations that move us toward a breakthrough. ([Location 912](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=912))
+    - Tags: [[pink]] 
+- The difference between a lunatic and a leader is that only one of them has others who join in his or her pursuit. ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1071))
+    - Tags: [[pink]] 
+- PRACTICE HUMILITY OVER HUBRIS ([Location 1081](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1081))
+    - Tags: [[pink]] 
+- I’d learned a valuable lesson. It’s in the ([Location 1157](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1157))
+    - Tags: [[pink]] 
+- moments when you feel most confident that you are most likely to fall flat on your face. ([Location 1158](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1158))
+    - Tags: [[pink]] 
+- In truth we re-create our reputation every day. Journalists with thirty years of credibility have washed their careers down the drain with one plagiarized paragraph. I had soiled months of ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1159))
+    - Tags: [[pink]] 
+- good work with one lazy night. We each bear responsibility to prove ourselves day in and day out and have no one to blame but ourselves for the outcome. As much as I resented Prescott at the time, I later realized my three weeks with him were some of the most beneficial of my entire career. He put me in my place when it was necessary. We learn far more from our mistakes than we do from our successes, and although it nearly cost ([Location 1161](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1161))
+    - Tags: [[pink]] 
+- me my job and my best opportunity to start PoP, he was right to demand nothing short of excellence. I would never make the same mistakes again. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1163))
+    - Tags: [[pink]] 
+- Luckily for me, the world provides us with second chances, and the timing of my promotion was perfect. ([Location 1164](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1164))
+    - Tags: [[pink]] 
+- SPEAK THE LANGUAGE OF THE PERSON YOU WANT TO BECOME ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1169))
+    - Tags: [[pink]] 
+- The more we speak in the voice of our most aspirational self, the ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1279))
+    - Tags: [[pink]] 
+- closer we pull our future into our present. ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1280))
+    - Tags: [[pink]] 
+- WALK WITH A PURPOSE ([Location 1286](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1286))
+    - Tags: [[pink]] 
+- They say, “Not all who wander are lost,” and my travels now took on a distinct purpose. ([Location 1288](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1288))
+    - Tags: [[pink]] 
+- In any confrontation, most people focus on the perpetrator and the victim. There is an inherent expectation that had one of these two acted differently, the outcomes of a conflict may have been averted. But the greatest opportunity actually exists within the role of the bystander, the person who neither benefits nor gains from the event itself. When a bystander ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1349))
+    - Tags: [[pink]] 
+- steps up on behalf of a potential victim, just as that tuk-tuk driver did for me that day on the streets of Kathmandu, he or she becomes the very definition of a hero. We are more often bystanders to conflict than we are victims or perpetrators, and with that comes the recognition that we have a moral obligation to defend others, even when the crosshairs of injustice aren’t pointed at us personally. ([Location 1352](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1352))
+    - Tags: [[pink]] 
+- HAPPINESS IS FOUND IN CELEBRATING OTHERS ([Location 1380](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1380))
+    - Tags: [[pink]] 
+- FIND THE IMPOSSIBLE ONES ([Location 1421](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1421))
+    - Tags: [[pink]] 
+- And although I didn’t have deep pockets behind me at the start, I had a far more potent weapon—conviction in a set of unique beliefs. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1476))
+    - Tags: [[pink]] 
+- We created an enemy for us to rebel against (this belief that our approach was “impossible”), which is one of the fastest ways to unite people around a common goal. ([Location 1478](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1478))
+    - Tags: [[pink]] 
+- FOCUS ON ONE PERSON IN EVERY ROOM ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1484))
+    - Tags: [[pink]] 
+- READ THE SIGNS ALONG THE PATH ([Location 1571](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1571))
+    - Tags: [[pink]] 
+- Become Your Dream. ([Location 1663](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1663))
+    - Tags: [[pink]] 
+- CREATE SEPARATION TO BUILD CONNECTION ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1682))
+    - Tags: [[pink]] 
+- Sometimes you have to fake it until you make it, and this was definitely one of those times. ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1686))
+    - Tags: [[pink]] 
+- Leaders from every red-hot start-up were in attendance, and whether people were onstage or in the audience, they clearly all ([Location 1730](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1730))
+    - Tags: [[pink]] 
+- shared the same general path. Most had been told no, but they refused to give up. They were confident and unflappable, but they weren’t afraid to ask for help. And they had all failed at times. But they learned more from their mistakes than their successes. ([Location 1731](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1731))
+    - Tags: [[pink]] 
+- How many times have I missed an ([Location 1746](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1746))
+    - Tags: [[pink]] 
+- incredible connection that could have been made because I had my face in my phone instead of paying attention to those around me? ([Location 1746](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1746))
+    - Tags: [[pink]] 
+- I also thought back to my college basketball days, and remembered that muscles are not strengthened as you are lifting weights. In fact, lifting heavy weights actually creates small tears that slightly damage your muscles. But through the act of recovery, your body repairs these small ([Location 1747](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1747))
+    - Tags: [[pink]] 
+- tears in ways that help your muscles grow in size and strength. In other words, the recovery period is just as essential as the working period if you want to be a peak performer. ([Location 1749](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1749))
+    - Tags: [[pink]] 
+- This realization led me to institute a personal policy of going off email from Friday night until Sunday morning. I would use my weekends to rest, rejuvenate, and reconnect with those I cherished most. For one day a week, it’s ([Location 1751](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1751))
+    - Tags: [[pink]] 
+- important to allow yourself to be a human being, rather than a human doing. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1752))
+    - Tags: [[pink]] 
+- Little did I know that three weeks later, my new policy would be tested by a man in Fort Lauderdale who could potentially provide the biggest donation in the history of Pencils of Promise. And he wanted to talk through the weekend. ([Location 1753](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1753))
+    - Tags: [[pink]] 
+- NEVER TAKE NO FROM SOMEONE WHO CAN’T SAY YES ([Location 1756](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1756))
+    - Tags: [[pink]] 
+- STAY GUIDED BY YOUR VALUES, NOT YOUR NECESSITIES ([Location 1844](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1844))
+    - Tags: [[pink]] 
+- You never realize how much you value something until you are faced with the prospect of losing it. ([Location 1914](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1914))
+    - Tags: [[pink]] 
+- In those moments when priorities clash, always stay guided by your values, not your perceived necessities. ([Location 1918](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1918))
+    - Tags: [[pink]] 
+- Necessities exist in a state of mind that will not last, whereas values are transcendent and enduring. I understood that I might fail, but I wouldn’t let it happen because I changed my compass along the way. ([Location 1919](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1919))
+    - Tags: [[pink]] 
+- YOU CANNOT FAKE AUTHENTICITY ([Location 1922](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1922))
+    - Tags: [[pink]] 
+- began aggressively recruiting key individuals for a small team. The two things I cared most about were ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1930))
+    - Tags: [[pink]] 
+- passion and talent. Everything else could be taught or learned. ([Location 1931](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1931))
+    - Tags: [[pink]] 
+- I wrote eight office rules the night before moving in and read them aloud on our first day. Rule #1 set the tone for the type ([Location 1971](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1971))
+    - Tags: [[pink]] 
+- of staff we would recruit: “Hopeless idealism in things that are utterly impossible is required to work here. If you want to be realistic, please work elsewhere. This is a place for dreamers.” Rule #3 stated the ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1972))
+    - Tags: [[pink]] 
+- importance of staying humble and asking for help. Rule #4 was to recognize how your energy affected all others around you, and Rule #7 stressed the importance of bringing family (especially grandparents) to the office so you could share your work with those who got you there. ([Location 1973](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1973))
+    - Tags: [[pink]] 
+- You can learn far more about a person from the music he or she listens to than you can from the number of followers he or she has on social media. ([Location 1977](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=1977))
+    - Tags: [[pink]] 
+- THERE IS ONLY ONE CHANCE AT A FIRST IMPRESSION ([Location 2050](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2050))
+    - Tags: [[pink]] 
+- Creating something new is easy, creating something that lasts is the challenge. ([Location 2055](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2055))
+    - Tags: [[pink]] 
+- That’s because the single most wasted resource on earth is human intention. How many times have you wanted to do ([Location 2060](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2060))
+    - Tags: [[pink]] 
+- something but not acted right away and forgotten about it later? People probably read those articles and had a strong desire to help in that moment, but the organization didn’t have easy and effective mechanisms (website, staff, back-end systems) to convert that intention into action. ([Location 2061](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2061))
+    - Tags: [[pink]] 
+- I decided early on that we wouldn’t share our story through traditional press until we had three pieces in place: (1) what I called a ([Location 2063](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2063))
+    - Tags: [[pink]] 
+- “holy shit” story. You needed to hear about PoP and think, Holy shit! How have I not heard about this? I need to tell someone else about it now; (2) a beautiful website with a back-end system to handle inbound inquiries; and (3) the staff and infrastructure to follow up immediately on any interest in our organization. ([Location 2064](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2064))
+    - Tags: [[pink]] 
+- I waited nearly two years for us to reach a double-digit school count (our “holy shit” story) and get our website, staff, ([Location 2067](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2067))
+    - Tags: [[pink]] 
+- and infrastructure to a place of excellence. ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2068))
+    - Tags: [[pink]] 
+- The only truth about first impressions is that you only get one. The way people perceive you in those first few moments will set the anchor around ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2107))
+    - Tags: [[pink]] 
+- which all future interactions are based. ([Location 2108](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2108))
+    - Tags: [[pink]] 
+- Most people rush to get their story out, but by waiting until our “holy shit” story, our staff, and our website were in place, we were prepared to convert ([Location 2113](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2113))
+    - Tags: [[pink]] 
+- people’s interest into action. Even though I’d given a full speech with my fly down, PoP was definitely on its way up. ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2114))
+    - Tags: [[pink]] 
+- FESS UP TO YOUR FAILURES ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2117))
+    - Tags: [[pink]] 
+- “The most powerful thing in the world is an idea whose time has come.” ([Location 2124](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2124))
+    - Tags: [[pink]] 
+- Leadership isn’t just about telling people what to do. It’s about doing the right thing even when it’s not written ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2209))
+    - Tags: [[pink]] 
+- in the rulebook. The first thing I did was to tell them how sorry I was for my behavior. I had to own it fully. We all make mistakes; it’s the weak who make excuses too. ([Location 2210](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2210))
+    - Tags: [[pink]] 
+- Errors force you to pause, evaluate, and iterate. As much as we dread them, they are veiled blessings that turn mirrors of reflection into windows of insight. ([Location 2220](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2220))
+    - Tags: [[pink]] 
+- I personally learned that failure is a necessary step ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2221))
+    - Tags: [[pink]] 
+- toward achievement. In fact, it often accelerates it. The British Airways contest gave me confidence that we were on the right track, yet it took an international stumble to demonstrate that the biggest opportunities for growth are not found in the midst of success, but in the methods through which we address failure. ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2221))
+    - Tags: [[pink]] 
+- LEARN TO CLOSE THE LOOP ([Location 2225](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2225))
+    - Tags: [[pink]] 
+- I defined five key elements that our culture had to exude to draw and retain top talent: happiness, friendship, reward, improvement, and fun. ([Location 2229](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2229))
+    - Tags: [[pink]] 
+- “Here’s my best advice: make the little decisions with your head and the big ones with your heart. Do that, and you’ll be just fine.” ([Location 2310](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2310))
+    - Tags: [[pink]] 
+- He was right. Kevin had illuminated a Big Hairy Audacious Goal (BHAG) to drive toward, and if I stuck ([Location 2312](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2312))
+    - Tags: [[pink]] 
+- to my gut, we might get there. ([Location 2312](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2312))
+    - Tags: [[pink]] 
+- CHANGE YOUR WORDS TO CHANGE YOUR WORTH ([Location 2317](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2317))
+    - Tags: [[pink]] 
+- No part of me wanted to be poor; I just refused to let the size of my bank account serve as the ([Location 2349](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2349))
+    - Tags: [[pink]] 
+- yardstick of my success. While I once thought the best measure of accomplishment was monetary wealth, my path over the past few years had shown me that real value comes from investing in the well-being ([Location 2349](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2349))
+    - Tags: [[pink]] 
+- being of others. I wanted to spend my time maximizing purpose rather than profit, which seemed to be a common characteristic of many of the people I now looked up to. We adhered to a different bottom line, but that didn’t stop us from wanting to see that final number become as big as possible, whether it stood for children educated or lives improved. ([Location 2350](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2350))
+    - Tags: [[pink]] 
+- By changing the words you use to describe something, you can change how others perceive it. ([Location 2354](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2354))
+    - Tags: [[pink]] 
+- A GOAL REALIZED IS A GOAL DEFINED ([Location 2411](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2411))
+    - Tags: [[pink]] 
+- Reflecting on my experiences in Latin America, I advised, “First, accept that plans change and new opportunities will suddenly present themselves while traveling, so just go with the flow. If you remove your cynicism and allow yourself to be astonished by the wonders of the world, you’ll be blown away by the memories you’ll ([Location 2424](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2424))
+    - Tags: [[pink]] 
+- make via the unexpected itinerary. Second, if you make yourself a target, you’ll become one. Don’t wear bright clothing, and if you don’t want someone touching your valued possessions, keep them in a money belt down your pants. Your privates should stay next to your privates. Trust me, no one will be going there without your permission. Third, music and body language are universally spoken, so when someone ([Location 2426](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2426))
+    - Tags: [[pink]] 
+- invites you to dance, let go of your inhibitions and dance. And lastly, when in doubt, just say you’re Canadian. People hate a lot of countries, but no one hates the Canadians.” ([Location 2429](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2429))
+    - Tags: [[pink]] 
+- A handful of kids laughed, and I could tell the three hundred students in the room appreciated the honest and relatable advice. I knew that because this talk was the first time that I used a technique called “one person, one thought.” Weak speakers ([Location 2430](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2430))
+    - Tags: [[pink]] 
+- look down at the floor, good speakers look up but scan the room, great speakers make eye contact selectively, and exceptional speakers deliver every complete thought directly to one person in the audience, making that person feel like the center of the room—and then they move on and do it again. We’ve all been in that position when a speaker looks right at you, and for a few fleeting moments your heart starts to ([Location 2432](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2432))
+    - Tags: [[pink]] 
+- race. You are locked in. I started to look directly at just one student for the entirety of every thought I delivered and attempted to tell them a story as if no one else was listening. It emboldened me to speak with greater conviction, and as the speech gained momentum, I could feel the pulse of the room elevate. After nearly an hour of talking about what I knew and loved, I ended with the most sincere ([Location 2435](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2435))
+    - Tags: [[pink]] 
+- beliefs that I could share. “You have to find a mantra and live it fully. The one I’d adopt right now if I were you is something I found on the inside of a friend’s journal last year: ‘You may be safe, but I am free.’ Take advantage of the freedom that comes with your youth. Inhale life, exhale fire, and embrace the late, sleepless nights, because that’s when the magic happens—when everyone else is asleep and you’re ([Location 2438](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2438))
+    - Tags: [[pink]] 
+- awake thinking about the world as it is, and the world as it could be. Make the most of those moments,” I said forcefully. “And in the coming years people will tell you that you’re too young to change the world. I’m here to tell you, that’s fucking bullshit.” ([Location 2441](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2441))
+    - Tags: [[pink]] 
+- The adage says to keep your friends close and your enemies closer; I believe in ([Location 2514](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2514))
+    - Tags: [[pink]] 
+- keeping your friends close and your family even closer. ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2515))
+    - Tags: [[pink]] 
+- SURROUND YOURSELF WITH THOSE WHO MAKE YOU BETTER ([Location 2519](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2519))
+    - Tags: [[pink]] 
+- As the African proverb states, “If you want to go fast, go alone. If you want to go far, go together.” ([Location 2617](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2617))
+    - Tags: [[pink]] 
+- VULNERABILITY IS VITAL ([Location 2621](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2621))
+    - Tags: [[pink]] 
+- The tasks I ignored were the ones I feared. How many times do you have thirty things to do and you focus on the twenty-five that matter least? How many times do you check your email and deal with what’s easy, but not necessarily what’s important? These small wins are easy to achieve, but they won’t move the ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2645))
+    - Tags: [[pink]] 
+- needle. In the end, the big wins, the most daunting tasks, are the ones that matter. ([Location 2647](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2647))
+    - Tags: [[pink]] 
+- One of the most important parts of being a leader is to look in the mirror and tell the truth about what you are seeing. Even if—especially if—it’s not good. And the only way to let others in is by speaking out. I decided it was time to ask for help. ([Location 2648](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2648))
+    - Tags: [[pink]] 
+- At our next board meeting, after presenting my usual materials, I asked for ([Location 2650](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2650))
+    - Tags: [[pink]] 
+- time to share some honest thoughts. We were sitting at a conference table on the twenty-fifth floor of a Manhattan skyscraper with floor-to-ceiling windows overlooking Times Square, and instead of presenting my strongest and most impressive front, as I always tried to do at these meetings, I was going to reveal my weakness. Surrounding me were ten of the smartest, most capable people I knew. Each had achieved tremendous success in business and philanthropy, and I had to tell them about my biggest failure. I wasn’t even nervous; I was resolved—that’s how badly I needed help. “I need to learn to ask people for money. This is my biggest weakness. I need to get over it.” In admitting my flaw, I showed them that I was vulnerable, but that was okay. I established trust. These were industry leaders with years of professional experience, who were each taking a gamble on me as a leader, and before that moment I’d always tried to seem invincible to the board. If they had a question, I had an answer. But in acknowledging where I needed help, I deepened my relationship with them and, ultimately, amplified their commitment to my growth as a leader and an individual. ([Location 2650](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2650))
+    - Tags: [[pink]] 
+- LISTEN TO YOUR ECHOES ([Location 2733](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2733))
+    - Tags: [[pink]] 
+- Expectations are the daunting shadows that trail behind accomplishments; no matter how high one goes, the other follows on its ([Location 2754](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2754))
+    - Tags: [[pink]] 
+- footsteps. ([Location 2755](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2755))
+    - Tags: [[pink]] 
+- What I have ultimately come to realize is that education is complex. You can’t inject someone with education the ([Location 2817](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2817))
+    - Tags: [[pink]] 
+- way you can with a vaccine. You can’t force it upon people. They have to reach out and work for it themselves. Such a fragmented issue requires a fragmented set of solutions. ([Location 2818](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2818))
+    - Tags: [[pink]] 
+- IF YOUR DREAMS DON’T SCARE YOU, THEY’RE NOT BIG ENOUGH ([Location 2831](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2831))
+    - Tags: [[pink]] 
+- It had taken just over four years to break ground on the first hundred schools. But as all of those business courses and consulting projects taught me, organizational growth is rarely ([Location 2850](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2850))
+    - Tags: [[pink]] 
+- linear. Acceleration rates, when mapped out, usually produce S or J curves because growth can become exponential. I couldn’t look at the pace of the past to determine our future. We had to intensify our scale ([Location 2851](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2851))
+    - Tags: [[pink]] 
+- and more deeply invest into our existing communities to produce true centers of excellence. ([Location 2853](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2853))
+    - Tags: [[pink]] 
+- “If you think education is expensive, try ignorance.” ([Location 2905](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2905))
+    - Tags: [[pink]] 
+- Make your life a story worth telling ([Location 2938](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2938))
+    - Tags: [[pink]] 
+- When I think back to how this all began, one thing is incredibly clear: I was ([Location 2957](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2957))
+    - Tags: [[pink]] 
+- hopelessly idealistic from the start. I use the word hopelessly purposely, as my belief in PoP has always been devoid of hope. I never thought, I hope this works out. I knew it would. From the moment that first bolt of electric energy hit me at the New York Philharmonic, I never once questioned whether the organization would succeed. That’s because it went beyond passion and felt like purpose. Purpose is found ([Location 2958](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2958))
+    - Tags: [[pink]] 
+- when you stop thinking about how you exist in the world and start trying to figure out why you are here. Once you solve that question,… ([Location 2961](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2961))
+    - Tags: [[pink]] 
+- I was only twenty-four when I made that first $25 bank deposit. But while many perceive youth as a weakness, it’s actually an incredible strength. The single most powerful element of youth is that you… ([Location 2962](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2962))
+    - Tags: [[pink]] 
+- be done. While others highlight the value of wisdom, wisdom also remembers that achieving certain things was hard, if not impossible. Young people don’t carry that burden. They’re too naive to realize what can’t be accomplished, and in that fact lies their willingness to try. Martin Luther King Jr. was just twenty-six when… ([Location 2964](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2964))
+    - Tags: [[pink]] 
+- one, Bill Gates founded Microsoft at twenty, and Mark Zuckerberg started Facebook when he was only nineteen. The most prominent voice in global education is seventeen-year-old Malala Yousafzai, who against all odds survived being shot in the head while on her way to school, and who still stands every day as a powerful voice for… ([Location 2967](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2967))
+    - Tags: [[pink]] 
+- message is clear. Never let anyone tell you that your dream is impossible. No matter how big or small, you can make it real. For anyone going through a restless period in life, looking to make a change but not sure how, start with an ambitious but attainable goal. I set out to build just one school. Only after I realized that it was… ([Location 2970](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2970))
+    - Tags: [[pink]] 
+- anyone else to have that same experience too. The key is to think big and then take small, incremental steps forward day by day. Start by changing the subjects of your daily conversation from the life you are living to the life you aspire to create. By speaking the language of the person you seek to become, you will soon find yourself… ([Location 2973](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2973))
+    - Tags: [[pink]] 
+- emit attracting similar energy from others. Your conversations will lead to opportunities, which will become actions, which will become footprints for good. But you can’t keep saying, “I’ll get started tomorrow.” The world has far too many problems, and you are way too smart and capable not to help… ([Location 2976](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2976))
+    - Tags: [[pink]] 
+- was released, I have been so moved by the emails that I’ve received from readers. Many of these notes have been deeply personal, and yet they consistently prove that although sadness takes many forms, all of them are conquerable. These letters demonstrate that the human spirit is far more inventive, resilient, and interconnected than I… ([Location 2979](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2979))
+    - Tags: [[pink]] 
+- and I truly hope that you will send me a personal note upon your completion of this book as well. I used to send out lengthy email updates to my family and friends while backpacking, and people consistently said, “You should publish something.” I appreciated their responses, but I didn’t think the travel tales of a backpacker… ([Location 2982](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2982))
+    - Tags: [[pink]] 
+- on the road. But those comments got me thinking. As humans, we are natural storytellers. We weave narrative into nearly every relationship we build and value. I realized that I needed to live a life that reflected the themes of the stories I wanted to one day tell, and when I veered off that path later on, it was time to make a change. Regardless of… ([Location 2985](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2985))
+    - Tags: [[pink]] 
+- future. Your life should be a story you are excited to tell. *  *  * On a beautiful spring day just two months after the hardcover release of this book, Tehillah and I were married in front of our closest family and friends. A new chapter will begin in my life in the years ahead, one that includes building not just schools… ([Location 2988](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2988))
+    - Tags: [[pink]] 
+- word, integrity, the essence of Dad’s Rules, and each of the mantras that title the chapters of this book. I’ll tell them that the most direct route to happiness is through creating joy for someone else, and that change doesn’t happen through hard work alone. It requires strength of imagination. It relies on that ability we each possess to… ([Location 2991](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2991))
+    - Tags: [[pink]] 
+- all, I’ll remind them each morning that we make a choice to bring positivity or negativity into the world, and that within every single person there lies… ([Location 2994](https://readwise.io/to_kindle?action=open&asin=B00A285RC6&location=2994))
+    - Tags: [[pink]]
+

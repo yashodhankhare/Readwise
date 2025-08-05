@@ -1,0 +1,188 @@
+---
+tags:
+  - readwise
+---
+
+# The Little Book of Talent
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41nAX7WbShL._SL200_.jpg)
+
+## Metadata
+- Author: [[Daniel Coyle]]
+- Full Title: The Little Book of Talent
+- Category: #books
+
+## Highlights
+- For centuries, people have instinctively assumed that talent is largely innate, a gift given out at birth. But now, thanks to the work of a wide-ranging team of scientists, including Dr. K. Anders Ericsson, Dr. Douglas Fields, and Dr. Robert Bjork, the old beliefs about talent are being overturned. In their place, a new view is being established, one in which talent is determined far less by our genes and far more by our actions: specifically, the combination of intensive practice and motivation that produces brain growth.* My project evolved into a book called The Talent Code, which was about how the hotbeds succeed by aligning themselves with the brain’s natural mechanisms for acquiring skill. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=80))
+    - Tags: [[pink]] 
+- What follows is a collection of simple, practical tips for improving skills, taken directly from the hotbeds I visited and the scientists who research them. The advice is field-tested, scientifically sound, and, most important, concise. Because when it comes down to it, we’re all navigating busy, complex lives. Parent or teacher, kid or coach, artist or entrepreneur, we all want to make the most of our time and energy. When it comes to developing our talents, we could use an owner’s manual, something to say Do this, not that. We could use a master coach that tucks in our pocket. We could use a little book. ([Location 105](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=105))
+    - Tags: [[pink]] 
+- Let’s start with the basics: 1. We all possess talents. 2. We’re unsure how to develop those talents to their full potential. For most of us, the problem revolves around one word: “how.” How do we recognize talents in ourselves and in those near us? How do we nurture talent in its early stages? How do we gain the most progress in the least ([Location 111](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=111))
+    - Tags: [[pink]] 
+- time? How do we choose between different strategies, teachers, and methods? This book is built on the idea that the best way to develop your talents is to follow the proven techniques of the talent hotbeds. The tips I’ve collected fall into three natural categories, which form the sections of this book: 1) Getting Started: ideas for igniting motivation and creating a blueprint for the skills you want to build. 2) Improving Skills: methods and techniques for making the most progress in the least time. 3) Sustaining Progress: strategies for overcoming plateaus, keeping motivational fires lit, and building habits for long-term success. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=115))
+    - Tags: [[pink]] 
+- Whatever talent you set out to build, from golfing to learning a new language to playing guitar to managing a startup, be assured of one thing: You are born with the machinery to transform beginners’ clumsiness into fast, fluent action. That machinery is not controlled by genes, it’s controlled by you. Each day, each practice session, is a step toward a different future. This is a hopeful idea, and the most hopeful thing about it is that it is a fact. ([Location 126](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=126))
+    - Tags: [[pink]] 
+- We are often taught that talent begins with genetic gifts—that the talented are able to effortlessly perform feats the rest of us can only dream about. This is false. Talent begins with brief, powerful encounters that spark motivation by linking your identity to a high-performing person or group. This is called ignition, and it consists of a tiny, world-shifting thought lighting up your unconscious mind: I could be them. This first section is about creating the ignition moment, and about channeling its energy in the most constructive way. The tips cover several areas—mind-set, how to design your practice for the skills you want to build, and how to improve your learning by stealing effectively from top performers—but they share the same goal: to create the spark, and to use the fuel for deep practice. ([Location 138](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=138))
+    - Tags: [[pink]] 
+- TIP #1 STARE AT WHO YOU WANT TO BECOME ([Location 146](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=146))
+    - Tags: [[pink]] 
+- Think of your windshield as an energy source for your brain. Use pictures (the walls of many talent hotbeds are cluttered with photos and posters of their stars) or, better, video. One idea: Bookmark a few YouTube videos, and watch them before you practice, or at night before you go to bed. ([Location 162](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=162))
+    - Tags: [[pink]] 
+- SPEND FIFTEEN MINUTES A DAY ENGRAVING THE SKILL ON YOUR BRAIN ([Location 165](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=165))
+    - Tags: [[pink]] 
+- The key to effective engraving is to create an intense connection: to watch and listen so closely that you can imagine the feeling of performing the skill. For physical skills, project yourself inside the performer’s body. Become aware of the movement, the rhythm; try to feel the interior shape of the moves. For mental skills, simulate the skill by re-creating the expert’s decision patterns. ([Location 177](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=177))
+    - Tags: [[pink]] 
+- TIP #3 STEAL WITHOUT APOLOGY ([Location 182](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=182))
+    - Tags: [[pink]] 
+- As Pablo Picasso (no slouch at theft himself) put it, “Good artists borrow. Great artists steal.” ([Location 189](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=189))
+    - Tags: [[pink]] 
+- When you steal, focus on specifics, not general impressions. Capture concrete facts: the angle of a golfer’s left elbow at the top of the backswing; the curve of a surgeon’s wrist; the precise shape and tension of a singer’s lips as he hits that high note; the exact length of time a comedian pauses before delivering the punch line. Ask yourself: • What, exactly, are the critical moves here? • How do they perform those moves differently than I do? ([Location 200](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=200))
+    - Tags: [[pink]] 
+- TIP #4 BUY A NOTEBOOK ([Location 205](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=205))
+    - Tags: [[pink]] 
+- What matters is that you write stuff down and reflect on it. Results from today. Ideas for tomorrow. Goals for next week. A notebook works like a map: It creates clarity. ([Location 208](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=208))
+    - Tags: [[pink]] 
+- TIP #5 BE WILLING TO BE STUPID ([Location 210](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=210))
+    - Tags: [[pink]] 
+- Teammates of the hockey star Wayne Gretzky would occasionally witness a strange sight: Gretzky falling while he skated through solitary drills on the ice. While the spectacle of the planet’s greatest hockey player toppling over like a grade-schooler might seem surprising, it actually makes perfect sense. As skilled as he was, Gretzky was determined to improve, to push the boundaries of the possible. The only way that happens is to build new connections in the brain—which means reaching, failing, and, yes, looking stupid. Feeling stupid is no fun. But being willing to be stupid—in other words, being willing to risk the emotional ([Location 212](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=212))
+    - Tags: [[pink]] 
+- pain of making mistakes—is absolutely essential, because reaching, failing, and reaching again is the way your brain grows and forms new connections. When it comes to developing talent, remember, mistakes are not really mistakes—they are the guideposts you use to get better. ([Location 216](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=216))
+    - Tags: [[pink]] 
+- Whatever the strategy, the goal is always the same: to encourage reaching, and to reinterpret mistakes so that they’re not verdicts, but the information you use to navigate to the correct move. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=227))
+    - Tags: [[pink]] 
+- TIP #6 CHOOSE SPARTAN OVER LUXURIOUS ([Location 229](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=229))
+    - Tags: [[pink]] 
+- The point of this tip is not moral; it’s neural. Simple, humble spaces help focus attention on the deep-practice task at hand: reaching and repeating and struggling. When given the choice between luxurious and spartan, choose spartan. Your unconscious mind will thank you. ([Location 237](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=237))
+    - Tags: [[pink]] 
+- TIP #7 BEFORE YOU START, FIGURE OUT IF IT’S A HARD SKILL OR A SOFT SKILL ([Location 239](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=239))
+    - Tags: [[pink]] 
+- The first step toward building a skill is to figure out exactly what type of skill you’re building. Every skill falls into one of two categories: hard skills and soft skills. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=241))
+    - Tags: [[pink]] 
+- SOFT, HIGH-FLEXIBILITY SKILLS, on the other hand, are those that have many paths to a good result, not just one. These skills aren’t about doing the same thing perfectly every time, but rather about being agile and interactive; about instantly recognizing patterns as they unfold and making smart, timely choices. Soft skills tend to be found in broader, less-specialized pursuits, especially those that involve communication, such as: ([Location 253](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=253))
+    - Tags: [[pink]] 
+- • a soccer player sensing a weakness in the defense and deciding to attack; • a stock trader spotting a hidden opportunity amid a chaotic trading day; • a novelist instinctively shaping the twists of a complicated plot; • a singer subtly interpreting the music to highlight emotion; • a police officer on a late-night patrol, assessing potential danger; • a CEO “reading a room” in a tense meeting or negotiation. With these skills, we are not trying for Swiss-watch precision, but rather for the ability to quickly recognize a pattern or possibility, and to work past a complex set of obstacles. Soft skills are about the three Rs: Reading, Recognizing, and Reacting. The point of this tip is that hard skills and soft skills are different (literally, they use different structures of circuits in your brain), and thus are developed through different methods of deep practice. Begin by asking yourself which of these skills need to be absolutely 100-percent consistent every single time. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=257))
+    - Tags: [[pink]] 
+- Which need to be executed with machinelike precision? These are the hard skills. Then ask yourself, which skills need to be flexible, and variable, and depend on the situation? Which depend on instantly recognizing patterns and selecting one optimal choice? These are the soft skills. If you aren’t sure if the skill is hard or soft, here’s a quick litmus test: Is a teacher or coach usually involved in the early stages? If the answer is yes, then it’s likely a hard skill. If it’s no, then it’s a soft skill. Violinists and figure skaters tend to have teachers; CEOs and stand-up comics don’t. The following three tips take this idea further, explaining the methods of deep practice that work best to develop each type of skill. ([Location 267](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=267))
+    - Tags: [[pink]] 
+- TIP #8 TO BUILD HARD SKILLS, WORK LIKE A CAREFUL CARPENTER ([Location 273](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=273))
+    - Tags: [[pink]] 
+- Pay attention to errors, and fix them, particularly at the start. Learning fundamentals only seems boring—in fact, it’s the key moment of investment. If you build the right pathway now, you’ll save yourself a lot of time and trouble down the line. ([Location 289](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=289))
+    - Tags: [[pink]] 
+- TIP #9 TO BUILD SOFT SKILLS, PLAY LIKE A SKATEBOARDER ([Location 292](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=292))
+    - Tags: [[pink]] 
+- Even the most creative skills—especially the most creative skills—require long periods of clumsiness. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=308))
+    - Tags: [[pink]] 
+- When you practice a soft skill, focus on making a high number of varied reps, and on getting clear feedback. Don’t worry too much about making errors—the important thing is to explore. Soft skills are often more fun to practice, but they’re also tougher because they demand that you coach yourself. After each session ask yourself, What worked? What didn’t? And why? ([Location 312](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=312))
+    - Tags: [[pink]] 
+- TIP #10 HONOR THE HARD SKILLS ([Location 315](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=315))
+    - Tags: [[pink]] 
+- The point of this tip is simple: Prioritize the hard skills because in the long run they’re more important to your talent. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=320))
+    - Tags: [[pink]] 
+- One way to keep this idea in mind is to picture your talent as a big oak tree—a massive, thick trunk of hard skills with a towering canopy of flexible soft skills up above. First build the trunk. Then work on the branches. ([Location 327](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=327))
+    - Tags: [[pink]] 
+- TIP #11 DON’T FALL FOR THE PRODIGY MYTH ([Location 330](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=330))
+    - Tags: [[pink]] 
+- Early success turns out to be a weak predictor of long-term success. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=333))
+    - Tags: [[pink]] 
+- Anson Dorrance, the head coach of the University of North Carolina women’s soccer team, which he has led to twenty-one national championship wins, sums this up nicely. “One of the most unfortunate things I see when identifying youth players is the girl who is told over the years how great she is. By the time she’s a high school freshman, she starts to believe it. By her senior year, she’s fizzled out. Then there’s her counterpart: a girl ([Location 342](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=342))
+    - Tags: [[pink]] 
+- waiting in the wings, who quietly and with determination decides she’s going to make something of herself. Invariably, this humble, hardworking girl is the one who becomes the real player.” If you have early success, do your best to ignore the praise and keep pushing yourself to the edges of your ability, where improvement happens. If you don’t have early success, don’t quit. Instead, treat your early efforts as experiments, not as verdicts. Remember, this is a marathon, not a sprint. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=345))
+    - Tags: [[pink]] 
+- TIP #12 FIVE WAYS TO PICK A HIGH-QUALITY TEACHER OR COACH ([Location 352](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=352))
+    - Tags: [[pink]] 
+- 1) Avoid Someone Who Reminds You of a Courteous Waiter ([Location 356](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=356))
+    - Tags: [[pink]] 
+- This is the kind of person who covers a lot of material in a short time, smiles a lot, and says things like, “Don’t worry, no problem, we can take care of that later.” This is a good person to have as your waiter in a restaurant, but a terrible person to have as your teacher, coach, or mentor. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=359))
+    - Tags: [[pink]] 
+- 2) Seek Someone Who Scares You a Little ([Location 361](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=361))
+    - Tags: [[pink]] 
+- This is a good sign. Look for someone who: Watches you closely: He is interested in figuring you out—what you want, where you’re coming from, what motivates you. Is action-oriented: She often won’t want to spend a lot of time chatting—instead, she’ll want to jump into a few activities immediately, so she can get a feel for you and vice versa. ([Location 364](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=364))
+    - Tags: [[pink]] 
+- Is honest, sometimes unnervingly so: He will tell you the truth about your performance in clear language. This stings at first. But you’ll come to see that it’s not personal—it’s the information you can use to get better. It’s worth noting that the word “coach” originally came from kocsi, the Hungarian word for “carriage.” You’re not looking for a buddy or a parent figure. You’re looking for someone solid, someone you trust, someone with whom you take a journey. ([Location 368](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=368))
+    - Tags: [[pink]] 
+- 3) Seek Someone Who Gives Short, Clear Directions ([Location 373](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=373))
+    - Tags: [[pink]] 
+- 4) Seek Someone Who Loves Teaching Fundamentals ([Location 379](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=379))
+    - Tags: [[pink]] 
+- 5) Other Things Being Equal, Pick the Older Person ([Location 384](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=384))
+    - Tags: [[pink]] 
+- If I had to sum up the difference between people in the talent hotbeds and people everywhere else in one sentence, it would be this: People in the hotbeds have a different relationship with practicing. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=392))
+    - Tags: [[pink]] 
+- The key to deep practice is to reach. This means to stretch yourself slightly beyond your current ability, spending time in the ([Location 398](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=398))
+    - Tags: [[pink]] 
+- zone of difficulty called the sweet spot. It ([Location 399](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=399))
+    - Tags: [[pink]] 
+- means embracing the power of repetition, so the action becomes fast and automatic. It means creating a practice space that enables you to reach and repeat, stay engaged, and improve your skills over time. The previous section was about getting ready. This section is about action: simple strategies and techniques to direct you toward deep practice and nudge you away from the unproductive swamp of shallow practice. ([Location 399](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=399))
+    - Tags: [[pink]] 
+- There is a place, right on the edge of your ability, where you learn best and fastest. It’s called the sweet spot. Here’s how to find it. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=405))
+    - Tags: [[pink]] 
+- Sensations: Ease, effortlessness. You’re working, but not reaching or struggling. Percentage of Successful Attempts: 80 percent and above. ([Location 408](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=408))
+    - Tags: [[pink]] 
+- Sensations: Frustration, difficulty, alertness to errors. You’re fully engaged in an intense struggle—as if you’re stretching with all your might for a nearly unreachable goal, brushing it with your fingertips, then reaching again. Percentage of Successful Attempts: 50–80 percent. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=411))
+    - Tags: [[pink]] 
+- Sensations: Confusion, desperation. You’re overmatched: ([Location 415](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=415))
+    - Tags: [[pink]] 
+- scrambling, thrashing, and guessing. You guess right sometimes, but it’s mostly luck. Percentage of Successful Attempts: Below 50 percent. ([Location 416](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=416))
+    - Tags: [[pink]] 
+- Locating your sweet spot requires some creativity. For instance, some golfers work on their swings underwater ([Location 428](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=428))
+    - Tags: [[pink]] 
+- (which slows them down, so they can sense and fix their mistakes). Some musicians play songs backward (which helps them better sense the relationship between the notes). These are different methods, but the underlying pattern is the same: Seek out ways to stretch yourself. Play on the edges of your competence. As Albert Einstein said, “One must develop an instinct for what one can just barely achieve through one’s greatest efforts.” The key word is “barely.” Ask yourself: If you tried your absolute hardest, what could you almost do? Mark the boundary of your current ability, and aim a little beyond it. That’s your spot. ([Location 429](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=429))
+    - Tags: [[pink]] 
+- TIP #14 TAKE OFF YOUR WATCH ([Location 434](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=434))
+    - Tags: [[pink]] 
+- Deep practice is not measured in minutes or hours, but in the number of high-quality reaches and repetitions you make—basically, how many new connections you form in your brain. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=435))
+    - Tags: [[pink]] 
+- TIP #15 BREAK EVERY MOVE DOWN INTO CHUNKS ([Location 441](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=441))
+    - Tags: [[pink]] 
+- From the time we’re small, we hear this good advice from our parents and teachers: Take it a little bit at a time. This advice works because it accurately reflects the way our brains learn. Every skill is built out of smaller pieces—what scientists call chunks. Chunks are to skill what letters of the alphabet are to language. Alone, each is nearly useless, but when combined into bigger chunks (words), and when those chunks are combined into still bigger things (sentences, paragraphs), they can build something complex and beautiful. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=443))
+    - Tags: [[pink]] 
+- To begin chunking, first engrave the blueprint of the skill on your mind (see Tip #2). Then ask yourself: 1) What is the smallest single element of this skill that I can master? 2) What other chunks link to that chunk? ([Location 447](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=447))
+    - Tags: [[pink]] 
+- No matter what skill you set out to learn, the pattern is always the same: See the whole thing. Break it down to its simplest elements. Put it back together. Repeat. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=454))
+    - Tags: [[pink]] 
+- TIP #16 EACH DAY, TRY TO BUILD ONE PERFECT CHUNK ([Location 456](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=456))
+    - Tags: [[pink]] 
+- In our busy lives, it’s sometimes tempting to regard merely practicing as a success. We complete the appointed hour and sigh victoriously—mission accomplished! But the real goal isn’t practice; it’s progress. As John Wooden put it, “Never mistake mere activity for accomplishment.” One useful method is to set a daily SAP: smallest achievable perfection. In this technique, you pick a single chunk that you can perfect—not just improve, not just “work on,” but get 100 percent consistently correct. For example, a tennis player might choose the service toss; a salesperson might choose the twenty-second pitch he’ll make to an important client. The point is to take the time to aim at a small, defined target, and then put all your effort toward hitting it. After all, you aren’t built to be transformed in a single day. You are built ([Location 458](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=458))
+    - Tags: [[pink]] 
+- to improve little by little, connection by connection, rep by rep. As Wooden also said, “Don’t look for the big, quick improvement. Seek the small improvement one day at a time. That’s the only way it happens—and when it happens, it lasts.” ([Location 464](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=464))
+    - Tags: [[pink]] 
+- TIP #17 EMBRACE STRUGGLE ([Location 466](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=466))
+    - Tags: [[pink]] 
+- At all of the talent hotbeds, from Moscow to Dallas to Brazil to New York, I saw the same facial expression: eyes narrow, jaw tight, nostrils flared, the face of someone intently reaching for something, falling short, and reaching again. This is not a coincidence. Deep practice has a telltale emotional flavor, a feeling that can be summed up in one word: “struggle.” Most of us instinctively avoid struggle, because it’s uncomfortable. It feels like failure. However, when it comes to developing your talent, struggle isn’t an option—it’s a biological necessity. This might sound strange, but it’s the way evolution has built us. The struggle and frustration you feel at the edges of your abilities—that uncomfortable burn of “almost, almost”—is the sensation of constructing new neural connections, a phenomenon that the UCLA psychologist Robert Bjork calls “desirable difficulty.” Your brain works just like your muscles: no pain, no gain. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=467))
+    - Tags: [[pink]] 
+- TIP #18 CHOOSE FIVE MINUTES A DAY OVER AN HOUR A WEEK ([Location 475](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=475))
+    - Tags: [[pink]] 
+- With deep practice, small daily practice “snacks” are more effective than once-a-week practice binges. The reason has to do with the way our brains grow—incrementally, a little each day, even as we sleep. Daily practice, even for five minutes, nourishes this process, while more occasional practice forces your brain to play catch-up. Or, as the music-education pioneer Shinichi Suzuki puts it, “Practice on the days that you eat.” ([Location 476](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=476))
+    - Tags: [[pink]] 
+- TIP #19 DON’T DO “DRILLS.” INSTEAD, PLAY SMALL, ADDICTIVE GAMES ([Location 487](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=487))
+    - Tags: [[pink]] 
+- This tip is about the way you think about your practice. The term “drill” evokes a sense of drudgery and meaninglessness. It’s mechanical, repetitive, and boring—as the saying goes, drill and kill. Games, on the other hand, are precisely the opposite. They mean fun, connectedness, and passion. And because of that, skills improve faster when they’re looked at this way. Dig into the biography of any world-class performer and you’ll uncover a story about a small, addictive game. Whether it’s the young golfer Rory McIlroy chipping golf balls into the family dryer, or Warren Buffett as a child going door-to-door selling chewing gum and trying to figure out what flavor sold best, or Keith Richards in the early days of the Rolling Stones trying to decode a riff on an old ([Location 488](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=488))
+    - Tags: [[pink]] 
+- blues record, what they have in common is a juicy, addictive sense of involvement, fun, and excitement. Good coaches share a knack for transforming the most mundane activities—especially the most mundane activities—into games. The governing principle is this: If it can be counted, it can be turned into a game. For example, playing a series of guitar chords as a drill is boring. But if you count the number of times you do it perfectly and give yourself a point for each perfect chord, it can become a game. Track your progress, and see how many points you score over a week. The following week, try to score more. ([Location 493](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=493))
+    - Tags: [[pink]] 
+- TIP #20 PRACTICE ALONE Solo practice works because it’s the best way to 1) seek out the sweet spot at the edge of your ability, and 2) develop discipline, because it doesn’t depend on others. A classic study of musicians compared world-class performers with top amateurs. The researchers found that the two groups were similar in every practice variable except one: The world-class performers spent five times as many hours practicing alone. As the North Carolina women’s soccer coach Anson Dorrance said, “The vision of a champion is someone who is bent over, drenched in sweat, at the point of exhaustion, when no one else is watching.” ([Location 499](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=499))
+    - Tags: [[pink]] 
+- TIP #21 THINK IN IMAGES ([Location 505](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=505))
+    - Tags: [[pink]] 
+- The images are far easier to grasp, recall, and perform. This is because your brain spent millions of years evolving to register images more vividly and memorably than abstract ideas. (After all, in prehistoric days, no one ever had to worry about getting eaten by a hungry idea. But they did have to worry about lions.) Whenever possible, create a vivid image for each chunk you want to learn. The images don’t have to be elaborate, just easy to see and feel. ([Location 515](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=515))
+    - Tags: [[pink]] 
+- TIP #22 PAY ATTENTION IMMEDIATELY AFTER YOU MAKE A MISTAKE ([Location 520](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=520))
+    - Tags: [[pink]] 
+- Develop the habit of attending to your errors right away. Don’t wince, don’t close your eyes; look straight at them and see what really happened, and ask yourself what you can do next to improve. Take mistakes seriously, but never personally. ([Location 525](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=525))
+    - Tags: [[pink]] 
+- TIP #23 VISUALIZE THE WIRES OF YOUR BRAIN FORMING NEW CONNECTIONS ([Location 527](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=527))
+    - Tags: [[pink]] 
+- TIP #24 VISUALIZE THE WIRES OF YOUR BRAIN GETTING FASTER ([Location 533](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=533))
+    - Tags: [[pink]] 
+- TIP #25 SHRINK THE SPACE ([Location 538](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=538))
+    - Tags: [[pink]] 
+- This tip does not apply to just physical space. Poets and writers shrink the field by using restrictive meters to force themselves into a small creative form—such as with haiku and micro-writing exercises. Comedy writers use the 140-character arena of Twitter as a space to hone their skills. Businesses can also benefit from compression: Toyota trains new employees by shrinking the assembly line into a single room filled with toy-sized replicas of its equipment. The company has found that this mini-training is more effective than training on the actual production line. Ask yourself: What’s the minimum space needed to make these reaches and reps? Where is extra space hindering fast and easy communication? ([Location 545](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=545))
+    - Tags: [[pink]] 
+- TIP #26 SLOW IT DOWN (EVEN SLOWER THAN YOU THINK) ([Location 551](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=551))
+    - Tags: [[pink]] 
+- When we learn how to do something new, our immediate urge is to do it again, faster. This is known as the Hey, Look at Me! reflex. This urge for speed makes perfect sense, but it can also create sloppiness, particularly when it comes to hard skills (see Tip #8). We trade precision—and long-term performance—for a temporary thrill. So, slow it down. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=552))
+    - Tags: [[pink]] 
+- Embracing repetition means changing your mindset; instead of viewing it as a chore, view it as your most powerful tool. As the martial artist and actor Bruce Lee said, “I fear not the man who has practiced ten thousand kicks once, but I fear the man who has practiced one kick ten thousand times.” ([Location 794](https://readwise.io/to_kindle?action=open&asin=B007JC1RM2&location=794))
+    - Tags: [[pink]]
+

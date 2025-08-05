@@ -1,0 +1,188 @@
+---
+tags:
+  - readwise
+---
+
+# This Is Water
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/31iBVIR-g1L._SL200_.jpg)
+
+## Metadata
+- Author: [[David Foster Wallace]]
+- Full Title: This Is Water
+- Category: #books
+
+## Highlights
+- There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says, “Morning, boys. How’s the water?” ([Location 26](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=26))
+    - Tags: [[pink]] 
+- And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, “What the hell is water?” ([Location 28](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=28))
+    - Tags: [[pink]] 
+- The immediate point of the fish story is merely that the most obvious, ubiquitous, important realities are often the ones that are hardest to see and talk about. ([Location 38](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=38))
+    - Tags: [[pink]] 
+- Stated as an English sentence, of course, this is just a banal platitude — but the fact is that, in the day-to-day trenches of adult existence, banal platitudes can have a life-or-death importance. ([Location 40](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=40))
+    - Tags: [[pink]] 
+- “teaching you how to think.” ([Location 50](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=50))
+    - Tags: [[pink]] 
+- But I’m going to posit to you that the liberal arts cliché turns out not to be insulting at all, because the really significant education in thinking that we’re supposed to get in a place like this isn’t really about the capacity to think, but rather about the choice of what to think about. ([Location 55](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=55))
+    - Tags: [[pink]] 
+- If your complete freedom of choice regarding what to think about seems too obvious to waste time talking about, I’d ask you to think about fish and water, and to bracket, for just a few minutes, your skepticism about the value of the totally obvious. ([Location 58](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=58))
+    - Tags: [[pink]] 
+- There are these two guys sitting together in a bar in the remote… ([Location 63](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=63))
+    - Tags: [[pink]] 
+- One of the guys is religious, the other’s an atheist, and they’re arguing about the existence of God with that special intensity that… ([Location 65](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=65))
+    - Tags: [[pink]] 
+- And the atheist says, “Look, it’s not like I don’t have actual reasons for… ([Location 68](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=68))
+    - Tags: [[pink]] 
+- It’s not like I haven’t ever experimented with the whole… ([Location 70](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=70))
+    - Tags: [[pink]] 
+- Just last month, I got caught off away from the camp in that terrible blizzard, and I couldn’t see a thing, and I was totally lost, and it was fifty below, and so I did, I tried it: I fell to my knees in the snow and cried out, ‘God, if there is a God, I’m… ([Location 72](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=72))
+    - Tags: [[pink]] 
+- And now, in the bar, the religious guy looks at the atheist all puzzled: “Well then, you must believe now,” he says. “… ([Location 76](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=76))
+    - Tags: [[pink]] 
+- The atheist rolls his eyes like the religious guy is a total simp: “No, man, all that happened was that a couple Eskimos just happened to come wandering by, and… ([Location 78](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=78))
+    - Tags: [[pink]] 
+- It’s easy to run this story through a kind of standard liberal arts analysis: The exact same experience can mean two completely different things to two different people, given those people’s two different belief templates and… ([Location 81](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=81))
+    - Tags: [[pink]] 
+- Because we prize tolerance and diversity of belief, nowhere in our liberal arts analysis do we want to claim that one guy’s interpretation is… ([Location 85](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=85))
+    - Tags: [[pink]] 
+- Which is fine, except we also never end up talking about just where these individual templates and beliefs come from, meaning, where… ([Location 87](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=87))
+    - Tags: [[pink]] 
+- As if a person’s most basic orientation toward the world and the meaning of his experience were somehow automatically hardwired, like height or shoe size, or… ([Location 90](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=90))
+    - Tags: [[pink]] 
+- As if how we construct meaning were not actually a matter of personal, intentional choice… ([Location 93](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=93))
+    - Tags: [[pink]] 
+- Plus, there’s the matter of… ([Location 95](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=95))
+    - Tags: [[pink]] 
+- The nonreligious guy is so totally, obnoxiously confident in his dismissal of the possibility that the Eskimos had anything… ([Location 97](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=97))
+    - Tags: [[pink]] 
+- True, there are plenty of religious people who seem arrogantly certain of their own… ([Location 99](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=99))
+    - Tags: [[pink]] 
+- They’re probably even more repulsive than atheists, at least to most of us here, but the fact is that religious dogmatists’ problem is exactly the same as the story’s atheist’s — arrogance, blind certainty, a closed-mindedness that’s like an… ([Location 102](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=102))
+    - Tags: [[pink]] 
+- The point here is that I think this is one part of what the liberal arts mantra of “teaching me how to think” is really supposed to mean: to be just a little less arrogant, to have some “critical awareness” about myself and my certainties… because a huge percentage of the stuff that I tend… ([Location 105](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=105))
+    - Tags: [[pink]] 
+- I have learned this the hard way, as I predict you… ([Location 109](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=109))
+    - Tags: [[pink]] 
+- Here’s one example of the utter wrongness of something I tend to be… ([Location 111](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=111))
+    - Tags: [[pink]] 
+- Everything in my own immediate experience supports my deep belief that I am the absolute center of the universe, the realest, most vivid… ([Location 113](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=113))
+    - Tags: [[pink]] 
+- We rarely think about this sort of natural, basic self-centeredness, because it’s so socially repulsive, but it’s pretty much… ([Location 116](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=116))
+    - Tags: [[pink]] 
+- It is our default setting, hardwired into our… ([Location 119](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=119))
+    - Tags: [[pink]] 
+- Think about it: There is no experience you’ve had that you were not at the… ([Location 121](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=121))
+    - Tags: [[pink]] 
+- The world as you experience it is there in front of you, or behind you, to the left or right of you, on your TV,… ([Location 123](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=123))
+    - Tags: [[pink]] 
+- Other people’s thoughts and feelings have to be communicated to you somehow, but your own are so… ([Location 125](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=125))
+    - Tags: [[pink]] 
+- You get the… ([Location 127](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=127))
+    - Tags: [[pink]] 
+- But please don’t worry that I’m getting ready to preach to you about compassion or other- directedness or… ([Location 129](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=129))
+    - Tags: [[pink]] 
+- This is not a matter of virtue — it’s a matter of my choosing to do the work of somehow altering or getting free of my natural, hardwired default setting, which is to be deeply and literally self-centered, and to… ([Location 132](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=132))
+    - Tags: [[pink]] 
+- People who can adjust their natural default setting this way are often described as being, quote, “ well-adjusted,” which I suggest… ([Location 135](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=135))
+    - Tags: [[pink]] 
+- Given the academic setting here, an obvious question is how much of this work of adjusting our default setting involves… ([Location 138](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=138))
+    - Tags: [[pink]] 
+- The answer, not surprisingly, is that it depends what kind of knowledge… ([Location 140](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=140))
+    - Tags: [[pink]] 
+- Probably the most dangerous thing about an academic education, at least in my own case, is that it enables my tendency to over-intellectualize stuff, to get lost in abstract thinking instead of simply… ([Location 142](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=142))
+    - Tags: [[pink]] 
+- Instead of paying attention to what’s going… ([Location 145](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=145))
+    - Tags: [[pink]] 
+- As I’m sure you guys know by now, it is extremely difficult to stay alert and attentive instead of getting hypnotized by the… ([Location 147](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=147))
+    - Tags: [[pink]] 
+- What you don’t yet know are the stakes of… ([Location 150](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=150))
+    - Tags: [[pink]] 
+- In the twenty years since my own graduation, I have come gradually to understand these stakes, and to see that the liberal arts cliché about “teaching you how to think” was actually… ([Location 152](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=152))
+    - Tags: [[pink]] 
+- “Learning how to think” really means learning how to exercise some control over… ([Location 155](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=155))
+    - Tags: [[pink]] 
+- It means being conscious and aware enough to choose what you pay attention to and to choose how you… ([Location 157](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=157))
+    - Tags: [[pink]] 
+- Because if you cannot or will not exercise this kind of choice in adult life, you… ([Location 160](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=160))
+    - Tags: [[pink]] 
+- Think of the old cliché about the mind being “an excellent servant but… ([Location 162](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=162))
+    - Tags: [[pink]] 
+- This, like many clichés, so lame and banal on the surface, actually expresses a great and terrible truth. ([Location 164](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=164))
+    - Tags: [[pink]] 
+- Because the traffic jams and crowded aisles and long checkout lines give me time to think, and if I don’t make a conscious decision about how to think and what to pay attention to, I’m gonna be pissed and miserable every time I have to food-shop, because my natural default setting is that situations like this are really all about me, about my hungriness and my fatigue and my desire to just get home, and it’s going to seem, for all the world, like everybody else is just in my way, and who the fuck are all these people in my way? ([Location 222](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=222))
+    - Tags: [[pink]] 
+- And look at how repulsive most of them are and how stupid and cow-like and dead-eyed and nonhuman they seem here in the checkout line, or at how annoying and rude it is that people are talking loudly on cell phones in the middle of the line, and look at how deeply unfair this is: I’ve worked really hard all day and I’m starved and tired and I can’t even get home to eat and unwind because of all these stupid goddamn people. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=227))
+    - Tags: [[pink]] 
+- Look, if I choose to think this way, fine, lots of us do — except that thinking this way tends to be so easy and automatic it doesn’t have to be a choice. ([Location 239](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=239))
+    - Tags: [[pink]] 
+- Thinking this way is my natural default setting. ([Location 242](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=242))
+    - Tags: [[pink]] 
+- It’s the automatic, unconscious way that I experience the boring, frustrating, crowded parts of adult life when I’m operating on the automatic, unconscious belief that I am the center of the world and that my immediate needs and feelings are what should determine the world’s priorities. ([Location 243](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=243))
+    - Tags: [[pink]] 
+- The thing is that there are obviously different ways to think about these kinds of situations. ([Location 247](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=247))
+    - Tags: [[pink]] 
+- Again, please don’t think that I’m giving you moral advice, or that I’m saying you are “supposed to” think this way, or that anyone expects you to just automatically do it, because it’s hard, it takes will and mental effort, and if you’re like me, some days you won’t be able to do it, or else you just flat-out won’t want to. ([Location 259](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=259))
+    - Tags: [[pink]] 
+- But most days, if you’re aware enough to give yourself a choice, you can choose to look differently at this fat, dead-eyed, over-made-up lady who just screamed at her kid in the checkout line — maybe she’s not usually like this; maybe she’s been up three straight nights holding the hand of her husband, who’s dying of bone cancer, or maybe this very lady is the low-wage clerk at the motor vehicles department who just yesterday helped your spouse resolve a nightmarish red-tape problem through some small act of bureaucratic kindness. ([Location 263](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=263))
+    - Tags: [[pink]] 
+- Of course, none of this is likely, but it’s also not impossible — it just depends… ([Location 268](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=268))
+    - Tags: [[pink]] 
+- If you’re automatically sure that you know what reality is and who and what is really important — if you want to operate on your default setting — then you, like me, probably will not consider… ([Location 271](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=271))
+    - Tags: [[pink]] 
+- But if you’ve really learned how to think, how to pay attention, then you will know… ([Location 274](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=274))
+    - Tags: [[pink]] 
+- It will actually be within your power to experience a crowded, hot, slow, consumer-hell-type situation as not only meaningful, but sacred, on fire with the same force that lit the stars —… ([Location 276](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=276))
+    - Tags: [[pink]] 
+- Not that that mystical stuff’s necessarily true: The only thing that’s capital-T True is that you get to decide how… ([Location 279](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=279))
+    - Tags: [[pink]] 
+- This, I submit, is the freedom of real education, of learning how to be well- adjusted: You get to consciously decide… ([Location 282](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=282))
+    - Tags: [[pink]] 
+- You get to decide what to… ([Location 284](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=284))
+    - Tags: [[pink]] 
+- Because here’s something else… ([Location 286](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=286))
+    - Tags: [[pink]] 
+- In the day-to-day trenches of adult life, there is actually no such… ([Location 288](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=288))
+    - Tags: [[pink]] 
+- There is no such thing as not… ([Location 290](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=290))
+    - Tags: [[pink]] 
+- Everybody… ([Location 292](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=292))
+    - Tags: [[pink]] 
+- The only choice we get is what to… ([Location 293](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=293))
+    - Tags: [[pink]] 
+- And an outstanding reason for choosing some sort of god or spiritual-type thing to worship — be it J.C. or Allah, be it Yahweh or the Wiccan mother-goddess or the Four Noble Truths or some infrangible set of ethical principles — is… ([Location 295](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=295))
+    - Tags: [[pink]] 
+- If you worship money and things — if they are where you tap real meaning in life — then you… ([Location 298](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=298))
+    - Tags: [[pink]] 
+- Never feel you have… ([Location 301](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=301))
+    - Tags: [[pink]] 
+- It’s the… ([Location 302](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=302))
+    - Tags: [[pink]] 
+- Worship your own body and beauty and sexual allure and you will always feel ugly, and when time and age start showing, you will die a million… ([Location 304](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=304))
+    - Tags: [[pink]] 
+- On one level we all know this stuff already — it’s been codified as myths, proverbs, clichés, bromides, epigrams, parables:… ([Location 307](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=307))
+    - Tags: [[pink]] 
+- The trick is keeping the truth up front in daily… ([Location 309](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=309))
+    - Tags: [[pink]] 
+- Worship power — you will feel weak and afraid, and you will need ever more power over others… ([Location 311](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=311))
+    - Tags: [[pink]] 
+- Worship your intellect, being seen as smart — you will end up feeling stupid, a fraud, always on the… ([Location 313](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=313))
+    - Tags: [[pink]] 
+- And so… ([Location 316](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=316))
+    - Tags: [[pink]] 
+- Look, the insidious thing about these forms of worship is not that they’re evil or sinful; it is… ([Location 317](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=317))
+    - Tags: [[pink]] 
+- They are default… ([Location 320](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=320))
+    - Tags: [[pink]] 
+- They’re the kind of worship you just gradually slip into, day after day, getting more and more selective about what you see and how you measure value without ever being… ([Location 321](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=321))
+    - Tags: [[pink]] 
+- And the so-called “real world” will not discourage you from operating on your default settings, because the so-called “real world” of men and money and power hums along quite nicely on the fuel of fear and… ([Location 324](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=324))
+    - Tags: [[pink]] 
+- The really important kind of freedom involves attention, and awareness, and discipline, and effort, and being able truly to care about other people and to sacrifice for them, over and over, in myriad petty little unsexy ways, every day. ([Location 337](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=337))
+    - Tags: [[pink]] 
+- That is real freedom. ([Location 340](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=340))
+    - Tags: [[pink]] 
+- That is being taught how to think. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=341))
+    - Tags: [[pink]] 
+- The alternative is unconsciousness, the default setting, the “rat race” — the constant, gnawing sense of having had and lost some infinite thing. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B0023SDQZS&location=343))
+    - Tags: [[pink]]
+

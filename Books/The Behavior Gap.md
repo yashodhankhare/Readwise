@@ -1,0 +1,232 @@
+---
+tags:
+  - readwise
+---
+
+# The Behavior Gap
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41wcBiwnxtL._SL200_.jpg)
+
+## Metadata
+- Author: [[Carl Richards]]
+- Full Title: The Behavior Gap
+- Category: #books
+
+## Highlights
+- We can stop chasing fantasies. ([Location 79](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=79))
+    - Tags: [[orange]] 
+- We can protect ourselves—to a point. ([Location 81](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=81))
+    - Tags: [[orange]] 
+- Our assumptions about the future are almost always wrong. We can never think of everything—but we can take sensible steps to protect ourselves from life’s inevitable surprises. We can embrace uncertainty. ([Location 82](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=82))
+    - Tags: [[pink]] 
+- One of those lessons is that you aren’t in ([Location 104](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=104))
+    - Tags: [[orange]] 
+- charge of everything. Do what you can, and then relax. ([Location 105](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=105))
+    - Tags: [[orange]] 
+- And if there is a secret to getting happy, it’s this: be true to yourself. ([Location 111](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=111))
+    - Tags: [[orange]] 
+- COMPANIES like Morningstar and Dalbar have done a bunch of studies that try to quantify the impact of investor behavior on real-life returns. The studies typically compare investors’ actual returns in stock funds to the average returns of the funds themselves. Just to be clear, they’re trying to compare the returns investors get to the returns investments get. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=115))
+    - Tags: [[orange]] 
+- Is there really a difference? Oh, you bet there is. Typically, the studies find that the returns ([Location 118](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=118))
+    - Tags: [[orange]] 
+- investors have earned over time are much lower than the returns of the average investment. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=119))
+    - Tags: [[orange]] 
+- I coined the term “behavior gap” to label the gap between investor ([Location 122](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=122))
+    - Tags: [[orange]] 
+- returns and investment returns, and I started drawing the sketch you see here on every whiteboard I could find. ([Location 123](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=123))
+    - Tags: [[orange]] 
+- Investment Mistakes Are Investor Mistakes I am more convinced than ever that all investment mistakes are really investor mistakes. Investments don’t ([Location 174](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=174))
+    - Tags: [[orange]] 
+- make mistakes. Investors do. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=176))
+    - Tags: [[orange]] 
+- It all reminds me of that time I ran ([Location 184](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=184))
+    - Tags: [[pink]] 
+- over a sprinkler head with my parents’ lawn mower. I remember running inside to tell my mom that the lawn mower had hit the sprinkler. She patiently taught me that lawn mowers don’t hit sprinklers; ten-year-old boys pushing lawn mowers do. ([Location 184](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=184))
+    - Tags: [[pink]] 
+- We do the same thing when it comes to investing. If we haven’t done our research (figured out where the sprinklers are) and we behave poorly (run over the sprinklers), we’re not going to like the results. And we can’t blame the investment for our decisions. At some point, we must accept responsibility. Otherwise we’ll keep making the ([Location 186](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=186))
+    - Tags: [[pink]] 
+- same mistake. And in that case, we might as well give up trying to invest, put all our savings in fixed-rate bank CDs, and go enjoy our lives. ([Location 188](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=188))
+    - Tags: [[pink]] 
+- One definition of insanity goes something like this: insanity is when you keep doing the same thing (in this case, blaming your investments for your losses) and expect a different result (in this case, good returns). Let’s stop acting crazy. ([Location 189](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=189))
+    - Tags: [[pink]] 
+- Long-Term Memory Loss ([Location 191](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=191))
+    - Tags: [[orange]] 
+- It’s important to avoid getting caught up in these cycles. One way to avoid them is to lengthen our definition of the past. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=203))
+    - Tags: [[pink]] 
+- History is so important. It has been said that the three most important words in the English language are “remember, remember, remember. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=204))
+    - Tags: [[pink]] 
+- Mountains are dangerous. That doesn’t mean you don’t go climbing (although maybe you don’t). But it does mean that if you want to stay alive you’d better respect those dangers. The same is true of stocks. They’re dangerous. When we pretend otherwise, we get into trouble. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=225))
+    - Tags: [[pink]] 
+- Overconfidence is a very serious problem. If you don’t think it affects you, that’s probably because you’re overconfident. In fact, the people who are most overconfident are the ones least likely to recognize it. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=246))
+    - Tags: [[pink]] 
+- The next time you’re about to make an investment decision because you’re sure you’re right, take the time to have what I call the OC (Overconfidence Conversation). It’s been a truly powerful tool to help people in their decisions. Find a friend, spouse, partner, or anyone you trust, and walk them through your answers to the following questions: ([Location 259](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=259))
+    - Tags: [[pink]] 
+- If I make this change and I am right, what impact will it have on my life? What impact will it have if I’m wrong? Have I been wrong before? ([Location 262](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=262))
+    - Tags: [[pink]] 
+- A guy I know had his money invested in his company’s stock. He had enough money to retire comfortably, but he believed there was a good chance the value of the stock could continue to rise—maybe even double. He wanted to know if he should sell the stock upon retirement, or hang on and wait for the stock to go up further. We had the Overconfidence ([Location 264](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=264))
+    - Tags: [[pink]] 
+- Conversation. I asked him three questions and we answered them together. Question one: What happens if you hold the stock and you’re right—the stock doubles? Answer: You’ll have more money. Question two: What if you hold the stock and you’re wrong? Answer: You’re going back to work—maybe for twenty years. Question three: Have you been wrong before? Answer: Yes. He sold the stock. ([Location 267](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=267))
+    - Tags: [[pink]] 
+- Before you invest your hard-earned money, ask yourself: Are you buying a particular investment because you think it’s a good investment? Or are you relying on a Greater Fool to come along? If so, doesn’t that make you—no offense—a bit foolish yourself? ([Location 277](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=277))
+    - Tags: [[pink]] 
+- Sigh. We’ve been doing this for a long time. We do it because we make investing decisions based on how we feel rather than what we know. Falling stocks scare us; rising stocks attract us. But we know buying high and selling low leads to losses—and we need to stop doing that if we want to get different results. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=287))
+    - Tags: [[pink]] 
+- We don’t know what comes next for the financial markets. In the end, our own behavior is all that we can control—and ultimately, our behavior can make a huge difference in our financial success and our personal happiness. In other words, it’s up to us to close the behavior gap. ([Location 326](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=326))
+    - Tags: [[pink]] 
+- When making good investment decisions, it helps to be emotionally prepared for a painful result. But you need to keep making good decisions anyway. In the end, that’s a better ([Location 467](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=467))
+    - Tags: [[pink]] 
+- strategy than making bad decisions. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=468))
+    - Tags: [[pink]] 
+- I’m reminded of that guy from England, thirty-two years old, who sold everything he owned and took the cash ($135,300) to Vegas for one ([Location 468](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=468))
+    - Tags: [[pink]] 
+- roll of the roulette wheel. Good decision or bad? Turns out he won—doubling his money. Now, was that a good decision or a bad one? Answer: it was still a horrible decision. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=469))
+    - Tags: [[pink]] 
+- My point was that decisions should be based on principles, not on our feelings about what’s going to happen. The principle here was the ([Location 478](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=478))
+    - Tags: [[pink]] 
+- one that says it’s always a bad idea to have too much of your net worth wrapped up in a single investment, let alone a single stock. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=479))
+    - Tags: [[pink]] 
+- There is no best investment out there. But sometimes, the best decision is obvious. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=481))
+    - Tags: [[pink]] 
+- Personal Finance Is Personal ([Location 517](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=517))
+    - Tags: [[pink]] 
+- My friend Tim Maurer is a financial planner, educator, and author. His favorite line goes like this: “Personal finance…is more personal than it is finance. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=523))
+    - Tags: [[pink]] 
+- Advice and forecasts are often distractions from our real task: getting to know ourselves and our goals, making choices aligned with those goals, and adapting to the surprises that are bound to come along. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=579))
+    - Tags: [[pink]] 
+- Financial decisions almost always are life decisions. Before you decide on your financial goals, you need to choose your life goals. ([Location 642](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=642))
+    - Tags: [[pink]] 
+- Brooks’s conclusion: modern society concentrates on the wrong things. Governments track economic trends, but pay little attention to how social programs and institutions affect happiness. Likewise, individuals worry too much about money and not enough about things like fun and…well, love. How does this relate to your financial plans? If you’re thinking about how much you’ll need to retire, don’t get hung up on how much you’ll need to buy the house of your dreams. But make ([Location 679](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=679))
+    - Tags: [[pink]] 
+- sure there’s enough in the budget to visit your children, pay your golf club dues, and maybe see a marriage counselor when things get bumpy. ([Location 682](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=682))
+    - Tags: [[pink]] 
+- The moral: whatever you have to do to gain self-knowledge, do it. Find out who you are and what you want. Then you can stop wasting your life energy and your money on stuff that doesn’t matter to you—and start making financial decisions that will get you to your true goals. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=698))
+    - Tags: [[pink]] 
+- What happens to anxious investors? When you start focusing too hard on market moves, every little ripple can flip the boat. Anxious people tend to buy high (they’re worried because they’re missing the big gains) and sell low (they worry ([Location 828](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=828))
+    - Tags: [[pink]] 
+- the losses will keep piling up). ([Location 829](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=829))
+    - Tags: [[pink]] 
+- And guess what: when we measure the same range of potential ([Location 1015](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1015))
+    - Tags: [[pink]] 
+- investment outcomes in actual dollars, we get the opposite picture. The potential outcomes get wider over time. How does it happen? ([Location 1016](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1016))
+    - Tags: [[pink]] 
+- If you happen to earn 5 percent instead of the 7 percent you planned on, it will make very little difference twelve months from now. But in twenty or thirty years, you will end up in a greatly different place. Again, flying provides a useful metaphor. Imagine a cross-country flight leaving from Los Angeles and heading to Miami. If you’re a half inch off course… ([Location 1017](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1017))
+    - Tags: [[pink]] 
+- correction, however, and you run the risk of ending up in Maine… ([Location 1020](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1020))
+    - Tags: [[pink]] 
+- If you base your plan on earning the long-term average return of the stock market and never make course corrections, you’re at great risk of ending up someplace other than where you planned. On the other hand, if you set a course and then make slight course corrections… ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1021))
+    - Tags: [[pink]] 
+- Financial Matters You Can Control We’re constantly bombarded by information: from reports of market ups… ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1024))
+    - Tags: [[pink]] 
+- nuclear accidents and overseas revolutions. But here’s the thing: no one really knows what… ([Location 1025](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1025))
+    - Tags: [[pink]] 
+- When we come upon things that we don’t understand, it can generate anxiety and fear. In our pursuit of control, we often obsess over the consequences of future events, even if they are almost always beyond our control. So here are three things to remember when you feel like you have no control or understanding of how the world is about… ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1026))
+    - Tags: [[pink]] 
+- events, I’ve found that it’s helpful to focus on what’s going on right now in my life. Often, I find that I don’t have any problems right now, at this very moment. To be clear, I’m not pretending it means that I don’t have things going on that could have a significant impact on my life. Without question, we all need to deal with these types of concerns, but it helps to isolate that exercise from the reality of everyday living. Second, focus on your personal… ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1029))
+    - Tags: [[pink]] 
+- economy. That’s why I love this quote from the investor Jim Rogers: “Any economy which saves and invests and works hard always wins out in the future over… ([Location 1034](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1034))
+    - Tags: [[pink]] 
+- When things get really complex, I find that it often helps to focus on my personal situation. I can still figure out a way to spend less than I make and invest in my skills or my business (over which I have a little bit of control). And I absolutely can get out there and work hard. Forget about what’s going on in China or global… ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1035))
+    - Tags: [[pink]] 
+- we could be doing things that actually make a difference in our financial lives—like working or trying to figure out how to save or earn a little more. A similar principle holds when we get caught up in the idea that higher investment returns are the key to meeting our financial goals. Sometimes we even indulge in the notion that our investments will set us free from lives that don’t satisfy us. We can quit our job, stop worrying, retire to Mexico…… ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1038))
+    - Tags: [[pink]] 
+- probably won’t dramatically alter your financial prospects, let alone your life. Fortunately, you can do that yourself. While making wise decisions about how you invest your money is important, it doesn’t have nearly the impact of working hard and saving more—let alone starting a business, going back to school, or reinventing yourself in any number of ways. I’m reminded of a man I know who, back in his twenties, suffered from depression. He did a… ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1043))
+    - Tags: [[pink]] 
+- enough about himself to quit his dead-end job and start a career as an author. He’s since sold a half million books and countless articles. He says therapy was the best financial investment he ever made. I’ve found that it helps to think of earning money as my job, and think of investing as a tool to protect the money I’ve earned. Of course that means that I might have to watch from the sidelines as the markets scream to new highs. But if taking this approach allows me to focus on… ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1047))
+    - Tags: [[pink]] 
+- It’s also important to remember that you have zero control over what the market does and at least some control over what you do. The next time life starts to feel too complex and out of control, remember that you can get recentered by focusing on the simple (note: I… ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1051))
+    - Tags: [[pink]] 
+- Wisdom Is a Financial Strategy Here’s an old Zen story. Two young fish swim past a coral reef. An older fish watches them from a distance, and he shouts… ([Location 1054](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1054))
+    - Tags: [[pink]] 
+    - Note: Too good
+- there? The two young fish exchange puzzled looks, and one of them answers the old fish: What the heck is water? The story makes me think of our relationship to money. We’re swimming in… ([Location 1056](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1056))
+    - Tags: [[pink]] 
+- hopes. But we’re not fully conscious of the fundamental role that money… ([Location 1058](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1058))
+    - Tags: [[pink]] 
+- The change in our relationship to money starts as soon as we realize how important money is in our lives. When that happens, we start to… ([Location 1059](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1059))
+    - Tags: [[pink]] 
+- financial decisions that will free us from anxiety… ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1060))
+    - Tags: [[pink]] 
+- As our clarity grows, we can begin to put money into perspective. We may see that money is not a scorecard, let alone a guarantee of happiness. The amount of money we have says little or nothing about how successful we are as human beings, and it doesn’t necessarily determine the quality of our life. It’s just one of many variables, along with more… ([Location 1060](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1060))
+    - Tags: [[pink]] 
+- In fact, our… ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1064))
+    - Tags: [[pink]] 
+- self-interest requires us to spend less time thinking and worrying about money so that we can focus on nurturing fundamental qualities—wisdom, health, experience, and so on—that can ultimately help us accumulate more money in the long run. (It’s… ([Location 1064](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1064))
+    - Tags: [[pink]] 
+- Our deepest instincts (if we listen to them) will tell us that money doesn’t mean anything: it’s simply a tool to reach goals. And by goals I don’t mean earning a… ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1066))
+    - Tags: [[pink]] 
+- 500, or finding the next great mutual fund manager. By goals, I mean stuff that matters to you. Things like putting your kids through college, starting a business, becoming a yoga teacher, taking a year off, retiring at sixty, spending more time at home with your kids, buying a sweet car, kayaking the Grand Canyon, or helping your elderly parents. Shifting your focus from a bunch of more or less… ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1068))
+    - Tags: [[pink]] 
+- about pseudo goals (picking the right investment) and lose interest in fake goals (owning a house bigger than your neighbor’s,… ([Location 1071](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1071))
+    - Tags: [[pink]] 
+- That will free your mind to spend more of your time and energy (both mental and emotional) focused on what you really want—what actually matters to you. You’ll start acting in ways that are consistent with your values, and act less out of confusion or fear. Of course, you still have to think about ways to reach your goals. But that will be easier when you realize that your… ([Location 1073](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1073))
+    - Tags: [[pink]] 
+- Find Your Focus You have only so much time and energy. You need to use it wisely. What to do? My rule is simple: limit your attention to things that meet two… ([Location 1077](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1077))
+    - Tags: [[pink]] 
+- One of my clients is an older woman who lives in a rural community. She called me one day in a state of real anxiety about events in… ([Location 1079](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1079))
+    - Tags: [[pink]] 
+- might mean to her portfolio. I told her two things: First—Lebanon isn’t going to play a major role in what happens to you. Second—there is not a thing you can do to influence events in Lebanon. Then I… ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1080))
+    - Tags: [[pink]] 
+- talking about… ([Location 1082](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1082))
+    - Tags: [[pink]] 
+- People worry a lot about things they simply cannot control. The solution: focus on the things that matter to you and can be influenced by your behavior. Forget the rest. ([Location 1092](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1092))
+    - Tags: [[pink]] 
+- The Overnight Test A friend of mine recommends what he calls the Overnight Test. Ask yourself what you would do if someone came in and sold all of your investments overnight. The next morning you wake up and you’re left ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1118))
+    - Tags: [[pink]] 
+- with 100 percent cash in your account. Here’s the test: you can repurchase the same investments at no cost. Would you build the same portfolio? If not, what changes would you make? Why aren’t you making them now? ([Location 1120](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1120))
+    - Tags: [[pink]] 
+- People have a tough time with this one. Maybe they’ve long since forgotten why they bought those investments in the first place (there must have been some reason, right?). It’s kind of like certain relationships: you grow apart, your lives take different directions, and there’s nothing much left to talk about…but you keep hanging around with each ([Location 1122](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1122))
+    - Tags: [[pink]] 
+- other because change would require work. ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1125))
+    - Tags: [[pink]] 
+- Knowing When to Sell ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1131))
+    - Tags: [[pink]] 
+    - Note: Read the whole section
+- First, be honest with yourself. Let’s say you invested in a stock at ten dollars, and it climbed to thirty dollars. Were you smart or just lucky? If you’re being honest (which isn’t always easy, since evolution has wired our brains for a certain amount of self-deception), you’ll probably acknowledge that any triple-baggers in your portfolio reflect at least as much luck as skill. Second, take the ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1142))
+    - Tags: [[pink]] 
+- Overnight Test. Would you buy it now, based on the company’s or the fund’s prospects and price? (If you don’t know, the answer is no.) Third, review the investment’s potential role in helping you reach your goals. Picking the next Apple is not a financial goal. Saving for retirement or having enough money to send your kids to college are financial goals. Once we’re clear about the why—that is, about the goals that motivate us to invest in the first place—making investment decisions becomes much simpler. ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1145))
+    - Tags: [[pink]] 
+- With that in mind, ask ([Location 1149](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1149))
+    - Tags: [[pink]] 
+- yourself: Does this investment play a clear role in your portfolio? Does it add diversification benefits, a needed infusion of growth potential, or some other element to the mix? In other words, does it play a role in your efforts to reach your goals? If not, sell. Fourth, walk away and don’t look back. It’s quite possible that if you make the decision to sell an investment because it doesn’t align with your goals, the stock will promptly take off. Likewise, if you make the decision to continue to hold an investment because it does align with your plans, the ([Location 1149](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1149))
+    - Tags: [[pink]] 
+- investment may fall off a cliff, or at least trip on a curb. ([Location 1153](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1153))
+    - Tags: [[pink]] 
+- With that in mind, you need to be emotionally prepared for the times when your faith in your perfectly sound, reality-based decisions will be tested. And of course, this applies to every investment decision—not just the decision to sell or not to sell. Meanwhile, let’s not make all this seem harder than it is. Making the decision to sell or ([Location 1154](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1154))
+    - Tags: [[pink]] 
+- hold an investment is relatively simple when we’re aware of the cognitive traps of fear and greed. It should be clear to anyone that if you own an investment that has tripled in price, and you made that investment based on luck, it would be wise to take the profit and invest it in something that more accurately reflects your plan. As usual, doing the right thing is simple. Maybe not easy. But simple. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1156))
+    - Tags: [[pink]] 
+- In fact, I think it is fair to say that getting back to even is never a good reason to hold on to an investment. ([Location 1170](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1170))
+    - Tags: [[pink]] 
+- Investment decisions should be made based ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1190))
+    - Tags: [[pink]] 
+- on what we know, not how we feel. ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1190))
+    - Tags: [[pink]] 
+- Please. Ignore your gut feelings about the direction of the stock market. I can’t tell you how many times I have heard people use their “gut” as an excuse to buy or sell stocks at what turns out to be just the wrong time. ([Location 1198](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1198))
+    - Tags: [[pink]] 
+- Investing, like life itself, forces us to make decisions in the midst of uncertainty. We will never be right all the time. We can control the process of making the ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1201))
+    - Tags: [[pink]] 
+- decision, but we can’t control the outcome. ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1203))
+    - Tags: [[pink]] 
+- YOU’RE RESPONSIBLE FOR YOUR BEHAVIOR (BUT YOU CAN’T CONTROL THE RESULTS) ([Location 1210](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1210))
+    - Tags: [[pink]] 
+- Part of the problem lies with our almost universal tendency to believe what we want to believe. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1217))
+    - Tags: [[pink]] 
+- Financial advice comes from people whose interests are often in direct conflict with ours. ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1279))
+    - Tags: [[pink]] 
+- Get it? You’re not totally in control even when you are making wise decisions. So beware of making decisions for purely financial reasons. Instead, make decisions that square with your notions of virtue, wisdom, and common sense. ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1362))
+    - Tags: [[pink]] 
+- And remember: you’re responsible for your own behavior—but you can’t control the results. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1364))
+    - Tags: [[pink]] 
+- We often resist simple solutions because they require us to change our ([Location 1500](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1500))
+    - Tags: [[pink]] 
+- behavior. ([Location 1501](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1501))
+    - Tags: [[pink]] 
+- The words stayed with me: “gorge on the gratification. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1515))
+    - Tags: [[pink]] 
+- Try a mandatory holding pattern. Before you buy something, stop. Add it to a list and let it sit for three days. Then revisit the list. ([Location 1528](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1528))
+    - Tags: [[pink]] 
+- It’s amazing how something you absolutely had to have holds almost no interest ([Location 1529](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1529))
+    - Tags: [[pink]] 
+- after three days. I find this especially true with books. When I first signed up for Amazon Prime, I quickly found myself with a stack of books that I never started. ([Location 1530](https://readwise.io/to_kindle?action=open&asin=B005GSYXX6&location=1530))
+    - Tags: [[pink]]
+

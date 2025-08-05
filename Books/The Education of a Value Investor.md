@@ -1,0 +1,238 @@
+---
+tags:
+  - readwise
+---
+
+# The Education of a Value Investor
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51Y-1mvvEnL._SL200_.jpg)
+
+## Metadata
+- Author: [[Guy Spier]]
+- Full Title: The Education of a Value Investor
+- Category: #books
+
+## Highlights
+- We like to think that we change our environment, but the truth is that it changes us. So we have to be extraordinarily careful to choose the right environment—to work with, and even socialize with, the right people. Ideally, we should stick close to people who are better than us so that we can become more like them. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=262))
+    - Tags: [[orange]] 
+- In an article entitled “Trauma Reveals the Roots of Resilience,” the psychologist Diana Fosha quotes a line from Ernest Hemingway: “The world breaks everyone and afterward some are strong at the broken places.” Why is it that some people are strengthened by their traumas and not broken by them? ([Location 265](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=265))
+    - Tags: [[orange]] 
+- Did my education fail me? Or, even worse, did I fail my education? ([Location 307](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=307))
+    - Tags: [[orange]] 
+- So many of us went into finance with tremendous confidence in our intelligence and abilities, only to discover that the system we became part of was capable of causing more harm than good. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=312))
+    - Tags: [[orange]] 
+- Every one of us has a handful of moments like this in the course of a lifetime. But we need the courage to act on them. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=355))
+    - Tags: [[orange]] 
+- was driven in large part by what Warren Buffett calls “the outer scorecard”—that need for public approval and recognition, which can so ([Location 377](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=377))
+    - Tags: [[orange]] 
+- easily lead us in the wrong direction. This is a dangerous weakness for an investor, since the crowd is governed by irrational fear and greed rather than by calm analysis. I would argue that this kind of privileged academic environment is largely designed to measure ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=378))
+    - Tags: [[orange]] 
+- people by an external scorecard: winning other people’s approval was what really counted. ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=380))
+    - Tags: [[orange]] 
+- So during those formative years I was developing a serious flaw that I would later need to identify and reverse. Value investors have to be able to go their own way. The entire pursuit of ([Location 381](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=381))
+    - Tags: [[orange]] 
+- value investing requires you to see where the crowd is wrong so that you can profit from their misperceptions. This requires a shift toward measuring yourself by an “inner scorecard.” To become a good investor, I would need to come to an acceptance of myself as an outsider. The ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=382))
+    - Tags: [[orange]] 
+- real goal, perhaps, is not acceptance by others, but acceptance of oneself. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=384))
+    - Tags: [[orange]] 
+- What I stumbled upon was this. Desperate to figure out how to lead a life that was more like his, I began constantly to ask myself one simple question: “What would Warren Buffett do if he were in my shoes?” ([Location 581](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=581))
+    - Tags: [[orange]] 
+- Warren Buffett, quoting Henry Ford, often talks about the importance of ([Location 648](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=648))
+    - Tags: [[orange]] 
+- keeping all your eggs in one basket, then watching that basket very carefully. ([Location 649](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=649))
+    - Tags: [[orange]] 
+- This alignment of my own interests and my shareholders’ interests is inestimably important. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=660))
+    - Tags: [[orange]] 
+- But there were other ways in which I deviated from the hard-won principles that he had taught me. For example, I ([Location 663](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=663))
+    - Tags: [[orange]] 
+- should simply have copied the fee structure of his pre-Berkshire investment partnerships. He charged no annual management fee, but took a quarter of the profits above a 6 percent hurdle. This is an extremely unusual structure, but it’s the best alignment I’ve ever seen between an investor and his shareholders. It truly embodies the principle of making money with them, not off them. Unless they do well, the fund manager earns nothing. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=664))
+    - Tags: [[orange]] 
+- Long-term compounding is an investor’s best friend, so why get in its way? ([Location 690](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=690))
+    - Tags: [[orange]] 
+- Part of the problem was that it was so easy to get sucked into the vortex of the New York financial world, with its skewed values and seductions. I felt that my mind was in Omaha, and I believed that I could use the force of my intellect to rise above my environment. But I was wrong: as I gradually discovered, our ([Location 691](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=691))
+    - Tags: [[orange]] 
+- environment is much stronger than our intellect. Remarkably few investors—either amateur or professional—truly understand this critical point. Great investors like Warren Buffett (who left New York and returned to Omaha) and Sir John Templeton (who settled in the Bahamas) clearly grasped this idea, which took me much longer to learn. ([Location 693](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=693))
+    - Tags: [[orange]] 
+- At the time, I thought about moving to Omaha myself, but I had too many connections in New York that made me want to stay. Still, in those first years after getting started, I mostly kept aloof from the New York ([Location 696](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=696))
+    - Tags: [[orange]] 
+- scene and from Wall Street. I worked in blissful isolation out of my one-bedroom apartment on West 66th Street and then in a series of three informal office spaces. One of these was an apartment on West 58th Street, where Monica Lewinsky was a neighbor. Another was a two-bedroom apartment on West 55th, where David Neeleman, the founder of JetBlue, was my neighbor. I’d read that he, like me, had attention deficit disorder (ADD). Yet he’d still managed to build a successful company. I found this reassuring: having him in ([Location 697](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=697))
+    - Tags: [[orange]] 
+- the building was a frequent reminder that I could also overcome my idiosyncratic wiring. As investors, we all have shortcomings; as I came to see it, the key is to accept who we are, understand our differences and limitations, and figure out ways to work around them. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=701))
+    - Tags: [[orange]] 
+- In the meantime, even without a professional-looking office, life was good. The fund was still tiny, but my investment returns were decent. The performance was driven by the success of stocks like Duff & Phelps Credit Rating, which rose seven-fold. It illustrated ([Location 703](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=703))
+    - Tags: [[orange]] 
+- perfectly what I had learned from Buffett: find companies that are cheap, that have an expanding “moat” around them, and that are awash in cash. While others got caught up in the tech bubble of the late 1990s, I didn’t get lured in at all, partly because I was in the orbit of cool-headed investors like Buffett, Ruane Cunniff, and Tweedy, Browne. Their common sense helped to protect me from tech fever. This proved once again that environment trumps intellect. ([Location 705](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=705))
+    - Tags: [[orange]] 
+- Buffett and Munger joke that envy is the only one of the seven deadly sins that isn’t any fun. “Envy ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=725))
+    - Tags: [[orange]] 
+- is crazy,” remarks Munger. “It’s 100 percent destructive. . . . If you get those things out of your life early, life works a lot better.” ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=725))
+    - Tags: [[orange]] 
+- As an ancient rabbinical saying puts it: “Who is strong? He who masters his own passions.” ([Location 730](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=730))
+    - Tags: [[orange]] 
+- As Munger puts it: “I like people admitting they were complete stupid horses’ asses. I know I’ll perform better if I rub my nose in my mistakes. This is a wonderful trick to learn.” ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=759))
+    - Tags: [[orange]] 
+- As I later learned, Mohnish has a colorful background. He’s the grandson of a well-known itinerant magician and the son of a businessman who had at least as many failures as ([Location 901](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=901))
+    - Tags: [[orange]] 
+- successes. Born in 1964, Mohnish grew up in Mumbai, New Delhi, and Dubai and arrived in the United States as a penniless student in the 1980s. He went on to build an IT consulting and services business called TransTech, which he financed with $70,000 in credit card debt and about $30,000 from his 401k. TransTech’s revenues grew to $20 million and he ultimately sold the company for $6 million. ([Location 902](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=902))
+    - Tags: [[orange]] 
+- I was particularly struck by his discussion of a successful investment he had made in Frontline Ltd. I sat there taking notes at a furious rate while he explained that he had invested at a time when its oil-shipping tankers were trading for less than their replacement cost. I understood well the concept of buying assets at less than replacement value, ([Location 919](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=919))
+    - Tags: [[orange]] 
+- but he gave me a deeper insight into the mechanism by which the low price itself would be a catalyst to turn the market around since the supply of tankers was drying up. In doing this, Mohnish exhibited what Howard Marks would later call “second-level thinking”—a grasp of nuance that is important but rare among investors. ([Location 921](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=921))
+    - Tags: [[orange]] 
+- Mohnish had a different perspective on the world than others, but his rationale for making this kind of contrarian investment was utterly persuasive. ([Location 923](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=923))
+    - Tags: [[orange]] 
+- After Mohnish’s annual meeting, I returned home to New York, picked up a fountain pen, and wrote him a short note. Written in my semi-legible scrawl, it said something like: “Dear Mr. Pabrai, Thank you so much for having me as a guest at your partnership meeting. I learned a lot about life and investing, and I also met some great people. Warm regards, Guy Spier.” It was one simple note out of at least ([Location 931](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=931))
+    - Tags: [[orange]] 
+- a dozen letters that I sent that week. I had no agenda in writing it and expected nothing in return. I mailed it and then forgot about it. But Mohnish later told me that I was the only person who wrote to him after that meeting, and my note clearly stuck in his head. About six months later, he sent me an email to say that he was going to a meeting in Greenwich, Connecticut. Did I want to meet for dinner? I most certainly did. That meal with Mohnish altered the trajectory of my life—even more, perhaps, than my subsequent lunch with Warren Buffett. If I hadn’t bothered to thank Mohnish, many great things that have happened since ([Location 934](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=934))
+    - Tags: [[orange]] 
+- our first dinner might never have occurred. I didn’t understand this at the time, but I now see that every letter I wrote was an invitation for serendipity to strike. To many people, it might seem like a waste of time. But I couldn’t win the lottery without a ticket, and these tickets were almost free. In a sense, this is a value… ([Location 939](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=939))
+    - Tags: [[orange]] 
+- We met at the Delamar Greenwich Harbor Hotel. I arrived half an hour early with a sense of anticipation, flattered that this remarkable investor had reached out to me. At… ([Location 942](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=942))
+    - Tags: [[orange]] 
+- meetings with a self-interested idea of how I wanted it to turn out. But I consciously showed up that evening with no agenda. I resisted the temptation to dominate the conversation with a slew of my own questions designed to reverse engineer what he had done to generate such high… ([Location 943](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=943))
+    - Tags: [[orange]] 
+- Perhaps Mohnish sensed this, and it helped to set the right tone. When you have an agenda, people smell it, and this tends to put them on the defensive. Strange as this may sound, I feel as if I had some kind of divine… ([Location 946](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=946))
+    - Tags: [[orange]] 
+- with him. His own authenticity made me see the foolishness of being… ([Location 948](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=948))
+    - Tags: [[orange]] 
+- What I saw during that meal was a man completely at ease with himself. The person on the outside was the same as the person on the inside; he wasn’t pretending to be anything to anybody. So often in my life, I wasn’t aligned or at peace with myself. But in Mohnish’s presence, from the very start, I was myself. Misalignment is a dangerous thing, not just in relationships but in business and investing. For example, Charlie… ([Location 949](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=949))
+    - Tags: [[orange]] 
+- relieves your brain of much unnecessary mental work so that it can focus on… ([Location 952](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=952))
+    - Tags: [[orange]] 
+- Mohnish talked to me during that meal about a book called Power vs. Force: The Hidden Determinants of Human Behavior. The author, David Hawkins, explores the theory that we have a greater capacity to influence others when we’re an authentic version of ourselves since this truthfulness evokes a deep psychological response in others. Mohnish himself seemed to embody this… ([Location 953](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=953))
+    - Tags: [[orange]] 
+- planted a seed in me: in the future, I wanted to be truly authentic, completing the transformation I had begun when I left D. H. Blair and that whole world of lies. I quickly realized that Mohnish, like me, had been on a quest for worldly wisdom. But he had arrived at it from a different direction and with a very different mind. From Tony Robbins I had discovered the power of modeling the habits of successful people; Mohnish, who referred to this as “cloning,” sometimes jokes that he’s never had an original idea in… ([Location 957](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=957))
+    - Tags: [[orange]] 
+- our… ([Location 961](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=961))
+    - Tags: [[orange]] 
+- Many of the best ideas are already out there for us to see; we just have to clone them. ([Location 967](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=967))
+    - Tags: [[orange]] 
+- I had learned from Mohnish: some businesses succeed because they get one thing right, but most succeed because they get a lot of small things right. ([Location 979](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=979))
+    - Tags: [[orange]] 
+- After all, if you’re going to meet someone better than you, you had better work on yourself first. ([Location 1016](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1016))
+    - Tags: [[orange]] 
+- “People will always stop you doing the right thing if it’s unconventional.” ([Location 1152](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1152))
+    - Tags: [[orange]] 
+- He then went on to explain how crucial it is to adhere to values that you know to your core are right rather than being swayed by external forces such as peer pressure. “It’s very important always to live your life by an inner scorecard, not an outer scorecard,” he said. To illustrate this, he then asked us, “Would you prefer to be considered the best lover in the world and know privately that you’re the worst—or would you prefer to know privately that you’re the best lover in the world, but be considered the worst?” ([Location 1154](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1154))
+    - Tags: [[orange]] 
+- As Warren helped me to understand, people too often justify their improper or misguided actions by reassuring themselves that everyone else is doing it too. ([Location 1165](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1165))
+    - Tags: [[orange]] 
+- For Warren, the travails of this gifted investor clearly provided a powerful example of the perils of debt and the virtues of patience. “Charlie and I always knew we would become very wealthy,” he told us, “but we weren’t in a hurry.” After all, he said, “If you’re even a slightly above average investor who spends less than you earn, over a lifetime you cannot help but get very wealthy—if you’re patient.” ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1185))
+    - Tags: [[orange]] 
+- He also told us that he typically avoids meeting corporate managements, preferring to rely on companies’ financial statements. ([Location 1195](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1195))
+    - Tags: [[orange]] 
+- This became my own goal: not to be Warren Buffett, but to become a more authentic version of myself. As he had taught me, the path to true success is through authenticity. ([Location 1218](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1218))
+    - Tags: [[orange]] 
+- It’s reassuring to talk smugly about the “madness of crowds,” but what about the madness of the intellectual and financial elite? ([Location 1443](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1443))
+    - Tags: [[orange]] 
+- The mind itself is a confounded thing, woefully ill-suited to the task of investing. This is not a science book or a weighty tome about the structure of the brain, but it’s worth taking a few moments to ponder why it’s so hard to think and ([Location 1445](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1445))
+    - Tags: [[orange]] 
+- invest in a rational manner. ([Location 1446](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1446))
+    - Tags: [[orange]] 
+- Research of this kind helped me to see that the brain is a much less wieldy tool than we’d like to imagine. For participants in the stock market, one of the biggest problems is that the subrational, instinctive part of the brain is subject to dire mood ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1464))
+    - Tags: [[orange]] 
+- swings, including outbreaks of irrational optimism and irrational pessimism. Indeed, money-related issues often activate the “subrational” parts of our brains. In situations of heightened financial risk, when we feel that we are in jeopardy, our subconscious instincts ([Location 1466](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1466))
+    - Tags: [[orange]] 
+- are activated; the neocortex can subsequently rationalize our decisions. ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1468))
+    - Tags: [[orange]] 
+- Journey to the Ants ([Location 1486](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1486))
+    - Tags: [[orange]] 
+    - Note: READ THIS BOOK
+- Much of the book is devoted to describing the different survival strategies used by ant species and to exploring how these different species have coevolved and competed with each other. This one book taught me more about economics than I’d learned in all my years at university. That may sound nuts, but it’s true. Why? Because an ant colony, like the economy, is a complex adaptive system. Reading about ants was a revelation. For example, it turns out that ant colonies operate by a ([Location 1486](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1486))
+    - Tags: [[orange]] 
+- simple set of basic rules that enable them to resolve a myriad of difficult survival problems. I realized instantly that I was discovering models that would be useful for me in analyzing the financial and economic world. My thoughts went to Munger and his latticework of mental models. So I sent him a copy of Journey to the Ants. To my delight, he replied with a short handwritten note, saying that he had long intended to read the book. Meanwhile, I resolved to spend more time reading books about biology. These studies deepened my sense that ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1490))
+    - Tags: [[orange]] 
+- it’s helpful to think of the economy as an evolving and infinitely complex biological ecosystem. Companies, like ant species, must adopt strategies that enable them to thrive or they will be at risk of extinction. ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1494))
+    - Tags: [[orange]] 
+- As I soon discovered, other areas of complexity research also provide helpful models for how the economic world operates. For example, the Danish theoretical physicist Per Bak coauthored a classic study of sandpiles that showed what happens when you keep dropping grains of sand in one area. The resulting pile reaches a ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1496))
+    - Tags: [[orange]] 
+- state of “self-organized criticality”; avalanches then occur, but it’s impossible to predict either their timing or their size. This model offers intriguing insights into market crashes, which have much in common with these avalanches. For investors, the bottom line is to avoid states of self-organized criticality, which is essentially what occurred in the stock market before the crash of 2008–2009. The point is that the neat economic theories I had learned at university didn’t come close to describing the true complexities of the economy or the financial ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1498))
+    - Tags: [[orange]] 
+- markets. At the same time, I had also come to see that our brains are hopelessly limited in the face of this overwhelming complexity. This imbalance is a serious problem for investors. Here we are—with our little irrational brains and our overly simplistic economic theories—somehow hoping to make sense of this unbelievably complex world. What chance do we have? ([Location 1502](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1502))
+    - Tags: [[orange]] 
+- The real challenge, in my view, is that the brain itself—which got us to where we are—is the weakest link. ([Location 1522](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1522))
+    - Tags: [[orange]] 
+- She conducted a battery of tests and concluded that I have attention deficit disorder (ADD). The tests showed that I was capable of periods of extraordinary hyper-focus, especially at times of high stress, but that I was equally capable of falling through attention trapdoors when it came to the more mundane things ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1535))
+    - Tags: [[orange]] 
+- in life. I could think great thoughts, but my attention could shift so easily that I had little grasp of basic things like what time it was or where I’d left my keys. To deal with my ADD, I needed to develop an array of simple work-arounds—for example, installing big clocks in my office to help me keep track of time, having a clear desk so that I wouldn’t get distracted, and putting objects in the same places so that I wouldn’t lose them quite so often. In hiring a personal assistant, I specified that a key part of the job was to watch over me so that I wouldn’t ([Location 1537](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1537))
+    - Tags: [[orange]] 
+- mess up simple tasks like catching flights, remembering appointments, or closing the front door when I left our office building. ([Location 1542](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1542))
+    - Tags: [[orange]] 
+- Zurich is also far enough off the beaten track that not too many people would visit me; the friends and relatives who cared the most would come, but I wouldn’t have to devote too much time to relationships that were less central to my life. ([Location 1594](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1594))
+    - Tags: [[orange]] 
+- This might sound cold and unsentimental, but these are the sort of things that I needed to consider as I constructed an environment that suited my idiosyncratic ([Location 1596](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1596))
+    - Tags: [[orange]] 
+- character and priorities. After all, in moving to Zurich I had a chance to start over with a clean slate, putting into practice all that I had learned about how I could function more effectively. I didn’t want to blow it. ([Location 1597](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1597))
+    - Tags: [[orange]] 
+- The psychologist Roy Baumeister has shown that willpower is a limited resource, so we have to be careful not to deplete it. ([Location 1603](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1603))
+    - Tags: [[orange]] 
+- In fact, his lab discovered that even the simple act of resisting chocolate chip cookies left people with less willpower to perform subsequent tasks. In my case, I don’t want to waste my limited energy guarding myself against the envy and greed that a place like the ([Location 1603](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1603))
+    - Tags: [[orange]] 
+- Bahnhofstrasse might trigger in me. It’s better simply to construct my environment so that I’m not exposed to these destabilizing forces, which are likely to intensify my irrationality. The key is to free my mind from any unnecessary mental effort so I can use it for more ([Location 1605](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1605))
+    - Tags: [[orange]] 
+- constructive tasks that are likely to benefit me and my shareholders. ([Location 1607](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1607))
+    - Tags: [[orange]] 
+- Indeed, as a preparation for investing, bridge is truly the ultimate game. ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1767))
+    - Tags: [[orange]] 
+- If I were putting together a curriculum on value investing, bridge would undoubtedly be a part of it. ([Location 1768](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1768))
+    - Tags: [[orange]] 
+- In investing, we constantly operate with limited information. ([Location 1778](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1778))
+    - Tags: [[orange]] 
+- With my bridge hat on, I’m always searching for ([Location 1793](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1793))
+    - Tags: [[orange]] 
+- the underlying truth, based on insufficient information. ([Location 1793](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1793))
+    - Tags: [[orange]] 
+- The game has helped me to recognize that it’s simply not possible to have a complete understanding of anything. We’re never truly going to get to the bottom of what’s going on inside a company, so we have to make ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1794))
+    - Tags: [[orange]] 
+- probabilistic inferences. ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1795))
+    - Tags: [[orange]] 
+- was also struck by the memorable mantra of a chess champion, Edward Lasker, who remarked, “When you see a good move, look for a better one.” Applying this insight to stocks, I modified his mantra, often telling myself, “When you see a good investment, look for a ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1845))
+    - Tags: [[orange]] 
+- better investment.” Indeed, as Munger has pointed out, there’s a common tendency to like a particular idea—whether it’s a chess move or an investment—because it was the first one that popped into our heads. But is it really superior? Chess highlights the need to keep searching for a better move even after the brain has latched onto that first idea. Playing chess also strengthens this particular mental muscle. ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1847))
+    - Tags: [[orange]] 
+- “It’s not about how much money you make. It’s about changing the world.” ([Location 1862](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1862))
+    - Tags: [[orange]] 
+- This reminds me of a line that Mohnish often quotes from Blaise Pascal: “All of humanity’s problems stem from man’s inability to sit quietly in a room alone.” ([Location 1871](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1871))
+    - Tags: [[orange]] 
+- So investing may be a game, but for me, it’s a deadly serious game. ([Location 1890](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1890))
+    - Tags: [[orange]] 
+- Here’s one way to think about this: the human brain is said to run on about 12 watts—in other words, only a fifth of the power that’s needed by a 60-watt light bulb. That’s not much at all, given the power consumption of some of the computers that exist today. Yet we expect this relatively puny hardware to make immensely complex calculations about the investing world, and we even have the audacity to hope that we might get these calculations right. As we’ve discussed, one way to tilt the playing ([Location 1895](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1895))
+    - Tags: [[orange]] 
+- field to our advantage is to construct an environment in which we can operate more rationally—or at least less irrationally. But there’s also another tool at our disposal: if we’re looking to make better investment decisions, it helps immeasurably to develop a series of rules and routines that we can apply consistently. In the aftermath of the financial crisis, I worked hard to establish for myself this more structured approach to investing, thereby bringing more order and predictability to my behavior while also reducing the complexity ([Location 1898](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1898))
+    - Tags: [[orange]] 
+- of my decision-making process. Simplifying everything makes sense, given the brain’s limited processing power. The rules that I developed encompass a wide-ranging assortment of critical investment processes, including what I read (and in what order) when I’m researching stocks; whom I speak with (and refuse to speak with) about potential investments; how I deal with corporate management; how I trade stocks; and how I communicate (and don’t) with my shareholders. Some of these rules are broadly applicable; others are more idiosyncratic ([Location 1902](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1902))
+    - Tags: [[orange]] 
+- and may work better for me than for you. What’s more, this remains a work in progress—a game plan that I keep revising as I learn from experience what works best. Still, I’m convinced that it will help you enormously if you start thinking about your own investment processes in this structured, systematic way. Pilots internalize an explicit set of rules and procedures that guide their every action and ensure the safety of themselves and their passengers. Investors who are serious about achieving good returns without undue risk should follow their example. Why? Because ([Location 1906](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1906))
+    - Tags: [[orange]] 
+- in investing, as in flying, human error can be a bitch. ([Location 1910](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1910))
+    - Tags: [[orange]] 
+- Here, then, are eight of the rules, routines, and habits that I’ve subsequently put in place. This isn’t an exhaustive list by any means. But I hope it gives you a flavor of what I’ve ([Location 1917](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1917))
+    - Tags: [[orange]] 
+    - Note: READ EIGHT RULES
+- learned so far. ([Location 1918](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1918))
+    - Tags: [[orange]] 
+- But over a lifetime I have no doubt that I’ll benefit much more by detaching myself from people with a self-interest in getting me to buy stuff. This is a simple application of “adverse ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1967))
+    - Tags: [[orange]] 
+- selection.” As Charlie Munger has joked, “All I want to know is where I’m going to die so I’ll never go there.” For me, if an investment is being sold, that’s a place where I certainly want to avoid going. ([Location 1969](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1969))
+    - Tags: [[orange]] 
+- In some cases, this might not be a sales commission or any other financial benefit: it might ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1972))
+    - Tags: [[orange]] 
+- simply be that they derive psychological validation from successfully selling their idea. Either way, this is a no-go zone for me because the provenance of the idea is wrong since it stems from the seller’s personal agenda. ([Location 1973](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=1973))
+    - Tags: [[orange]] 
+- Even with a well-constructed environment and a robust set of investment rules, we’re ([Location 2164](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2164))
+    - Tags: [[orange]] 
+- still going to mess up. The brain is simply not designed to work with meticulous logic through all of the possible outcomes of our investment decisions. The complexity of the business and economic world, combined with our irrationality in the face of money-related issues, guarantees that we’ll make plenty of dumb mistakes. The habits and processes that we’ve discussed so far should help us to edge in the right direction. But there is one other investment tool that is so invaluable that it merits a chapter of its own: a checklist. The goal in creating a ([Location 2165](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2165))
+    - Tags: [[orange]] 
+- checklist is to avoid obvious and predictable errors. Before I make the final decision to buy any stock, I turn to my checklist in a last-ditch effort to prevent my unreliable brain from overlooking any potential warning signs that I might have missed. The checklist is the final circuit breaker in my decision-making process. The idea for this didn’t originate with me, but with Atul Gawande. A former Rhodes Scholar at Oxford, he is now a surgeon at Brigham and Women’s Hospital in Boston, a professor of surgery at Harvard Medical School, and a ([Location 2169](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2169))
+    - Tags: [[orange]] 
+- renowned author. He’s a remarkable blend of practitioner and thinker, and also an exceptionally nice guy. In December 2007, Gawande published a story in The New Yorker entitled “The Checklist,” which drew heavily on his experience as a surgeon to explore a problem that is both profound and practical. As he put it, “intensive-care medicine has grown so far beyond ordinary complexity that avoiding daily mistakes is proving impossible even for our super-specialists.” As he explained, this reflects a fundamental challenge that exists in other fields, too—namely, ([Location 2172](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2172))
+    - Tags: [[orange]] 
+- “the art of managing extreme complexity,” and the question of “whether such complexity can, in fact, be humanly mastered.” ([Location 2177](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2177))
+    - Tags: [[orange]] 
+- A line from Bobby Bare’s country song explains what too often happens with acquisitions: ‘I’ve never gone to bed with an ugly woman, but I’ve sure woke up with a few.’” ([Location 2199](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2199))
+    - Tags: [[orange]] 
+- As Mohnish often says, quoting an old adage that Ronald Reagan loved, “There’s no limit to what you can do if you don’t mind who gets the credit.” ([Location 2511](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2511))
+    - Tags: [[favorite]] [[counter-intuitve]] 
+- Nothing, nothing at all, matters as much as bringing the right people into your life. They will teach you everything you need to know. ([Location 2514](https://readwise.io/to_kindle?action=open&asin=B00KF2JU2W&location=2514))
+    - Tags: [[orange]]
+

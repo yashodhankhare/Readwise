@@ -1,0 +1,924 @@
+---
+tags:
+  - readwise
+---
+
+# Behavioral Portfolio Management
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51W1IiI9cwL._SL200_.jpg)
+
+## Metadata
+- Author: [[C.Thomas Howard]]
+- Full Title: Behavioral Portfolio Management
+- Category: #books
+
+## Highlights
+- Emotions play a central role in financial markets – this is an uncontroversial statement for most market participants. However, for some it borders on intellectual heresy. They argue that, while emotions are present, their impact is mitigated by the arbitrage activities of rational investors and thus markets correctly price assets. But markets do not correctly price assets and indeed emotions trump ([Location 131](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=131))
+    - Tags: [[pink]] 
+- arbitrage. Emotion is the proverbial elephant in the room of financial theorists. It is time to elevate emotions to their proper place in the pantheon of factors to be considered when making investment decisions. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=133))
+    - Tags: [[pink]] 
+- Markets are human institutions, so it is not surprising they too are driven by emotional decision-making. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=139))
+    - Tags: [[pink]] 
+- I present an alternative way of thinking about financial markets and how to go about investing in them. It draws ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=146))
+    - Tags: [[pink]] 
+- upon the growing behavioral science literature as a challenge to the foundations and predictions of Modern Portfolio Theory. Viewing the world through the lens of investor behavior challenges much conventional wisdom regarding how to make investment decisions. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=146))
+    - Tags: [[pink]] 
+- Throughout this book, I will focus on the interplay between two important groups: Emotional Crowds and Behavioral Data Investors. The story… ([Location 148](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=148))
+    - Tags: [[pink]] 
+- lessons are applicable to any market where Emotional Crowds play a dominant role. As information and events swirl about the market, Emotional Crowds respond by coalescing around the currently popular fearful or exciting scenarios. Humans are hardwired for myopic loss aversion and to herd, so it is not surprising that Crowds dominate, producing a… ([Location 150](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=150))
+    - Tags: [[pink]] 
+- things safer, as in our evolutionary past, myopic loss aversion and herding instead… ([Location 153](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=153))
+    - Tags: [[pink]] 
+- Behavioral Data Investors (BDIs), on the other hand, step away from the Crowd and systematically determine where the market is providing opportunities, building successful portfolios based on their analysis. They release their emotional brakes and uncover the… ([Location 154](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=154))
+    - Tags: [[pink]] 
+- provided by Crowds. That is, Crowds and BDIs engage in a complex dance about the market. Market events may exist for a short time, but the resulting emotions last well past the event that triggered them. Thus the emotional opportunities provided by the Crowd are measurable and… ([Location 156](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=156))
+    - Tags: [[pink]] 
+- Power of releasing and… ([Location 159](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=159))
+    - Tags: [[pink]] 
+- Successful investing is emotionally difficult. It often requires waiting for long-term results when your portfolio was recently pummelled, recommending an investment when others think it is a dog, investing when volatility is high, and often looking and acting different from the Crowd. To be a successful investor, you must make a conscious decision to control your natural reactions and instead focus on decisions that flow from careful and thoughtful analysis. Staying disciplined in an emotionally-charged, 24-hour news cycle world is a challenge. I believe that releasing your emotional brakes and then harnessing the price distortions created by the cognitive errors of others are the two most important things… ([Location 160](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=160))
+    - Tags: [[pink]] 
+- release and harness. The motivation for doing so is simple: on average Crowds underperform while their counterparts… ([Location 166](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=166))
+    - Tags: [[pink]] 
+- WYSIATI (what you see is all… ([Location 169](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=169))
+    - Tags: [[pink]] 
+- To be clear, this book is not about banishing emotions, for they play a central role in decision making and, without them, we would not have survived as… ([Location 172](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=172))
+    - Tags: [[pink]] 
+- today. Rather, this book is about mastering your emotions and at the same time uncovering the role emotions play at every level of the investing process. You can be a very spiritual and emotional person, as am I, while at the same time making investment decisions based, not on emotion and intuition, but on careful,… ([Location 174](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=174))
+    - Tags: [[pink]] 
+- Along the way I will… ([Location 177](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=177))
+    - Tags: [[pink]] 
+- why it is important to shed many a conventional wisdom and instead look underneath the hood to determine what is really going on. Often conventional wisdom is catering to investor emotions and provides the basis for industry best practices (read emotional catering). Digging into the data and seeing for yourself what is… ([Location 177](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=177))
+    - Tags: [[pink]] 
+- understand the dynamics of Emotional Crowds; understand how an emotional investor makes decisions; release your own emotional brakes, the first step of which is adopting a new terminology; avoid the emotional conventional wisdom of the… ([Location 181](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=181))
+    - Tags: [[pink]] 
+- This brings up an important consideration when becoming a BDI. By its very nature, you are often thinking and speaking differently than the Crowd. If social validation is important to you, then this will be a very difficult transition to make. I have been in this role my entire career. My wife frequently reminds me that I am tough to take out in polite company, since my views are so often different from the typical person.… ([Location 184](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=184))
+    - Tags: [[pink]] 
+- In the early 1970s, I took a course that forever changed the way I thought about the world around me. It was a basic economics course taught by Professor Billy Hughel Wilkins. In his soothing Texas accent, he showed us how economists think… ([Location 188](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=188))
+    - Tags: [[pink]] 
+- did not turn out to be as they seemed. That is, conventional wisdom regarding economic matters and the United States in general were often wrong. By carefully looking at the evidence on important economic issues facing the US, we came to conclusions that were at odds with… ([Location 190](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=190))
+    - Tags: [[pink]] 
+- This approach fascinated me and led to a career in which I seldom… ([Location 193](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=193))
+    - Tags: [[pink]] 
+- what I am told about the economy and markets. Instead my modus operandi became exploring the underlying data in order to figure out what was really going on. I was struck with how often what was stated as truth about a situation was incorrect. I was hooked on the economist’s way of thinking from that time on and spent the remainder of my graduate program… ([Location 193](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=193))
+    - Tags: [[pink]] 
+- economy and… ([Location 196](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=196))
+    - Tags: [[pink]] 
+- Many years later I read Steven Levitt and Stephan Dubner’s Freakonomics, which fitted hand in glove with my own view of how best to understand complex issues. They explore everyday matters by uncovering relationships using data that virtually everybody else ignores when trying to understand what is really going on. They examine issues… ([Location 197](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=197))
+    - Tags: [[pink]] 
+- decades, coming up with often surprising and controversial conclusions. Levitt and Dubner’s view of economics is that if morality is how we would like people to act, then economics is how they actually act. In their view, incentives are the cornerstone of modern economic life and to understand why people or organizations do what they do, you need to… ([Location 200](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=200))
+    - Tags: [[pink]] 
+- financial markets and, in particular, the institutions that have grown up… ([Location 203](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=203))
+    - Tags: [[pink]] 
+- What is more, I now realize that the third pillar of MPT is built on emotionally-driven market volatility. That is, mean-variance optimization places emotions at the center of portfolio construction. Thus it is surprising to discover that, ([Location 212](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=212))
+    - Tags: [[pink]] 
+- by focusing on volatility in building long-term portfolios, both emotions and returns are reduced while risk is increased. By using what is one of the most widely accepted portfolio models (its creator was awarded an Economics Nobel Prize in 1990), you are actually succumbing to the Crowd. ([Location 213](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=213))
+    - Tags: [[pink]] 
+- As my career progressed, the growing body of empirical evidence has led me to reject MPT in its entirety. In the spirit of Levitt and Dubner, I found ([Location 216](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=216))
+    - Tags: [[pink]] 
+- conventional wisdom in the form of MPT to be wrong. The underlying data point to a much different reality – that is behavioral finance in which investors make emotional rather than rational decisions. ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=217))
+    - Tags: [[pink]] 
+- In a variation on Levitt and Dubner’s economics versus morality observation, it turns out that if MPT is the way investors ought to act, behavioral finance is the way they act in reality. Thus I concluded, with some nostalgia for the less messy way of ([Location 218](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=218))
+    - Tags: [[pink]] 
+- viewing financial markets, that building portfolios based on MPT concepts is hazardous to your wealth. I view BPM as an alternative to MPT. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=220))
+    - Tags: [[pink]] 
+- One of the books I read at the time was particularly ([Location 227](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=227))
+    - Tags: [[pink]] 
+- influential: Scott Peck’s The Road Less Traveled. ([Location 227](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=227))
+    - Tags: [[pink]] 
+- In its own right, BPM is a road less traveled. ([Location 231](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=231))
+    - Tags: [[pink]] 
+- Lest I should be appearing to suggest I have completely mastered my emotions, let me confess to one of my emotional failures. I suffer from acrophobia, an unreasonable fear of heights. Take me up in a tall building and put me in front of a large window and I dissolve into an irrational ([Location 232](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=232))
+    - Tags: [[pink]] 
+- panic, at times having difficulty even standing. ([Location 234](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=234))
+    - Tags: [[pink]] 
+- Two threads run throughout Behavioral Portfolio Management. First, conventional wisdom regarding the markets and how to invest in them is often wrong. As Einstein said, “Common sense is nothing but a collection of misconceptions acquired by age eighteen.” As I ([Location 239](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=239))
+    - Tags: [[pink]] 
+- will argue, common sense and conventional wisdom rarely lead to good investment decisions. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=241))
+    - Tags: [[pink]] 
+- Second, to discover what works requires the careful analysis of large data sets over extended time periods. This kind of diligent effort is essential to uncovering those factors important for building successful portfolios. Put another way, what Daniel Kahneman calls System 1 thinking – dependence on anecdotal information and virtually ([Location 242](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=242))
+    - Tags: [[pink]] 
+- automatic decision-making – is a sure route to underperformance. To be successful, it is important to turn on your slow and deliberate System 2 in order to tease out those behavioral factors critical to building successful portfolios. ([Location 244](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=244))
+    - Tags: [[pink]] 
+- In building the case for BPM, I frequently reference three books: Daniel Kahneman’s Thinking, Fast and Slow, Nassim Taleb’s Fooled by Randomness, and Hersh Shefrin’s Behavioralizing Finance. ([Location 258](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=258))
+    - Tags: [[pink]] 
+- Behavioral Portfolio Management (BPM) is presented as a superior way to make investment decisions. BPM’s first basic principle is that Emotional Crowds dominate the determination of both prices and volatility, with fundamentals playing a small role. The second basic ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=296))
+    - Tags: [[pink]] 
+- principle is that Behavioral Data Investors earn superior returns. The third basic principle ([Location 298](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=298))
+    - Tags: [[pink]] 
+- is that investment risk is the chance of underperformance. (See Chapter 1.) ([Location 299](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=299))
+    - Tags: [[pink]] 
+- On the first day of my securities class, I would lay out a $1, $5, $20 and $100 bill on the front table. I would then ask the class which they would choose. I got puzzled looks from the students, wondering whether this was some kind of trick or whether I had lost my marbles. ([Location 348](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=348))
+    - Tags: [[pink]] 
+- The four investments are proxies for choices typically available to investors. The $1 bill represents an investment in default-free treasury bills, the $5 bill an investment in bonds, the $20 bill an investment in the stock market, and the $100 bill an investment in an active equity portfolio earning an excess return. The payoffs roughly capture the relationship of ending values for each of these investments over a long time period, say 30 years. ([Location 357](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=357))
+    - Tags: [[pink]] 
+- I then challenged the students by stating that over their investment lifetimes few will choose the $20 investment and a countable, small number will choose the $100 investment. Instead, most will ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=360))
+    - Tags: [[pink]] 
+- build portfolios heavily made up of $1 and $5 investments. They will do this because they apply emotional brakes during the investment process and, what is worse, will be encouraged to do so by the emotion enablers that currently dominate the investment industry. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=362))
+    - Tags: [[pink]] 
+- Consequently the typical investor leaves hundreds of thousands if not millions of dollars on the table during their investing lifetime, because they aren’t able to release their emotional brakes ([Location 364](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=364))
+    - Tags: [[pink]] 
+- and the industry does little to encourage them to do otherwise. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=365))
+    - Tags: [[pink]] 
+- Behavioral Portfolio Management (BPM) is set in a world in which prices rarely reflect underlying fundamentals – instead they are driven by emotional crowds who are unable or unwilling to release their emotional brakes. BPM focuses on how investors, advisors and asset managers can go about releasing their own emotional brakes and harnessing the behavioral ([Location 373](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=373))
+    - Tags: [[pink]] 
+- price distortions uncovered by means of careful research. ([Location 375](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=375))
+    - Tags: [[pink]] 
+- The most important conclusion of BPM is that ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=378))
+    - Tags: [[pink]] 
+- building high performance portfolios is surprisingly straightforward but emotionally difficult. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=378))
+    - Tags: [[pink]] 
+- My BPM transformation I began my career steeped in the concepts of MPT. Early on, I was able to release my emotional brakes to the point of being able to concentrate my investment portfolio in the $20 investment (i.e. 100% allocation to equities). For many years I continued to believe that hiring an active equity manager was the triumph of ([Location 380](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=380))
+    - Tags: [[pink]] 
+- hope over reality, so I invested in equity index funds rather than in actively managed funds. More recently, my ideas began to change, based on my research and the research of others, and I am now a strong believer in active management. ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=382))
+    - Tags: [[pink]] 
+- Instead, we attempt to understand the emotional crowds that dominate market pricing ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=392))
+    - Tags: [[pink]] 
+- and, in managing our portfolios, exercise the consistency and persistence necessary to earn superior returns. In short, we practice BPM. ([Location 392](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=392))
+    - Tags: [[pink]] 
+- As MPT was rising to prominence, a parallel research effort was studying how individuals actually made decisions. The conclusion of this behavioral science research stream was that emotions and heuristics dominate decision ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=414))
+    - Tags: [[pink]] 
+- making. It is amazing how little rationality was uncovered in these studies! ([Location 415](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=415))
+    - Tags: [[pink]] 
+- Behavioral Portfolio Management, henceforth referred to as BPM, is an approach to managing investment portfolios that assumes most investors make decisions based on emotions and shortcut heuristics. It posits that there are two categories of financial… ([Location 419](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=419))
+    - Tags: [[pink]] 
+- Emotional Crowds… ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=422))
+    - Tags: [[pink]] 
+- up of those investors who base decisions on emotional and intuitive reactions to unfolding events and anecdotal evidence. Human evolution has hardwired us for the short run, loss aversion, and social validation, which are the underlying drivers of today’s Emotional Crowds. Emotional investors make their decisions based on what Daniel Kahneman refers to as System 1 thinking: automatic, loss avoiding, quick, with little or no effort and no sense of voluntary control. [1] On the other hand, Behavioral Data Investors, henceforth referred to as BDIs, make their decisions using thorough and extensive analysis of available data in order to tease out stable pricing relationships. BDIs make… ([Location 422](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=422))
+    - Tags: [[pink]] 
+- MPT, as the prevailing theory of financial markets, posits that even though there are numerous irrational investors (think emotional, heuristic investors), the price discovery process is dominated by rational investors who quickly arbitrage away any price distortions. This implies a number of things regarding markets, such as prices fully reflecting all relevant information, the… ([Location 430](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=430))
+    - Tags: [[pink]] 
+- actively-managed counterparts. In short, MPT contends that rational investors dominate the financial pricing process. What if it is the other way around, that is, what if emotional investors dominate? Put another way, what if emotion trumps arbitrage? If this were the case, then price distortions would be common and could be used to build… ([Location 433](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=433))
+    - Tags: [[pink]] 
+- generate superior returns. In fact we would see the impact of emotions in every corner of the market and they would have to be taken into account… ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=436))
+    - Tags: [[pink]] 
+- There is now ample evidence, which I will review shortly, supporting the argument that Emotional Crowds dominate market pricing and volatility. Emotional Crowds drive prices based on the latest pessimistic or… ([Location 438](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=438))
+    - Tags: [[pink]] 
+- is a market in which trading is virtually free and so there is little natural resistance to stocks moving dramatically in one direction or the other. “If anything is worth doing,… ([Location 439](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=439))
+    - Tags: [[pink]] 
+- Rational investors, or what I call BDIs, react to the resulting distortions by taking positions opposite the Emotional Crowd. But they are not of sufficient heft to keep prices in line. As a… ([Location 441](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=441))
+    - Tags: [[pink]] 
+- and persistent. BDIs are able to build portfolios that harness these distortions as they are eventually corrected by the market, either rationally or simply because the… ([Location 443](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=443))
+    - Tags: [[pink]] 
+- BPM is built on the dynamic interplay between Crowds and BDIs. Crowds more often than not dominate market pricing… ([Location 445](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=445))
+    - Tags: [[pink]] 
+- individual security prices fairly reflect underlying value. Price distortions partially offset one another when aggregated across all securities, but even at the market level significant distortions remain. Thus prices more… ([Location 446](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=446))
+    - Tags: [[pink]] 
+- The events that trigger Crowd responses may be short lived, but the subsequent emotions are long lasting. As a result, price distortions are… ([Location 449](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=449))
+    - Tags: [[pink]] 
+- provides BDIs with an opportunity to identify distortions and build portfolios benefiting from them. Even though a BDI portfolio will outperform, building such a portfolio is emotionally difficult because the BDI is frequently going against the Crowd. The need for social validation acts as a powerful deterrent for most investors. Given the difficulty of behavior modification,… ([Location 450](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=450))
+    - Tags: [[pink]] 
+- BDIs will have a return advantage relative to Crowds into the… ([Location 453](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=453))
+    - Tags: [[pink]] 
+- BDIs depend upon Emotional Crowds for generating superior returns. But the impact of emotion is felt well beyond this relationship. Market professionals, such as portfolio managers, mutual funds, hedge funds, institutional funds, consultants and financial advisors are also… ([Location 454](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=454))
+    - Tags: [[pink]] 
+- made by these professionals are often based on faulty emotional analysis. It appears that much of what passes as professional analytics and due diligence is… ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=456))
+    - Tags: [[pink]] 
+- In this book, I focus on managing equity portfolios as a way to illustrate the three basic principles of BPM, with the proviso that these principles apply to managing portfolios in… ([Location 458](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=458))
+    - Tags: [[pink]] 
+- that Emotional Crowds dominate market pricing and volatility, is presented along with supporting evidence. The second basic principle, that BDIs earn superior returns, is presented along with supporting evidence from the active equity mutual fund research stream. I also discuss the evidence regarding average equity fund performance… ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=460))
+    - Tags: [[pink]] 
+- the chance of underperformance, is presented alongside the argument that emotions need to be carefully… ([Location 463](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=463))
+    - Tags: [[pink]] 
+- The basic principles of BPM Basic Principle I: Emotional crowds… ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=465))
+    - Tags: [[pink]] 
+- The dynamic interplay between Emotional… ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=467))
+    - Tags: [[pink]] 
+- BDIs is the focus of BPM. In contrast to MPT, I posit that the Crowd more often than not dominates the price discovery process. This means that prices infrequently reflect true underlying value and, even at the overall market level… ([Location 467](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=467))
+    - Tags: [[pink]] 
+- The fact that noise, rather than fundamentals, dominates market price movements is clear evidence that Crowds dominate stock pricing. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=483))
+    - Tags: [[pink]] 
+- The Equity Premium Puzzle research stream provides additional evidence that emotions play a prominent role. The long-term equity risk premium should be associated ([Location 484](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=484))
+    - Tags: [[pink]] 
+- with long-term fundamental risks. Rajnish Mehra of the University of California, Santa Barbara and 2004 Nobel laureate Edward Prescott of Arizona State University report that the US stock market has generated a risk premium averaging around 7% annually from the 1870s to the present. They argue that this premium is too large, by a factor of two or three, relative to… ([Location 485](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=485))
+    - Tags: [[pink]] 
+- have been numerous attempts to find a fundamental explanation of this puzzle, but… ([Location 490](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=490))
+    - Tags: [[pink]] 
+- However, Shlomo Benartzi of UCLA and Richard Thaler of the University of Chicago provide an emotional explanation: “The equity premium puzzle refers to the empirical fact that stocks have… ([Location 491](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=491))
+    - Tags: [[pink]] 
+- large margin. We offer a new explanation based on two behavioral concepts. First, investors are assumed to be “loss averse,” meaning that they are distinctly more sensitive to losses than to gains. Second, even long-term investors are assumed to evaluate their portfolios frequently. We… ([Location 493](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=493))
+    - Tags: [[pink]] 
+- the size of the equity premium is consistent with the previously estimated parameters of prospect theory if investors… ([Location 495](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=495))
+    - Tags: [[pink]] 
+- The observed 7% equity premium is thus the result of short-term loss aversion and the investor ritual of evaluating portfolio performance annually, rather than the result of fundamental risk. Putting… ([Location 498](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=498))
+    - Tags: [[pink]] 
+- both stock market volatility and long-term returns are largely determined… ([Location 500](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=500))
+    - Tags: [[pink]] 
+- Beyond these two emotion-driven results, numerous other pricing distortions have been uncovered. Many of these have been linked to the decision errors documented in the behavioral science literature. David Hirshleifer of the University of California, Irvine provides three… ([Location 501](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=501))
+    - Tags: [[pink]] 
+- systematic structure: People rely on heuristics because people face cognitive limitations. Owing to a shared evolutionary history, people might be predisposed to rely on the same heuristics and therefore be subject to the same biases (read Emotional Crowds). People inadvertently signal their inner states to others. This means… ([Location 503](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=503))
+    - Tags: [[pink]] 
+- signal strong confidence to others. People’s judgments and decisions are subject to their own emotions… ([Location 506](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=506))
+    - Tags: [[pink]] 
+- The ineffectiveness of arbitrage A key difference between BPM and MPT is the extent to which arbitrage is effective in eliminating stock price distortions. Research over the last 40 years has shown that arbitrage has not been able… ([Location 511](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=511))
+    - Tags: [[pink]] 
+- are inconsistent with Efficient Market predictions. There are three possible reasons for this lack of effectiveness: the difficulty in identifying arbitrage opportunities, arbitrage is costly and risky, or there are few… ([Location 513](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=513))
+    - Tags: [[pink]] 
+- Cost and risk clearly make arbitrage difficult, but one would think that there is sufficient incentive to attract a large number of arbitragers into the stock market. ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=518))
+    - Tags: [[pink]] 
+- However, recent results by Bradford Cornell of the California Institute of Technology, and Wayne Landsman and Stephen Stubben, both of the University of North Carolina, are discouraging in this regard. They find a tendency for both mutual funds and sell-side analysts to exacerbate sentiment-driven price movements, rather than dampen them as one would expect of supposedly rational investors. That is, institutional professionals tend to join the Emotional Crowds rather than act as BDIs. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=519))
+    - Tags: [[pink]] 
+- Indeed, emotion trumps arbitrage. ([Location 526](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=526))
+    - Tags: [[pink]] 
+- Basic Principle ([Location 534](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=534))
+    - Tags: [[pink]] 
+- II: Behavioral data investors earn superior returns Basic Principle I would seem to open the door for BDIs to earn superior returns by taking positions ([Location 535](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=535))
+    - Tags: [[pink]] 
+- opposite the Crowd. This is not necessarily the case, since even though there is little doubt emotions increase volatility, the resulting distortions might be random and unpredictable, making it difficult ([Location 536](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=536))
+    - Tags: [[pink]] 
+- if not impossible to take advantage of them. So beyond the fact that emotions drive prices, it is necessary to show that the resulting distortions are measurable and persistent. ([Location 537](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=537))
+    - Tags: [[pink]] 
+- The behavioral finance literature is full of examples of measurable stock price distortions. [7] It would therefore seem easy to build superior performing portfolios, but in order to do so means taking positions that are ([Location 539](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=539))
+    - Tags: [[pink]] 
+- different from the Crowd. The powerful need for social validation acts as a strong deterrent for many investors, discouraging them from pursuing such an approach. It is tough to leave the Emotional Crowd and become a BDI. Thus price distortions are measurable and persistent, but building a portfolio benefiting from these distortions is emotionally difficult. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=541))
+    - Tags: [[pink]] 
+- Reconciling two stock picking skill research streams A better known conclusion from this line of research is that the average active equity mutual fund earns a return that is less than, or at best equal to, the index return. [11] That is, the average fund earns a zero or negative alpha. This leads to the oft-stated conclusion that equity fund ([Location 560](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=560))
+    - Tags: [[pink]] 
+- managers lack stock picking skill, which is in fact the opposite of what was just presented. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=564))
+    - Tags: [[pink]] 
+- One would think that professional investors, such as mutual funds, hedge funds, and institutional managers, would be BDIs. Indeed, the analysts within such organizations are most often BDIs, but the further up one goes in the organization and the larger the fund, the more like the Crowd it ([Location 565](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=565))
+    - Tags: [[pink]] 
+- becomes. ([Location 567](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=567))
+    - Tags: [[pink]] 
+- In order to grow AUM, funds must attract and retain emotional investors, which means the fund often caters to client emotions and thus ends up taking on the features of the Crowd. As the fund grows in size, it increasingly invests in those stocks favored by the Crowd, since it is easier to attract and retain clients by investing in those stocks to which clients ([Location 567](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=567))
+    - Tags: [[pink]] 
+- are emotionally attached. [12] What often starts out as BDIs harnessing behavioral factors ends up with a fund morphing into something that is acceptable to the Crowd, a process I refer to as “bubble wrapping” the portfolio. Such behavior is rational on the part of the fund, as revenues are based on AUM. [13] Consistent with this argument, others have found that returns decline as the fund grows large. [14] ([Location 570](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=570))
+    - Tags: [[pink]] 
+- Basic Principle III: Investment risk is the chance of underperformance There is no more confusing issue regarding the role of ([Location 579](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=579))
+    - Tags: [[pink]] 
+- investor emotions than how to measure investment risk. ([Location 580](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=580))
+    - Tags: [[pink]] 
+- Those measures currently used to capture investment risk, once carefully examined, are mostly measures of emotion. As an example take volatility, as measured by return standard deviation. Earlier I reviewed the evidence regarding stock market volatility which concludes that most volatility is generated by Crowds overreacting to information flowing into the market. Indeed, almost ([Location 581](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=581))
+    - Tags: [[pink]] 
+- none of the current volatility can be explained by changes in underlying economic fundamentals at both the market and individual stock level. So volatility is mostly a measure of emotions and not necessarily investment risk. This is also true of other measures, such as downside standard deviation, maximum drawdown and downside capture. Investment risk is the chance of underperformance. Measuring underperformance depends on the time horizon ([Location 583](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=583))
+    - Tags: [[pink]] 
+- of the investment and the specific goal of the investor. For example, if the goal is to have a fixed amount at a fixed time in the future (e.g. $100,000 in two years), risk is measured as the chance of ending up with less than $100,000 in two years. In this case, short-term volatility is an important contributor to risk. In cases where there is a specific long-term need (e.g. $1,000,000 in 30 years), risk is measured as the chance of not meeting this goal. In the ([Location 587](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=587))
+    - Tags: [[pink]] 
+- cases where there is no specific time horizon, however, the appropriate benchmark is the highest expected return investment being considered, since over long time periods the actual return should approximate the expected return due to the law of large numbers. Most long-term investment situations fall into the latter. ([Location 590](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=590))
+    - Tags: [[pink]] 
+- Another important consideration is that short-term volatility plays an ever smaller role as the time horizon lengthens. ([Location 593](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=593))
+    - Tags: [[pink]] 
+- This is because the short-term emotionally and economically-driven price changes tend to offset one another over the long run, to the tune of reducing long-term volatility by a factor of three to four relative to short-term volatility. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=594))
+    - Tags: [[pink]] 
+- Unfortunately, the industry took this approach and mistakenly began building portfolios by minimizing short-term volatility relative to long-term returns. This places emotion at the very heart of the long horizon portfolio construction process. In the context of BPM, the reason this approach became so popular is that ([Location 602](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=602))
+    - Tags: [[pink]] 
+- it legitimizes the emotional reaction of investors to short-term volatility. I refer to this as the unholy alliance between mean-variance optimization, on the one hand, and emotional investors on the other. This is a classic case of catering to client emotions. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=605))
+    - Tags: [[pink]] 
+- Currently, risk and volatility are frequently thought of as interchangeable. One of the ironies is that, by focusing on short-term volatility when building… ([Location 607](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=607))
+    - Tags: [[pink]] 
+- that investment risk increases. Since risk is the chance of underperformance, focusing on short-term volatility will often lead to investing in lower expected return markets (e.g. low expected return bonds versus higher expected return stocks) with little impact on long-term volatility. [16] Lowering expected portfolio return in an effort to reduce short-term… ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=608))
+    - Tags: [[pink]] 
+- A clear example of this is the comparison of long-term stock and bond returns. Stocks dramatically outperform bonds over the long run, so by investing in bonds rather than stocks, short-term volatility is reduced at the expense of decreasing the long-term return and, in turn, increasing long-term investment risk. Equating short-term… ([Location 612](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=612))
+    - Tags: [[pink]] 
+- emotional volatility can be seen in other areas as well. It is known that many investors pull out of the stock market when faced with heightened volatility, but research shows that this is exactly when they should remain in the market and even increase their stock holdings, as… ([Location 616](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=616))
+    - Tags: [[pink]] 
+- It is also the case that many investors exit after the market declines only to miss the… ([Location 619](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=619))
+    - Tags: [[pink]] 
+- was dramatically the case following the 2008 market crash when investors withdrew billions of dollars from equity mutual funds during a period in which the stock market more than doubled. The end result is that investors frequently suffer the pain of losses without capturing the subsequent gains. [18] Again this is the result of not carefully… ([Location 620](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=620))
+    - Tags: [[pink]] 
+- Assimilating Basic Principle III Principle III will likely be the most difficult to assimilate. It involves redirecting the powerful emotion of loss aversion, while acting contrary to the hardwired tendencies of thinking short-term and social validation. For a number of investors, this may be too much to ask. But for others, progress may be possible. A first step is calling… ([Location 624](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=624))
+    - Tags: [[pink]] 
+- portion which is really emotion. There are risks that must be taken into account when making investment decisions but don’t muddy the water by carelessly lumping emotions and investment risk together into a single… ([Location 628](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=628))
+    - Tags: [[pink]] 
+- Rather than carefully separating risk from emotions, the industry provides a mixed bag of risk measures that exacerbate the emotional aspects of investing. As I argued earlier, this means many long-horizon portfolios are built to reduce short-term volatility, while at the same time increasing portfolio risk. ([Location 638](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=638))
+    - Tags: [[pink]] 
+- Summarizing the three Basic Principles Behavioral Portfolio Management focuses on the behavioral aspects of financial markets to help make better investment decisions. BPM’s first basic principle is that Emotional Crowds dominate the determination of both stock prices and volatility, with fundamentals playing a small role. This means that more often than not prices reflect emotions rather than underlying value, a consequence of arbitrage failing to keep prices in line with fundamentals. As a result, price distortions are the rule rather ([Location 644](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=644))
+    - Tags: [[pink]] 
+- than the exception, making it possible for BDIs to build superior portfolios, which is the second basic principle. Volatility and risk are not synonymous. In the case of meeting short-term financial goals, volatility is an important contributor to investment risk, as measured by the chance of underperformance, and this is the third basic principle. On the other hand, volatility plays a much less important role when building long-horizon portfolios. By focusing on short-term volatility when building long-horizon portfolios, the investor injects emotions into the portfolio construction process. It is important to distinguish between emotions and investment risk so that the best decisions can be made. The bottom line is that building successful investment portfolios is straightforward but emotionally difficult. Making decisions based on price distortions created by the Emotional Crowd and ignoring short-term volatility when building long-horizon portfolios presents significant challenges for investment professionals. This is because such a strategy is frequently going against the Crowd, thus depriving the client of social validation, and in turn asking them to set aside the strong emotions associated with volatile prices. ([Location 648](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=648))
+    - Tags: [[pink]] 
+- Consequently, it is necessary to mitigate the impact of client emotions. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=658))
+    - Tags: [[pink]] 
+- Emotion mitigation is a fact of life in the investment industry and both advisors and investment managers should develop such skills. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=658))
+    - Tags: [[pink]] 
+- The goal is to be sensitive to the emotional reactions of clients while minimizing the damage to their portfolios. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=659))
+    - Tags: [[pink]] 
+- Emotions and heuristics dominate our decision process – they act as brakes on our investing, preventing us from making good decisions. A heuristic is a shortcut approach to making decisions and, while it often leads to good decisions, in the world of investing such an approach can be highly problematic. How do we avoid ([Location 708](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=708))
+    - Tags: [[pink]] 
+- falling prey to emotionally-driven and ineffective heuristics? An important first step is to gain an understanding of how the typical investor makes decisions. When making investment decisions, we often engage what Kahneman refers to as our System 1, a part of our ([Location 710](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=710))
+    - Tags: [[pink]] 
+- brain dominated by emotions and heuristics. Evolution has shaped this system to allow us to survive as humans and make the thousands of decisions that we face daily. Most are made automatically, with little conscious effort on our ([Location 712](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=712))
+    - Tags: [[pink]] 
+- part. Unless we deliberately guide our brains in a different direction, System 1 becomes the primary way we make investment decisions. We need to apply these lessons to how we make decisions and turn on what Kahneman refers to as System 2 thinking. This is a challenge since money and market volatility stir up very strong emotions and so we have to constantly work to not let these emotions control our thinking. Again, work on releasing your emotional brakes, not eliminating the underlying emotions. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=714))
+    - Tags: [[pink]] 
+- BPM, as a way to navigate around this automatic yet faulty decision process, focuses on the dynamic interplay between Emotional Crowds and BDIs (Behavioral Data Investors). Crowds dominate stock pricing and the resulting price distortions make it possible for BDIs to build superior portfolios. So we want to avoid being part of the System 1-driven Crowd, and ([Location 718](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=718))
+    - Tags: [[pink]] 
+- instead build an investment strategy that harnesses the resulting price distortions. ([Location 720](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=720))
+    - Tags: [[pink]] 
+- Myopic loss aversion (MLA) [19] ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=725))
+    - Tags: [[pink]] 
+- Thus if an investment loses money during our short measurement period, we may decide to get out of that ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=738))
+    - Tags: [[pink]] 
+- investment and into another. This is true even if high short-term volatility is offset by high long-term returns. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=738))
+    - Tags: [[pink]] 
+- The choice of time period over which to apply the 2-to-1 loss aversion is arbitrary. There are no guidelines for deciding on this length and so different investors choose different lengths, with no rhyme or reason. While there are analyses that can lead to buying and selling a particular investment, there is rarely a time frame that makes logical ([Location 740](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=740))
+    - Tags: [[pink]] 
+- sense as part of this analysis. Almost all time periods in investment analysis are arbitrary and the length decided upon is based on emotion rather than on logic. This means that many of us are unable to reap the benefits of time diversification, where the volatility of the investment diminishes as period to period movements offset one another over time. ([Location 742](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=742))
+    - Tags: [[pink]] 
+- A closely related cognitive error is known as the fallacy of composition. We believe that in order to do well over the long-run, ([Location 745](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=745))
+    - Tags: [[pink]] 
+- run, we must do well in each and every period. We then set about trying to accomplish this and end up doing poorly over the long run. The so-called absolute return funds seem to play into this fallacy, which is to a large extent driven by MLA. The only investment of which I am aware that produces positive returns every period is cash and we all know how well that works for building long-term wealth. ([Location 746](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=746))
+    - Tags: [[pink]] 
+- Social validation ([Location 749](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=749))
+    - Tags: [[pink]] 
+- Social validation, sometimes referred to as herding, is a powerful, hardwired behavior. It is observed in nearly all species, including geese, deer, fish, and insects. Herding is frequently critical for survival, so to go contrary to it is incredibly difficult. The lesson of our past is that sticking out from the crowd by doing something different is dangerous. At the first sign of danger sensed by any member of the herd, we all bolt and hope we are not the slowest member of ([Location 756](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=756))
+    - Tags: [[pink]] 
+- the group. It is only natural that we carry this into our investment decisions. We buy the investments that others are buying; we listen to conventional wisdom provided by so-called experts and celebrities; when presented a new investment opportunity we ask who else has invested in it; and we like to join the herd by investing in large funds rather than small funds. ([Location 760](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=760))
+    - Tags: [[pink]] 
+- Stories ([Location 766](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=766))
+    - Tags: [[pink]] 
+- But rather than gather and analyze this information, most of us would rather hear a story about the economy. ([Location 769](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=769))
+    - Tags: [[pink]] 
+- We judge the story’s validity by the reputation of the storyteller and whether an explanation is logical to us. Generally the more detailed the story, the greater the validity that is attached to it (when, in fact, more detail increases the chances the story will be wrong). Social validation also plays a role as the story is viewed as more believable if it agrees with other stories that we have heard. All of this may have little to do with the validity of the story. ([Location 770](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=770))
+    - Tags: [[pink]] 
+- In teaching this topic, I found that when presented with financial statements, most students’ eyes glazed over. This was their System 2’s way of saying it did not want to expend the energy necessary to process pages of numbers. I would tell them they needed to learn to ([Location 782](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=782))
+    - Tags: [[pink]] 
+- concentrate and tease out the important results from the numbers. Due diligence is difficult to do properly and very few are good at it. ([Location 783](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=783))
+    - Tags: [[pink]] 
+- Stories play another important role. When something happens, we want to know why it happened. The truth is that in many situations knowing why does not help or there is no reasonable explanation, but we do not like these responses and thus seek out an answer in the form of a believable story. ([Location 785](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=785))
+    - Tags: [[pink]] 
+- Every day the stock market either goes up or down. Careful research reveals that, in general, we cannot identify the reasons for these movements, other than collective human emotions. Most of us do not accept this though – we want to know why, on this particular day, the market went up. There is no shortage of market observers willing to provide the day’s market story. The validity of the story is judged by the reputation of the source, how logical it is and ([Location 787](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=787))
+    - Tags: [[pink]] 
+- whether it agrees with other things we have heard that day (social validation). The truth is that the story teaches us nothing useful about the market but, nonetheless, satisfies our innate need for an explanation. Leaving things unexplained is unsettling and at times scary. We have survived by achieving a better understanding of what is happening around us and acting accordingly, but that does not mean every explanation is valid. In many ([Location 790](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=790))
+    - Tags: [[pink]] 
+- cases, like the stock market example above, we are fulfilling an emotional need for an explanation. In such situations, it is best if we accept the fact there is no plausible explanation and move on. ([Location 793](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=793))
+    - Tags: [[pink]] 
+- From time to time I am asked to comment on what happened in the stock market that day. My response is always the same: “Sometimes the market goes up and sometimes it goes down and I do not know why it does either. It goes up more often that it goes down and ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=795))
+    - Tags: [[pink]] 
+- over the long run, it is driven by the economy, producing a long-term compound return of around 10%. And that is all I know about that.” I regard this as the only reliable comment I can make, as saying anything further would be to fall foul of the human bias towards storytelling. Needless to say, I am not regularly asked to comment on the market. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=797))
+    - Tags: [[pink]] 
+- Anchoring ([Location 800](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=800))
+    - Tags: [[pink]] 
+- The world of investing is full of arbitrary numbers that become decision anchors. These include recent stock and market highs and lows; one, three, five and ten-year performance; the price paid for a stock; and the amount invested in a portfolio. I will ([Location 809](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=809))
+    - Tags: [[pink]] 
+- discuss later why these and other numbers represent irrelevant anchors. The fact is that we cling to these anchors and it is incredibility difficult, if not impossible, to abandon them. ([Location 811](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=811))
+    - Tags: [[pink]] 
+- Availability bias ([Location 813](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=813))
+    - Tags: [[pink]] 
+- The price of gasoline is an example of the availability bias. When asked to think about a particular issue, we often focus on what is most available to us at the time or can be most easily recalled. Closely related is that the degree of confidence we have in our conclusion is connected ([Location 820](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=820))
+    - Tags: [[pink]] 
+- to how easily the facts can be recalled: the easier the recall, the more confident it is. What researchers have found is that what is available and how confident we are has little to do with the quality of our analysis. In this respect, System 1 provides little guidance on the quality of our analysis. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=822))
+    - Tags: [[pink]] 
+- Availability bias actually goes a step further, uniting the entire market in a false sense of certainty regarding events. A single reporting of an event may trigger the availability ([Location 824](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=824))
+    - Tags: [[pink]] 
+- bias, while multiple reportings trigger an availability cascade. In such cases, multiple reports have an overpowering influence on individuals, driving them into the Emotional Crowd. Consequently, it is extremely difficult to come to an independent judgment in that everywhere we turn, the event is being reported and people are overwhelmed by the event. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=825))
+    - Tags: [[pink]] 
+- Financial markets are highly susceptible to availability cascades, being continuously dominated by one cascade or another. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=830))
+    - Tags: [[pink]] 
+- Representativeness ([Location 832](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=832))
+    - Tags: [[pink]] 
+- Past performance is no indication of future performance. We have all read this statement many times. Every prospectus and investment performance report is required to include such a disclaimer. Numerous academic studies confirm that past performance is not predictive of future manager performance and if anything, it is a negative predictor, with poor past performance predicting superior future performance. ([Location 833](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=833))
+    - Tags: [[pink]] 
+- The emotional attachment to past performance overwhelms the compelling evidence of its lack of predictive power. ([Location 837](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=837))
+    - Tags: [[pink]] 
+- This is a classic example of representativeness. We make judgments using our internal image of what the person or situation should look like. In the case of an investment manager, since the manager has performed well in the past, we easily jump to the ([Location 838](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=838))
+    - Tags: [[pink]] 
+- conclusion that performance will be good in the future. That is, past performance is representative of future performance, even though it is not predictive. This is not unique to investing, as representativeness plays a major role everywhere, particularly in sports where contracts are negotiated based on last year’s performance. ([Location 840](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=840))
+    - Tags: [[pink]] 
+- Besides past performance, another powerful representativeness bias in the stock market is the idea that a good company is a precursor to picking a good stock. That is, if the company is well run, with quality management, carries little debt, is innovative, and has grown large, it must be a good stock to buy. The qualities of the company are ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=847))
+    - Tags: [[pink]] 
+- representative of the investment qualities of the stock. On the other hand, a weak company with lots of debt, teetering on bankruptcy, with weak management and falling sales, must be a bad investment. Similarly, if we like the company’s products, we are inclined to invest in its stock. Representativeness plays a large role in investment decisions. WYSIATI WYSIATI is a term coined by ([Location 849](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=849))
+    - Tags: [[pink]] 
+- Kahneman which stands for What You See Is All There Is. For example, the Federal Reserve announces that they will continue to purchase long-term bonds. The stock market is up for the day and so that evening the word on the street is that the market’s strength was due to the Fed announcement. Never mind that thousands of pieces of information descended upon the… ([Location 853](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=853))
+    - Tags: [[pink]] 
+- the headlines. Never mind that research shows current daily events have little or no consistent… ([Location 856](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=856))
+    - Tags: [[pink]] 
+- WYSIATI is based on the notion that we gather much of our information from what we observe personally, in particular what we observe right now or have seen recently. We place considerable weight on these observations, while placing no weight on… ([Location 857](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=857))
+    - Tags: [[pink]] 
+- events at a distinct disadvantage to improbable but recently observed events. From a technical standpoint, this means that individuals place too much weight on recent sample data and too little on base rates, which is a violation of Bayesian inference. This makes it very difficult for individuals to correctly… ([Location 860](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=860))
+    - Tags: [[pink]] 
+- We see this in a number of situations.… ([Location 863](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=863))
+    - Tags: [[pink]] 
+- many bad drivers are on the road, most will suggest that the percentage is high. In fact, most will say they are an above average driver, which is of course impossible, unless we live in Garrison Keillor’s mythical Lake Wobegon, where everyone is above average. Careful observation of traffic reveals that there are very few bad drivers – most motorists… ([Location 863](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=863))
+    - Tags: [[pink]] 
+- is that they are more noticeable than good drivers and so we tend to remember them. When we return from a trip to the store, we don’t say “I saw hundreds of good drivers,” but we might say “You won’t believe the guy that cut me off and then raced down the street ahead of me!” Emotional events are better… ([Location 866](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=866))
+    - Tags: [[pink]] 
+- I often present a graph (see Figure 10.1 later in the book) showing the wealth generated by investing $10,000 in the stock market, the bond market and the T-bill market relative to inflation since 1950. Stocks soar in this graph, producing a portfolio worth over $5m, compared to the bond and T-bill portfolios worth well less than $500,000. The latter barely beats… ([Location 870](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=870))
+    - Tags: [[pink]] 
+- A strange thing happens when I show this graph. Instead of focusing on the $5m+ result, most cannot take their eyes off of the two steep declines that occurred over the last ten years. Of course these are factored into the ending value of the portfolio, as are the other 60 or so years of annual performance. It is as if the other years disappear in the minds of those… ([Location 874](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=874))
+    - Tags: [[pink]] 
+- prefer the stable but much lower return graphs of bonds and cash to the bumpier but higher return graph of stocks. This is an example of peak-end memory. What research has shown is that human memory is not an additive or cumulative process, but instead focuses on what was the ending experience and the peak emotional experience, whether good or bad, during the time period. So rather than remembering that the average annual compound stock market return over this 62-year period was 10.6% and that the ending portfolio value was over $5m, instead investors remember that the market dropped nearly 40% in 2008 and that the last ten years in the stock market generated little return. The highly… ([Location 877](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=877))
+    - Tags: [[pink]] 
+- Kahneman observes… ([Location 884](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=884))
+    - Tags: [[pink]] 
+- have two people inside us – the experiencing self and the remembering self –and the two are strangers. What we remember is only remotely related to what we experience. Memories are constructed by the remembering self on the basis of peak-end experience, while… ([Location 884](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=884))
+    - Tags: [[pink]] 
+- Earlier I discussed the 2-to-1 ratio in which research has shown that we feel twice as bad regarding a loss as compared to the equivalent gain. This means that we are more likely to remember losses than gains, since losses produce a much stronger emotional regret. This hampers our ability to view investments like stocks, in which positive returns are more frequent and larger than negative returns, leading to substantial wealth accumulation over time. Since we tend to remember the peak emotional events rather than cumulative results and… ([Location 886](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=886))
+    - Tags: [[pink]] 
+- For many, the assessment of how the economy… ([Location 894](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=894))
+    - Tags: [[pink]] 
+- based to a large extent on our personal financial situation. Expectations of future market returns are based on our own portfolio’s recent return. Personal experiences, along with the personal experiences of those with which we have spoken recently, are the most important… ([Location 894](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=894))
+    - Tags: [[pink]] 
+- Conclusions based on careful, data-intensive research are a recent phenomenon, which has played a critical role in the amazing advances of the last few centuries. The typical investor is a long way from adopting this approach for making decisions. The emotional anecdotal approach is still preferred over data-driven ([Location 909](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=909))
+    - Tags: [[pink]] 
+- investing. Confidence in anecdotal information unjustifiably grows rapidly. When we hear something for the first time it is interesting, when we hear it the second time it is a fact, and when we hear it for the third time it is a trend worth following. Such overconfidence is the basis for many a bad decision. Finally, what is the plural of anecdotal information? Answer: no data. ([Location 911](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=911))
+    - Tags: [[pink]] 
+- Substituting an easier question for a harder one ([Location 915](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=915))
+    - Tags: [[pink]] 
+- You are asked “Do you think _________ will be a good President of the United States?” and you answer, “I like _________ so I am going to vote for him.” Notice you did not answer the question. Instead of providing an assessment of the candidate’s skills, personality and beliefs, and whether or not these will allow the person to be a good President, you ([Location 916](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=916))
+    - Tags: [[pink]] 
+- said that you liked the candidate. You have just substituted an easier question for a harder one. The world is a complex, dynamic place with few simple answers. Answering realistic ([Location 918](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=918))
+    - Tags: [[pink]] 
+- questions requires effortful System 2 thinking, but by our very nature we are lazy and loathe to turn on this energy sapping activity. Instead, we substitute an easier question that we can answer by quickly recalling information from memory. So not only do we ([Location 920](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=920))
+    - Tags: [[pink]] 
+- answer the wrong question, we also have great confidence in our response, since it was easily recalled from memory. As they say, often wrong but never in doubt! Stock analysis is fraught with this problem. When asked if xyz stock is a good investment, we might answer that we like their products. Or we think their advertising is very cool. Or we heard their CEO speak on TV and he was articulate. Or we have never heard of them and we never invest in ([Location 922](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=922))
+    - Tags: [[pink]] 
+- a company with which we are not familiar. Or we do not invest in small stocks. In each case, we have substituted an easier question for the more difficult one. In each case we are overly confident in our answer. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=925))
+    - Tags: [[pink]] 
+- Fallacy of information ([Location 928](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=928))
+    - Tags: [[pink]] 
+- Economic and market information is served up to us 24/7 by a bewildering array of media outlets. We feel pressure to keep up with all of this information and organize it ([Location 928](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=928))
+    - Tags: [[pink]] 
+- into a cohesive picture of what is currently happening in the market. There is a sense that if we do this, we will make better investment decisions. This is the fallacy of information at work. The more information we have the better, right? Maybe yes, maybe no. If we are one of those heavily-resourced firms that have carefully sifted through the historical data to identify persistent patterns, are able to process huge amounts of data, and have the ability to ([Location 929](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=929))
+    - Tags: [[pink]] 
+- respond quickly, then the answer might be yes. Might be, but no guarantee. If it is insider information, the answer is definitely yes, but probably illegal, at least in the US. If we are not particularly well resourced and do not have the ability to organize large amounts of data, which is the case for the vast majority of investors, then the answer is no. In this case, we are most certainly suffering from the fallacy of information. ([Location 933](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=933))
+    - Tags: [[pink]] 
+- Obviously, information can be useful, but only in a carefully researched framework of a BDI. Otherwise gathering copious amounts of information is simply an emotional adventure of our System 1 thought process. ([Location 941](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=941))
+    - Tags: [[pink]] 
+- Fallacy of control ([Location 943](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=943))
+    - Tags: [[pink]] 
+- When asked how we wish to choose lottery ticket numbers, we often want to choose our own, maybe a birthday, maybe a favorite sequence, rather than have them chosen randomly. We believe that by choosing them ourselves we have increased the chances that we will win. Incredibly, people also believe that if you choose the same numbers every week you increase your chance of winning as these numbers will have to come up eventually. This is an example ([Location 943](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=943))
+    - Tags: [[pink]] 
+- of overconfidence in our own abilities. Of course, picking our own numbers does not change the odds of winning, but we feel better about the experience. This is a well-known example of the fallacy of control. We have this innate belief that if we are in control things will work out better for us. ([Location 946](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=946))
+    - Tags: [[pink]] 
+- We have a much harder time giving up control of our investments than giving up control in other areas of our life. It is common to think that this is our hard-earned money and no one will manage it as well ([Location 955](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=955))
+    - Tags: [[pink]] 
+- as we can. Driven by MLA, we not only want to manage the money ourselves, but also monitor it continuously. We prefer to have our foot on the brakes so we can move decisively when there is a need to sell one investment and buy another. ([Location 956](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=956))
+    - Tags: [[pink]] 
+- The fallacy of information and the fallacy of control are closely related. Evolution has again hardwired us to gather information and control the situation around us. System 1 is operating at this level continuously, with most of this process conducted automatically and with little effort on our part. When something different is detected, energy is focused on the possible danger. It is only natural… ([Location 958](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=958))
+    - Tags: [[pink]] 
+- Mental… ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=963))
+    - Tags: [[pink]] 
+- Clients have a hard time thinking in terms of the overall portfolio,… ([Location 963](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=963))
+    - Tags: [[pink]] 
+- a mental account for each investment. Clients then expect each to generate a positive return and are disappointed when they do not. The concept of diversification is lost when thinking this way with respect to a portfolio. Clients think that the portfolio does well only if each individual investment does well. A loss on any one investment is felt strongly,… ([Location 964](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=964))
+    - Tags: [[pink]] 
+- Like time diversification, the reason why we diversify across markets and securities is to reduce the risk and volatility in our… ([Location 969](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=969))
+    - Tags: [[pink]] 
+- we fall into mental accounting by applying MLA to the short-term performance of individual investments, rather than focusing on the long-term… ([Location 970](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=970))
+    - Tags: [[pink]] 
+- A food item is advertised as being 90% fat free. A similar item is advertised as being 10% fat. Based on fat content, which item would we choose? Many would… ([Location 973](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=973))
+    - Tags: [[pink]] 
+- same amount of fat because the first is stated in a way that is more appealing to us, and so we make the decision to… ([Location 974](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=974))
+    - Tags: [[pink]] 
+- Framing is used skillfully by those attempting to sell us stuff. They know that how a product, service or issue is framed impacts the way we view it and ultimately whether or not we will purchase it or agree to their side of the… ([Location 975](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=975))
+    - Tags: [[pink]] 
+- necessary to engage System 2 to determine that the two choices are the same with respect to fat content in the example above. In financial markets, framing is particularly… ([Location 977](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=977))
+    - Tags: [[pink]] 
+- Phantastic… ([Location 980](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=980))
+    - Tags: [[pink]] 
+- When we were young, we had a vivid imagination allowing us to be whatever we wanted to be. We could be a prince… ([Location 980](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=980))
+    - Tags: [[pink]] 
+- astronaut, incredibly wealthy, a singer, an actor, a technology super star, or any number of other celebrities. Right now my two-year-old granddaughter thinks herself to be Disney’s mermaid Ariel and demands to be called Ariel rather than her real name. Most of us do not achieve these early dreams, but the wonderful emotions we… ([Location 981](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=981))
+    - Tags: [[pink]] 
+- Then something comes along that triggers these dormant emotions and that thing takes on a life of its own. This is known as a phantastic object. It is no longer viewed in the frame of everyday life, but instead begins to embody the hopes and dreams of childhood. It is an… ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=985))
+    - Tags: [[pink]] 
+- An absence of rational decisions ([Location 991](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=991))
+    - Tags: [[pink]] 
+- In order to be a successful investor, it is important to understand randomness, along with its undesirable interaction with emotionally-driven System 1 reactions and, in turn, put this knowledge to work when making decisions. There are three important skills that need to be developed. First, as described above, you need to get comfortable with not understanding why things happen, just that they ([Location 1006](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1006))
+    - Tags: [[pink]] 
+- do. Prices are largely driven by collective market emotions which, by definition, are unexplainable. To attempt to unearth an explanation for every price change is at best a wasted exercise and at worst a recipe for very bad decision-making. ([Location 1009](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1009))
+    - Tags: [[pink]] 
+- Second, you need to be able to extract the signals used for making investment decisions from a sea of surrounding noise. This requires careful analysis to determine the validity of a signal. Often this requires conducting large sample, long time period statistical analysis. The null hypothesis in such tests is that the markets are random and that there are no measurable and persistent pricing relationships. So when a relationship is said to be statistically significant, this means it has passed the test and what you are trying to measure rises above the noise that dominates markets. Besides being statistically significant, the relationship should also be economically significant and able to cover ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1014))
+    - Tags: [[pink]] 
+- the transaction costs of implementing the strategy. ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1019))
+    - Tags: [[pink]] 
+- Once a set of signals have been identified, it is critical that you have the discipline to execute a strategy in the world of highly emotional and random markets. It does little good to conduct a careful analysis to identify profitable signals and then allow the benefits of the strategy to be dissipated by responding to random information and events. As Kahneman says, trust the numbers and not ([Location 1020](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1020))
+    - Tags: [[pink]] 
+- your intuition. If you find yourself making decisions based on statements beginning with “I feel” or “I think”, you are headed down the road to emotional and intuitive portfolio management. Portfolio management is a dispassionate, hard-nosed process that does not respond to the random noise permeating markets. This makes you a rather narrowly focused and uninteresting person, but it allows you to produce superior returns. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1022))
+    - Tags: [[pink]] 
+- Third, you need to insulate yourself from short-term volatility and see tail events as opportunities rather than risk to be avoided. Volatility is largely driven by emotion and engenders emotional reactions in investors. To be a successful hard-nosed investor, you need to remove volatility as a portfolio management issue. Closely related to volatility are tail events, those extreme negative and positive investment returns that happen from time to time. Positive ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1026))
+    - Tags: [[pink]] 
+- tail events outweigh negative tail events, so a strategy that eliminates both reduces your total return. In the case of concentrated portfolios, the exceptional returns are often associated with tail events. So tail events should be sought rather than eliminated. ([Location 1029](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1029))
+    - Tags: [[pink]] 
+- First, a consistent relationship between information flowing into the market and changes in market prices has not been unearthed. Second, price changes can be nicely modelled as being drawn randomly from a roughly normal distribution. ([Location 1041](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1041))
+    - Tags: [[pink]] 
+- I ran another exercise in class in which I asked the students to replicate a fair coin flip with a 50-50 chance of heads or tails. In one case, they were asked to actually flip a fair coin 25 times and record the flips. I emphasized that they should not create this series without actually flipping a coin. I referred to this as the real coin flip series. I then asked them to recruit a ([Location 1069](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1069))
+    - Tags: [[pink]] 
+- spouse or friend to generate a series of 25 coin flips by calling out “heads” or “tails” until 25 events had been recorded. I suggested that if the subject looked at them as if they were a bit nuts, they were to say that their slightly crazy professor had asked them to conduct the exercise, so just humor the old guy. So each student came to class with a list of 25 real coin flips and 25 made up coin flips. Heads were given the value of +1 and tails were given a value ([Location 1072](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1072))
+    - Tags: [[pink]] 
+- of -1, and a cumulative real and the made up series of coin flips each were created. An example of such is shown in Figure 3.2. I then ran various statistics such as the mean, standard deviation, serial correlation and a runs test. Consistently the made up series was not truly random and in fact had significant mean reversion, as can be seen in Figure 3.2 (highly significant first-order serial correlation of -0.16). ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1076))
+    - Tags: [[pink]] 
+- On the other hand, the real series had more long runs (29 of 5 or longer) than did the made up series (5 of 5 or longer). The students were surprised that the real series looked less random than did the made up series. But the statistical analysis verified that the real series was truly random and the made up series displayed a predictable pattern. Figure 3.2: Cumulative real and made up coin flip series ([Location 1079](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1079))
+    - Tags: [[pink]] 
+- This clearly shows that the untrained human mind cannot be trusted to identify real trends. This is not to say real trends don’t exist in financial and economic time series, but they cannot be successfully identified without careful statistical analysis. We do not have the ability to intuitively identify trends in financial time series. ([Location 1086](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1086))
+    - Tags: [[pink]] 
+- Thus the painful emotions of a negative tail event often overshadow the good emotions of a positive tail event. ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1106))
+    - Tags: [[pink]] 
+- Tail events present other problems for investors. Research shows that individuals either significantly overestimate or underestimate the chance of rare events. The -39% return the stock market experienced ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1107))
+    - Tags: [[pink]] 
+- in 2008 was the second worst in the last 140 years of stock market history. By this metric, the chance of this event is about 1 in 70. Yet many investors, to this day, continue to build their portfolios as if this event is very likely to occur again in the near future. Thus they overestimate the probability of such an event; a cognitive error that is typical of many individuals. The probability of rare events is overestimated when they have occurred recently. On the ([Location 1108](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1108))
+    - Tags: [[pink]] 
+- other hand, if they have not occurred recently, individuals often assign a zero probability even though clearly there is a positive probability of occurrence. This is one of the more significant cognitive errors made by individuals. It is exacerbated in financial markets as money triggers strong emotions and extreme money events trigger even stronger emotions. Our brain is not cut out for nonlinearities. Our emotional apparatus is designed for linear causality. ([Location 1112](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1112))
+    - Tags: [[pink]] 
+- Owing to this nonlinearity, people have a hard time comprehending the nature of the rare event. ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1115))
+    - Tags: [[pink]] 
+- Mental accounting strikes again By our very nature, we are short-term oriented and have difficulty focusing on the big picture. Instead we conduct our analysis on individual securities, setting up a mental account for each. Randomness causes problems in this regard, since as the time frame ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1116))
+    - Tags: [[pink]] 
+- grows shorter and the individual security becomes the unit of analysis, the larger becomes the noise-to-signal ratio. Most of the daily information on individual stocks is of little help for making investment decisions, as randomness plays an increasingly important role as one considers shorter time periods and less portfolio aggregation. A serious problem here is that over a short time increment, one observes the variability of the portfolio, not the return. ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1118))
+    - Tags: [[pink]] 
+- Our emotions are not designed to understand the point. If my brain can tell the difference between noise and signal, my heart cannot. Again, this is not a very comfortable situation for investors, forcing them to move away from their intuitive, preferred habitat. ([Location 1121](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1121))
+    - Tags: [[pink]] 
+- The law of small numbers As discussed earlier, personal experience trumps data. Since individuals operate in a very small universe, their personal ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1124))
+    - Tags: [[pink]] 
+- experience, by definition, is a small sample. Small samples are subject to large measurement error. So randomness strikes again as the preferred information gathering approach of individuals is subject to serious cognitive errors. It is much better to rely on large samples when analyzing a situation. A well-known statistical concept is the law of large numbers. It states that the larger the sample, the more representative is ([Location 1125](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1125))
+    - Tags: [[pink]] 
+- the sample, and the more accurate are the resulting estimates. Instead, individuals rely on limited personal experience and therefore end up with very inaccurate estimates. This has been dubbed the law of small numbers. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1128))
+    - Tags: [[pink]] 
+- The law of small numbers shows up regularly in investing: ([Location 1143](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1143))
+    - Tags: [[pink]] 
+- “I once bought a stock and it went down over the next month, so I am never buying a stock again.” “I noticed that the stock market went down the last two Februaries so I am selling my stocks at the end of January this coming year.” “The Fed said they would continue buying bonds and the bond market went up, so bond movements must be driven by Fed announcements.” And the list goes on. Investors freely extrapolate to general relationships based on very little empirical evidence. In addition, they hold these beliefs with great certainty since their scant evidence is fully consistent with their conclusion. One piece of evidence, one conclusion. ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1144))
+    - Tags: [[pink]] 
+- The question is can people understand randomness and not be confused by it if they have not studied it at some point in their education? My experience with most students who take statistics is that they view it as incomprehensible and boring. This is their lazy System 2 telling them that it did not want to do the heavy lifting necessary in order to understand these challenging concepts. ([Location 1153](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1153))
+    - Tags: [[pink]] 
+- So can someone understand randomness and not be confused by it if they have not taken such courses? An open question for sure, but it is a critical step if one is to become a BDI. Kahneman is one who believes that formal education is a prerequisite for understanding randomness. My statistics and probability courses were the most difficult I took in graduate school but I thoroughly enjoyed them and continue to use many of these concepts in my research. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1156))
+    - Tags: [[pink]] 
+- If one does not gain an appreciation of randomness, then one is sentenced to be a prisoner of anecdotes, WYSIATI and availability bias. So each of these cognitive errors are the result of not appreciating the random nature of events and therefore uncritically accepting what is presented to you. This is the System 1 thinking that can be so destructive of investment performance. Unless you understand randomness at the DNA level you are doomed, as ([Location 1160](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1160))
+    - Tags: [[pink]] 
+- argued by Taleb, to be continually fooled by it. ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1163))
+    - Tags: [[pink]] 
+- 60/60/60 When we talk with clients about the performance of their portfolios, we frequently reference the 60/60/60 concept. The stock market produces a positive monthly return 60% of the time (actually 63%), our portfolios outperform the market in 60% of the months, and our individual stock picks outperform 60% of the time. These are very attractive odds ([Location 1164](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1164))
+    - Tags: [[pink]] 
+- and result in superior performance over long horizons. But as the percentages indicate, there is no guarantee of short-term positive returns. This means that in any one month there is a 40% chance the stock market will generate a loss, there is a 40% chance that our portfolios will underperform, and there is a 40% chance that an individual stock selection will underperform. Those with MLA and a lack ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1166))
+    - Tags: [[pink]] 
+- of an understanding of randomness often overreact when these 40% events occur. Clients need to appreciate that at each level the odds are tilted in their favor and they need to remain patient, taking a long-term perspective. The randomness of 60/60/60 works in their favor long-term, but creates short-term emotional anxiety. An understanding of randomness is critical to building long horizon wealth. ([Location 1170](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1170))
+    - Tags: [[pink]] 
+- Beyond the cognitive errors made by investors, there is an army of professionals and regulators who enforce this situation, which I call the Cult of Emotion (COE). The tools and analysis they use encourage, ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1175))
+    - Tags: [[pink]] 
+- rather than discourage, investors from stepping on their emotional brakes and thus encourage clients to remain in the Cult. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1176))
+    - Tags: [[pink]] 
+- The challenge of leaving COE, then, is made much more difficult by the fact that the industry reinforces emotions rather than helping clients to avoid cognitive errors. Leaving COE is transformed into a two-step process: first, the investment professional has to release their own emotional brakes as well as those of their clients, and, second, much of what is used by industry professionals when analyzing portfolios and investments has to be discarded. This makes it even more difficult to release emotional brakes and to become a BDI. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1182))
+    - Tags: [[pink]] 
+- Research shows that the biggest drag on long-term wealth creation is ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1189))
+    - Tags: [[pink]] 
+- the emotional mistakes made by investors. Helping clients avoid such mistakes is the most important thing an advisor can do and is a major justification for the fees charged. ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1189))
+    - Tags: [[pink]] 
+- However, volatility is really a measure of emotion since it is the result of investor emotions driving prices up and down. What is more, volatility is created by emotion and on the other side stirs up strong emotions in investors. ([Location 1201](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1201))
+    - Tags: [[pink]] 
+- Obviously there are risks associated with investing, but volatility has little to do with these risks. In spite of this, ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1203))
+    - Tags: [[pink]] 
+- the investment profession has moved forward as if volatility and risk are one and the same. ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1204))
+    - Tags: [[pink]] 
+- For short-term investors, volatility does contribute to risk and such portfolios are built to either minimize or completely eliminate volatility, but most investors are or should be thinking long term. Thus in most investment situations volatility represents emotion and has little to do with risk. ([Location 1212](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1212))
+    - Tags: [[pink]] 
+- A measure of risk it is not, a measure of emotion it is. ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1234))
+    - Tags: [[pink]] 
+- As mentioned earlier, I began my career anchored in MPT and the concise way it represented markets. So to discover that MPT, rather than being a rigorous framework for thinking about investment management, is a framework built on emotion that discourages investors from releasing ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1234))
+    - Tags: [[pink]] 
+- their emotional brakes, was both surprising and very disappointing. Sadly MPT has degenerated to the point of being the primary source of CE tools. ([Location 1236](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1236))
+    - Tags: [[pink]] 
+- To a man with a hammer every problem looks like a nail. To an analyst armed with MPT, every emotion looks like a risk. ([Location 1238](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1238))
+    - Tags: [[pink]] 
+- In spite of the fact that both evidence and regulators agree that past performance is not predictive, virtually all fund analysis, whether it is conducted by an individual or professional, relies heavily ([Location 1252](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1252))
+    - Tags: [[pink]] 
+- on past performance. If you were beamed to Earth from another planet and saw this process and was familiar with the evidence you would be dumbfounded that investment professionals use past performance at all. ([Location 1254](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1254))
+    - Tags: [[pink]] 
+- The reason past performance is so heavily used both by individuals and professionals who should know better is that it appeals to the cognitive errors of availability bias and representativeness. Past performance is widely available ([Location 1255](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1255))
+    - Tags: [[pink]] 
+- and it is assumed that managers who have performed well in the past will continue to perform well in the future. So strong are these cognitive biases that it is virtually impossible to convince anyone to do otherwise. ([Location 1257](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1257))
+    - Tags: [[pink]] 
+- My own experience in the industry, and I am sure the reader’s experience as well, is that people will not do things differently for fear that they will be sued as a result of the prudent man rule. ([Location 1267](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1267))
+    - Tags: [[pink]] 
+- As is often the case though, what is worth doing is worth overdoing and unfortunately this is the situation with the cult-enabling aspects of the legal profession. ([Location 1270](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1270))
+    - Tags: [[pink]] 
+- It seems a formidable challenge to leave the Cult, so why even try? The reward is the ability to build superior portfolios for growing long-horizon wealth. The effort required is worth it. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1277))
+    - Tags: [[pink]] 
+- One of my favorite comic strips growing up was Pogo, written by Walt Kelly. I found his mixture of humor, satire, and political commentary both entertaining and insightful. His most famous quote has proved enlightening in many situations I have faced: “We have met the enemy and he is us!” ([Location 1289](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1289))
+    - Tags: [[pink]] 
+- To begin with, it is important to inventory the emotional brakes stepped on when making investment decisions. ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1295))
+    - Tags: [[pink]] 
+- A Coean is someone who constantly steps on emotional brakes when making investment decisions and is thus a member of the Cult of Emotion (COE), the suffocating environment that currently envelops the investment industry. The investing habits of a Coean Let’s have a look at the traits ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1296))
+    - Tags: [[pink]] 
+- of a Coean when they are investing. Developing investment strategy Coeans develop an investment strategy based on the following: Intuition and anecdotal information Investment markets are complex and it is a challenge to analyze them properly. Basing your decisions on intuition is a recipe for poor decisions. As Kahneman says, trust the ([Location 1298](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1298))
+    - Tags: [[pink]] 
+- numbers never your gut. If you find yourself saying things like “I feel” or “I think” when making investment recommendations, you’re clearly heading down the emotional investing road. If anecdotal information plays a major role in your investment strategy, then you are depending upon a small and often unreliable sample. “I heard it from Fred and then heard it from Paul, so it must be a trend.” The law of small numbers strikes again. Intuition and anecdotal information are clearly part of System 1 thinking and are very Coean. Purchasing “brand” stocks Brands play a prominent role in modern economic life. Learning about products and services is time-consuming, so purchasing a brand is a convenient shortcut. Brand also represents social validation, as you are doing something that many others are doing. So it’s a short step to using the branding concept for investment decisions. ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1302))
+    - Tags: [[pink]] 
+- Since it’s so easy to buy a brand stock rather than slog through a careful stock analysis, it’s not surprising that brand stocks often underperform. ([Location 1309](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1309))
+    - Tags: [[pink]] 
+- Buying brand-name stocks is emotionally reassuring, but often results in a portfolio of ([Location 1312](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1312))
+    - Tags: [[pink]] 
+- performance dogs. ([Location 1312](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1312))
+    - Tags: [[pink]] 
+- Current economic events ([Location 1313](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1313))
+    - Tags: [[pink]] 
+- Economic information is reported daily. Analysts provide estimates of what they think a particular series, such as the unemployment rate, will be as the market waits breathlessly for the number to be reported. Once reported, the information is analyzed endlessly. So it’s no wonder that many investors believe they must understand what’s happening in the economy today and on an ongoing basis. ([Location 1313](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1313))
+    - Tags: [[pink]] 
+- But it turns out that the stock market is largely unrelated to what is happening in the economy right now. In fact studies show that the stock market is a predictor of economic activity six to nine months hence. So unless you are able to forecast the economy that far ahead, economic information is of little value in building a portfolio. Indeed, the Economic Conditions strategy is one of the worst performing US strategies of the ten that have been identified by AthenaInvest, consistent with the notion that top-down economic strategies perform poorly. Even so, given all of the talking heads, there is a strong desire by investors to use current economic information for making investment decisions. They believe that doing so is the right thing to do. ([Location 1316](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1316))
+    - Tags: [[pink]] 
+- Holding more than 20 stocks ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1322))
+    - Tags: [[pink]] 
+- In a 1968 study, John Evans and Stephen Archer, both of the… ([Location 1322](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1322))
+    - Tags: [[pink]] 
+- showed that the benefits of adding additional stocks to a portfolio drops off rapidly and provides little diversification benefit when more than 20 are added to a portfolio. [24] So adequate volatility reduction is obtained with a relatively small number of stocks. It is surprising, therefore, that so many in the industry believe that adequate diversification is only… ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1323))
+    - Tags: [[pink]] 
+- of stocks, many immediately jump to the conclusion that the portfolio is overly volatile. But it is not. Holding more than 20 stocks in a portfolio is a Coean… ([Location 1327](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1327))
+    - Tags: [[pink]] 
+- Overly focusing on debt Debt is an emotional issue. Since the last group standing in the event of economic failure are the debt holders, many jump to the conclusion that debt was the problem. When the… ([Location 1329](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1329))
+    - Tags: [[pink]] 
+- the loan, both borrowers and lenders had every expectation that the debt would be repaid. Then subsequent economic and market events led to a company unable to meet its obligations. Companies go out of business, not because of too much debt, but because of unforeseen economic and market events, which might have been exacerbated by poor management… ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1331))
+    - Tags: [[pink]] 
+- tax deductible (in the US at least) and it is more than likely the company took on the debt believing the return on their investment opportunities exceeded the interest payments on the debt. Thus leverage can add significant value for shareholders. An emotional fixation on debt as always being bad is Coean. The price paid The price paid for a… ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1334))
+    - Tags: [[pink]] 
+- say, 20% or selling when it increases by 20% are common. There is little evidence to support the profitability of such strategies. In fact, Hersh Shefrin and Meir Statman of Santa Clara University proposed the disposition effect in 1985 when they noted investors sold their winning stocks too soon and held on to their losing stocks too long. [25] Investors wish to… ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1338))
+    - Tags: [[pink]] 
+- is an MLA-driven response, as remembering the price paid creates an anchor, leading to the disposition effect. In order to avoid this Coean aspect of portfolio management, it is important to forget the price paid. While this may seem startling to many, it allows you to avoid many of the emotion-based decisions plaguing investment management. Holding… ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1342))
+    - Tags: [[pink]] 
+- the ultimate grudge match with your portfolio: I will get even with the stock for going down by holding until the price gets back up to the purchase price. Of course this is driven by the powerful emotion of loss regret, but it has the undesirable result of making decisions based purely on emotions rather than on a carefully developed strategy. It locks you into a… ([Location 1346](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1346))
+    - Tags: [[pink]] 
+- is. Investment management is about investing in the best ideas going forward and not dwelling on the mistakes of the past. It is so Coean to continue… ([Location 1349](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1349))
+    - Tags: [[pink]] 
+- Building a long-term portfolio Coeans build a long-term portfolio based on the following factors:… ([Location 1351](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1351))
+    - Tags: [[pink]] 
+- Return volatility is… ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1353))
+    - Tags: [[pink]] 
+- by emotional reactions of investors to current events. In turn, volatility itself generates an emotional reaction among investors. This means that volatility is created by and stirs up emotions. So when using volatility as a measure of risk, emotion is being placed at the center of your analysis. In particular for building long-term portfolios, volatility contributes… ([Location 1353](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1353))
+    - Tags: [[pink]] 
+- on volatility as a risk measure is clearly Coean. So too is focusing on correlations. Correlations have little impact on long-term portfolio returns, but low correlations reduce short-term volatility. Seeking lower-correlation investments, such as what are referred to in today’s markets as alternatives, is Coean. Such… ([Location 1356](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1356))
+    - Tags: [[pink]] 
+- Eliminating tail… ([Location 1359](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1359))
+    - Tags: [[pink]] 
+- Negative return tail events create strong emotions in investors so it is only natural to attempt to eliminate these… ([Location 1360](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1360))
+    - Tags: [[pink]] 
+- Nobody said that investing in the stock market is emotionally easy and tail events test the conviction of even the most steadfast investor. ([Location 1365](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1365))
+    - Tags: [[pink]] 
+- Asset allocation models ([Location 1366](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1366))
+    - Tags: [[pink]] 
+- The most important drivers of long-term wealth are expected asset class returns. All other statistics pale to insignificance, including short-term volatility and correlations. If you want to maximize long-term wealth, invest the vast majority if not all of the portfolio in the highest expected return asset class. Doing otherwise reduces final wealth. ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1367))
+    - Tags: [[pink]] 
+- For example, I’ve never understood why one should invest in anything other than stocks for building long-term wealth, ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1369))
+    - Tags: [[pink]] 
+- since all other asset classes are expected to generate lower returns. If I’ve released my emotional brakes and I am able to tolerate short-term volatility, investing all of my money in stocks will generate the highest long horizon wealth. ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1370))
+    - Tags: [[pink]] 
+- The only time it makes sense to diversify across asset classes is if expected returns are high and comparable. Otherwise, for building wealth, diversification is a feel-good strategy and is thus Coean. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1372))
+    - Tags: [[pink]] 
+- Exiting the market when volatility increases ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1374))
+    - Tags: [[pink]] 
+- Volatility stirs up emotions within investors. As volatility increases, investors get increasingly anxious, sometimes to the point of exiting the market. VIX is a measure of implied stock market volatility and so is often referred to as an index of investor fear. The higher is VIX, the greater is investor fear is the contention. The emotional response by many investors as VIX rises is to exit the market ([Location 1374](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1374))
+    - Tags: [[pink]] 
+- but in fact research shows it makes more sense to stay in the market, and even invest more, as volatility increases. Exiting the market as volatility increases is Coean. ([Location 1377](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1377))
+    - Tags: [[pink]] 
+- Choosing an investment manager Coeans choose an investment manager based on the following: Past performance “Past performance is not indicative of future performance.” ([Location 1379](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1379))
+    - Tags: [[pink]] 
+- Is it possible to select managers without using past ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1390))
+    - Tags: [[pink]] 
+- performance? The answer is yes. My firm’s research shows that manager behavior – in the form of strategy, consistency and conviction – is predictive of future performance. This conclusion is confirmed by a number of other academic studies. So the lesson here is that it is manager behavior which is predictive while past performance is not. ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1390))
+    - Tags: [[pink]] 
+- A fund’s “brand” As I mentioned above, individuals use brands as a shortcut when making decisions. This is no less the case when selecting an investment fund. ([Location 1394](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1394))
+    - Tags: [[pink]] 
+- In particular branding and distribution lead to much larger funds and the larger the fund the worse the performance. ([Location 1401](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1401))
+    - Tags: [[pink]] 
+- Large active equity funds ([Location 1402](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1402))
+    - Tags: [[pink]] 
+- To the contrary, research shows that the larger the fund, the worse the performance. The reason larger funds underperform is that it becomes increasingly difficult to concentrate on best idea stocks in the face of increasing trading and liquidity constraints. ([Location 1405](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1405))
+    - Tags: [[pink]] 
+- Volatility, beta, max drawdown ([Location 1411](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1411))
+    - Tags: [[pink]] 
+- Style drift and tracking error ([Location 1415](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1415))
+    - Tags: [[pink]] 
+- One of the stranger things that has swept over the investment industry is the style grid. It is based on the idea of categorizing active equity managers, as well as other managers, by the market cap and the PE ratio of the stocks they hold. So a fund is categorized as small-cap value if it holds small market capitalization and low P/E ratio stocks. Never mind that ([Location 1415](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1415))
+    - Tags: [[pink]] 
+- there is no research behind categorizing funds in this way. ([Location 1418](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1418))
+    - Tags: [[pink]] 
+- Once this concept was introduced, it grew to dominate the industry, driven by a leaderless stampede. Now virtually everyone uses it for categorizing funds and building portfolios. Even worse, research shows that performance is hurt by keeping a manager in a style box. Funds perform best when the manager consistently pursues a strategy and takes high-conviction positions and so by demanding that a manager stay in a style box, the manager is being asked to purchase stocks that may have nothing to do with the strategy being pursued. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1419))
+    - Tags: [[pink]] 
+- Nevertheless, one of the worst sins in the eyes of the industry is manager style drift, in which stocks that are not consistent with the manager’s style box are purchased. In fact, style drift is considered risk. So the fund is benchmarked against the arbitrary index and then declared risky ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1423))
+    - Tags: [[pink]] 
+- if experiencing style drift. It is hard to believe that an industry that is supposedly so smart and so sophisticated has somehow gotten itself tied into this Gordian Knot. ([Location 1424](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1424))
+    - Tags: [[pink]] 
+- In 1738, Daniel Bernoulli first proposed that individuals made decisions by rationally maximizing expected utility. Thus was launched the rationality model of human behavior that underpins many of today’s theories in the social sciences. It took on a particularly important role in economics, where economic ([Location 1442](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1442))
+    - Tags: [[pink]] 
+- agents were said to make rational decisions and, as a consequence, prices reflected all relevant information. ([Location 1444](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1444))
+    - Tags: [[pink]] 
+- This model was amenable to mathematical analysis which, over the last hundred years, has grown to dominate economic theory and related empirical testing. Mathematical models provide a veneer of orderliness, thus obscuring the messiness of real-world markets. It was out of this convergence of rationality and mathematics that Modern ([Location 1445](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1445))
+    - Tags: [[pink]] 
+- Portfolio Theory was born. ([Location 1447](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1447))
+    - Tags: [[pink]] 
+- The rise of MPT In 1952, Harry Markowitz of the Rand Corporation published his article on portfolio construction, arguing that ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1459))
+    - Tags: [[pink]] 
+- portfolios should optimize expected return relative to volatility, with volatility measured as the variance of return. He proposed the now ubiquitous efficient frontier. His mathematical and statistical model gained little traction during the 1950s. But with the growing interest in mathematically-based market models, by the mid-1960s the mean-variance model became a mainstay within academic finance departments. Meanwhile, at the University ([Location 1461](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1461))
+    - Tags: [[pink]] 
+- of Washington, professor Bill Sharpe recognized Markowitz’s mean-variance optimization model as more than a prescriptive model for how to build investment portfolios. Combining it with restrictive assumptions regarding investor rationality, information availability and market trading structure, Sharpe transformed it into a model of capital market equilibrium, capturing the relationship between risk and return. Calling it the Capital ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1464))
+    - Tags: [[pink]] 
+- Asset Pricing Model, or simply CAPM, he published his seminal work in 1965. Quickly CAPM became a central tenet within MPT. ([Location 1467](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1467))
+    - Tags: [[pink]] 
+- Joining Markowitz optimization and the CAPM as important pillars within MPT, in the mid-1960s 2013 Nobel laureate Eugene Fama of the University of Chicago put forward the final pillar in what is probably the most famous dissertation of our generation. Extending the mathematical concept of rational investors to its logical conclusion, Fama proposed the efficient market hypothesis, which posited that market prices fully reflected all relevant information and, as a result, it was impossible to ([Location 1473](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1473))
+    - Tags: [[pink]] 
+- earn excess returns by means of active management. ([Location 1477](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1477))
+    - Tags: [[pink]] 
+- One would expect that if the major prediction of a theory turns out to be incorrect, the theory would be rejected. Surprisingly, this is frequently not the case, as there is an emotional attachment to the theory and a reluctance to reject it in the face of unfavorable evidence. This is not only true in finance but in all of science. ([Location 1495](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1495))
+    - Tags: [[pink]] 
+- In 1981, 2013 Nobel laureate Robert Shiller of the University of Pennsylvania published his article arguing almost all volatility observed in the stock market, even on an annual basis, was noise rather than the result of changes in fundamentals. [28] Since EMH argues that prices fully reflect all relevant information, volatility driven by other than fundamentals strikes at its very ([Location 1506](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1506))
+    - Tags: [[pink]] 
+- heart. EMH advocates countered by arguing that even though prices were driven by other than fundamentals, as long as one could not use this information for earning superior returns, the EMH held. This represented a damning with faint praise defense of EMH. Besides, EMH faced much more serious challenges than excess volatility. ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1510))
+    - Tags: [[pink]] 
+- Since Shiller made his claim that volatility was largely noise – or in the terminology of BPM, the result of emotional ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1513))
+    - Tags: [[pink]] 
+- crowds – a number of studies have tried to refute it without success. It appears that volatility is driven mostly by emotions and very little by changes in fundamentals. ([Location 1513](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1513))
+    - Tags: [[pink]] 
+- If volatility is the result of emotional crowds, then emotion has been placed at the center of the portfolio construction process. So rather than being a risk-return optimization, it’s in reality an ([Location 1516](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1516))
+    - Tags: [[pink]] 
+- emotion-return optimization. ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1517))
+    - Tags: [[pink]] 
+- Furthermore, many of the so-called measures used for evaluating portfolio performance are actually emotion measures rather than risk measures. These measures include downside capture, downside risk, R-squared, and most interestingly, the Sharpe ratio. Indeed, the widespread use of the Sharpe ratio by advisors and investment managers alike leads them to focus on emotional catering rather than performance when building a ([Location 1517](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1517))
+    - Tags: [[pink]] 
+- portfolio. The ultimate irony of rationality-based MPT is that it has provided the tools upon which CE’s depend. The law of unintended consequences has the last word. ([Location 1520](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1520))
+    - Tags: [[pink]] 
+- Yes, it is true that the average manager underperforms, but stock picking skill research demonstrates that high-conviction positions taken by active equity managers earn ([Location 1533](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1533))
+    - Tags: [[pink]] 
+- excess returns. The conflict in results can be explained by noting that funds, besides holding high-conviction positions that outperform, also hold many low-conviction positions. These latter positions are held for reasons other than performance, including getting too large, fitting into style boxes, reducing volatility, and reducing maximum drawdown. For the typical fund, low-conviction positions outnumber high-conviction ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1535))
+    - Tags: [[pink]] 
+- positions by three-to-one. So the excess returns on the high-conviction positions are more than wiped out by the underperformance of the low-conviction positions. The conclusion to draw from this is that active equity funds… ([Location 1538](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1538))
+    - Tags: [[pink]] 
+- Rejecting the world rather than rejecting… ([Location 1541](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1541))
+    - Tags: [[pink]] 
+- Like any good scientific, rational, truth-seeking organization, the finance profession has chosen to reject the world rather than reject the empirically discredited paradigm. You probably find this surprising, as most assume that rational, truth-seeking organizations are empirically based and only accept concepts supported by the evidence. But scientific and… ([Location 1542](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1542))
+    - Tags: [[pink]] 
+- human organizations. As I progressed through my academic career, I found this very disappointing. Being an empiricist, I operated under the assumption that if the evidence did not support the theory, then the theory would be rejected, not the world. What I was observing was just the opposite. Rather than rejecting the CAPM, the model was being used widely in… ([Location 1545](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1545))
+    - Tags: [[pink]] 
+- countries if they had run into CAPM in their home country finance textbooks and indeed they had. The fact that CAPM appeared everywhere in finance confirmed its validity by means of social validation rather than by means of empirical evidence. Emotional… ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1548))
+    - Tags: [[pink]] 
+- In the mid-1990s, I began to change my teaching, arguing that the evidence was not… ([Location 1551](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1551))
+    - Tags: [[pink]] 
+- students should not use it for making investment decisions. This naturally led students to ask why I was the only one in the department making such statements. Of course I would respond by saying that the evidence doesn’t support CAPM and so it should not be used. The common response was that everybody else was presenting it and it shows up in lots of different… ([Location 1551](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1551))
+    - Tags: [[pink]] 
+- what was widely taught. The answer to my dilemma came in the form of a book entitled The Structure Of Scientific Revolutions by Thomas Kuhn of the University of California, Berkeley. He argued that scientific disciplines are no different than other human organizations that change very slowly. Once a paradigm was accepted, it was a long process before a… ([Location 1554](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1554))
+    - Tags: [[pink]] 
+- did not question the underlying paradigm. The paradigm represented the sand box in which they operated and if the paradigm were rejected, they were no longer scientists, which would be a serious blow to their self-image. So it required a large number of anomalies and lengthy discussion before a new paradigm was accepted. Kuhn recognized that… ([Location 1558](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1558))
+    - Tags: [[pink]] 
+- heliocentric universe was not accepted as the new model of our planetary system until 150 years after it was first proposed in 1543. The idea that meteorites come from outer space was not accepted until 300 years after the first meteorite fragments were collected in France in 1492. Dr. Ignaz Semmelweis, at his 1840s Vienna Austria Hospital, determined that… ([Location 1561](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1561))
+    - Tags: [[pink]] 
+- and newborn puerperal fever. Distressingly, a recent study concluded 50% of healthcare professionals are still not properly washing their hands. The list goes on. Just because something is widely used, doesn’t mean the evidence supports its usefulness. This is an example of the unreliability of… ([Location 1564](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1564))
+    - Tags: [[pink]] 
+- Step 4: I believe that volatility, ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1620))
+    - Tags: [[pink]] 
+- along with close cousins the Sharpe ratio, max drawdown and tracking error, are largely measures of emotion and should not be used in constructing and evaluating portfolios Volatility is driven by the emotional reactions to current events. Consequently, very ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1620))
+    - Tags: [[pink]] 
+- little of volatility, particularly stock market volatility, can be explained by changes in underlying fundamentals. On the other side of the coin, investors react emotionally to volatility, meaning that emotions both cause volatility and are caused by volatility. To the greatest extent possible, volatility should be… ([Location 1622](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1622))
+    - Tags: [[pink]] 
+- of volatility is the widespread use of the Sharpe ratio, which is return divided by standard deviation. It suffers from three serious problems. First, returns are historical, and as we know past performance is not predictive of future performance. Second, standard deviation is largely emotionally driven. So rather than being… ([Location 1625](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1625))
+    - Tags: [[pink]] 
+- returns are long term while the standard deviation is annual. This further exacerbates the emotional problems with this ratio. The Sharpe ratio is among the worst measures foisted upon the industry and deserves to be banished. Second only to the Sharpe ratio, tracking error is a bane within the industry. The first… ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1628))
+    - Tags: [[pink]] 
+- group, for example, small-cap value. It is arbitrary because the assignment has little to do with the strategy of the fund. But it gets stranger. Even though the fund is expected to generate alpha, it is also expected to closely track its benchmark. How bizarre is this: as a portfolio manager I am expected to track the index… ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1631))
+    - Tags: [[pink]] 
+- error is considered to be risk. So let me understand this. As an active manager I am being assigned to an arbitrary peer group, which has nothing to do with the way I manage money, then I am asked to track this group’s index while at the same time trying to outperform this same index. If I then… ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1634))
+    - Tags: [[pink]] 
+- volatility-based measures… ([Location 1637](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1637))
+    - Tags: [[pink]] 
+- Step 5: I believe that volatility and risk are not synonymous and that most references to risk are really references to emotion Risk is the chance of underperformance, while, on the… ([Location 1638](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1638))
+    - Tags: [[pink]] 
+- For short-horizon portfolios, volatility does contribute to risk. For long-horizon portfolios, volatility plays a much reduced role. Since portfolios are often built based on short-term volatility, the paradoxical result is risk is actually increased. This happens because reducing short-term volatility often reduces… ([Location 1640](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1640))
+    - Tags: [[pink]] 
+- A classic example of this is investing in both stocks and bonds in a long-horizon portfolio in an effort to reduce short-term volatility, with the result that it is virtually guaranteed you will underperform a 100% stock portfolio over the long term. Risk is mentioned frequently in market commentaries and portfolio… ([Location 1643](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1643))
+    - Tags: [[pink]] 
+- hear the word risk, I mentally cross it out and… ([Location 1646](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1646))
+    - Tags: [[pink]] 
+- Step 6: I believe that increased stock market volatility represents an opportunity for, rather than a risk to, my portfolio Stock market volatility is particularly… ([Location 1647](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1647))
+    - Tags: [[pink]] 
+- market volatility increases, the reaction hardwired by evolution is to exit. Since so many investors do exactly this, a behavioral price distortion results. Research shows that following a period of heightened market volatility, above average market returns are common. The historical average market… ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1649))
+    - Tags: [[pink]] 
+- market volatility. The typical investor switches into fight or flight mode, exits the market and misses the above average returns. Studies confirm that the typical equity mutual fund investor underperforms the return of the… ([Location 1652](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1652))
+    - Tags: [[pink]] 
+- Step 7: I will divide my portfolio into buckets as a… ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1655))
+    - Tags: [[pink]] 
+- emotional sensitivity to volatility Dividing up a portfolio into buckets, each meeting a different set of client needs, is an important step for reducing the emotional impact of volatility. The bucket approach is also referred to as the endowment model, as endowments construct… ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1655))
+    - Tags: [[pink]] 
+- into three buckets. The first bucket meets liquidity and short-term income needs and is funded using liquid, short-term, low to no volatility instruments. The goal is to eliminate concerns regarding volatility and results in the client being confident that short term needs are being met. The issue of volatility has… ([Location 1658](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1658))
+    - Tags: [[pink]] 
+- bucket for building long-horizon wealth. It is important to structure client conversations to spend as little time as possible talking about the short-term performance of this bucket in an attempt to maintain a long-term focus. If this can be done successfully, it is more likely long-term expected and excess returns… ([Location 1661](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1661))
+    - Tags: [[pink]] 
+- will be little focus on short-term volatility and correlations. The third bucket is comprised of unique investments requiring special management. Such investments include real estate, farms, art, a stock held for other than performance reasons, and other non-traditional assets. These are managed in a… ([Location 1664](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1664))
+    - Tags: [[pink]] 
+- alternative to the traditional 60/40 portfolio approach. Each bucket meets a specific client need rather than constructing a single portfolio to meet overall client needs. This divide and conquer approach can have a positive impact on performance, while reducing the emotional impact of portfolio… ([Location 1667](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1667))
+    - Tags: [[pink]] 
+- Step 9: I will forget the price I paid for an ([Location 1685](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1685))
+    - Tags: [[pink]] 
+- investment, as well as its name, to mitigate these emotional anchors Many will find this suggestion shocking and even irresponsible. Isn’t it the responsibility of the manager to know as much as possible about the investments they are making? In particular, the price paid and the name of the investment represent among the most common ([Location 1685](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1685))
+    - Tags: [[pink]] 
+- information gathered. So why would you make an effort to forget both after making an investment? It is easy for individuals to anchor on a piece of information, even an arbitrary piece of information that has little to do with the investment itself. The price paid is an anchor which impacts subsequent decisions. It is the starting point of many an investment rule, such as stop loss orders, ([Location 1688](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1688))
+    - Tags: [[pink]] 
+- profit harvesting based on X percent price increase, and holding a stock until it gets back up to the price paid. This latter rule is obviously emotional, as are the other two, which is a consequence of MLA. Hersh Shefrin and Meir Statman of Santa Clara University believe purchase price rules are used by so many investors that it produces market-wide price distortions, something they refer to as the disposition effect. [32] This affect posits that investors sell winners too soon, because of the emotional validation arising from earning a positive return, while hanging on to losers too long, due to loss regret. A straightforward way to avoid the pitfalls of the disposition effect is to forget the price paid. Reinforcing the disposition effect is the observation ([Location 1691](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1691))
+    - Tags: [[pink]] 
+- that investors fool themselves into thinking that if the stock is not sold it really isn’t a loss. The tax code which does not recognize gains or losses until realized supports this too, which is an example of the IRS as CE. The simplest way to avoid this emotional decision is to forget the price paid and thus have no idea whether you have made or lost money. As Kenny Rogers once wisely advised, “You never ([Location 1698](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1698))
+    - Tags: [[pink]] 
+- count your money when you’re sittin’ at the table.” The investment’s name is another anchor which attracts information, whether useful or not. As I will argue in Chapter 13, the key to successful investing is consistent pursuit of a narrowly defined strategy, which translates into making investment decisions based on a limited information set. This means ignoring everything else about ([Location 1701](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1701))
+    - Tags: [[pink]] 
+- the investment other than what is important in executing the strategy. An investment’s name attracts a full range of information that you may have a hard time ignoring, particularly if it comes from what you believe is a credible source. It is only human nature to begin doubting your analysis. One way to avoid experiencing these doubts is to forget the name of your investments. It’s only natural ([Location 1704](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1704))
+    - Tags: [[pink]] 
+- that you enjoy talking about your investments. So when asked, you describe them with a sense of pride, since they were selected based on your careful and insightful analysis. The names you mention will trigger in your listener their own emotions and thoughts regarding the company. Often the person will not agree with you and explain why they feel the way they do and you might begin doubting ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1707))
+    - Tags: [[pink]] 
+- your decision. One way to avoid this problem is to tell people you cannot remember what you’ve invested in. Better to be thought forgetful than to stray from your investment strategy. As an example of this concept, for some time I held Deluxe (DLX) in the Athena Pure portfolio. Deluxe manufactures and sells checkbooks… ([Location 1710](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1710))
+    - Tags: [[pink]] 
+- wisdom among analysts was that nobody in their right mind would own the stock. However, my strategy surfaced it as a good investment, so it was purchased. The father of an advisor for which AthenaInvest manages money worked for Deluxe. A couple of years earlier he had some coworkers over for a party… ([Location 1713](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1713))
+    - Tags: [[pink]] 
+- their portfolio. The Deluxe employees were incredulous, stating in no uncertain terms that Deluxe represented a terrible investment as check usage was tanking. Deluxe did very well in spite of what everyone else thought and paradoxically even those working at Deluxe did not realize their own company’s… ([Location 1716](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1716))
+    - Tags: [[pink]] 
+- check usage was declining but because the company began paying down debt, a no-no in my strategy (I will explain more about this strategy later). The lesson here is to stick with your strategy and don’t be unduly influenced by others, even those who know a great deal about the company in which you are investing. I generally do not remember the stocks I purchase and I do not remember the price paid, because neither is part of my investment strategy. I only learn about gains and losses on individual stocks after the fact, if ever. This does cause problems when current and potential clients ask what is… ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1719))
+    - Tags: [[pink]] 
+- consumption, as I only remember those few things that I believe are important in making the investment decision. This is disconcerting to clients because I don’t know the name of the stocks held and I can’t tell a feel-good story. What I can do is explain my investment strategy simply and clearly, and… ([Location 1724](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1724))
+    - Tags: [[pink]] 
+- currently own, once I sell, I never look back. I don’t know how the stock has performed while I hold it and I don’t know how it performs after I sell it. It doesn’t take much to imagine a bevy of cognitive errors arising as a result of keeping track of previously sold stocks. Monday morning quarterbacking… ([Location 1727](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1727))
+    - Tags: [[pink]] 
+- there is only one reason to buy stocks and that is to make money. They are not part of your family. If you conclude that a stock is no longer a good investment, sell it, forget it and move on. Do not fall in love with your stocks and don’t think twice when you sell them.… ([Location 1730](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1730))
+    - Tags: [[pink]] 
+- Past performance is not predictive of future performance. It is not like there is controversy surrounding this conclusion, as… ([Location 1735](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1735))
+    - Tags: [[pink]] 
+- academic studies. In spite of overwhelming evidence virtually everyone, individuals and professionals alike, uses past performance in selecting managers. In fact, it is frequently the most important criteria when selecting a manager. This is a dramatic example of the emotional power of the representativeness bias. If you release this emotional brake, you will be acting differently than virtually everyone else… ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1736))
+    - Tags: [[pink]] 
+- Past performance is best for testing the usefulness of an investment strategy. The larger and longer the sample, the more reliable the results. For this reason, the current effort to ensure the accurate reporting of performance results is… ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1739))
+    - Tags: [[pink]] 
+- Consistent pursuit of a self-declared investment strategy is key to… ([Location 1744](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1744))
+    - Tags: [[pink]] 
+- Left to their own devices, investors make poor decisions which end up hurting long-term performance. So financial professionals must decide to what extent they cater and to what ([Location 1759](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1759))
+    - Tags: [[pink]] 
+- extent they attempt to mitigate losses resulting from emotional client decisions. ([Location 1760](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1760))
+    - Tags: [[pink]] 
+- The path of least resistance, of course, is to cater to client emotions, since trying to modify client behavior is difficult. Be that as it may, one of the most important things an advisor can do is help clients avoid emotional investing mistakes and thus mitigate the resulting losses. In my opinion, this is a top advisor value ([Location 1761](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1761))
+    - Tags: [[pink]] 
+- add. ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1763))
+    - Tags: [[pink]] 
+- Communicating with clients The first important ([Location 1769](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1769))
+    - Tags: [[pink]] 
+- step for the advisor is to release their own emotional brakes. The next step is to implement the critically important bucket model for building client portfolios as described in Step 7 in the previous chapter. If the advisor has accomplished these, the next step is to learn how to communicate with clients so they also release their emotional brakes. As a way to help in this process, below I provide ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1770))
+    - Tags: [[pink]] 
+- suggestions drawn from my work with the advisors who successfully communicate with clients. ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1772))
+    - Tags: [[pink]] 
+- Feathering in investments Individuals have a difficult time moving quickly when making a decision. This no doubt springs from an internal sense of caution when a decision has to be made. From an evolutionary standpoint, we probably come by it rightly. Have you ever ([Location 1790](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1790))
+    - Tags: [[pink]] 
+- watched a cat step through a door? First they sniff, then they stick one paw out and pull it back in, then sniff some more, then look around some more, and finally step through the door. This sounds a lot like the process many individuals go through when they make investment decisions. If a recommendation is made to invest in stocks, for example, it is highly unusual for the individual to move the entire ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1792))
+    - Tags: [[pink]] 
+- amount immediately. It is not in our makeup to move quickly. ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1794))
+    - Tags: [[pink]] 
+- Besides this built-in caution, there is another emotional reason for staging an investment decision. Let’s say somebody wants to put $100,000 in a particular investment. Rather than investing the full amount immediately, have the client invest a third at the beginning of each of the next three months. The advantage of this ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1795))
+    - Tags: [[pink]] 
+- approach is the client will have a difficult time anchoring on the initial amount. It’s easy to remember that you invested $100,000 if it’s invested all at once, but more difficult if it’s invested over a three-month period. Eliminating the anchor sets the stage for less emotional future conversations. ([Location 1797](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1797))
+    - Tags: [[pink]] 
+- For many years I railed against dollar cost averaging as being financial nonsense. If you believe stock returns are drawn from a distribution with a historical average return of 10%, then why not invest all of your money right away? It is easy to show the math that justifies investing everything immediately rather than feathering in over time. I’ve now changed my mind, as I have done in a number of areas, to the view that dollar cost averaging is an attractive way to get clients to ([Location 1800](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1800))
+    - Tags: [[pink]] 
+- invest. It is much better to have the client invest in the market gradually over time than, for emotional reasons, not invest at all. The emotional benefits of dollar cost averaging outweigh the financial disadvantages. ([Location 1804](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1804))
+    - Tags: [[pink]] 
+- Consequently, a histogram provides the most accurate representation of market returns. The mountain chart is an emotionally driven, random representation of market returns. This means that the many stories based on the mountain chart are themselves largely ([Location 1871](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1871))
+    - Tags: [[pink]] 
+- random. Histogram trumps mountain chart when discussing investment performance with clients. ([Location 1873](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1873))
+    - Tags: [[pink]] 
+- Labels are used to organize the world around us. If something is mislabeled, it can have a profound impact on the quality of the decisions we make. This is the situation in the active equity space, where funds are labeled using the style grid. The resulting mislabeling contributes to fund underperformance, ([Location 1926](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1926))
+    - Tags: [[pink]] 
+- as managers attempt to stay in the style box in which they have been arbitrarily placed. Consequently, managers have to stray from their stated investment strategy, investing in stocks other than their best ideas. Thus mislabeling drives funds to be strategy inconsistent, as well as take low-conviction positions, resulting in poor investment performance. The mistake made by many is to ([Location 1928](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1928))
+    - Tags: [[pink]] 
+- assume a fund’s equity strategy can be defined by portfolio characteristics, such as the average market cap and PE of the stocks held. Strategy is the way a manager goes about analyzing, buying and selling stocks over time, while portfolio characteristics, such as market capitalization and value-growth, describe the equity holdings that result. There is no reason to believe that portfolio characteristics remain constant over time as an equity strategy is successfully executed. One of the bizarre outcomes of equating strategy and characteristics is the introduction of style drift. Believing that characteristics and strategy are synonymous, the industry requires managers to avoid style drift, or in other words, maintain the same stock characteristics regardless of economic and market ([Location 1931](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1931))
+    - Tags: [[pink]] 
+- conditions. This requirement hurts performance and shortly I will provide the evidence that style drift is part and parcel of superior performance. As a consequence, one of the worst decisions that can be made is to fire a manager for style drift. ([Location 1937](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1937))
+    - Tags: [[pink]] 
+- The result of this is that the current industry practice of demanding little or no style drift hurts performance. ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=1972))
+    - Tags: [[pink]] 
+- The bottom line is that the style grid dominates the active equity industry as a result of a leaderless stampede based on convenience rather than on solid research. The resulting industry expectation ([Location 2018](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2018))
+    - Tags: [[pink]] 
+- that managers be style pure leads to underperformance. The best thing the industry can do for investors is to get rid of the style grid and the measurement of style drift, and allow active equity managers to consistently pursue their equity strategy without having to worry about the silly concept of style purity. ([Location 2020](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2020))
+    - Tags: [[pink]] 
+- In the pantheon of investment virtues, diversification is right up there. Nearly everyone in the industry recommends it in one form or another. It is so widely accepted that nary an objection is raised against it. I feel much differently and, in fact, I believe there are very few situations in which diversification makes sense. I will present my arguments below. As I say this, I feel like I have to duck to avoid the wrath of the investing gods. Attacking diversification is akin to attacking motherhood and apple pie. Be that as it may, here I go. ([Location 2031](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2031))
+    - Tags: [[pink]] 
+- Short-term volatility The primary benefit of diversification is the reduction in short-term volatility. However if the portfolio is broken into buckets, with one of those buckets devoted to liquidity and short-term income needs and another bucket devoted to capital growth, then this benefit is of little value. In the first bucket, it makes sense to use short-term investments with low or no volatility, so there is little need for diversification. For the second bucket, the primary goal is creating long-horizon wealth and so ([Location 2035](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2035))
+    - Tags: [[pink]] 
+- those asset classes with the highest expected and excess returns should be the focus. In this bucket short-term volatility plays a relatively small role, other than the emotional reaction of clients to short-term changes in value. Diversification actually hurts the performance of this portfolio if funds are allocated to… ([Location 2039](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2039))
+    - Tags: [[pink]] 
+- A well-known example will help drive home this point. Over long time periods the stock market has generated an average annual compound return of around 10%. On the other hand, bonds have generated an annual compound return of somewhere around 6%. The last 62 years of stock (S&P 500),… ([Location 2043](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2043))
+    - Tags: [[pink]] 
+- The most striking aspect of this chart is how stocks dominate both T-bonds and T-bills for growing long-horizon wealth. If $10,000 was invested at the beginning of 1951 in stocks and held until the end of 2012, the portfolio was worth $5.2 million, ignoring taxes. The same $10,000 invested in T-bonds was worth… ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2046))
+    - Tags: [[pink]] 
+- bonds, T-bills and inflation, 1951 to 2012 Sources: Thomson Reuters Financial and St. Louis Federal Reserve FRED database. Throughout my career I have looked at graphs like Figure 10.1 and concluded that the rational decision, when building long-horizon wealth,… ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2049))
+    - Tags: [[pink]] 
+- money on the table, in this case nearly $5 million? For $5 million I can put up with the emotional roller coaster that is the market. The full commitment to stocks is confirmed by running a model that optimizes long-term wealth by allocating funds across stocks, T-bonds and T-bills. It shows that 100% of the portfolio should be… ([Location 2053](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2053))
+    - Tags: [[pink]] 
+- horizon wealth, why invest anything in bonds? All bonds do is reduce the average portfolio return and therefore terminal wealth. In spite of this, the standard recommendation for a portfolio is to invest 60% in stocks and 40% in bonds. The primary driver of this recommendation is the reduction in emotionally charged… ([Location 2057](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2057))
+    - Tags: [[pink]] 
+- wrap to the portfolio and it leads to a… ([Location 2059](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2059))
+    - Tags: [[pink]] 
+- Stock portfolio diversification How many stocks does it take to adequately diversify a portfolio? If you ask financial professionals, the typical answer is 50 or more. There is a widespread belief that a large number of stocks are ([Location 2088](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2088))
+    - Tags: [[pink]] 
+- necessary to obtain the desired level of diversification. This question has been carefully researched and the conclusion is the number needed is actually quite small. University of Washington professors Stephen Archer and Vince Evans in a 1968 article uncovered what is shown in Figure 10.2. [41] A major portion of the benefit of diversification, that is the reduction in short-term portfolio ([Location 2090](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2090))
+    - Tags: [[pink]] 
+- volatility, is garnered with as few as 10 to 20 stocks. After 20 stocks, portfolio volatility changes very little with each additional stock. In fact, 83% of the diversification benefit is achieved with ten stocks, 91% with 20 stocks, and the remaining 9% by adding 275 stocks. So there is little argument for more than 20 stocks in a portfolio. This is further reinforced, as I will show later, by the fact that taking a small number of high-conviction positions is key to generating superior returns. ([Location 2094](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2094))
+    - Tags: [[pink]] 
+- In the light of this ([Location 2101](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2101))
+    - Tags: [[pink]] 
+- evidence, it is surprising the typical active equity mutual fund holds 100 stocks. Why so many? Research shows that the fund’s top 20 or so holdings, based on relative weights, generate excess returns. The diversification analysis just discussed implies roughly the same number, that is, around 20 stocks. It turns out one of the worst things you can add to a stock portfolio is another stock – an example ([Location 2101](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2101))
+    - Tags: [[pink]] 
+- of deworsification. So what about those additional 80 stocks held by the typical fund? This is to a large extent driven by fund size, since it is harder to concentrate in a few good idea stocks as the fund grows large. The 80 or so low-conviction stocks represent bubble wrap for avoiding style drift, holding well-known stocks, and controlling volatility. The result is the fund ends up with two to three times ([Location 2104](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2104))
+    - Tags: [[pink]] 
+- more positions than if the manager focused strictly… ([Location 2107](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2107))
+    - Tags: [[pink]] 
+- Can bubble wrap be beneficial? The pure finance case for diversification is weak. Diversification makes sense when building long-term portfolios using asset classes with comparable expected returns and when… ([Location 2109](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2109))
+    - Tags: [[pink]] 
+- these situations, there is not a good financial argument for diversifying. Now that I have made my case, let me climb down from my high horse. While there are few financial arguments for diversification, there are emotional arguments. In the spirit of “it’s better to be in rather than completely out of the market… ([Location 2111](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2111))
+    - Tags: [[pink]] 
+- encourage clients to stay in their seats. These diversified portfolios will, over the long run, underperform less diversified portfolios, but if clients are less likely to bolt, then diversification is worth it. If an advisor can get clients to invest in what are the best equity portfolios by including additional asset classes such as… ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2114))
+    - Tags: [[pink]] 
+- emotional catering makes sense. Our most successful portfolio, Athena Pure Valuation/Profitability, is a highly concentrated individual stock portfolio that is more volatile than the stock market. The truth is, even though we believe it is the best product, very few of our advisors or their clients invest… ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2117))
+    - Tags: [[pink]] 
+- has become our most successful portfolio both in terms of AUM and performance. Much like my change in opinion regarding dollar cost averaging, diversification plays an important role in… ([Location 2120](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2120))
+    - Tags: [[pink]] 
+- It is best to keep diversification to a minimum, using just enough to keep clients in their seats during… ([Location 2123](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2123))
+    - Tags: [[pink]] 
+- into the trap at the other extreme, that is, creating portfolios of global mush. These are portfolios that have dozens of different positions comprised of the asset class de jour. Generally both returns and volatility are low in such portfolios. The returns are often so low that these portfolios can be regarded as expensive savings… ([Location 2124](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2124))
+    - Tags: [[pink]] 
+- If there is no need to bubble wrap a portfolio then it should be invested in a few high-return strategies or asset classes. Just as in the case of individual stocks, adding additional strategies or asset classes little reduces emotional volatility, but can significantly reduce expected returns. Concentrate the portfolio in a… ([Location 2127](https://readwise.io/to_kindle?action=open&asin=B00IZISLO6&location=2127))
+    - Tags: [[pink]]
+

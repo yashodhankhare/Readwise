@@ -1,0 +1,140 @@
+---
+tags:
+  - readwise
+---
+
+# A Short History of Financial Euphoria
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41eU6ecuklL._SL200_.jpg)
+
+## Metadata
+- Author: [[John Kenneth Galbraith]]
+- Full Title: A Short History of Financial Euphoria
+- Category: #books
+
+## Highlights
+- There is protection only in a clear perception of the characteristics common to these flights into what must conservatively be described as mass insanity. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=116))
+    - Tags: [[orange]] 
+- For built into this situation is the eventual and inevitable fall. Built in also is the circumstance that it cannot come gently or gradually. When it comes, it bears the grim face of disaster. That is because both of the groups of participants in the speculative situation are programmed for sudden efforts at ([Location 131](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=131))
+    - Tags: [[orange]] 
+- escape. Something, it matters little what—although it will always be much debated—triggers the ultimate reversal. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=133))
+    - Tags: [[orange]] 
+- Those who had been riding the upward wave decide now is the time to get out. Those who thought the increase would be forever find their illusion destroyed abruptly, and they, also, respond to the newly revealed reality by selling or trying to sell. Thus the collapse. And thus the rule, supported by the experience of centuries: the speculative episode ([Location 134](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=134))
+    - Tags: [[orange]] 
+- always ends not with a whimper but with a bang. There will be occasion to see the operation of this rule frequently repeated. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=136))
+    - Tags: [[orange]] 
+- So much, as I’ve said, is clear. Less understood is the mass psychology of the speculative mood. When it is fully comprehended, it allows those so favored to save themselves from disaster. Given the pressure of this crowd psychology, however, the saved will be the exception to a very broad and binding rule. They will be required to ([Location 137](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=137))
+    - Tags: [[orange]] 
+- resist two compelling forces: one, the powerful personal interest that develops in the euphoric belief, and the other, the pressure of public and seemingly superior financial opinion that is brought to bear on behalf of such belief. Both stand as proof of Schiller’s dictum that the crowd converts the individual from reasonably good sense to the stupidity against which, as he also said, “the very Gods Themselves contend in vain.” Although only a few ([Location 139](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=139))
+    - Tags: [[orange]] 
+- observers have noted the vested interest in error that accompanies speculative euphoria, it is, nonetheless, an extremely plausible phenomenon. Those involved with the speculation are experiencing an increase in wealth—getting rich or being further enriched. No one wishes to believe that this is fortuitous or undeserved; all wish to think that it is the result of their own superior insight or intuition. The very increase in values thus captures the thoughts ([Location 143](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=143))
+    - Tags: [[orange]] 
+- and minds of those being rewarded. Speculation buys up, in a very practical way, the intelligence of those involved. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=146))
+    - Tags: [[orange]] 
+- This is particularly true of the first group noted above—those who are convinced that values are going up permanently and indefinitely. But the errors of vanity of those who think they will beat the speculative game are also thus reinforced. As long as they are in, they have a strong pecuniary commitment to belief in the unique personal ([Location 147](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=147))
+    - Tags: [[orange]] 
+- intelligence that tells them there will be yet more. In the last century, one of the most astute observers of the euphoric episodes common to those years was Walter Bagehot, financial writer and early editor of The Economist. To ([Location 149](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=149))
+    - Tags: [[orange]] 
+- him we are indebted for the observation that “all people are most credulous when they are most happy. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=151))
+    - Tags: [[orange]] 
+- Clearly, given the nature of the euphoric mood and the vested interest therein, the ([Location 193](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=193))
+    - Tags: [[orange]] 
+- critic must wait until after the crash for any approval, not to say applause. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=193))
+    - Tags: [[orange]] 
+- To summarize: The euphoric episode is protected and sustained by the will of those who are involved, in order to justify the circumstances that are ([Location 194](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=194))
+    - Tags: [[orange]] 
+- making them rich. And it is equally protected by the will to ignore, exorcise, or condemn those who express doubts. ([Location 195](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=195))
+    - Tags: [[orange]] 
+- Before going on to look at the great speculations of the past, I would like further to identify the forces that initiate, sustain, and otherwise characterize the speculative episode and which, when they recur, always evoke surprise, wonder, and enthusiasm anew. All this we will then see in nearly invariant form occurring again and ([Location 196](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=196))
+    - Tags: [[orange]] 
+- again in the history I here record. ([Location 198](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=198))
+    - Tags: [[orange]] 
+- Contributing to and supporting this euphoria are two further factors little noted in our time or in past times. The first is the extreme brevity of the financial memory. In consequence, financial disaster is quickly forgotten. In further consequence, when the same or closely similar circumstances occur ([Location 205](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=205))
+    - Tags: [[orange]] 
+- again, sometimes in only a few years, they are hailed by a new, often youthful, and always supremely self-confident generation as a brilliantly innovative discovery in the financial and larger economic world. There can be few fields of human endeavor in which history counts for so little as in the world of finance. Past experience, to the extent that it is part of memory at all, is dismissed as the primitive refuge of those who do not have the insight to ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=207))
+    - Tags: [[orange]] 
+- appreciate the incredible wonders of… ([Location 210](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=210))
+    - Tags: [[orange]] 
+- The second factor contributing to speculative euphoria and programmed collapse is the specious association of money and intelligence. Mention of this is not a formula for eliciting reputable applause, but, alas, it must be accepted, for acceptance is also highly useful, a major protection against… ([Location 211](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=211))
+    - Tags: [[orange]] 
+- all free-enterprise (once called capitalist) attitudes there is a strong tendency to believe that the more money, either as income or assets, of which an individual is possessed or with which he is associated, the deeper and more compelling his economic and social perception, the more astute and penetrating his mental processes. Money is the measure of… ([Location 214](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=214))
+    - Tags: [[orange]] 
+- supports… ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=217))
+    - Tags: [[orange]] 
+- Further, in a world where for many the acquisition of money is difficult and the resulting sums palpably insufficient, the possession of it in large amount seems a miracle. Accordingly, possession must be associated with some special genius. This view is then reinforced by the air of self-confidence and self-approval that is commonly… ([Location 217](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=217))
+    - Tags: [[orange]] 
+- rudely and abruptly stated: “I’m afraid that you simply don’t understand financial matters.” In fact, such reverence for the possession of money again indicates the shortness of memory, the ignorance of history, and the consequent capacity for self- and popular delusion just mentioned. Having money may mean, as often in the past and frequently in the… ([Location 220](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=220))
+    - Tags: [[orange]] 
+- be a potential resident of a minimum-security prison. Or the money may have been inherited, and, notoriously, mental acuity does not pass in reliable fashion from parent to offspring. On all these matters, a more careful examination of the presumed financial genius, a sternly detailed interrogation to test his or her intelligence, would frequently… ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=223))
+    - Tags: [[orange]] 
+- available for such scrutiny; that, too, wealth or seeming financial… ([Location 226](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=226))
+    - Tags: [[orange]] 
+- Finally and more specifically, we compulsively associate unusual intelligence with the leadership of the great financial institutions— the large banking, investment-banking, insurance, and brokerage houses. The larger the capital assets and income flow controlled, the deeper the presumed financial, economic, and social perception. In practice, the individual or individuals at the top of these institutions are often there because, as happens regularly in great organizations, theirs was mentally the most predictable and, in consequence, bureaucratically the least inimical of the contending talent. He,… ([Location 227](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=227))
+    - Tags: [[orange]] 
+- adverse opinion or criticism. They are thus admirably protected in what may be a… ([Location 232](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=232))
+    - Tags: [[orange]] 
+- Another factor is at work here. Those with money to lend are, by long force of habit, tradition, and more especially the needs and desires of borrowers, accorded a special measure of deference in daily routine. This is readily transmuted by the recipient into an assurance of personal mental superiority. Treated… ([Location 233](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=233))
+    - Tags: [[orange]] 
+- minimal good sense—is… ([Location 235](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=235))
+    - Tags: [[orange]] 
+- In the chapters that follow, we will see, and repeatedly, how the investing public is fascinated and captured by the great financial mind. That fascination derives, in turn, from the scale of the financial operations and the feeling that, with so much money involved, the mental resources behind them cannot be less. ([Location 241](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=241))
+    - Tags: [[orange]] 
+- Only after the speculative collapse does the truth emerge. What was thought to be unusual acuity turns out to be only a fortuitous and unfortunate association with the assets. Over the long years of history, the result for those who have been thus misjudged (including, invariably, by themselves) has been opprobrium followed by personal disgrace or a retreat into the deeper folds of obscurity. Or it has been exile, suicide, or, in modern times, at least moderately uncomfortable confinement. The rule will often be ([Location 243](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=243))
+    - Tags: [[orange]] 
+- here reiterated: financial genius is before the fall. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=246))
+    - Tags: [[orange]] 
+- This perception of something new and exceptional rewards the ego of the participant, ([Location 257](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=257))
+    - Tags: [[orange]] 
+- as it is expected also to reward his or her pocketbook. And for a while it does. ([Location 257](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=257))
+    - Tags: [[orange]] 
+- The rule is that financial operations do not lend themselves to innovation. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=260))
+    - Tags: [[orange]] 
+- All crises ([Location 269](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=269))
+    - Tags: [[orange]] 
+- have involved debt that, in one fashion or another, has become dangerously out of scale in relation to the underlying means of payment. ([Location 269](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=269))
+    - Tags: [[orange]] 
+- The final and common feature of the speculative episode—in stock markets, real estate, art, or junk bonds—is what happens after the inevitable crash. This, invariably, will be a time of anger and recrimination and also of profoundly unsubtle introspection. The ([Location 283](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=283))
+    - Tags: [[orange]] 
+- anger will fix upon the individuals who were previously most admired for their financial imagination and acuity. Some of them, having been persuaded of their own exemption from confining orthodoxy, will, as noted, have gone beyond the law, and their fall and, occasionally, their incarceration will now be viewed with righteous satisfaction. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=285))
+    - Tags: [[orange]] 
+- There will also be scrutiny of the previously much-praised financial ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=287))
+    - Tags: [[orange]] 
+- instruments and practices—paper money; implausible securities issues; insider trading; market rigging; more recently, program and index trading—that have facilitated and financed the speculation. There will be talk of regulation and reform. What will not be discussed is the speculation itself or the aberrant optimism that lay behind it. Nothing is more remarkable than this: in the aftermath of speculation, the reality will be all but ignored. There are two ([Location 287](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=287))
+    - Tags: [[orange]] 
+- reasons for this. In the first place, many people and institutions have been involved, and whereas it is acceptable to attribute error, gullibility, and excess to a single individual or even to a particular corporation, it is not deemed fitting to attribute them to a whole community, and certainly not to the whole financial community. Widespread naiveté, even stupidity, is manifest; mention of this, however, runs drastically counter to the earlier-noted ([Location 291](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=291))
+    - Tags: [[orange]] 
+- presumption that intelligence is intimately associated with money. The financial community must be assumed to be intellectually above such extravagance of error. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=294))
+    - Tags: [[orange]] 
+- The second reason that the speculative mood and mania are exempted from blame is theological. In accepted free-enterprise attitudes and doctrine, the market is a neutral and accurate reflection of external influences; it is not supposed to be subject to an inherent and ([Location 295](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=295))
+    - Tags: [[orange]] 
+- internal dynamic of error. This is the classical faith. So there is a need to find some cause for the crash, however farfetched, that is external to the market itself. Or some abuse of the market that has inhibited its normal performance. Again, this is no matter of idle theory; there are very practical consequences, and these, as we shall see, are especially evident and important in our own time. That the months and years before the 1987 stock-market crash were ([Location 297](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=297))
+    - Tags: [[orange]] 
+- characterized by intense speculation no one would seriously deny. But in the aftermath of that crash, little or no importance was attributed to this speculation. Instead, the deficit in the federal budget became the decisive factor. The escape from reality continued with studies by the New York Stock Exchange, the Securities and Exchange Commission, and a special presidential commission, all of which passed over or minimized the ([Location 300](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=300))
+    - Tags: [[orange]] 
+- speculation as a conditioning cause. Markets in our culture are a totem; to them can be ascribed no inherent aberrant tendency or fault. ([Location 303](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=303))
+    - Tags: [[orange]] 
+- Speculation, it has been noted, comes when popular imagination settles on something seemingly new in the field of commerce or finance. ([Location 328](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=328))
+    - Tags: [[orange]] 
+- that now of Argentina, Brazil, Mexico, and the other Latin American countries, is in any way a new phenomenon. ([Location 604](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=604))
+    - Tags: [[pink]] 
+- Let it be emphasized once more, and especially to anyone inclined to a personally rewarding skepticism in these matters: for practical purposes, the financial memory should be assumed to last, at a maximum, no ([Location 787](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=787))
+    - Tags: [[pink]] 
+- more than 20 years. This is normally the time it takes for the recollection of one disaster to be erased and for some variant on previous dementia to come forward to capture the financial mind. It is also the time generally required for a new generation to enter the scene, impressed, as had been its predecessors, with its own innovative genius. Thus impressed, it becomes bemused by the two further influences operating ([Location 788](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=788))
+    - Tags: [[pink]] 
+- in this world that are greatly seductive of error. The first, as sufficiently noted, is the ease with which any individual, on becoming affluent, attributes his good fortune to his own superior acumen. And there is the companion tendency of the many who live in more modest circumstances to presume an exceptional mental aptitude in those who, however evanescently, are identified with wealth. Only in the financial world is there such an efficient design for concealing what, with the passage of time, will be revealed as self- and general delusion. There are, however, exceptions to any rule. While the 20-year cycle from illusion to disillusion and back to illusion had a superb regularity in the United States in the last century, some of the more violent episodes of irrationality—those of John Law, the South ([Location 791](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=791))
+    - Tags: [[pink]] 
+- Sea Bubble, and the crash of 1929 being examples—did remain more vividly in the financial as well as the general public memory. The result was a somewhat longer period of doubt, caution, and comparative sanity. The crash of 1929 ushered in the dismal years of the Great Depression, for which, indeed, the stock-market debacle should rightly be held sharply responsible. In the weeks that immediately followed, demand for a wide range of consumers’ goods weakened, business confidence was shaken, and, as a direct manifestation, business investment fell and business failures rose. Economists, as I have noted, then as later sought to exculpate the market, holding deeper factors, including now insufficiently relaxed Federal Reserve policy, responsible for the business decline. This was evasion bordering on nonsense. In fact, the market crash broke into an exceptionally fragile financial, banking, and general economic structure. There can be no plausible doubt that it had a substantial and ultimately devastating economic effect. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=797))
+    - Tags: [[pink]] 
+- “day of reckoning…when the market goes down seemingly without limit,” ([Location 871](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=871))
+    - Tags: [[pink]] 
+- “Then will be rediscovered the oldest rule of Wall ([Location 872](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=872))
+    - Tags: [[pink]] 
+- Street: Financial genius is before the fall.” ([Location 872](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=872))
+    - Tags: [[pink]] 
+- “eventually all things, good or bad, must come to an end, and the worldwide bull market did so with a vengeance in October 1987.” ([Location 887](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=887))
+    - Tags: [[pink]] 
+- The only remedy, in fact, is an enhanced skepticism that would resolutely associate too evident optimism with probable foolishness and that would not associate intelligence with the acquisition, the deployment, or, for that matter, the administration of large sums of money. Let the following be one of the unfailing rules by which the individual investor and, needless to say, the pension and other institutional-fund manager are guided: there is the possibility, even the likelihood, of self-approving and extravagantly error-prone behavior on the part of those closely associated with money. Let that also be the continuing lesson of this essay. A further rule is that when a mood of excitement pervades a market or surrounds an investment prospect, when there is a claim of unique opportunity based on special foresight, all sensible people should circle the wagons; it is the ([Location 958](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=958))
+    - Tags: [[pink]] 
+- time for caution. Perhaps, indeed, there is opportunity. Maybe there is that treasure on the floor of the Red Sea. A rich history provides proof, however, that, as often or more often, there is only delusion and self-delusion. ([Location 964](https://readwise.io/to_kindle?action=open&asin=B00AFYCI1U&location=964))
+    - Tags: [[pink]]
+

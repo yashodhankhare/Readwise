@@ -1,0 +1,126 @@
+---
+tags:
+  - readwise
+---
+
+# The Life-Changing Magic of Tidying
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51hDPxPUlcL._SL200_.jpg)
+
+## Metadata
+- Author: [[Marie Kondo]]
+- Full Title: The Life-Changing Magic of Tidying
+- Category: #books
+
+## Highlights
+- The key to successful tidying is to tackle your home in the correct order, to keep only the things you really love and to do it all at once – and quickly. After that for the rest of your life you only need to choose what to keep and what to discard. ([Location 69](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=69))
+- People cannot change their habits without first changing their way of thinking. And that’s not easy! After all, it’s quite hard to control what we think. There is, however, one way to ([Location 207](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=207))
+    - Tags: [[pink]] 
+- drastically transform the way we think about tidying. ([Location 209](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=209))
+    - Tags: [[pink]] 
+- messy room equals a messy mind’. ([Location 268](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=268))
+- Tidying is just a tool, not the final destination. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=274))
+    - Tags: [[pink]] 
+- This is why tidying must start with discarding. ([Location 294](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=294))
+    - Tags: [[pink]] 
+- was at this moment that it hit me: tidying up by location is a fatal mistake. I’m sad to admit that it took me three years to see this. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=308))
+    - Tags: [[pink]] 
+- To escape this negative spiral, tidy by category not by place. ([Location 315](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=315))
+    - Tags: [[pink]] 
+- My point is that tidying must begin with getting rid of things regardless of personality type. As long as my clients grasp this principle, there is no need for me to ([Location 337](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=337))
+    - Tags: [[pink]] 
+- change the content of what I teach to suit the person. ([Location 338](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=338))
+    - Tags: [[pink]] 
+- Effective tidying involves only two essential actions: discarding and deciding where to store things. Of ([Location 340](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=340))
+    - Tags: [[pink]] 
+- BEGIN MY course with these words: tidying is a special event. Don’t do it every day. This usually elicits a moment of stunned silence. Still, I repeat: tidying should be done just once. Or, to put it more accurately, the work of tidying should be completed once and for all within a single period of time. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=343))
+    - Tags: [[pink]] 
+- Conversely, once you have put your house in order, tidying will be reduced to the very simple task of putting things back where they belong. In fact, this becomes an unconscious habit. ([Location 354](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=354))
+    - Tags: [[pink]] 
+- Unbelievable as it may sound, you only have to experience a state of perfect order once to be able to maintain it. All you need to do is take ([Location 359](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=359))
+    - Tags: [[pink]] 
+- the time to sit down and examine each item you own, decide whether you want to keep or discard it, and then choose where to put what you keep. ([Location 360](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=360))
+    - Tags: [[pink]] 
+- Have you ever told yourself, ‘I’m just no good at tidying,’ or, ‘It’s not worth trying; I was born untidy’? Many people carry this type of negative self-image for years, but it is swept away the instant they experience their own perfectly clean space. This drastic change in self-perception, the belief that you can do anything if you set your mind to it, transforms behaviour and lifestyles. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=362))
+    - Tags: [[pink]] 
+- For the best results, I ask that you hold faithfully to the following rule: tidy in ([Location 390](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=390))
+    - Tags: [[pink]] 
+- the right order. As we’ve seen, there are only two tasks involved – discarding and deciding where to keep things. Just two, but discarding must come first. Be sure to completely finish the first task before starting the next. Do not even think of putting your things away until you ([Location 391](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=391))
+    - Tags: [[pink]] 
+- have finished the process of discarding. Failure to follow this order is one reason many people never make permanent progress. In the middle of discarding, they start thinking about where to put things. As soon as they think, ‘I wonder if it will fit in this drawer,’ the work of discarding comes to a halt. You can think about where to put things when you’ve finished getting rid of everything you don’t need. To summarise, the secret of success is to tidy in one shot, as quickly and completely as possible, and to start ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=393))
+    - Tags: [[pink]] 
+- by discarding. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=397))
+    - Tags: [[pink]] 
+- Because we should be choosing what we want to keep, not what we ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=456))
+    - Tags: [[pink]] 
+- want to get rid of. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=456))
+    - Tags: [[pink]] 
+- Through this experience, I came to the conclusion that the best way to choose what to keep and what to throw away is to take each item in one’s hand and ask: ‘Does this spark joy?’ If it does, keep it. If not, throw it out. This is not ([Location 458](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=458))
+    - Tags: [[pink]] 
+- only the simplest but also the most accurate yardstick by which to judge. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=460))
+    - Tags: [[pink]] 
+- Gathering every item in one place is essential to this process because it gives you an accurate grasp of how much you have. ([Location 486](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=486))
+    - Tags: [[pink]] 
+- The best sequence is this: clothes first, then books, papers, miscellaneous items (komono) and, lastly, sentimental items and keepsakes. This order has also proven to be the most efficient in terms of the level of difficulty for the subsequent task of storing. ([Location 510](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=510))
+    - Tags: [[pink]] 
+- When you come across something that’s hard to discard, consider carefully why you have that specific item in the first place. When did you get it and what meaning did it have for you then? Reassess the role it plays in your life. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=658))
+- To truly cherish the things that are important to you, you must first discard those that have outlived their purpose. To throw away what you no longer need is neither wasteful nor shameful. Can you truthfully say that you treasure something buried so deeply in a cupboard or drawer that you have forgotten its existence? If things had feelings, they would certainly not be happy. ([Location 672](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=672))
+    - Tags: [[pink]] 
+- The goal is to fold each piece of clothing into a simple, smooth rectangle. First fold each lengthwise side of the garment towards the centre and tuck the sleeves in to make a rectangular shape. It doesn’t matter how you fold the sleeves. Next, pick up one end of the rectangle and fold it towards the other end. Then fold again in halves or in ([Location 808](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=808))
+    - Tags: [[pink]] 
+- thirds. The number of folds should be adjusted so that the folded clothing when standing on edge fits the height of the drawer. ([Location 810](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=810))
+    - Tags: [[pink]] 
+- The problem with books that we intend to read sometime is that they are far harder to discard than ones we have already read. ([Location 959](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=959))
+    - Tags: [[pink]] 
+- My basic principle for sorting papers is to throw them all away. My ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1022))
+    - Tags: [[pink]] 
+- clients are stunned when I say this, but there is nothing more annoying than papers. After all, they will never inspire joy, no matter how carefully you keep them. For this reason, I recommend you throw out anything that does not fall into one of three categories: currently in ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1023))
+    - Tags: [[pink]] 
+- use, needed for a limited period of time, and must be kept indefinitely. ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1024))
+    - Tags: [[pink]] 
+- common mistake many people make is to decide where to store things on the basis of where it’s easiest to take them out. This approach is a fatal trap. Clutter is caused by a failure to return things to where they belong. Therefore, storage should reduce the effort needed to put things away, not the effort needed to get them out. When we use something, we have a clear purpose for getting it out. Unless for ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1465))
+    - Tags: [[pink]] 
+- some reason it is incredibly hard work, we usually don’t mind the effort involved. Clutter has only two possible causes: too much effort is required to put things away or it is unclear where things belong. If we overlook this vital point, we are likely to create a system that results in clutter. For people like me, who are naturally lazy, I strongly recommend focusing storage in one spot. More often than not, the notion that it’s more convenient to keep everything within arm’s reach is an incorrect assumption. ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1468))
+    - Tags: [[pink]] 
+- Never pile things: vertical storage is key THERE ARE PEOPLE who stack everything ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1493))
+    - Tags: [[pink]] 
+- in piles, be it books, papers or clothes. But this is a great waste. When it comes to storage, vertical is best. I am particularly obsessed with this point. I store everything vertically if possible, including clothes, which I fold and stand on edge in my drawers, and tights, which I roll up and stand in a box. The same is true for stationery and writing tools: whether boxes of staples, measuring tapes, or erasers, I stand them on edge. I even store my laptop in the bookcase as if it were indeed a notebook. If you have storage space that should be sufficient yet falls short, try standing things vertically. You’ll find that this solves most ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1494))
+    - Tags: [[pink]] 
+- problems. ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1498))
+    - Tags: [[pink]] 
+- I store things vertically and avoid stacking for two reasons. First, if you stack things, you end up with what seems like inexhaustible storage space. Things can be stacked forever and endlessly on top, which makes it harder to notice the increasing volume. In contrast, when things are stored vertically, any increase takes up space and you will eventually run out of storage area. When you do, you’ll notice, ‘Ah, I’m starting to accumulate stuff again. ([Location 1498](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1498))
+    - Tags: [[pink]] 
+- The other reason is this: stacking is very hard on the things at the bottom. When things are piled on top of one another, the things ([Location 1502](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1502))
+    - Tags: [[pink]] 
+- underneath get squashed. Stacking weakens and exhausts the things that bear the weight of the pile. Just imagine how you would feel if you were forced to carry a heavy load for hours. Not only that, but the things in the pile virtually disappear because we forget that they even exist. When we pile our clothes one on top of the other, the clothes at the bottom are used less and less frequently. The outfits that no longer thrill my clients even though they loved them at the time of purchase are very often the ones that spent a long time at the bottom of the pile. ([Location 1502](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1502))
+    - Tags: [[pink]] 
+- The most common item I use is an empty shoebox. I have tried all kinds of storage products, but have never found any other that is free and still surpasses the shoebox. It gets above ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1523))
+    - Tags: [[pink]] 
+- average marks for all five of my criteria: size, material, durability, ease of use and attractiveness. These well-balanced attributes and its versatility are its greatest merits. Recently, shoes have come in boxes with cute designs as well. I frequently ask my clients, ‘Do you have any shoeboxes?’ when I visit their homes. Shoeboxes have infinite uses. I commonly use them to store socks and tights in drawers. Shoebox height is perfect for standing up rolled tights. In the bathroom, they can be used to store bottles of shampoo, conditioner, etc. and they’re also perfect for holding ([Location 1524](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1524))
+    - Tags: [[pink]] 
+- detergents and other household cleaning items. In the kitchen, they can be used to keep foodstuffs together as well as bin bags, dish cloths, etc. I also use them to hold cake pans, pie plates and other cooking items that get less frequent use. The box can then be stored on an upper shelf. For some reason, many people seem to store their baking pans in plastic bags but they are much easier to use when stored in a shoebox. This extremely easy solution is very popular with my clients. I am always pleased when they tell me that they bake more often since reorganising. ([Location 1528](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1528))
+    - Tags: [[pink]] 
+- Of course, there are many other types of boxes that make handy storage items. Those that I use most ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1536))
+    - Tags: [[pink]] 
+- frequently include the plastic cases that hold business cards and those that come with iPods. In fact, the boxes that contain many Apple products are the right size and design for storage so if you have any, I recommend using them as dividers in your drawers. They are perfect for storing pens, pencils and other writing tools. Another standard item is extra plastic food containers, which can be used to store small items in the kitchen. ([Location 1537](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1537))
+    - Tags: [[pink]] 
+- Empty your bag every day ([Location 1582](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1582))
+    - Tags: [[pink]] 
+    - Note: For Neel
+- I should have realised that the bathroom is the most humid place in the house, which obviously makes it the most unsuitable place for storing anything. ([Location 1631](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1631))
+    - Tags: [[pink]] 
+- IN JAPAN, THE image of a class representative is someone who is popular, has leadership qualities ([Location 1753](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1753))
+    - Tags: [[pink]] 
+- and likes to stand out, and we use the term ‘class-rep type’ for anyone with these qualities. In contrast, I am the ‘organiser type’, an eccentric who works away quietly and unobtrusively in the corner of the classroom, organising the shelves. I mean this literally and ([Location 1753](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1753))
+    - Tags: [[pink]] 
+- quite seriously. ([Location 1755](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1755))
+    - Tags: [[pink]] 
+- Think back to your own school days and the things you enjoyed doing. Perhaps you were responsible for feeding the pets or maybe you liked drawing pictures. Whatever it was, the chances are that it is related in some way to ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1767))
+    - Tags: [[pink]] 
+- something that you are doing now, as a natural part of your life, even if you are not doing it in the same way. At their core, the things we really like do not change over time. Putting your house in order is a great way to discover what they are. ([Location 1769](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1769))
+    - Tags: [[pink]] 
+- ‘When I put my house in order, I discovered what I really wanted to do.’ These are words I hear frequently from my clients. ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1779))
+    - Tags: [[pink]] 
+- Tidying dramatically changes one’s life. This is true for everyone, 100 per cent. ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B00I0C46BO&location=1795))
+    - Tags: [[pink]]
+

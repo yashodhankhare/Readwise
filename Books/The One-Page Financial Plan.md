@@ -1,0 +1,110 @@
+---
+tags:
+  - readwise
+---
+
+# The One-Page Financial Plan
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51H7A%2BLUPxL._SL200_.jpg)
+
+## Metadata
+- Author: [[Carl Richards]]
+- Full Title: The One-Page Financial Plan
+- Category: #books
+
+## Highlights
+- While the process can be uncomfortable, ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=288))
+    - Tags: [[orange]] 
+- recognizing what really matters to you is the first step toward making financial decisions that are in sync with your values. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=288))
+    - Tags: [[orange]] 
+- Logically, we know that doing the last thing first—asking a financial advisor for a solution before identifying the problem—makes no sense, yet that’s where the traditional financial services industry would have us start: at the end. ([Location 319](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=319))
+    - Tags: [[orange]] 
+- Don’t be committed to the guess, be committed to the process of guessing. ([Location 504](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=504))
+    - Tags: [[orange]] 
+- As important as it is to go through this process of “goal guessing,” it’s equally important to let go of the need to obsess over your goals. The first time my wife and I ever made a list of financial goals, something like fifteen ([Location 643](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=643))
+    - Tags: [[orange]] 
+- years ago, we actually lost track of the paper. The following year, when the topic came up, we went looking for the paper and found it tucked away in a drawer. And here’s the amazing thing: we had totally forgotten about the items on our list, ([Location 645](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=645))
+    - Tags: [[orange]] 
+- and yet we had achieved every one of the short-term goals on the list—even very specific goals, such as spending a week in Costa Rica. ([Location 646](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=646))
+    - Tags: [[orange]] 
+- And now we identified the real problem. He didn’t want to make the change badly enough to make the sacrifices required to get there. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=713))
+    - Tags: [[orange]] 
+- George Soros once tapped into something most of us know, but don’t like to admit: “Once we realize that imperfect understanding is the human condition, there ([Location 835](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=835))
+    - Tags: [[orange]] 
+- is no shame in being wrong, only failing to correct our mistakes.” ([Location 836](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=836))
+    - Tags: [[orange]] 
+- The one-page plan should simply include the three to five things that are really important right now: The answer to the question “Why is money important to me?” Your best guesses at your financial goals Any debts that ([Location 845](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=845))
+    - Tags: [[orange]] 
+- you’ll need to ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=847))
+    - Tags: [[orange]] 
+- pay down ([Location 847](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=847))
+    - Tags: [[orange]] 
+- At some point, we stopped being American citizens and started being, first and foremost, American consumers. ([Location 873](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=873))
+    - Tags: [[orange]] 
+- why do we feel like we need to attribute every decision to the amount of money it will save us? ([Location 901](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=901))
+    - Tags: [[orange]] 
+- In a New York Times article, Alina Tugend highlighted some surprising research surrounding the way we view our future selves. ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1076))
+    - Tags: [[orange]] 
+- Here, Tugend quotes Stanford health psychologist and lecturer Kelly McGonigal: Brain scans, [McGonigal] said, have shown that there are regions of the brain that activate when we think about other people, and other regions that activate when we think about ourselves. In cases where people don’t feel much connection to their future selves, the areas of the brain that light up when they are asked to think about themselves in the future are—guess what?—the same ones as when they think about other people.”1... ([Location 1076](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1076))
+    - Tags: [[orange]] 
+- “Brain scans, [McGonigal] said, have shown that there are regions of the brain that activate when we think about other people, and other regions that activate when we think about ourselves. In cases where people don’t feel much connection to their future selves, the areas of the brain that light up when they are asked to think about themselves in the future are—guess what?—the same ones as when they think about other people.”1 ([Location 1078](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1078))
+    - Tags: [[orange]] 
+- Now, instead of buying immediately, I keep items in my shopping cart for 72 hours before I hit the checkout button. I was amazed at how quickly this changed my habit. Most of the time, the stuff sits in my cart for a lot longer than 72 hours, and I forget about it altogether. ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1102))
+    - Tags: [[orange]] 
+- But I strongly suggest you look at the surprise impulse purchases first. ([Location 1109](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1109))
+    - Tags: [[orange]] 
+- This process is not about denying yourself pleasure; it’s about separating what’s important from what isn’t. ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1110))
+    - Tags: [[orange]] 
+- When we have ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1136))
+    - Tags: [[orange]] 
+- dreams that are somewhat unconventional, often we want confirmation that what we’re doing is reasonable. After looking at the numbers, I let them know that yes, they could afford it. Was it reasonable? For them, yes, because it was connected to the value ([Location 1136](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1136))
+    - Tags: [[orange]] 
+- they deemed most important. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1138))
+    - Tags: [[orange]] 
+- Over the years, I’ve discovered that figuring out what’s most important about money can require taking a hard look at the difference between what we need and what we think we need. For many of us, this process will require a rethinking of our definition of “need.” In a world where things we once considered luxuries have somehow become necessities, it can be difficult to separate needs from wants. Achieving clarity about the difference between the two may prove to be one of the biggest ([Location 1164](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1164))
+    - Tags: [[orange]] 
+- challenges—but also one of the most rewarding ones. ([Location 1167](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1167))
+    - Tags: [[orange]] 
+- “People who understand interest ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1323))
+    - Tags: [[orange]] 
+- earn it. People who don’t pay it.” ([Location 1323](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1323))
+    - Tags: [[orange]] 
+- “You’re only as good as your last trade” or “Have a hunch, buy a bunch.” ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1464))
+    - Tags: [[orange]] 
+- The belief that our gut instincts can help us predict the future of the market is the kind of magical thinking that ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1484))
+    - Tags: [[orange]] 
+- can wreak havoc on your financial plan. It also has nothing to do with real investing. ([Location 1485](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1485))
+    - Tags: [[orange]] 
+- A friend who also happens to be a doctor once told me that if he practiced medicine the way he’d been investing, he’d kill half the people he saw. When it came to his work, he would never prescribe a drug before reading peer-reviewed evidence to make sure all the trials went well—but when it came to ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1490))
+    - Tags: [[orange]] 
+- investing, he assumed that he should be able to use his intuition to make good decisions. After all, he was smart and informed—how hard could it be to pick a few winners? ([Location 1492](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1492))
+    - Tags: [[orange]] 
+- On the whole, the financial press isn’t so keen on stories of people who’ve made sound investment decisions over four decades, paid down their debt, created a diversified portfolio, and reached their retirement goals on time or even a little ahead of schedule. Those stories don’t sell magazines or have a very high click-through rate. No, the stories we hear most frequently are those of the ultrarich whose investment strategies ([Location 1519](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1519))
+    - Tags: [[orange]] 
+- were not diversified, but rather concentrated in one stock—often the stock of a company they founded or worked at in its early days. Think of the Mark Zuckerbergs or Bill Gateses of the world. And while we applaud their successes with news and public celebration, what we forget is that betting on a single company often ends in failure. ([Location 1523](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1523))
+    - Tags: [[orange]] 
+- We need a different strategy: diversification. When we diversify our portfolios, we lessen the risk significantly of any one ([Location 1525](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1525))
+    - Tags: [[orange]] 
+- stock hurting us. We do so by eliminating “unsystematic risk” and taking on “systematic risk”—and here’s how to tell the difference between the two. ([Location 1526](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1526))
+    - Tags: [[orange]] 
+- It reminds me of something John Bogle, founder of the Vanguard Group, once said when pressed to offer his own rule of thumb about how to build an investment plan: ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1633))
+    - Tags: [[orange]] 
+- “There might be advice that’s better than this, but the amount of advice that’s worse is infinite.” ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1634))
+    - Tags: [[orange]] 
+- The important thing to remember is that if you want help, it’s not because someone is smarter than you, but because that person isn’t you. ([Location 1770](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1770))
+    - Tags: [[orange]] 
+- In Daniel Kahneman’s seminal book Thinking, Fast and Slow, the Nobel Prize–winning psychologist makes a ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1779))
+    - Tags: [[orange]] 
+- very persuasive case for the premise that “it is easier to recognize other people’s mistakes than our own.” ([Location 1779](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1779))
+    - Tags: [[orange]] 
+- Leave it alone. Would you ever plant a tree and then go in every month and dig it up to see how the roots are doing? Well … maybe some of the impatient among us might be tempted to, but all of us know we need to leave the tree ([Location 1884](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1884))
+    - Tags: [[orange]] 
+- alone for it to grow. ([Location 1886](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1886))
+    - Tags: [[orange]] 
+- The same is true of an investment plan. When done correctly, investing should look a lot like growing a giant oak tree. It’s boring, but as Warren Buffett said, someone is sitting in the shade of an oak tree today because someone ([Location 1886](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1886))
+    - Tags: [[orange]] 
+- did the boring work of planting and taking care of it decades ago. ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1887))
+    - Tags: [[orange]] 
+- http://www.nytimes.com/2012/02/25/business/another-theory-on-why-bad-habits-are-hard-to-break-shortcuts.html?pagewanted=all&_r=0. ([Location 1920](https://readwise.io/to_kindle?action=open&asin=B00NCLPGN0&location=1920))
+    - Tags: [[orange]]
+

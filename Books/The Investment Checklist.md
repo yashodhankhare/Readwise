@@ -1,0 +1,156 @@
+---
+tags:
+  - readwise
+---
+
+# The Investment Checklist
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51vL4xmvIrL._SL200_.jpg)
+
+## Metadata
+- Author: [[Michael Shearn]]
+- Full Title: The Investment Checklist
+- Category: #books
+
+## Highlights
+- It is important to understand that good investment ideas are rare, and consistent success in the stock market is elusive. Those investors who believe that they can make money year after year in the stock market are setting themselves up for disappointment. Most investors are far too optimistic: They often think they’ve found great ideas when they ([Location 339](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=339))
+    - Tags: [[pink]] 
+- haven’t. In contrast, investors with the best long-term track records have made most of their money with just a handful of investment ideas. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=341))
+    - Tags: [[pink]] 
+- The best investment opportunities usually come in big waves, such as when entire markets decline. ([Location 347](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=347))
+    - Tags: [[pink]] 
+- To learn which area of the stock market is in greatest distress, look for those areas where capital is scarce. Scarcity of capital creates less competition for assets, which decreases prices. Ask yourself, what areas of the stock market are investors fleeing, and why? ([Location 359](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=359))
+    - Tags: [[pink]] 
+- Ideally, you want to identify those areas where the outlook is most pessimistic and identify whether the sources of pessimism are temporary or permanent. Let’s look at an example. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=383))
+    - Tags: [[pink]] 
+- Sonkin believes the proper way to use a screen or new-lows list is to run them on a weekly basis and look for new companies that appear on the list. This way, you are able to separate the companies that deserve to be there from those that may only be suffering from a temporary problem. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=498))
+    - Tags: [[pink]] 
+- You can buy a few shares in a stock that meets your criteria to force yourself to follow the business. By purchasing a very small piece of a business, you’ve guaranteed that you will not forget the business, and that you’ll have consistent reminders about that business. Paul Sonkin of the Hummingbird Value Fund calls this his grab bag. ([Location 571](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=571))
+    - Tags: [[pink]] 
+- Admittedly, it is more exciting to discover opportunities outside of your portfolio, but it’s not necessarily more beneficial. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=582))
+    - Tags: [[pink]] 
+- Many investors forget to look at their existing portfolio for ideas. Often, your best opportunities are right in front of you. If a stock you hold drops in price, this may represent the best investment opportunity for you, especially compared to a stock you know less well. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=583))
+    - Tags: [[pink]] 
+- Sample Criteria Checklist ([Location 622](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=622))
+    - Tags: [[pink]] 
+- A recurring revenue stream A business with high organic growth prospects (i.e., growth that is not accomplished by acquiring or merging with other businesses) Management that has a long tenure at the business A competitive moat Strong existing or potential financial characteristics, such as high free-cash flow ([Location 625](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=625))
+    - Tags: [[pink]] 
+- High existing or potential returns on invested capital Limited competition Low capital-expenditure requirements A diversified customer base A strong balance sheet ([Location 630](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=630))
+    - Tags: [[pink]] 
+- A check mark indicates that the business possesses a certain attribute, such as a high return on invested capital, whereas the X mark indicates that it does not. You can make a simple tally of how many attributes the business exhibits. This serves as a scoring system and helps you compare different businesses from different industries. Evaluating the business in each of these 10 areas will help you understand the tradeoffs you are making when investing in a particular business. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=634))
+    - Tags: [[pink]] 
+- The more closely a business meets your stringent criteria, the less risk you are taking. ([Location 640](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=640))
+    - Tags: [[pink]] 
+- If a business meets only four or five of your criteria, you can usually pass on the business, as most investment mistakes are made when you stretch your criteria. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=641))
+    - Tags: [[pink]] 
+- Once a business meets your criteria, it is important to track it. ([Location 643](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=643))
+    - Tags: [[pink]] 
+- Once you add an investment to your list, you should begin learning about the business and management team, and track the valuation of the business using financial metrics such as free cash flow (FCF) yield or total enterprise value (TEV) to earnings before interest and taxes (EBIT) to alert you if a business drops in value. ([Location 651](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=651))
+    - Tags: [[pink]] 
+- The one thing you can’t fix after making an investment ([Location 657](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=657))
+    - Tags: [[pink]] 
+- is the price you pay, so it is critical to remain disciplined on price. Your future rate of return will be determined by the price you pay for the business. This is why you should only consider those investments that are trading at a low price. ([Location 657](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=657))
+    - Tags: [[pink]] 
+- He typically pays three times enterprise value (EV) to EBITDA for a stock, and he prefers to buy businesses that do not need a lot ([Location 663](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=663))
+    - Tags: [[pink]] 
+- of capital expenditures to maintain their businesses and those that have little to no debt. ([Location 664](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=664))
+    - Tags: [[pink]] 
+- Using a Spreadsheet to Track Potential and Existing Holdings ([Location 677](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=677))
+    - Tags: [[pink]] 
+- The greatest advantage to maintaining an inventory of existing and potential investments is the ability to make comparisons. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=689))
+    - Tags: [[pink]] 
+- Gradually Building a Spreadsheet of Potential Investments ([Location 694](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=694))
+    - Tags: [[pink]] 
+- When you identify a unique business or superior management team, add the business to your inventory of ideas or watch list, regardless of its current valuation. This is the secret sauce to investing intelligently, because it allows you to act decisively when a good opportunity is in front of you, and it prevents you from acting imprudently when you first have the idea or insight. In essence, you are letting time work in your favor. ([Location 697](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=697))
+    - Tags: [[pink]] 
+- Key Points to Keep in Mind You will not have many outstanding investments in your lifetime. Investment opportunities are ([Location 710](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=710))
+    - Tags: [[pink]] 
+- created when capital is scarce. Capital becomes scarce when one or more of the following events occurs: An entire market declines There is forced selling from a stock being thrown out of an index or if it is spun off There is some type of uncertainty about a business that causes investors to sell their stock If you use stock screens to identify investment ideas, understand that you may miss many investment opportunities because most ([Location 712](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=712))
+    - Tags: [[pink]] 
+- screens are based on GAAP accounting numbers which may under- or overstate the earnings of a business. Be careful when following investment managers in their investment ideas. Use specific criteria to filter out the investment ideas you don’t like. Create an inventory of ideas to track potential investments that meet your criteria on a continual basis in order to prepare for future opportunities. ([Location 717](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=717))
+    - Tags: [[pink]] 
+- If you are having a difficult time understanding a business, ask what the customer’s world would look like without the product or service. For example, if you were analyzing Internet media delivery company Akamai Technologies and could not find a simple way to summarize how the business operates, ask yourself, “What does the Internet world look like without Akamai Technologies?” In a world without Akamai Technologies, it would take longer to download video to your computer. Content providers such as movie rental company Netflix would be unreliable and would have to charge more to deliver movies. ([Location 885](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=885))
+    - Tags: [[pink]] 
+- At first glance, this sounds like a simple question to ask, but it is critical for you to summarize how a business generates earnings. If you can’t understand how a business makes money, then you should not invest in it. ([Location 895](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=895))
+    - Tags: [[pink]] 
+- It is a red flag when a regional manager oversees both emerging and developed markets, such as the head of Europe overseeing Africa. The reason for this is that these are two different markets that need different strategies and oversight. ([Location 987](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=987))
+    - Tags: [[pink]] 
+- Key Points to Keep in Mind Understand How the Business Makes Money If you can’t understand how a business makes money, then you should not invest in it. ([Location 1075](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1075))
+    - Tags: [[pink]] 
+- You will gain a deeper understanding of a business if you learn how the business has evolved over time. If you are having a difficult time understanding a business, ask what the customer’s world would look like without its products or services. To simplify a business description, find an analogy that best explains how the business operates. Evaluate Current and Potential Foreign Markets When a business first enters a foreign market, it often experiences high initial revenue growth rates. Projecting such growth into the future is usually a mistake because new markets will, of course, stabilize at some point. A management team that is committed to a foreign market invests for the long term, adapts its products to the specific tastes of that market by investing in R&D, and assigns a specific regional manager to emerging markets. A management team needs to be prepared to commit enough resources in order to sustain ([Location 1079](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1079))
+    - Tags: [[pink]] 
+- One of the main pitfalls in researching a business is viewing the business from your own perspective, instead of viewing the business from the customer’s perspective. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1124))
+    - Tags: [[pink]] 
+- By identifying the core customer of a business, ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1168))
+    - Tags: [[pink]] 
+- you will be able to gain an in-depth understanding of a business, and you will be in a position to carefully monitor customer trends. ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1168))
+    - Tags: [[pink]] 
+- Watch for declining loyalty program numbers as well, as this can serve as an indicator that customer retention is declining. ([Location 1233](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1233))
+    - Tags: [[pink]] 
+- The more frequently a business interacts with customers, the more critical it is to keep those customers happy. If a business interacts less frequently with customers, customer satisfaction is less important. ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1263))
+    - Tags: [[pink]] 
+- In fact, the University of Michigan National Quality Research Center estimates that the organizations it studies produce 43 percent of U.S. gross domestic product (GDP). Some of the findings from their analysis of more than 16 years of data are that customer satisfaction is a leading indicator of company financial performance, and many of the companies with high customer-satisfaction scores produce higher stock returns than the S&P 500 index. Furthermore, they’ve found that the cash flows of businesses that rate high on customer service are less volatile than other businesses.9 ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1295))
+    - Tags: [[pink]] 
+- One of the most common questions venture capitalists ask a prospective start-up is, “What pain does your business alleviate?” The venture ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1331))
+    - Tags: [[pink]] 
+- capitalists want to understand what problems the entrepreneurs are solving and what customer needs the business is filling. If a business does not fill a need or solve a customer’s problems, then it will fail. ([Location 1332](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1332))
+    - Tags: [[pink]] 
+- To answer this question, you need to determine if the product or service is “need to have” or “nice to have” for the customer. The more a customer needs to have a product or service, the less the earnings of a business will fluctuate. ([Location 1342](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1342))
+    - Tags: [[pink]] 
+- To understand how much customers depend on a business, ask what the customer would do if the business disappeared tomorrow. Think about what you would do if your favorite retailer disappeared. Where else could you go and why? Is it easy to find alternatives? ([Location 1362](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1362))
+    - Tags: [[pink]] 
+- Key Points to Keep in Mind The quality of a business is determined by the quality of its customers. One of the main pitfalls in researching a business lies in viewing the business from your own perspective, instead of viewing the business from the customer perspective. A business that earns its revenues from a diversified customer base has less risk than one with a concentrated customer base. The more frequently a business interacts with customers, the more critical it is for it to have high customer satisfaction. You can learn if a business has a customer-oriented culture through research studies produced by J.D. Power & Associates or the American Customer Satisfaction Index (ACSI). If a business is out of touch with customers, or is failing to meet their needs or solve their problems, it will eventually fail. The more a customer needs to have a product or service, the less the earnings of a business will fluctuate. To understand how much customers depend on a business, ask what customers would do if the business disappeared tomorrow. ([Location 1369](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1369))
+    - Tags: [[pink]] 
+- Pat Dorsey, former director of research at Morningstar and author of The Little Book that Builds Wealth states: The way I think about the linkage between moats (competitive advantages) and intrinsic value is that moats add the most value to businesses that have lots of reinvestment opportunities within their moats. A ([Location 1438](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1438))
+    - Tags: [[pink]] 
+- business that has a large set of investment opportunities “inside the moat” has a much higher intrinsic value than a business without competitively advantaged reinvestment opportunities because the former compounds cash flow at a very high rate, whereas the latter is forced to use cash for sub-optimal opportunities. Microsoft’s moat, for example, may give an investor a reasonable degree of confidence that the return on capital of the core business will persist, but it adds very little value due to the maturity of the company’s core business—cash that is generated just sits on the balance sheet, or is invested “outside the moat” in areas like search (i.e. Bing). By contrast, the moats around businesses like Fastenal or C.H. Robinson—both of which operate in fragmented industries—add ([Location 1441](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1441))
+    - Tags: [[pink]] 
+- tremendous intrinsic value because cash can be reinvested in the core business at a very high incremental rate of return. This relationship between growth, moats, and intrinsic value is central to understanding when it’s truly worth paying up for a business.1 ([Location 1448](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1448))
+    - Tags: [[pink]] 
+- As you are learning about the source of a competitive advantage, it is important to remember that the greatest gains in a stock are usually made as a business is developing its competitive advantage rather than after it already has developed one. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1711))
+    - Tags: [[pink]] 
+- Ideally, you want to identify those businesses that are in the early stages of building a competitive advantage. It can take years ([Location 1715](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1715))
+    - Tags: [[pink]] 
+- and sometimes decades for a business to develop its competitive advantage, and it is difficult to see a competitive advantage building, because in most instances, the business is losing money during that time. ([Location 1716](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1716))
+    - Tags: [[pink]] 
+- It is important for you to distinguish a business’s competitive strength from a sustainable competitive advantage. If a business has good customer service, a quality product, and knowledgeable workforces, those are all strengths, but those can often be duplicated. ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1736))
+    - Tags: [[pink]] 
+- The best indicator of a competitive advantage is a ([Location 1757](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1757))
+    - Tags: [[pink]] 
+- business’s ability to increase prices without losing customers. ([Location 1757](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1757))
+    - Tags: [[pink]] 
+- In contrast, commodity-type businesses, such as steel producers, do not have pricing power. In most cases, these types of businesses must decrease their prices to ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1765))
+    - Tags: [[pink]] 
+- spur demand, and the price is typically set by the production cost rather than the value of the product to the purchaser. ([Location 1766](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1766))
+    - Tags: [[pink]] 
+- Businesses that have pricing power typically have a few characteristics in common: They usually have high customer-retention rates. Their customers spend only a small percentage of their budget on the business’s product or service. Their customers have profitable business models. The quality of the product is more important than price. ([Location 1769](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1769))
+    - Tags: [[pink]] 
+- Investing in the right industry is important because a large part of your potential rate of return is often attributable to the industry you are invested in, as opposed to a specific company you are invested in. As you evaluate an industry as a whole, ask how easy it is to make money in the industry. If it is easy, that’s a good industry to be in, and your chances of making money in your investment are better. ([Location 1868](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1868))
+    - Tags: [[pink]] 
+- Lister believes that finding the right industry is what counts most. Like ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1892))
+    - Tags: [[pink]] 
+- many, Lister believes that your chances of picking a good investment are based more on the industry than on the individual company. He notes that if an industry is growing 5 percent to 8 percent a year, even if you do not identify the best individual company, your performance will still likely be good. Furthermore, Lister has discovered that over time, the profitability of a business will eventually trend toward the mean of the industry, as it is difficult for any business to outperform the industry for a long period of time. ([Location 1892](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1892))
+    - Tags: [[pink]] 
+- Lister’s firm has developed a scorecard system with 100 different items that helps him evaluate the economics of an industry. As Lister says: We score an industry on 100 items every time. There is a lot of judgment in terms of how to understand things ([Location 1897](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1897))
+    - Tags: [[pink]] 
+- such as the volatility of customer demand, profit margins, pricing power, and barriers to entry. We go through all of these items and rate them and create a sort of index. Maybe we are wrong on 5 percent to 10 percent of the items, but at the end of the day, it is the relative score that matters. If an industry scores positively on only 50 of the 100 items, we will pass on the industry, but if the industry scores anywhere from 60 to 75 of the 100 items, we will look for a business within that industry to invest in. Some of the questions on Imperial Capital’s scorecard include: What drives the industry? How do people compete within the industry? What is the larger macro picture? What are the industry ([Location 1899](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1899))
+    - Tags: [[pink]] 
+- trends? What is the average cash-conversion cycle for the industry? What is the industry’s exposure to cyclical markets? Does the industry have the ability to pass on price increases? What is the volatility of demand from customers? ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=1907))
+    - Tags: [[pink]] 
+- The travel providers and hotels liked this business model because they did not have to advertise discounted hotel rates, which could damage their pricing power. ([Location 2040](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2040))
+    - Tags: [[pink]] 
+- Always try to locate the best business in the industry by finding the businesses with the highest operating margins, highest returns on capital, and lowest cash-conversion cycle. ([Location 2158](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2158))
+    - Tags: [[pink]] 
+- Evaluate the Business’s Competitive Advantages The more sustainable the competitive advantage, the more a business is worth because it can protect its profitability over a longer period of time. Competitive advantages add the most value to a business that has lots of reinvestment opportunities within that advantage. Competitive advantages expire. Even when a business appears most formidable and ([Location 2309](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2309))
+    - Tags: [[pink]] 
+- generates the strongest financial metrics, it can be on the verge of failure. Competitive advantages are less sustainable when they are affected by changes in technology or if they are in rapidly emerging industries. Changes in technology threaten a competitive advantage when they expand customer choice, whether by offering the same product for less or by offering greater benefits for the same price or less. The greatest gains in a stock are usually made as a business is developing its competitive advantage rather than after it already has developed one. Do not confuse a competitive strength or a business that is successful because it is in the right place at the right time with having a competitive advantage. Assess the Business’s Pricing Power Businesses that have pricing power typically have several characteristics in common ([Location 2313](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2313))
+    - Tags: [[pink]] 
+- such as high customer-retention rates; their customers spend a small percentage of their budget on the business’s product or service; the customers generate high margins and lots of cash flow; or the quality of the product is more important to the customer than the price. One of the best methods for determining whether a business has pricing power is to monitor the reasons for… ([Location 2323](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2323))
+    - Tags: [[pink]] 
+- highly probable the business does not have pricing power. Price increases add value to the business when they add to operating income, rather than just offsetting new expenses. Consider the Health of the Industry as a Whole Investing in the right industry is important because a large part of your potential rate of return is often attributable to the industry you are invested in, as opposed to a specific company you are invested in. By making comparisons between the best and worst companies in an industry, you will identify the reasons why the industry is good or bad to be in. The profitability of a business will eventually trend toward the mean of the industry as it is difficult for any business to… ([Location 2327](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2327))
+    - Tags: [[pink]] 
+- and various other forces that shape it. Assess the Business’s Competition Competition does not increase the value of a business. Generally, more competition means more customer choice and less profitability. In growing industries, competition is generally less fierce. When industry growth begins to slow, competitors fight for market share and, in some instances, will change the way they compete. If customer-acquisition costs are increasing then a business is facing more competition. A business is not threatened by foreign competition if its products cannot be shipped long distances, but if labor is a… ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2338))
+    - Tags: [[pink]] 
+- Good supplier relationships facilitate the flow of goods. If a business does not have reliable sources of supply, then it will generate more volatile earnings. If the inventory-turnover ratio is increasing over time, then this is an indicator that the business’s supply chain is becoming more efficient. A business with a diversified supplier network has less risk than one dependent on only a few suppliers. Those businesses that are highly dependent on commodity resources—such as… ([Location 2349](https://readwise.io/to_kindle?action=open&asin=B005OYGOZW&location=2349))
+    - Tags: [[pink]]
+
