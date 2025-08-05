@@ -1,5 +1,3 @@
-This is your new *vault*.
-
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-When you're ready, delete this note and make the vault your own.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd0dfb6b21143ff52cfe36f93636df57e5b21773c101491b86f10ce17556ca8
+size 203
